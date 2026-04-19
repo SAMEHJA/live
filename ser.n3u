@@ -1,34 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="beIN DRAMA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN DRAMA 4K
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/319678
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SERIES 4K 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN SERIES 4K 1
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/319676
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SERIES 4K 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN SERIES 4K 2
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/319677
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Series 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Series 1 HD
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/319691
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Series 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Series 2 HD
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/319692
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Drama 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Drama 1 HD
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/319693
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC DRAMA 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC DRAMA 4K
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/45163
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC MASR DRAMA HD" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC MASR DRAMA HD
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/328601
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC MASR DRAMA 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC MASR DRAMA 4K
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/328602
-#EXTINF:-1 tvg-ID="SA-MBC Drama" tvg-name="AR.MBC Drama HD" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/drama.png" group-title="MBC",AR.MBC Drama HD
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/15153
-#EXTINF:-1 tvg-ID="SA-MBC Drama" tvg-name="AR.MBC Drama" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/drama.png" group-title="MBC",AR.MBC Drama
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/15137
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC+ Drama 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/drama.png" group-title="MBC",AR: MBC+ Drama 4K
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/43679
-#EXTINF:-1 tvg-ID="SA-MBC+ Variety HD" tvg-name="AR.MBC Drama+ 4k" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/DramaPlus.png" group-title="MBC",AR.MBC Drama+ 4k
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/21160
-#EXTINF:-1 tvg-ID="SA-Rotana Drama" tvg-name="AR.ROTANA DRAMA 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR.ROTANA DRAMA 4K
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/55592
-#EXTINF:-1 tvg-ID="" tvg-name="DRAMA" tvg-logo="" group-title="DRAMA 4K",DRAMA
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414571
 #EXTINF:-1 tvg-ID="" tvg-name="ع أمل" tvg-logo="" group-title="DRAMA 4K",ع أمل
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414530
 #EXTINF:-1 tvg-ID="" tvg-name="العربجي 2" tvg-logo="" group-title="DRAMA 4K",العربجي 2
@@ -69,46 +39,6 @@ http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414547
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414548
 #EXTINF:-1 tvg-ID="" tvg-name="ولاد بديعة" tvg-logo="" group-title="DRAMA 4K",ولاد بديعة
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414549
-#EXTINF:-1 tvg-ID="" tvg-name="CRIME 1" tvg-logo="" group-title="DRAMA 4K",CRIME 1
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414550
-#EXTINF:-1 tvg-ID="" tvg-name="CRIME 2" tvg-logo="" group-title="DRAMA 4K",CRIME 2
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414551
-#EXTINF:-1 tvg-ID="" tvg-name="CRIME 3" tvg-logo="" group-title="DRAMA 4K",CRIME 3
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414552
-#EXTINF:-1 tvg-ID="" tvg-name="CRIME 4" tvg-logo="" group-title="DRAMA 4K",CRIME 4
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414553
-#EXTINF:-1 tvg-ID="" tvg-name="CRIME 5" tvg-logo="" group-title="DRAMA 4K",CRIME 5
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414554
-#EXTINF:-1 tvg-ID="" tvg-name="CRIME 6" tvg-logo="" group-title="DRAMA 4K",CRIME 6
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414555
-#EXTINF:-1 tvg-ID="" tvg-name="DRAMA 1" tvg-logo="" group-title="DRAMA 4K",DRAMA 1
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414556
-#EXTINF:-1 tvg-ID="" tvg-name="DRAMA 2" tvg-logo="" group-title="DRAMA 4K",DRAMA 2
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414557
-#EXTINF:-1 tvg-ID="" tvg-name="DRAMA 3" tvg-logo="" group-title="DRAMA 4K",DRAMA 3
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414558
-#EXTINF:-1 tvg-ID="" tvg-name="DRAMA 4" tvg-logo="" group-title="DRAMA 4K",DRAMA 4
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414559
-#EXTINF:-1 tvg-ID="" tvg-name="DRAMA 5" tvg-logo="" group-title="DRAMA 4K",DRAMA 5
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414560
-#EXTINF:-1 tvg-ID="" tvg-name="DRAMA 6" tvg-logo="" group-title="DRAMA 4K",DRAMA 6
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414561
-#EXTINF:-1 tvg-ID="" tvg-name="DRAMA 7" tvg-logo="" group-title="DRAMA 4K",DRAMA 7
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414562
-#EXTINF:-1 tvg-ID="" tvg-name="DRAMA 8" tvg-logo="" group-title="DRAMA 4K",DRAMA 8
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414563
-#EXTINF:-1 tvg-ID="" tvg-name="DRAMA 9" tvg-logo="" group-title="DRAMA 4K",DRAMA 9
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414564
-#EXTINF:-1 tvg-ID="" tvg-name="DRAMA 10" tvg-logo="" group-title="DRAMA 4K",DRAMA 10
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414565
-#EXTINF:-1 tvg-ID="" tvg-name="DRAMA 11" tvg-logo="" group-title="DRAMA 4K",DRAMA 11
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414566
-#EXTINF:-1 tvg-ID="" tvg-name="DRAMA 12" tvg-logo="" group-title="DRAMA 4K",DRAMA 12
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414567
-#EXTINF:-1 tvg-ID="" tvg-name="DRAMA 13" tvg-logo="" group-title="DRAMA 4K",DRAMA 13
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414568
-#EXTINF:-1 tvg-ID="" tvg-name="DRAMA 14" tvg-logo="" group-title="DRAMA 4K",DRAMA 14
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414569
 #EXTINF:-1 tvg-ID="" tvg-name="DRAMA 2024 4K" tvg-logo="" group-title="DRAMA 4K",DRAMA 2024 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/414570
 #EXTINF:-1 tvg-ID="" tvg-name="مسألة وقت" tvg-logo="" group-title="DRAMA KHALIJI",مسألة وقت
