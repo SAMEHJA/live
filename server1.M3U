@@ -1,43 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Global 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport Global 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Global 4K" tvg-logo="https://myserveriptv.com/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="beIN Sport 4K",beIN Sport Global 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/22186
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport News 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport News 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport News 4K" tvg-logo="https://myserveriptv.com/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="beIN Sport 4K",beIN Sport News 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/318230
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 1 4k
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 4k" tvg-logo="https://myserveriptv.com/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="beIN Sport 4K",beIN Sport 1 4k
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/318197
-#EXTINF:-1 tvg-ID="" tvg-name="beIN1 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN1 H265
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/391094
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 2 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 2 4k
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 2 4k" tvg-logo="https://myserveriptv.com/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="beIN Sport 4K",beIN Sport 2 4k
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/318198
-#EXTINF:-1 tvg-ID="" tvg-name="beIN2 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN2 H265
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/391095
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 3 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 3 4k
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 3 4k" tvg-logo="https://myserveriptv.com/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="beIN Sport 4K",beIN Sport 3 4k
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/318199
-#EXTINF:-1 tvg-ID="" tvg-name="beIN3 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN3 H265
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/391096
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 4 4k" tvg-logo="" group-title="beIN Sport 4K",beIN Sport 4 4k
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 4 4k" tvg-logo="https://myserveriptv.com/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="beIN Sport 4K",beIN Sport 4 4k
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/440580
-#EXTINF:-1 tvg-ID="" tvg-name="beIN4 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN4 H265
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/391097
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 5 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 5 4k
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 5 4k" tvg-logo="https://myserveriptv.com/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="beIN Sport 4K",beIN Sport 5 4k
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/318201
-#EXTINF:-1 tvg-ID="" tvg-name="beIN5 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN5 H265
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/391098
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 6 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 6 4k
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 6 4k" tvg-logo="https://myserveriptv.com/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="beIN Sport 4K",beIN Sport 6 4k
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/318202
-#EXTINF:-1 tvg-ID="" tvg-name="beIN6 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN6 H265
+#EXTINF:-1 tvg-ID="" tvg-name="beIN6 H265" tvg-logo="https://myserveriptv.com/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="beIN Sport 4K",beIN6 H265
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/391099
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 7 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 7 4k
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 7 4k" tvg-logo="https://myserveriptv.com/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="beIN Sport 4K",beIN Sport 7 4k
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/318203
-#EXTINF:-1 tvg-ID="" tvg-name="beIN7 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN7 H265
+#EXTINF:-1 tvg-ID="" tvg-name="beIN7 H265" tvg-logo="https://myserveriptv.com/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="beIN Sport 4K",beIN7 H265
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/391100
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 8 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 8 4k
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 8 4k" tvg-logo="https://myserveriptv.com/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="beIN Sport 4K",beIN Sport 8 4k
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/318204
-#EXTINF:-1 tvg-ID="" tvg-name="beIN8 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN8 H265
+#EXTINF:-1 tvg-ID="" tvg-name="beIN8 H265" tvg-logo="https://myserveriptv.com/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="beIN Sport 4K",beIN8 H265
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/391101
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 9 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 9 4k
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 9 4k" tvg-logo="https://myserveriptv.com/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="beIN Sport 4K",beIN Sport 9 4k
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/318205
-#EXTINF:-1 tvg-ID="" tvg-name="beIN9 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN9 H265
+#EXTINF:-1 tvg-ID="" tvg-name="beIN9 H265" tvg-logo="https://myserveriptv.com/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="beIN Sport 4K",beIN9 H265
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/391102
 #EXTINF:-1 tvg-ID="" tvg-name="beIN Global HD" tvg-logo="" group-title="beIN Sport HD",beIN Global HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/442220
