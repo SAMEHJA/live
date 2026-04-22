@@ -173,7 +173,7 @@ http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/413796
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/413797
 #EXTINF:-1 tvg-ID="" tvg-name="AR: MTA EUROPE TV" tvg-logo="http://pic.apkdt.co/pic/mix2/Islamic.png" group-title="ISLAM CHANNELS",AR: MTA EUROPE TV
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/413798
-#EXTINF:-1 tvg-ID="" tvg-name="AR: Al Majd1 4K" tvg-logo="" group-title="Al Majd",AR: Al Majd1 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al Majd1 4K" tvg-logo="https://myserveriptv.com/images/3b88c0549133a9b9a01a7e1ef2f4a055.png" group-title="Al Majd",AR: Al Majd1 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/399906
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Al Majd QURAN" tvg-logo="https://myserveriptv.com/images/5704704a3abbaf78e7a2b4f2bffc088f.png" group-title="Al Majd",AR: Al Majd QURAN
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/399907
@@ -259,26 +259,16 @@ http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/14850
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/14905
 #EXTINF:-1 tvg-ID="" tvg-name="NEWS.ASHARQ NEWS" tvg-logo="http://pic.apkdt.co/pic/Logo/News/11.png" group-title="NEWS",NEWS.ASHARQ NEWS
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/21245
-#EXTINF:-1 tvg-ID="" tvg-name="AR: SYRIA NEWS 4K" tvg-logo="" group-title="NEWS",AR: SYRIA NEWS 4K
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/398923
-#EXTINF:-1 tvg-ID="" tvg-name="AR: HALAB TODAY 4K" tvg-logo="" group-title="NEWS",AR: HALAB TODAY 4K
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/398924
 #EXTINF:-1 tvg-ID="" tvg-name="AR: i24 NEWS ARABIC 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/News/1.png" group-title="NEWS",AR: i24 NEWS ARABIC 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/398925
-#EXTINF:-1 tvg-ID="" tvg-name="AR: SHAMS TV 4K" tvg-logo="" group-title="NEWS",AR: SHAMS TV 4K
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/398926
 #EXTINF:-1 tvg-ID="" tvg-name="AR: AL ARABIYA PROGRAM 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/News/32.png" group-title="NEWS",AR: AL ARABIYA PROGRAM 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/398927
 #EXTINF:-1 tvg-ID="" tvg-name="AR: AL MASHHAD 4K" tvg-logo="http://pic.apkdt.co/pic/Lebanon/Almashhad.png" group-title="NEWS",AR: AL MASHHAD 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/398929
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ALMUSTAKILA TV" tvg-logo="" group-title="NEWS",AR: ALMUSTAKILA TV
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/398930
 #EXTINF:-1 tvg-ID="" tvg-name="AR: EURONEWS TV" tvg-logo="http://pic.apkdt.co/pic/Logo/News/41.png" group-title="NEWS",AR: EURONEWS TV
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/398931
 #EXTINF:-1 tvg-ID="" tvg-name="AR: WION TV 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/News/26.png" group-title="NEWS",AR: WION TV 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/398932
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MONTICARLO RADIO" tvg-logo="" group-title="NEWS",AR: MONTICARLO RADIO
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/398933
 #EXTINF:-1 tvg-ID="" tvg-name="NEWS.AL ARABY 2 HD" tvg-logo="http://pic.apkdt.co/pic/Logo/News/12.png" group-title="NEWS",NEWS.AL ARABY 2 HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/21237
 #EXTINF:-1 tvg-ID="" tvg-name="kids.Rotana Kids HD" tvg-logo="https://myserveriptv.com/images/bd1fd4453fdd7106b1432c40eecfef20.png" group-title="KIDS CHANNELS",kids.Rotana Kids HD
@@ -289,7 +279,7 @@ http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/399035
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/399036
 #EXTINF:-1 tvg-ID="" tvg-name="AR: MASHA AND THE BEAR 4K" tvg-logo="https://myserveriptv.com/images/735b90b4568125ed6c3f678819b6e058.png" group-title="KIDS CHANNELS",AR: MASHA AND THE BEAR 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/399037
-#EXTINF:-1 tvg-ID="" tvg-name="AR: SHAHID THE SMURFS HD" tvg-logo="http://myserveriptv.com:25500/assets/images/chl/24h/sanafer.png" group-title="KIDS CHANNELS",AR: SHAHID THE SMURFS HD
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SHAHID THE SMURFS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/c/c5/20250520083736%21%D9%85%D9%84%D8%B5%D9%82_%D9%81%D9%8A%D9%84%D9%85_%D8%A7%D9%84%D8%B3%D9%86%D8%A7%D9%81%D8%B1.png" group-title="KIDS CHANNELS",AR: SHAHID THE SMURFS HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/399050
 #EXTINF:-1 tvg-ID="" tvg-name="AR: SPACETOON HD" tvg-logo="https://myserveriptv.com/images/736afeb769161bc802bb91847ef5d168.png" group-title="KIDS CHANNELS",AR: SPACETOON HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/399051
@@ -319,37 +309,21 @@ http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/399080
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/399081
 #EXTINF:-1 tvg-ID="" tvg-name="AR: DISENY KIDS 10 4K" tvg-logo="https://myserveriptv.com/images/a21f41538f8bcd7cddb6639b97cd7445.png" group-title="DISNEY+ KIDS",AR: DISENY KIDS 10 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/399082
-#EXTINF:-1 tvg-ID="" tvg-name="KIDS.SPACETOON 4K" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",KIDS.SPACETOON 4K
+#EXTINF:-1 tvg-ID="" tvg-name="KIDS.SPACETOON 4K" tvg-logo="https://myserveriptv.com/images/736afeb769161bc802bb91847ef5d168.png" group-title="KIDS CHANNELS",KIDS.SPACETOON 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/67749
 #EXTINF:-1 tvg-ID="" tvg-name="KIDS.CN ARABIA 4K" tvg-logo="https://myserveriptv.com/images/43be9826420e3e66b07b732e8a88190f.png" group-title="KIDS CHANNELS",KIDS.CN ARABIA 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/67770
 #EXTINF:-1 tvg-ID="" tvg-name="KIDS.Jeem" tvg-logo="https://myserveriptv.com/images/1caea6cf9a16271f010737547161c934.png" group-title="KIDS CHANNELS",KIDS.Jeem
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/88016
-#EXTINF:-1 tvg-ID="" tvg-name="kids.NickToons HD" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",kids.NickToons HD
+#EXTINF:-1 tvg-ID="" tvg-name="kids.NickToons HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Nicktoons_2023_logo.png" group-title="KIDS CHANNELS",kids.NickToons HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/98034
-#EXTINF:-1 tvg-ID="" tvg-name="kids.Tom and Jerry" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",kids.Tom and Jerry
+#EXTINF:-1 tvg-ID="" tvg-name="kids.Tom and Jerry" tvg-logo="https://myserveriptv.com/images/738c7e43a158a27920b2d76a9bc7e138.png" group-title="KIDS CHANNELS",kids.Tom and Jerry
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/98039
-#EXTINF:-1 tvg-ID="" tvg-name="kids.Afarin Kids ᴴᴰ" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",kids.Afarin Kids ᴴᴰ
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/98040
-#EXTINF:-1 tvg-ID="" tvg-name="KIDS.HodHod TV" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",KIDS.HodHod TV
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/88020
-#EXTINF:-1 tvg-ID="" tvg-name="KIDS.beIN Baraem HD" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",KIDS.beIN Baraem HD
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/88023
-#EXTINF:-1 tvg-ID="" tvg-name="KIDS.Karameesh" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",KIDS.Karameesh
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/88027
-#EXTINF:-1 tvg-ID="" tvg-name="KIDS.Toyor Al Janah" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",KIDS.Toyor Al Janah
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/88029
-#EXTINF:-1 tvg-ID="" tvg-name="KIDS.Atfal W Mawaheb" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",KIDS.Atfal W Mawaheb
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/88031
-#EXTINF:-1 tvg-ID="" tvg-name="Ivy Bean" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",Ivy Bean
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/247615
-#EXTINF:-1 tvg-ID="" tvg-name="Kimba" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",Kimba
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/247617
-#EXTINF:-1 tvg-ID="" tvg-name="kids1" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",kids1
+#EXTINF:-1 tvg-ID="" tvg-name="kids1" tvg-logo="https://e7.pngegg.com/pngimages/412/733/png-clipart-television-channel-internet-iptv-super-tv-kids-tv-television-internet-thumbnail.png" group-title="KIDS CHANNELS",kids1
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/247616
 #EXTINF:-1 tvg-ID="" tvg-name="kids.OSN kids zoon" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",kids.OSN kids zoon
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/98025
-#EXTINF:-1 tvg-ID="" tvg-name="kids.majd KIDS 4K" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",kids.majd KIDS 4K
+#EXTINF:-1 tvg-ID="" tvg-name="kids.majd KIDS 4K" tvg-logo="https://myserveriptv.com/images/majedkids.png" group-title="KIDS CHANNELS",kids.majd KIDS 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/98026
 #EXTINF:-1 tvg-ID="" tvg-name="kids.Kids Zone" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",kids.Kids Zone
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/98028
@@ -561,163 +535,163 @@ http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/146575
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/146576
 #EXTINF:-1 tvg-ID="" tvg-name="NETFLIX PREMIUM 10 FHD" tvg-logo="https://images.ctfassets.net/y2ske730sjqp/wXQuYIpMOFBkAKGgTJmBu/1708a448bbd1c0b48e7a44a6485788c4/BrandAssets_Logos_03-ClearSpace_02.jpg?w=460" group-title="NETFLIX",NETFLIX PREMIUM 10 FHD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/146577
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Yahala Aflam" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Yahala Aflam
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Yahala Aflam" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/osntv-purple-logo-hub.png" group-title="OSN",OSN Yahala Aflam
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313384
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Yahala Bil Arabi" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Yahala Bil Arabi
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Yahala Bil Arabi" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/osntv-purple-logo-hub.png" group-title="OSN",OSN Yahala Bil Arabi
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313385
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Yahala Oula" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Yahala Oula
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Yahala Oula" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/osntv-purple-logo-hub.png" group-title="OSN",OSN Yahala Oula
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313386
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Alfa al safwa" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Alfa al safwa
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Alfa al safwa" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/osntv-purple-logo-hub.png" group-title="OSN",OSN Alfa al safwa
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313387
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Alfa Al Fann" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Alfa Al Fann
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Alfa Al Fann" tvg-logo="/845/png-clipart-osn-television-channel-middle-east-food-network-globe-telecoms-logo-television-company-thumbnail.png" group-title="OSN",OSN Alfa Al Fann
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313388
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Alfa Alyoum" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Alfa Alyoum
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Alfa Alyoum" tvg-logo="/845/png-clipart-osn-television-channel-middle-east-food-network-globe-telecoms-logo-television-company-thumbnail.png" group-title="OSN",OSN Alfa Alyoum
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313389
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Alfa Cinema 1" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Alfa Cinema 1
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Alfa Cinema 1" tvg-logo="/845/png-clipart-osn-television-channel-middle-east-food-network-globe-telecoms-logo-television-company-thumbnail.png" group-title="OSN",OSN Alfa Cinema 1
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313390
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Alfa Cinema 2" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Alfa Cinema 2
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Alfa Cinema 2" tvg-logo="/845/png-clipart-osn-television-channel-middle-east-food-network-globe-telecoms-logo-television-company-thumbnail.png" group-title="OSN",OSN Alfa Cinema 2
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313391
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Alfa Musalsalat" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Alfa Musalsalat
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Alfa Musalsalat" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",OSN Alfa Musalsalat
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313392
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Alfa Musalsalat +2" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Alfa Musalsalat +2
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Alfa Musalsalat +2" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",OSN Alfa Musalsalat +2
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313393
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Art Aflam 1" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Art Aflam 1
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Art Aflam 1" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",OSN Art Aflam 1
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313394
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Art Aflam 2" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Art Aflam 2
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Art Aflam 2" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",OSN Art Aflam 2
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313395
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Art Hekayat 1" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Art Hekayat 1
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Art Hekayat 1" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",OSN Art Hekayat 1
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313396
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Art Hekayat 2" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Art Hekayat 2
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Art Hekayat 2" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",OSN Art Hekayat 2
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313397
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Art Cinema" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Art Cinema
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Art Cinema" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",OSN Art Cinema
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313398
-#EXTINF:-1 tvg-ID="" tvg-name="OSN MUSIC" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN MUSIC
+#EXTINF:-1 tvg-ID="" tvg-name="OSN MUSIC" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",OSN MUSIC
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313344
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Baby" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Baby
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Baby" tvg-logo="https://m.eyeofriyadh.com/news_images/2019/03/131583d29af22.png" group-title="OSN",OSN Baby
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313346
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Bloomberg" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Bloomberg
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Bloomberg" tvg-logo="https://m.eyeofriyadh.com/news_images/2019/03/131583d29af22.png" group-title="OSN",OSN Bloomberg
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313347
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Comedy" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Comedy
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Comedy" tvg-logo="https://m.eyeofriyadh.com/news_images/2019/03/131583d29af22.png" group-title="OSN",OSN Comedy
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313348
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Crime Investigation" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Crime Investigation
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Crime Investigation" tvg-logo="https://m.eyeofriyadh.com/news_images/2019/03/131583d29af22.png" group-title="OSN",OSN Crime Investigation
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313349
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Discovery" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Discovery
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Discovery" tvg-logo="https://m.eyeofriyadh.com/news_images/2019/03/131583d29af22.png" group-title="OSN",OSN Discovery
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313350
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Discovery IDX" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Discovery IDX
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Discovery IDX" tvg-logo="https://m.eyeofriyadh.com/news_images/2019/03/131583d29af22.png" group-title="OSN",OSN Discovery IDX
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313351
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Discovery SC" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Discovery SC
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Discovery SC" tvg-logo="https://m.eyeofriyadh.com/news_images/2019/03/131583d29af22.png" group-title="OSN",OSN Discovery SC
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313352
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Disney Channel" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Disney Channel
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Disney Channel" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",OSN Disney Channel
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313353
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Disney Junior" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Disney Junior
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Disney Junior" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",OSN Disney Junior
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313354
-#EXTINF:-1 tvg-ID="" tvg-name="OSN News" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN News
+#EXTINF:-1 tvg-ID="" tvg-name="OSN News" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",OSN News
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313355
-#EXTINF:-1 tvg-ID="" tvg-name="OSN E!" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN E!
+#EXTINF:-1 tvg-ID="" tvg-name="OSN E!" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",OSN E!
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313356
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Movies Family" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Movies Family
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Movies Family" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",OSN Movies Family
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313357
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Ginx eSports" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Ginx eSports
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Ginx eSports" tvg-logo="/845/png-clipart-osn-television-channel-middle-east-food-network-globe-telecoms-logo-television-company-thumbnail.png" group-title="OSN",OSN Ginx eSports
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313358
-#EXTINF:-1 tvg-ID="" tvg-name="OSN ONE" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN ONE
+#EXTINF:-1 tvg-ID="" tvg-name="OSN ONE" tvg-logo="/845/png-clipart-osn-television-channel-middle-east-food-network-globe-telecoms-logo-television-company-thumbnail.png" group-title="OSN",OSN ONE
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313359
-#EXTINF:-1 tvg-ID="" tvg-name="OSN History 2" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN History 2
+#EXTINF:-1 tvg-ID="" tvg-name="OSN History 2" tvg-logo="/845/png-clipart-osn-television-channel-middle-east-food-network-globe-telecoms-logo-television-company-thumbnail.png" group-title="OSN",OSN History 2
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313360
-#EXTINF:-1 tvg-ID="" tvg-name="OSN History" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN History
+#EXTINF:-1 tvg-ID="" tvg-name="OSN History" tvg-logo="/845/png-clipart-osn-television-channel-middle-east-food-network-globe-telecoms-logo-television-company-thumbnail.png" group-title="OSN",OSN History
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313361
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Kids Zone" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Kids Zone
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Kids Zone" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/osntv-purple-logo-hub.png" group-title="OSN",OSN Kids Zone
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313362
-#EXTINF:-1 tvg-ID="" tvg-name="OSN NOW" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN NOW
+#EXTINF:-1 tvg-ID="" tvg-name="OSN NOW" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/osntv-purple-logo-hub.png" group-title="OSN",OSN NOW
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313363
-#EXTINF:-1 tvg-ID="" tvg-name="OSN MEZZE" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN MEZZE
+#EXTINF:-1 tvg-ID="" tvg-name="OSN MEZZE" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/osntv-purple-logo-hub.png" group-title="OSN",OSN MEZZE
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313364
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Moonbug Kids" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Moonbug Kids
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Moonbug Kids" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/osntv-purple-logo-hub.png" group-title="OSN",OSN Moonbug Kids
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313365
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Movies Kids" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Movies Kids
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Movies Kids" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/osntv-purple-logo-hub.png" group-title="OSN",OSN Movies Kids
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313368
-#EXTINF:-1 tvg-ID="" tvg-name="OSN National Geographic" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN National Geographic
+#EXTINF:-1 tvg-ID="" tvg-name="OSN National Geographic" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/osntv-purple-logo-hub.png" group-title="OSN",OSN National Geographic
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313371
-#EXTINF:-1 tvg-ID="" tvg-name="OSN National Geographic Wild" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN National Geographic Wild
+#EXTINF:-1 tvg-ID="" tvg-name="OSN National Geographic Wild" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",OSN National Geographic Wild
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313372
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Nick Jr" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Nick Jr
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Nick Jr" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",OSN Nick Jr
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313373
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Nickelodeon" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Nickelodeon
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Nickelodeon" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",OSN Nickelodeon
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313374
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Movies Premiere" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Movies Premiere
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Movies Premiere" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",OSN Movies Premiere
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313369
-#EXTINF:-1 tvg-ID="" tvg-name="Osn Movie Prime +2" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",Osn Movie Prime +2
+#EXTINF:-1 tvg-ID="" tvg-name="Osn Movie Prime +2" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",Osn Movie Prime +2
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313345
-#EXTINF:-1 tvg-ID="" tvg-name="OSN movies action" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN movies action
+#EXTINF:-1 tvg-ID="" tvg-name="OSN movies action" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",OSN movies action
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313366
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Movies hollywood" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Movies hollywood
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Movies hollywood" tvg-logo="https://www.osn.com/osn/media/OSNMedia/osntv/images/common/og-logo-osn.png" group-title="OSN",OSN Movies hollywood
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313367
-#EXTINF:-1 tvg-ID="" tvg-name="OSN NickToon" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN NickToon
+#EXTINF:-1 tvg-ID="" tvg-name="OSN NickToon" tvg-logo="https://m.eyeofriyadh.com/news_images/2019/03/131583d29af22.png" group-title="OSN",OSN NickToon
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313375
-#EXTINF:-1 tvg-ID="" tvg-name="OSN CRIME" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN CRIME
+#EXTINF:-1 tvg-ID="" tvg-name="OSN CRIME" tvg-logo="https://m.eyeofriyadh.com/news_images/2019/03/131583d29af22.png" group-title="OSN",OSN CRIME
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313376
-#EXTINF:-1 tvg-ID="" tvg-name="OSN showcase" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN showcase
+#EXTINF:-1 tvg-ID="" tvg-name="OSN showcase" tvg-logo="https://m.eyeofriyadh.com/news_images/2019/03/131583d29af22.png" group-title="OSN",OSN showcase
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313377
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Sky News" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Sky News
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Sky News" tvg-logo="https://m.eyeofriyadh.com/news_images/2019/03/131583d29af22.png" group-title="OSN",OSN Sky News
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313378
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Star Movies" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Star Movies
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Star Movies" tvg-logo="https://m.eyeofriyadh.com/news_images/2019/03/131583d29af22.png" group-title="OSN",OSN Star Movies
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313379
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Star World" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Star World
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Star World" tvg-logo="https://m.eyeofriyadh.com/news_images/2019/03/131583d29af22.png" group-title="OSN",OSN Star World
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313380
-#EXTINF:-1 tvg-ID="" tvg-name="OSN TFC" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN TFC
+#EXTINF:-1 tvg-ID="" tvg-name="OSN TFC" tvg-logo="https://m.eyeofriyadh.com/news_images/2019/03/131583d29af22.png" group-title="OSN",OSN TFC
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313381
-#EXTINF:-1 tvg-ID="" tvg-name="OSN TLC" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN TLC
+#EXTINF:-1 tvg-ID="" tvg-name="OSN TLC" tvg-logo="https://m.eyeofriyadh.com/news_images/2019/03/131583d29af22.png" group-title="OSN",OSN TLC
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313382
-#EXTINF:-1 tvg-ID="" tvg-name="OSN VH+1" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN VH+1
+#EXTINF:-1 tvg-ID="" tvg-name="OSN VH+1" tvg-logo="https://m.eyeofriyadh.com/news_images/2019/03/131583d29af22.png" group-title="OSN",OSN VH+1
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/313383
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 1 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport XTRA 1 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 1 4K" tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/1059e1ed440a0e792d706d3977e99c50/images/titan/assets/aHR0cHM6Ly9pMC53cC5jb20vZm94ZC5zdG9yZS93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8wNS9iZWluc3BvcnRzeHRyYS5wbmc_cmVzaXplPTgwMCUyQzQ1MCZzc2w9MQ.png/magic/396x0/filters:quality(70)" group-title="beIN Sport Xtra",beIN Sport XTRA 1 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/325790
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 2 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport XTRA 2 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Sport Xtra",beIN Sport XTRA 2 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/319487
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 3 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport XTRA 3 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 3 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Sport Xtra",beIN Sport XTRA 3 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/319488
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 4 4K" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport XTRA 4 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Sport Xtra",beIN Sport XTRA 4 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/440569
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 5 4K" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport XTRA 5 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Sport Xtra",beIN Sport XTRA 5 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/440570
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 6 4K" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport XTRA 6 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 6 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Sport Xtra",beIN Sport XTRA 6 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/440571
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 7 4K" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport XTRA 7 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 7 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Sport Xtra",beIN Sport XTRA 7 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/447243
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 8 4K" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport XTRA 8 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 8 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Sport Xtra",beIN Sport XTRA 8 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/447244
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 9 4K" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport XTRA 9 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 9 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Sport Xtra",beIN Sport XTRA 9 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/447245
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport AFC",beIN Sport AFC 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/it/e/e0/AFC_Champions_League_logo.png" group-title="beIN Sport AFC",beIN Sport AFC 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/374857
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 1 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport AFC",beIN Sport AFC 1 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/it/e/e0/AFC_Champions_League_logo.png" group-title="beIN Sport AFC",beIN Sport AFC 1 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/319490
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 2 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport AFC",beIN Sport AFC 2 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/it/e/e0/AFC_Champions_League_logo.png" group-title="beIN Sport AFC",beIN Sport AFC 2 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/319491
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 3 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport AFC",beIN Sport AFC 3 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 3 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/it/e/e0/AFC_Champions_League_logo.png" group-title="beIN Sport AFC",beIN Sport AFC 3 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/384382
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 4 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport AFC",beIN Sport AFC 4 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/it/e/e0/AFC_Champions_League_logo.png" group-title="beIN Sport AFC",beIN Sport AFC 4 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/391103
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 5 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport AFC",beIN Sport AFC 5 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/it/e/e0/AFC_Champions_League_logo.png" group-title="beIN Sport AFC",beIN Sport AFC 5 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/391104
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 1 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport Xtra 1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/e/e0/AFC_Champions_League_logo.png" group-title="beIN Sport Xtra",beIN Sport Xtra 1 HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/325802
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 2 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport Xtra 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Sport Xtra",beIN Sport Xtra 2 HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/319435
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 3 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport Xtra 3 HD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Sport Xtra",beIN Sport Xtra 3 HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/319436
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 4 HD" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport Xtra 4 HD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Sport Xtra",beIN Sport Xtra 4 HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/440572
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 5 HD" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport Xtra 5 HD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Sport Xtra",beIN Sport Xtra 5 HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/440573
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 6 HD" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport Xtra 6 HD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Sport Xtra",beIN Sport Xtra 6 HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/440574
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 7 HD" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport Xtra 7 HD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Sport Xtra",beIN Sport Xtra 7 HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/447246
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 8 HD" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport Xtra 8 HD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Sport Xtra",beIN Sport Xtra 8 HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/447247
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 9 HD" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport Xtra 9 HD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Sport Xtra",beIN Sport Xtra 9 HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/447248
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport NBA HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport NBA HD
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport NBA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Sport HD",beIN Sport NBA HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/318219
 #EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport 1 sd
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/325803
