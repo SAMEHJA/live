@@ -77,8 +77,6 @@ http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/21222
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/14818
 #EXTINF:-1 tvg-ID="" tvg-name="NEWS.BBC WORLD" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/cf/12/55/cf125566-eb34-d6d0-383d-c00610acdb29/source/512x512bb.jpg" group-title="NEWS",NEWS.BBC WORLD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/21226
-#EXTINF:-1 tvg-ID="" tvg-name="NEWS.CNBC ARABIC" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/cf/12/55/cf125566-eb34-d6d0-383d-c00610acdb29/source/512x512bb.jpg" group-title="BUSNIESS TV",NEWS.CNBC ARABIC
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/14815
 #EXTINF:-1 tvg-ID="" tvg-name="NEWS.Saudia Al Ekhbariya HD" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/cf/12/55/cf125566-eb34-d6d0-383d-c00610acdb29/source/512x512bb.jpg" group-title="NEWS",NEWS.Saudia Al Ekhbariya HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/66375
 #EXTINF:-1 tvg-ID="" tvg-name="NEWS.RT ARABIC" tvg-logo="http://pic.apkdt.co/pic/Logo/News/6.png" group-title="NEWS",NEWS.RT ARABIC
@@ -91,8 +89,6 @@ http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/66368
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/66370
 #EXTINF:-1 tvg-ID="" tvg-name="NEWS.AL HURRA 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/News/35.png" group-title="NEWS",NEWS.AL HURRA 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/66371
-#EXTINF:-1 tvg-ID="" tvg-name="ASHARQ BLOOMBERG 4K" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/cf/12/55/cf125566-eb34-d6d0-383d-c00610acdb29/source/512x512bb.jpg" group-title="BUSNIESS TV",ASHARQ BLOOMBERG 4K
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/66372
 #EXTINF:-1 tvg-ID="" tvg-name="NEWS.92 News" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/cf/12/55/cf125566-eb34-d6d0-383d-c00610acdb29/source/512x512bb.jpg" group-title="NEWS",NEWS.92 News
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/66373
 #EXTINF:-1 tvg-ID="" tvg-name="NEWS.AL24 NEWS 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/News/39.png" group-title="NEWS",NEWS.AL24 NEWS 4K
@@ -769,17 +765,17 @@ http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/447243
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/447244
 #EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 9 4K" tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/1059e1ed440a0e792d706d3977e99c50/images/titan/assets/aHR0cHM6Ly9pMC53cC5jb20vZm94ZC5zdG9yZS93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8wNS9iZWluc3BvcnRzeHRyYS5wbmc_cmVzaXplPTgwMCUyQzQ1MCZzc2w9MQ.png/magic/396x0/filters:quality(70)" group-title="beIN Sport Xtra",beIN Sport XTRA 9 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/447245
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 4K" tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/1059e1ed440a0e792d706d3977e99c50/images/titan/assets/aHR0cHM6Ly9pMC53cC5jb20vZm94ZC5zdG9yZS93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8wNS9iZWluc3BvcnRzeHRyYS5wbmc_cmVzaXplPTgwMCUyQzQ1MCZzc2w9MQ.png/magic/396x0/filters:quality(70)" group-title="beIN Sport AFC",beIN Sport AFC 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/AFC_text_logo.png" group-title="beIN Sport AFC",beIN Sport AFC 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/374857
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 1 4K" tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/1059e1ed440a0e792d706d3977e99c50/images/titan/assets/aHR0cHM6Ly9pMC53cC5jb20vZm94ZC5zdG9yZS93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8wNS9iZWluc3BvcnRzeHRyYS5wbmc_cmVzaXplPTgwMCUyQzQ1MCZzc2w9MQ.png/magic/396x0/filters:quality(70)" group-title="beIN Sport AFC",beIN Sport AFC 1 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/AFC_text_logo.png" group-title="beIN Sport AFC",beIN Sport AFC 1 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/319490
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/it/e/e0/AFC_Champions_League_logo.png" group-title="beIN Sport AFC",beIN Sport AFC 2 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/AFC_text_logo.png" group-title="beIN Sport AFC",beIN Sport AFC 2 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/319491
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 3 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/it/e/e0/AFC_Champions_League_logo.png" group-title="beIN Sport AFC",beIN Sport AFC 3 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 3 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/AFC_text_logo.png" group-title="beIN Sport AFC",beIN Sport AFC 3 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/384382
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/it/e/e0/AFC_Champions_League_logo.png" group-title="beIN Sport AFC",beIN Sport AFC 4 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/AFC_text_logo.png" group-title="beIN Sport AFC",beIN Sport AFC 4 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/391103
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/it/e/e0/AFC_Champions_League_logo.png" group-title="beIN Sport AFC",beIN Sport AFC 5 4K
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/AFC_text_logo.png" group-title="beIN Sport AFC",beIN Sport AFC 5 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/391104
 #EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 1 HD" tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/1059e1ed440a0e792d706d3977e99c50/images/titan/assets/aHR0cHM6Ly9pMC53cC5jb20vZm94ZC5zdG9yZS93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8wNS9iZWluc3BvcnRzeHRyYS5wbmc_cmVzaXplPTgwMCUyQzQ1MCZzc2w9MQ.png/magic/396x0/filters:quality(70)" group-title="beIN Sport Xtra",beIN Sport Xtra 1 HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/325802
@@ -835,66 +831,60 @@ http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/447249
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/447250
 #EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 9 sd" tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/1059e1ed440a0e792d706d3977e99c50/images/titan/assets/aHR0cHM6Ly9pMC53cC5jb20vZm94ZC5zdG9yZS93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8wNS9iZWluc3BvcnRzeHRyYS5wbmc_cmVzaXplPTgwMCUyQzQ1MCZzc2w9MQ.png/magic/396x0/filters:quality(70)" group-title="beIN Sport Xtra",beIN Sport xtra 9 sd
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/447251
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 01" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 01
+#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/HBO_-_Home_Box_Office_logo.png" group-title="BoxOffice",BoxOffice 01
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/245995
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 02" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 02
+#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/HBO_-_Home_Box_Office_logo.png" group-title="BoxOffice",BoxOffice 02
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/245996
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 03" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 03
+#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/HBO_-_Home_Box_Office_logo.png" group-title="BoxOffice",BoxOffice 03
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/245997
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 04" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 04
+#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/HBO_-_Home_Box_Office_logo.png" group-title="BoxOffice",BoxOffice 04
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/245998
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 05" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 05
+#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 05" tvg-logo="https://cdn.mos.cms.futurecdn.net/r6vqb9Smtn2zurGQx8SW2Y.png" group-title="BoxOffice",BoxOffice 05
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/245999
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 06" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 06
+#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 06" tvg-logo="https://cdn.mos.cms.futurecdn.net/r6vqb9Smtn2zurGQx8SW2Y.png" group-title="BoxOffice",BoxOffice 06
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/246000
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 07" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 07
+#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 07" tvg-logo="https://cdn.mos.cms.futurecdn.net/r6vqb9Smtn2zurGQx8SW2Y.png" group-title="BoxOffice",BoxOffice 07
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/246001
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 08" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 08
+#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 08" tvg-logo="https://cdn.mos.cms.futurecdn.net/r6vqb9Smtn2zurGQx8SW2Y.png" group-title="BoxOffice",BoxOffice 08
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/246002
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 09" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 09
+#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 09" tvg-logo="https://cdn.mos.cms.futurecdn.net/r6vqb9Smtn2zurGQx8SW2Y.png" group-title="BoxOffice",BoxOffice 09
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/246003
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 10" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 10
+#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 10" tvg-logo="https://cdn.mos.cms.futurecdn.net/r6vqb9Smtn2zurGQx8SW2Y.png" group-title="BoxOffice",BoxOffice 10
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/246004
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 11" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 11
+#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 11" tvg-logo="https://www.boxofficepro.com/wp-content/uploads/2022/07/The-Boxoffice-Company-logo.png" group-title="BoxOffice",BoxOffice 11
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/246005
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 12" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 12
+#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 12" tvg-logo="https://www.boxofficepro.com/wp-content/uploads/2022/07/The-Boxoffice-Company-logo.png" group-title="BoxOffice",BoxOffice 12
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/246006
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 13" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 13
+#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 13" tvg-logo="https://www.boxofficepro.com/wp-content/uploads/2022/07/The-Boxoffice-Company-logo.png" group-title="BoxOffice",BoxOffice 13
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/246007
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 14" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 14
+#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 14" tvg-logo="https://www.boxofficepro.com/wp-content/uploads/2022/07/The-Boxoffice-Company-logo.png" group-title="BoxOffice",BoxOffice 14
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/246008
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 15" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 15
+#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 15" tvg-logo="https://www.boxofficepro.com/wp-content/uploads/2022/07/The-Boxoffice-Company-logo.png" group-title="BoxOffice",BoxOffice 15
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/246009
 #EXTINF:-1 tvg-ID="" tvg-name="AR: ROYA KITCHEN 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Roya.png" group-title="KITCHEN TV",AR: ROYA KITCHEN 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/399258
 #EXTINF:-1 tvg-ID="" tvg-name="AR: ROYA KITCHEN 2 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Roya.png" group-title="KITCHEN TV",AR: ROYA KITCHEN 2 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/399260
-#EXTINF:-1 tvg-ID="SA-Rotana Khalijiah HD" tvg-name="AR.ROTANA KHALIJIA 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR.ROTANA KHALIJIA 4K
+#EXTINF:-1 tvg-ID="SA-Rotana Khalijiah HD" tvg-name="AR.ROTANA KHALIJIA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Rotana_Khalejia.png" group-title="ROTANA",AR.ROTANA KHALIJIA 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/15117
-#EXTINF:-1 tvg-ID="" tvg-name="AR.ROTANA DRAMA 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR.ROTANA DRAMA 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR.ROTANA DRAMA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Rotana_Drama.png" group-title="ROTANA",AR.ROTANA DRAMA 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/55592
-#EXTINF:-1 tvg-ID="" tvg-name="AR.Rotana + HD" tvg-logo="http://163.172.39.182/logo/countryies/rotana.jpg" group-title="ROTANA",AR.Rotana + HD
+#EXTINF:-1 tvg-ID="" tvg-name="AR.Rotana + HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2025/06/chaine-tv-rotana-hd-plus-1.png" group-title="ROTANA",AR.Rotana + HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/97852
-#EXTINF:-1 tvg-ID="" tvg-name="AR.Rotana Aflam + HD" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR.Rotana Aflam + HD
+#EXTINF:-1 tvg-ID="" tvg-name="AR.Rotana Aflam + HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Rotana-aflam.png/revision/latest/scale-to-width-down/300?cb=20260127222630" group-title="ROTANA",AR.Rotana Aflam + HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/97854
-#EXTINF:-1 tvg-ID="" tvg-name="AR.Rotana Comedy 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR.Rotana Comedy 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR.Rotana Comedy 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Rotana_Comedy.png" group-title="ROTANA",AR.Rotana Comedy 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/97855
-#EXTINF:-1 tvg-ID="" tvg-name="AR:ROTANA CINEMA KSA 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR:ROTANA CINEMA KSA 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR:ROTANA CINEMA KSA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Rotana_Cinema_Egy.png" group-title="ROTANA",AR:ROTANA CINEMA KSA 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/97856
-#EXTINF:-1 tvg-ID="SA-Rotana Cinema" tvg-name="AR.ROTANA CINEMA EGY 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR.ROTANA CINEMA EGY 4K
+#EXTINF:-1 tvg-ID="SA-Rotana Cinema" tvg-name="AR.ROTANA CINEMA EGY 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Rotana_Cinema_Egy.png" group-title="ROTANA",AR.ROTANA CINEMA EGY 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/15123
-#EXTINF:-1 tvg-ID="SA-Rotana Classic" tvg-name="AR.ROTANA CLASSIC 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR.ROTANA CLASSIC 4K
+#EXTINF:-1 tvg-ID="SA-Rotana Classic" tvg-name="AR.ROTANA CLASSIC 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Rotana_Classic.png" group-title="ROTANA",AR.ROTANA CLASSIC 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/15121
-#EXTINF:-1 tvg-ID="SA-Rotana Clip" tvg-name="AR.ROTANA CLIP 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR.ROTANA CLIP 4K
+#EXTINF:-1 tvg-ID="SA-Rotana Clip" tvg-name="AR.ROTANA CLIP 4K" tvg-logo="https://raz-media.se/wp-content/uploads/2022/05/Rotana-Clips.png" group-title="ROTANA",AR.ROTANA CLIP 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/15114
-#EXTINF:-1 tvg-ID="SA-Rotana Music" tvg-name="AR.ROTANA MUSIC 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR.ROTANA MUSIC 4K
+#EXTINF:-1 tvg-ID="SA-Rotana Music" tvg-name="AR.ROTANA MUSIC 4K" tvg-logo="https://cdn.prod.website-files.com/670696afa2ff8f54d9d13daa/68da5906aacf32cc73dc40c8_Rotana%20music%20Logo%20-%20Green.png" group-title="ROTANA",AR.ROTANA MUSIC 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/15115
-#EXTINF:-1 tvg-ID="" tvg-name="ROTANA+ US" tvg-logo="" group-title="ROTANA",ROTANA+ US
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/438420
-#EXTINF:-1 tvg-ID="" tvg-name="ROTANA M+" tvg-logo="" group-title="ROTANA",ROTANA M+
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/438421
-#EXTINF:-1 tvg-ID="" tvg-name="AR:ROTANA FM KSA" tvg-logo="" group-title="ROTANA",AR:ROTANA FM KSA
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/410418
 #EXTINF:-1 tvg-ID="" tvg-name="AR: ROYA HD" tvg-logo="http://pic.apkdt.co/pic/mix2/Roya.png" group-title="ROYA",AR: ROYA HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/413912
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Roya Drama 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Roya.png" group-title="ROYA",AR: Roya Drama 4K
