@@ -95,8 +95,6 @@ http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/66373
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/66374
 #EXTINF:-1 tvg-ID="" tvg-name="NEWS.ALGHAD 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/News/33.png" group-title="NEWS",NEWS.ALGHAD 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/66376
-#EXTINF:-1 tvg-ID="" tvg-name="NEWS.ALARABIYA BUSINESS HD" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/cf/12/55/cf125566-eb34-d6d0-383d-c00610acdb29/source/512x512bb.jpg" group-title="BUSNIESS TV",NEWS.ALARABIYA BUSINESS HD
-http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/14908
 #EXTINF:-1 tvg-ID="" tvg-name="NEWS.Qahera News" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/cf/12/55/cf125566-eb34-d6d0-383d-c00610acdb29/source/512x512bb.jpg" group-title="NEWS",NEWS.Qahera News
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/14963
 #EXTINF:-1 tvg-ID="" tvg-name="NEWS.Al HIWAR" tvg-logo="http://pic.apkdt.co/pic/Logo/News/20.png" group-title="NEWS",NEWS.Al HIWAR
@@ -295,29 +293,29 @@ http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/45165
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/15152
 #EXTINF:-1 tvg-ID="SA-MBC 1" tvg-name="AR.MBC 1" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc.png" group-title="MBC",AR.MBC 1
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/15143
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC DRAMA 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC DRAMA 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC DRAMA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png" group-title="MBC",AR: MBC DRAMA 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/45163
 #EXTINF:-1 tvg-ID="" tvg-name="AR: MBC MASR DRAMA HD" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC MASR DRAMA HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/328601
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC MASR DRAMA 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC MASR DRAMA 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC MASR DRAMA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="MBC",AR: MBC MASR DRAMA 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/328602
-#EXTINF:-1 tvg-ID="SA-MBC Drama" tvg-name="AR.MBC Drama HD" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/drama.png" group-title="MBC",AR.MBC Drama HD
+#EXTINF:-1 tvg-ID="SA-MBC Drama" tvg-name="AR.MBC Drama HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png" group-title="MBC",AR.MBC Drama HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/15153
-#EXTINF:-1 tvg-ID="SA-MBC Drama" tvg-name="AR.MBC Drama" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/drama.png" group-title="MBC",AR.MBC Drama
+#EXTINF:-1 tvg-ID="SA-MBC Drama" tvg-name="AR.MBC Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png" group-title="MBC",AR.MBC Drama
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/15137
 #EXTINF:-1 tvg-ID="" tvg-name="AR: MBC+ Drama 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/drama.png" group-title="MBC",AR: MBC+ Drama 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/43679
 #EXTINF:-1 tvg-ID="" tvg-name="AR: MBC Wanasah 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC Wanasah 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/148412
-#EXTINF:-1 tvg-ID="SA-MBC+ Variety HD" tvg-name="AR.MBC Drama+ 4k" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/DramaPlus.png" group-title="MBC",AR.MBC Drama+ 4k
+#EXTINF:-1 tvg-ID="SA-MBC+ Variety HD" tvg-name="AR.MBC Drama+ 4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png" group-title="MBC",AR.MBC Drama+ 4k
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/21160
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC MASR 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Masr.png" group-title="MBC",AR: MBC MASR 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC MASR 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="MBC",AR: MBC MASR 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/92753
-#EXTINF:-1 tvg-ID="SA-Mbc Masr" tvg-name="AR.MBC Masr HD" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Masr.png" group-title="MBC",AR.MBC Masr HD
+#EXTINF:-1 tvg-ID="SA-Mbc Masr" tvg-name="AR.MBC Masr HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="MBC",AR.MBC Masr HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/15134
 #EXTINF:-1 tvg-ID="" tvg-name="AR: MBC MASR 2 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Masr2.png" group-title="MBC",AR: MBC MASR 2 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/92754
-#EXTINF:-1 tvg-ID="SA-Mbc Masr 2" tvg-name="AR.MBC Masr 2 HD" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Masr2.png" group-title="MBC",AR.MBC Masr 2 HD
+#EXTINF:-1 tvg-ID="SA-Mbc Masr 2" tvg-name="AR.MBC Masr 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="MBC",AR.MBC Masr 2 HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/15133
 #EXTINF:-1 tvg-ID="" tvg-name="AR: MBC 2 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc2.png" group-title="MBC",AR: MBC 2 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/45168
@@ -369,35 +367,35 @@ http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/14732
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/92760
 #EXTINF:-1 tvg-ID="" tvg-name="AR: MBC 5 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc5.png" group-title="MBC",AR: MBC 5 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/92759
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC TOONS 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC TOONS 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC TOONS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Monsterbusterclublogovector.png" group-title="MBC",AR: MBC TOONS 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/328596
-#EXTINF:-1 tvg-ID="" tvg-name="AR: SHAHID RAMADAN 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/MbcElife.png" group-title="MBC",AR: SHAHID RAMADAN 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SHAHID RAMADAN 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/MBC_Group.png" group-title="MBC",AR: SHAHID RAMADAN 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/328603
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC GEO 1 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC GEO 1 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC GEO 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/MBC_Group.png" group-title="MBC",AR: MBC GEO 1 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/413799
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC GEO 1 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC GEO 1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC GEO 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/MBC_Group.png" group-title="MBC",AR: MBC GEO 1 HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/413800
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC GEO 2 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC GEO 2 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC GEO 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/MBC_Group.png" group-title="MBC",AR: MBC GEO 2 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/413801
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC GEO 2 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC GEO 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC GEO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/MBC_Group.png" group-title="MBC",AR: MBC GEO 2 HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/413802
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC POWER 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC POWER 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC POWER 4K" tvg-logo="https://theempire.com/wp-content/uploads/2019/12/mbc-power-plus-tv-uae-advertising.png" group-title="MBC",AR: MBC POWER 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/413803
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC POWER HD" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC POWER HD
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC POWER HD" tvg-logo="https://theempire.com/wp-content/uploads/2019/12/mbc-power-plus-tv-uae-advertising.png" group-title="MBC",AR: MBC POWER HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/413804
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC PREMIUM 4K UHD" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC PREMIUM 4K UHD
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC PREMIUM 4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="MBC",AR: MBC PREMIUM 4K UHD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/413805
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC PLUS 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC PLUS 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC PLUS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="MBC",AR: MBC PLUS 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/413806
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC PLUS HD" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC PLUS HD
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="MBC",AR: MBC PLUS HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/413807
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC FAMILY HD" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC FAMILY HD
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="MBC",AR: MBC FAMILY HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/413808
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC CLOUD TV" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC CLOUD TV
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC CLOUD TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="MBC",AR: MBC CLOUD TV
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/413809
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ARABS GOT TALENT 4K" tvg-logo="" group-title="MBC",AR: ARABS GOT TALENT 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ARABS GOT TALENT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="MBC",AR: ARABS GOT TALENT 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/398935
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC FM 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/MbcFm.png" group-title="MBC",AR: MBC FM 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC FM 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MBC_FM_Logo.svg/3840px-MBC_FM_Logo.svg.png" group-title="MBC",AR: MBC FM 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/92755
 #EXTINF:-1 tvg-ID="" tvg-name="kids.Rotana Kids HD" tvg-logo="https://myserveriptv.com/images/bd1fd4453fdd7106b1432c40eecfef20.png" group-title="KIDS CHANNELS",kids.Rotana Kids HD
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/98024
@@ -413,7 +411,7 @@ http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/399051
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/399052
 #EXTINF:-1 tvg-ID="" tvg-name="AR: MBC3" tvg-logo="https://myserveriptv.com/images/980c29ade4c6df73b4c98fa113a00d3f.png" group-title="KIDS CHANNELS",AR: MBC3
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/399054
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC TOONS" tvg-logo="https://myserveriptv.com/images/mbctoons.png" group-title="KIDS CHANNELS",AR: MBC TOONS
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC TOONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Monsterbusterclublogovector.png" group-title="KIDS CHANNELS",AR: MBC TOONS
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/399055
 #EXTINF:-1 tvg-ID="" tvg-name="AR: DISENY KIDS 1 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Diseny.png" group-title="DISNEY+ KIDS",AR: DISENY KIDS 1 4K
 http://xlion.net:8080/Clinetcaca/YeAlqDTUc9/399073
