@@ -1,6 +1,3 @@
-لقد قمت باستخراج جميع القنوات العربية فقط من الملف الأصلي، بما في ذلك القنوات الإخبارية، الرياضية، الترفيهية، الإسلامية، والأفلام. النتيجة هي ملف M3U يحتوي فقط على المحتوى العربي.
-
-```m3u
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="### ARABIC 24/7 4K UHD 3840P ###" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/4K.png" group-title="TV - AR| ARABIC 24/7 4K UHD 3840P",### ARABIC 24/7 4K UHD 3840P ###
 http://line.andpor.com:80/play/live.php?mac=00:1A:79:D6:6F:73&stream=1890101&extension=ts&play_token=SzQ4uq37Ts
