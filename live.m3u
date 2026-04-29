@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  MY HD ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ AR ▀▄▀▄▀▄  MY HD ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/7025
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-name="|AR| MBC 1 HD" tvg-logo="https://i.imgur.com/YO6kFsp.png" group-title="OSN & MY HD (Arabic)",|AR| MBC 1 HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/94
 #EXTINF:-1 tvg-id="MBC2.ae" tvg-name="|AR| MBC 2 HD" tvg-logo="https://i.imgur.com/WBh4NGJ.png" group-title="OSN & MY HD (Arabic)",|AR| MBC 2 HD
@@ -101,8 +99,6 @@ http://www.r56mail.com:80/merwanemessfr/r413TTt/37234
 http://www.r56mail.com:80/merwanemessfr/r413TTt/3644
 #EXTINF:-1 tvg-id="NatGeo.qa" tvg-name="|AR| BEIN NAT GEO HD" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN NAT GEO HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/4391
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄ ROTANA ▄▀▄▀▄▀" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",▀▄ AR ▀▄▀▄▀▄ ROTANA ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/7026
 #EXTINF:-1 tvg-id="" tvg-name="|AR| LANA TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LANA TV HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/101145
 #EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA COMEDY HD" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA COMEDY HD
@@ -155,8 +151,6 @@ http://www.r56mail.com:80/merwanemessfr/r413TTt/1586
 http://www.r56mail.com:80/merwanemessfr/r413TTt/1784
 #EXTINF:-1 tvg-id="" tvg-name="|AR| MAZZIKA MUSIC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MAZZIKA MUSIC
 http://www.r56mail.com:80/merwanemessfr/r413TTt/19704
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  ART ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ AR ▀▄▀▄▀▄  ART ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/7024
 #EXTINF:-1 tvg-id="" tvg-name="|AR| ART" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ART
 http://www.r56mail.com:80/merwanemessfr/r413TTt/45582
 #EXTINF:-1 tvg-id="" tvg-name="|AR| ART MOVIES" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ART MOVIES
@@ -179,10 +173,6 @@ http://www.r56mail.com:80/merwanemessfr/r413TTt/415
 http://www.r56mail.com:80/merwanemessfr/r413TTt/413
 #EXTINF:-1 tvg-id="B4UPlus.ae" tvg-name="|AR| B4U PLUS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| B4U PLUS
 http://www.r56mail.com:80/merwanemessfr/r413TTt/1511
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  OSN ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ AR ▀▄▀▄▀▄  OSN ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/3713
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ OSN ▀▄▀▄▀▄  MOVIES ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ OSN ▀▄▀▄▀▄  MOVIES ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/7107
 #EXTINF:-1 tvg-id="OSNMoviesFirst.ae" tvg-name="|AR| OSN MOVIES FIRST HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OM1.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MOVIES FIRST HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/7066
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN MOVIES FIRST +2 HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OMX.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MOVIES FIRST +2 HD
@@ -199,8 +189,6 @@ http://www.r56mail.com:80/merwanemessfr/r413TTt/101141
 http://www.r56mail.com:80/merwanemessfr/r413TTt/4371
 #EXTINF:-1 tvg-id="OSNMoviesComedy.ae" tvg-name="|AR| OSN COMEDY HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OMC.png" group-title="OSN & MY HD (Arabic)",|AR| OSN COMEDY HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/4370
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ OSN ▀▄▀▄▀▄  ENTERTAINMENT ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ OSN ▀▄▀▄▀▄  ENTERTAINMENT ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/7108
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN MOVIES HORROR HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN MOVIES HORROR HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/7067
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN SERIES COMEDY HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OCO.png" group-title="OSN & MY HD (Arabic)",|AR| OSN SERIES COMEDY HD
@@ -209,8 +197,6 @@ http://www.r56mail.com:80/merwanemessfr/r413TTt/7059
 http://www.r56mail.com:80/merwanemessfr/r413TTt/7073
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN LIVING HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OLH.png" group-title="OSN & MY HD (Arabic)",|AR| OSN LIVING HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/7070
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ OSN ▀▄▀▄▀▄  ARABIC ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ OSN ▀▄▀▄▀▄  ARABIC ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/7109
 #EXTINF:-1 tvg-id="OSNYahala.ae" tvg-name="|AR| OSN YA HALA AOULA HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OYH.png" group-title="OSN & MY HD (Arabic)",|AR| OSN YA HALA AOULA HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/516
 #EXTINF:-1 tvg-id="OSNYahalaCinema.ae" tvg-name="|AR| OSN YA HALA CINEMA HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OYC.png" group-title="OSN & MY HD (Arabic)",|AR| OSN YA HALA CINEMA HD
@@ -225,14 +211,10 @@ http://www.r56mail.com:80/merwanemessfr/r413TTt/7082
 http://www.r56mail.com:80/merwanemessfr/r413TTt/7081
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN CINEMA 2" tvg-logo="http://content.osn.com/logo/channel/cropped/CM2.png" group-title="OSN & MY HD (Arabic)",|AR| OSN CINEMA 2
 http://www.r56mail.com:80/merwanemessfr/r413TTt/7080
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ OSN ▀▄▀▄▀▄ MUSIC ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ OSN ▀▄▀▄▀▄ MUSIC ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/7110
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN FANN HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN FANN HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/7113
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN MUSIC NOW HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/alfa-music-now-ae.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MUSIC NOW HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/7063
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ OSN ▀▄▀▄▀▄ KIDS ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ OSN ▀▄▀▄▀▄ KIDS ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/7111
 #EXTINF:-1 tvg-id="OSNFamily.ae" tvg-name="|AR| OSN FAMILY HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN FAMILY HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/2254
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN NICKTOONS HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN NICKTOONS HD
@@ -253,8 +235,6 @@ http://www.r56mail.com:80/merwanemessfr/r413TTt/2772
 http://www.r56mail.com:80/merwanemessfr/r413TTt/7068
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN BABY HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN BABY HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/963
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ OSN ▀▄▀▄▀▄ FACTUAL ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ OSN ▀▄▀▄▀▄ FACTUAL ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/7112
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN DISCOVERY CHANNEL HD" tvg-logo="http://content.osn.com/logo/channel/cropped/DSC.png" group-title="OSN & MY HD (Arabic)",|AR| OSN DISCOVERY CHANNEL HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/7077
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN SHOWCASE HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN SHOWCASE HD
@@ -373,8 +353,6 @@ http://www.r56mail.com:80/merwanemessfr/r413TTt/195320
 http://www.r56mail.com:80/merwanemessfr/r413TTt/195321
 #EXTINF:-1 tvg-id="" tvg-name="|AR| SHARJAH SPORT SD" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| SHARJAH SPORT SD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/42850
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ LB ▀▄▀▄▀▄  LEBANON ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ LB ▀▄▀▄▀▄  LEBANON ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/3711
 #EXTINF:-1 tvg-id="LBC.lb" tvg-name="|AR| LBC HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LBC HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/680
 #EXTINF:-1 tvg-id="LBCInternational.lb" tvg-name="|AR| LBC INTERNATIONAL HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/lbc-international-lb.png" group-title="ARABES  ( العربية)",|AR| LBC INTERNATIONAL HD
@@ -399,8 +377,6 @@ http://www.r56mail.com:80/merwanemessfr/r413TTt/7058
 http://www.r56mail.com:80/merwanemessfr/r413TTt/684
 #EXTINF:-1 tvg-id="" tvg-name="|AR| MTV LEBANON HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/mtv-lebanon-lb.png" group-title="ARABES  ( العربية)",|AR| MTV LEBANON HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/42079
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ EG ▀▄▀▄▀▄  EGYPTE ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ EG ▀▄▀▄▀▄  EGYPTE ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/4114
 #EXTINF:-1 tvg-id="" tvg-name="|AR| HALA LONDON FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| HALA LONDON FHD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/42027
 #EXTINF:-1 tvg-id="" tvg-name="|AR| O-TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| O-TV HD
@@ -553,8 +529,6 @@ http://www.r56mail.com:80/merwanemessfr/r413TTt/42048
 http://www.r56mail.com:80/merwanemessfr/r413TTt/195275
 #EXTINF:-1 tvg-id="" tvg-name="|AR| RADIO 9090" tvg-logo="" group-title="ARABES  ( العربية)",|AR| RADIO 9090
 http://www.r56mail.com:80/merwanemessfr/r413TTt/195310
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ QP ▀▄▀▄▀▄  QATAR ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ QP ▀▄▀▄▀▄  QATAR ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/4115
 #EXTINF:-1 tvg-id="QatarTV.qa" tvg-name="|AR| QATAR TV HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/qatar-tv-ae.png" group-title="ARABES  ( العربية)",|AR| QATAR TV HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/5403
 #EXTINF:-1 tvg-id="" tvg-name="|AR| QATAR 2 HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| QATAR 2 HD
@@ -575,8 +549,6 @@ http://www.r56mail.com:80/merwanemessfr/r413TTt/19726
 http://www.r56mail.com:80/merwanemessfr/r413TTt/1765
 #EXTINF:-1 tvg-id="" tvg-name="|AR| AL KASS FIVE HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| AL KASS FIVE HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/195432
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ KW ▀▄▀▄▀▄  KUWAIT ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ KW ▀▄▀▄▀▄  KUWAIT ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/4112
 #EXTINF:-1 tvg-id="" tvg-name="|AR| KUWEIT TV 1 HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| KUWEIT TV 1 HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/1773
 #EXTINF:-1 tvg-id="" tvg-name="|AR| KUWAIT TV 1 FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| KUWAIT TV 1 FHD
@@ -597,8 +569,6 @@ http://www.r56mail.com:80/merwanemessfr/r413TTt/195384
 http://www.r56mail.com:80/merwanemessfr/r413TTt/195376
 #EXTINF:-1 tvg-id="" tvg-name="|AR| ADALA TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ADALA TV HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/195377
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ KSA ▀▄▀▄▀▄  SAUDIA ARABIA ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ KSA ▀▄▀▄▀▄  SAUDIA ARABIA ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/3724
 #EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI 1 HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-saudiya-ae.png" group-title="ARABES  ( العربية)",|AR| SAUDI 1 HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/730
 #EXTINF:-1 tvg-id="Saudi1.sa" tvg-name="|AR| SAUDI TV FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-saudiya-ae.png" group-title="ARABES  ( العربية)",|AR| SAUDI TV FHD
@@ -641,8 +611,6 @@ http://www.r56mail.com:80/merwanemessfr/r413TTt/195257
 http://www.r56mail.com:80/merwanemessfr/r413TTt/7085
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BAHRAIN SPORT 2 FHD" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| BAHRAIN SPORT 2 FHD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/7084
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ SY ▀▄▀▄▀▄  SYRIA ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ SY ▀▄▀▄▀▄  SYRIA ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/3722
 #EXTINF:-1 tvg-id="" tvg-name="|AR| AL SHARQYA TV FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL SHARQYA TV FHD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/5091
 #EXTINF:-1 tvg-id="" tvg-name="|AR| AL SHARQYA NEWS FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL SHARQYA NEWS FHD
@@ -841,10 +809,6 @@ http://www.r56mail.com:80/merwanemessfr/r413TTt/195470
 http://www.r56mail.com:80/merwanemessfr/r413TTt/195471
 #EXTINF:-1 tvg-id="" tvg-name="|AR| SUHAIL TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SUHAIL TV
 http://www.r56mail.com:80/merwanemessfr/r413TTt/195472
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  INFORMATION ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ AR ▀▄▀▄▀▄  INFORMATION ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/3730
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  DOC ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ AR ▀▄▀▄▀▄  DOC ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/3725
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="|AR| AL JAZEERA DOCUMENTARY HD" tvg-logo="http://i.imgur.com/br8qG1j.png" group-title="ARABES  ( العربية)",|AR| AL JAZEERA DOCUMENTARY HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/345
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-name="|AR| NATIONAL GEO AD FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/national-geographic-abu-dhabi-ae.png" group-title="ARABES  ( العربية)",|AR| NATIONAL GEO AD FHD
@@ -867,8 +831,6 @@ http://www.r56mail.com:80/merwanemessfr/r413TTt/5232
 http://www.r56mail.com:80/merwanemessfr/r413TTt/5223
 #EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD NATURAL" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD NATURAL
 http://www.r56mail.com:80/merwanemessfr/r413TTt/7030
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  ISLAMIC ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ AR ▀▄▀▄▀▄  ISLAMIC ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/3727
 #EXTINF:-1 tvg-id="" tvg-name="|AR| IQRA" tvg-logo="http://i.imgur.com/TRcKrY9.png" group-title="ARABES  ( العربية)",|AR| IQRA
 http://www.r56mail.com:80/merwanemessfr/r413TTt/523
 #EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD 1 FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD 1 FHD
@@ -963,8 +925,6 @@ http://www.r56mail.com:80/merwanemessfr/r413TTt/195271
 http://www.r56mail.com:80/merwanemessfr/r413TTt/195272
 #EXTINF:-1 tvg-id="" tvg-name="|AR| MADRASETNA 3" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MADRASETNA 3
 http://www.r56mail.com:80/merwanemessfr/r413TTt/195273
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  KIDS ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ AR ▀▄▀▄▀▄  KIDS ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/3729
 #EXTINF:-1 tvg-id="" tvg-name="|AR| DISNEY JUNIOR HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| DISNEY JUNIOR HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/5096
 #EXTINF:-1 tvg-id="" tvg-name="|AR| SPACETOON" tvg-logo="http://i.imgur.com/eHw38xa.png" group-title="ARABES  ( العربية)",|AR| SPACETOON
@@ -1019,8 +979,6 @@ http://www.r56mail.com:80/merwanemessfr/r413TTt/7090
 http://www.r56mail.com:80/merwanemessfr/r413TTt/12672
 #EXTINF:-1 tvg-id="" tvg-name="------▼|AE|-CHAINES.MAGHREBINE-|AE|▼------" tvg-logo="" group-title="",------▼|AE|-CHAINES.MAGHREBINE-|AE|▼------
 http://www.r56mail.com:80/merwanemessfr/r413TTt/197
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ DZ ▀▄▀▄▀▄  ALGERIE ▄▀▄▀▄▀" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",▀▄ DZ ▀▄▀▄▀▄  ALGERIE ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/3712
 #EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| ENTV (PROGRAMME NATIONAL) HD" tvg-logo="https://i.imgur.com/UPECPKc.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ENTV (PROGRAMME NATIONAL) HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/1783
 #EXTINF:-1 tvg-id="" tvg-name="|DZ| ENTV (PROGRAMME NATIONAL) FHD" tvg-logo="https://i.imgur.com/UPECPKc.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ENTV (PROGRAMME NATIONAL) FHD
@@ -1107,8 +1065,6 @@ http://www.r56mail.com:80/merwanemessfr/r413TTt/42075
 http://www.r56mail.com:80/merwanemessfr/r413TTt/374
 #EXTINF:-1 tvg-id="" tvg-name="|DZ| BEUR FM TV (EXCLU)" tvg-logo="https://i.imgur.com/bgtm9Gm.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| BEUR FM TV (EXCLU)
 http://www.r56mail.com:80/merwanemessfr/r413TTt/4279
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ MA ▀▄▀▄▀▄  MAROC ▄▀▄▀▄▀" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",▀▄ MA ▀▄▀▄▀▄  MAROC ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/3709
 #EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="|MA| AL AOULA INTER" tvg-logo="http://i.imgur.com/NjFnTSG.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| AL AOULA INTER
 http://www.r56mail.com:80/merwanemessfr/r413TTt/383
 #EXTINF:-1 tvg-id="" tvg-name="|MA| AL AOULA FHD" tvg-logo="http://i.imgur.com/NjFnTSG.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| AL AOULA FHD
@@ -1165,8 +1121,6 @@ http://www.r56mail.com:80/merwanemessfr/r413TTt/5247
 http://www.r56mail.com:80/merwanemessfr/r413TTt/5246
 #EXTINF:-1 tvg-id="" tvg-name="|MA| ARRIADIA LIVE TNT HD" tvg-logo="https://i.imgur.com/81ksuGS.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| ARRIADIA LIVE TNT HD
 http://www.r56mail.com:80/merwanemessfr/r413TTt/5244
-#EXTINF:-1 tvg-id="" tvg-name="▀▄ TN ▀▄▀▄▀▄  TUNISIE ▄▀▄▀▄▀" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",▀▄ TN ▀▄▀▄▀▄  TUNISIE ▄▀▄▀▄▀
-http://www.r56mail.com:80/merwanemessfr/r413TTt/3710
 #EXTINF:-1 tvg-id="Watania1.tn" tvg-name="|TN| AL WATANIA 1" tvg-logo="http://i.imgur.com/PV84GcJ.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| AL WATANIA 1
 http://www.r56mail.com:80/merwanemessfr/r413TTt/408
 #EXTINF:-1 tvg-id="Watania1.tn" tvg-name="|TN| AL WATANIA 1 FHD" tvg-logo="http://i.imgur.com/PV84GcJ.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| AL WATANIA 1 FHD
