@@ -1,508 +1,1463 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Global 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport Global 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/22186
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport News 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport News 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318230
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 1 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318197
-#EXTINF:-1 tvg-ID="" tvg-name="beIN1 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN1 H265
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/391094
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 2 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 2 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318198
-#EXTINF:-1 tvg-ID="" tvg-name="beIN2 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN2 H265
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/391095
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 3 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 3 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318199
-#EXTINF:-1 tvg-ID="" tvg-name="beIN3 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN3 H265
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/391096
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 4 4k" tvg-logo="" group-title="beIN Sport 4K",beIN Sport 4 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/440580
-#EXTINF:-1 tvg-ID="" tvg-name="beIN4 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN4 H265
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/391097
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 5 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 5 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318201
-#EXTINF:-1 tvg-ID="" tvg-name="beIN5 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN5 H265
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/391098
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 6 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 6 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318202
-#EXTINF:-1 tvg-ID="" tvg-name="beIN6 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN6 H265
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/391099
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 7 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 7 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318203
-#EXTINF:-1 tvg-ID="" tvg-name="beIN7 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN7 H265
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/391100
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 8 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 8 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318204
-#EXTINF:-1 tvg-ID="" tvg-name="beIN8 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN8 H265
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/391101
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 9 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 9 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318205
-#EXTINF:-1 tvg-ID="" tvg-name="beIN9 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN9 H265
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/391102
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ROYA HD" tvg-logo="http://pic.apkdt.co/pic/mix2/Roya.png" group-title="ROYA",AR: ROYA HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/413912
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ROYA HD" tvg-logo="http://pic.apkdt.co/pic/mix2/Roya.png" group-title="ROYA",AR: ROYA HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/413912
-#EXTINF:-1 tvg-ID="" tvg-name="AR: Roya Drama 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Roya.png" group-title="ROYA",AR: Roya Drama 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/413913
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ROYA SHAM 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Roya.png" group-title="ROYA",AR: ROYA SHAM 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/413914
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ROYA PALASTINA 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Roya.png" group-title="ROYA",AR: ROYA PALASTINA 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/413915
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ROYA COMEDY HD" tvg-logo="http://pic.apkdt.co/pic/mix2/Roya.png" group-title="ROYA",AR: ROYA COMEDY HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/413916
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ROYA MASRAH 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Roya.png" group-title="ROYA",AR: ROYA MASRAH 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/413917
-#EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Global 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport Global 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/22186
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport News 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport News 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318230
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 1 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318197
-#EXTINF:-1 tvg-ID="" tvg-name="beIN1 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN1 H265
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/391094
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 2 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 2 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318198
-#EXTINF:-1 tvg-ID="" tvg-name="beIN2 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN2 H265
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/391095
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 3 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 3 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318199
-#EXTINF:-1 tvg-ID="" tvg-name="beIN3 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN3 H265
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/391096
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 4 4k" tvg-logo="" group-title="beIN Sport 4K",beIN Sport 4 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/440580
-#EXTINF:-1 tvg-ID="" tvg-name="beIN4 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN4 H265
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/391097
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 5 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 5 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318201
-#EXTINF:-1 tvg-ID="" tvg-name="beIN5 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN5 H265
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/391098
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 6 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 6 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318202
-#EXTINF:-1 tvg-ID="" tvg-name="beIN6 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN6 H265
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/391099
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 7 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 7 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318203
-#EXTINF:-1 tvg-ID="" tvg-name="beIN7 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN7 H265
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/391100
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 8 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 8 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318204
-#EXTINF:-1 tvg-ID="" tvg-name="beIN8 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN8 H265
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/391101
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 9 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 9 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318205
-#EXTINF:-1 tvg-ID="" tvg-name="beIN9 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN9 H265
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/391102
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 1 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport XTRA 1 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325790
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 2 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport XTRA 2 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/319487
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 3 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport XTRA 3 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/319488
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 4 4K" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport XTRA 4 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/440569
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 5 4K" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport XTRA 5 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/440570
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 6 4K" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport XTRA 6 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/440571
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 7 4K" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport XTRA 7 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/447243
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 8 4K" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport XTRA 8 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/447244
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 9 4K" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport XTRA 9 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/447245
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport English 1 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport English 1 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/319495
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport English 2 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport English 2 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/319496
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport French 1 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport French 1 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/319497
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport French 2 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport French 2 4k
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/319498
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport NBA 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport NBA 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/319499
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Global HD" tvg-logo="" group-title="beIN Sport HD",beIN Global HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/442220
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport News HD" tvg-logo="" group-title="beIN Sport HD",beIN Sport News HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/443146
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 1 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325793
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 2 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 2 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325794
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 3 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 3 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325795
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 4 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 4 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325796
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 5 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 5 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325797
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 6 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 6 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325798
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 7 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 7 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325799
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 8 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 8 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325800
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 9 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 9 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325801
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 HD English" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 1 HD English
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318217
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 2 HD English" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 2 HD English
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318218
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 HD Frensh" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 1 HD Frensh
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/319437
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 2 HD Frensh" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 2 HD Frensh
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/319438
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 1 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport Xtra 1 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325802
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 2 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport Xtra 2 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/319435
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 3 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport Xtra 3 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/319436
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 4 HD" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport Xtra 4 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/440572
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 5 HD" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport Xtra 5 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/440573
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 6 HD" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport Xtra 6 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/440574
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 7 HD" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport Xtra 7 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/447246
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 8 HD" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport Xtra 8 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/447247
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 9 HD" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport Xtra 9 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/447248
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport NBA HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport NBA HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/318219
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport 1 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325803
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 2 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport 2 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325804
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 3 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport 3 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325805
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 4 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport 4 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325806
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 5 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport 5 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325807
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 6 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport 6 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325808
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 7 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport 7 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325809
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 8 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport 8 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325810
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 9 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport 9 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325811
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 1 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport xtra 1 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/325812
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 2 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport xtra 2 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/319423
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 3 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport xtra 3 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/319424
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 4 sd" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport xtra 4 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/440575
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 5 sd" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport xtra 5 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/440576
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 6 sd" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport xtra 6 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/440577
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 7 sd" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport xtra 7 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/447249
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 8 sd" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport xtra 8 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/447250
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 9 sd" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport xtra 9 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/447251
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport English 1 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport English 1 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/319425
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport English 2 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport English 2 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/319426
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport French 1 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport French 1 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/319427
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport French 2 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport French 2 sd
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/319428
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 01" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 01
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/245995
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 02" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 02
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/245996
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 03" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 03
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/245997
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 04" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 04
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/245998
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 05" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 05
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/245999
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 06" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 06
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/246000
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 07" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 07
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/246001
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 08" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 08
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/246002
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 09" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 09
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/246003
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 10" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 10
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/246004
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 11" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 11
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/246005
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 12" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 12
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/246006
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 13" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 13
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/246007
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 14" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 14
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/246008
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 15" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 15
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/246009
-#EXTINF:-1 tvg-ID="" tvg-name="beIN MOVIES 4K 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN MOVIES 4K 1
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/319672
-...
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Movies 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Movies 4 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/319690
-...
-#EXTINF:-1 tvg-ID="" tvg-name="Elsobkey kalibat" tvg-logo="" group-title="Elsobkey",Elsobkey kalibat
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/440736
-...
-#EXTINF:-1 tvg-ID="" tvg-name="WATCH iT! horror" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! horror
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/434603
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: LEARN DRIVE 1 4K" tvg-logo="" group-title="LEARN",AR: LEARN DRIVE 1 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/414108
-...
-#EXTINF:-1 tvg-ID="" tvg-name="SHAHID PLUS HARBIA" tvg-logo="https://i.ibb.co/0qY6Xyk/th-6.jpg" group-title="Monow3at",SHAHID PLUS HARBIA
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/278544
-...
-#EXTINF:-1 tvg-ID="" tvg-name="POP KIDS 1" tvg-logo="https://i.ibb.co/0qY6Xyk/th-6.jpg" group-title="KIDS CHANNELS",POP KIDS 1
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/278549
-...
-#EXTINF:-1 tvg-ID="" tvg-name="lb xtra" tvg-logo="" group-title="ARABIC SPORT",lb xtra
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/458570
-...
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 1 4K" tvg-logo="" group-title="Alwan Sport",Alwan Sport 1 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/418111
-...
-#EXTINF:-1 tvg-ID="" tvg-name="Alkass 1 HD" tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 1 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/96214
-...
-#EXTINF:-1 tvg-ID="" tvg-name="KSA Sport 1 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",KSA Sport 1 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/97805
-...
-#EXTINF:-1 tvg-ID="" tvg-name="Dubai Sport 1 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Dubai Sport 1 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/97813
-...
-#EXTINF:-1 tvg-ID="" tvg-name="On Time Sport HD 1" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",On Time Sport HD 1
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/97820
-...
-#EXTINF:-1 tvg-ID="" tvg-name="Oman Sport HD" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Oman Sport HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/97877
-...
-#EXTINF:-1 tvg-ID="" tvg-name="KUWAIT SPORT 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",KUWAIT SPORT 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/97826
-...
-#EXTINF:-1 tvg-ID="" tvg-name="Iraqia Sport" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="ARABIC SPORT",Iraqia Sport
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/107038
-...
-#EXTINF:-1 tvg-ID="" tvg-name="Sharjah Sport HD" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Sharjah Sport HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/141797
-...
-#EXTINF:-1 tvg-ID="" tvg-name="Zamalik" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Zamalik
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/97822
-...
-#EXTINF:-1 tvg-ID="" tvg-name="Al Ahly TV" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Al Ahly TV
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/97823
-...
-#EXTINF:-1 tvg-ID="" tvg-name="KU: Kurdistan Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Kurdistan Sport
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/358219
-...
-#EXTINF:-1 tvg-ID="" tvg-name="kids.Rotana Kids HD" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",kids.Rotana Kids HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/98024
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: DISENY KIDS 1 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Diseny.png" group-title="DISNEY+ KIDS",AR: DISENY KIDS 1 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/399073
-...
-#EXTINF:-1 tvg-ID="" tvg-name="KIDS.SPACETOON 4K" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",KIDS.SPACETOON 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/67749
-...
-#EXTINF:-1 tvg-ID="" tvg-name="KIDS.CN ARABIA 4K" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",KIDS.CN ARABIA 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/67770
-...
-#EXTINF:-1 tvg-ID="" tvg-name="KIDS.Jeem" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",KIDS.Jeem
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/88016
-...
-#EXTINF:-1 tvg-ID="" tvg-name="KIDS.Toyor Al Janah" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",KIDS.Toyor Al Janah
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/88029
-...
-#EXTINF:-1 tvg-ID="" tvg-name="أبطال كرة السلة" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",أبطال كرة السلة
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/247618
-...
-#EXTINF:-1 tvg-ID="" tvg-name="المحقق كونان الموسم السابع" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",المحقق كونان الموسم السابع
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/247637
-...
-#EXTINF:-1 tvg-ID="" tvg-name="يوغي" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",يوغي
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/247674
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ABD Elhalim" tvg-logo="" group-title="MAZZIKA SHOW",AR: ABD Elhalim
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/438447
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: SPOTIFY Top Sharqi Hits 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: SPOTIFY Top Sharqi Hits 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/414079
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ANGHAMI FAIROUZ 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI FAIROUZ 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/414089
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: FAIROUZ 4K" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b2b4b472513135.Y3JvcCw0MDQsMzE2LDEzMiw2ODY.jpg" group-title="MAZZIKA SHOW",AR: FAIROUZ 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/414062
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MAZZIKA" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b2b4b472513135.Y3JvcCw0MDQsMzE2LDEzMiw2ODY.jpg" group-title="MAZZIKA SHOW",AR: MAZZIKA
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/414077
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC 1 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc.png" group-title="MBC",AR: MBC 1 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/45165
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR.MBC 1 HD" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc.png" group-title="MBC",AR.MBC 1 HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/15152
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC DRAMA 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC DRAMA 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/45163
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC MASR 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Masr.png" group-title="MBC",AR: MBC MASR 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/92753
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC 3 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc3.png" group-title="MBC",AR: MBC 3 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/45143
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC ACTION 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Action.png" group-title="MBC",AR: MBC ACTION 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/45166
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC MAX 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/MbcMax.png" group-title="MBC",AR: MBC MAX 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/45167
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC IRAQ  4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Iraq.png" group-title="MBC",AR: MBC IRAQ  4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/92752
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR:ROTANA KHALIJIA 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR.ROTANA KHALIJIA 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/15117
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR.ROTANA CINEMA EGY 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR.ROTANA CINEMA EGY 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/15123
-...
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Yahala Aflam" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Yahala Aflam
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/313384
-...
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Art Aflam 1" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Art Aflam 1
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/313394
-...
-#EXTINF:-1 tvg-ID="" tvg-name="StarzPlay Sports 1 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="CALCIO",StarzPlay Sports 1 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/244179
-...
-#EXTINF:-1 tvg-ID="" tvg-name="GOBX FIGHT BOX" tvg-logo="http://163.172.39.182:80/logo/gobx.jpg" group-title="GOBOX",GOBX FIGHT BOX
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/65655
-...
-#EXTINF:-1 tvg-ID="" tvg-name="DRAMA" tvg-logo="" group-title="DRAMA 4K",DRAMA
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/414571
-...
-#EXTINF:-1 tvg-ID="" tvg-name="ع أمل" tvg-logo="" group-title="DRAMA 4K",ع أمل
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/414530
-...
-#EXTINF:-1 tvg-ID="" tvg-name="الحشاشين" tvg-logo="" group-title="DRAMA 4K",الحشاشين
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/414533
-...
-#EXTINF:-1 tvg-ID="" tvg-name="مسألة وقت" tvg-logo="" group-title="DRAMA KHALIJI",مسألة وقت
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/414512
-...
-#EXTINF:-1 tvg-ID="" tvg-name="الاجتياح" tvg-logo="" group-title="DRAMA SYRIA",الاجتياح
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/414385
-...
-#EXTINF:-1 tvg-ID="" tvg-name="انا اللي استاهل" tvg-logo="" group-title="DRAMA EGYPT",انا اللي استاهل
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/414291
-...
-#EXTINF:-1 tvg-ID="" tvg-name="ADEL EMAM" tvg-logo="https://image.freepik.com/free-vector/movie-theater-illustration-yellow_34230-298.jpg" group-title="CLASSIC MOVIES",ADEL EMAM
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/352758
-...
-#EXTINF:-1 tvg-ID="" tvg-name="LION ACTION HD" tvg-logo="http://163.172.39.182:80/logo/LION-ACTION.jpeg" group-title="LION TV",LION ACTION HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/320415
-...
-#EXTINF:-1 tvg-ID="" tvg-name="Ostora Arabic 1" tvg-logo="http://163.172.39.182:80/logo/OSTORA.png" group-title="Ostora TV",Ostora Arabic 1
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/130481
-...
-#EXTINF:-1 tvg-ID="" tvg-name="Wayyak- Drama HD" tvg-logo="http://vod-logo.net/photos/d6775c307814f322c54aebb0565ffd7f.png" group-title="Wayyak",Wayyak- Drama HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/129676
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: Box Aflam 1" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Box Aflam 1
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/97509
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ALBAHRANY TV" tvg-logo="http://163.172.39.182:80/logo/countryies/bahrain.png" group-title="BAHRAIN",AR: ALBAHRANY TV
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/413973
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ALSHARQIYA 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: ALSHARQIYA 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/413564
-...
-#EXTINF:-1 tvg-ID="" tvg-name="KSA.Saudi 1 TV 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/ksa.png" group-title="SAUDI ARABIA",KSA.Saudi 1 TV 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/15005
-...
-#EXTINF:-1 tvg-ID="" tvg-name="UAE.ABU DHABI 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/uae.png" group-title="United Arab Emirates",UAE.ABU DHABI 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/15023
-...
-#EXTINF:-1 tvg-ID="" tvg-name="KWT.KTV" tvg-logo="http://163.172.39.182:80/logo/countryies/kw.png" group-title="Kuwait",KWT.KTV
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/66486
-...
-#EXTINF:-1 tvg-ID="" tvg-name="QAT.QATAR TV" tvg-logo="http://pic.apkdt.co/pic/MiddleEast/Qatar/qatar_tv.png" group-title="QATER",QAT.QATAR TV
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/66505
-...
-#EXTINF:-1 tvg-ID="" tvg-name="OMAN.TV General HD" tvg-logo="http://163.172.39.182:80/logo/countryies/oman.png" group-title="OMAN",OMAN.TV General HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/66498
-...
-#EXTINF:-1 tvg-ID="" tvg-name="YEM.BELQEES" tvg-logo="http://163.172.39.182:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.BELQEES
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/66528
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: SAOUT PALASTIN" tvg-logo="http://163.172.39.182:80/logo/palstine.png" group-title="Palestine",AR: SAOUT PALASTIN
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/413938
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ROYA 4K" tvg-logo="http://163.172.39.182:80/logo/jordon.png" group-title="JORDAN",AR: ROYA 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/413895
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: SYRIA HD" tvg-logo="http://163.172.39.182:80/logo/syria.png" group-title="SYRIA",AR: SYRIA HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/413697
-...
-#EXTINF:-1 tvg-ID="" tvg-name="LBN.MTV LEBANON 4K" tvg-logo="http://pic.apkdt.co/pic/Lebanon/Mtv.png" group-title="LEBANON",LBN.MTV LEBANON 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/66323
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: EGYPTIAN TV 4K" tvg-logo="" group-title="EGYPT",AR: EGYPTIAN TV 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/413810
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: TUNISIA 1 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/tn.png" group-title="TUNISIA",AR: TUNISIA 1 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/414039
-...
-#EXTINF:-1 tvg-ID="" tvg-name="DZ.ECHOROUK" tvg-logo="http://163.172.39.182:80/logo/countryies/dz.png" group-title="Algeria ",DZ.ECHOROUK
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/21219
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: 2M 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/ma.png" group-title="Morocco",AR: 2M 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/413999
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: Sudan TV" tvg-logo="http://163.172.39.182:80/logo/countryies/sd.png" group-title="Sudan",AR: Sudan TV
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/122825
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: LIBYA WTV 4K" tvg-logo="" group-title="Libya",AR: LIBYA WTV 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/414045
-...
-#EXTINF:-1 tvg-ID="" tvg-name="MU.ELMOURITANIA" tvg-logo="http://163.172.39.182:80/logo/mu.png" group-title="MOURITANIA",MU.ELMOURITANIA
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/329316
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ALJAZEERA 360 مقاهي عتيقة" tvg-logo="" group-title="ALJAZEERA 360",AR: ALJAZEERA 360 مقاهي عتيقة
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/433159
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: YEMEN DOCUMENTARY" tvg-logo="" group-title="DOCUMENTARY HD",AR: YEMEN DOCUMENTARY
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/399450
-...
-#EXTINF:-1 tvg-ID="" tvg-name="NEWS.AL ARABIYA HD" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/cf/12/55/cf125566-eb34-d6d0-383d-c00610acdb29/source/512x512bb.jpg" group-title="NEWS",NEWS.AL ARABIYA HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/14961
-...
-#EXTINF:-1 tvg-ID="" tvg-name="NEWS.AL JAZEERA" tvg-logo="http://pic.apkdt.co/pic/Logo/News/10.png" group-title="NEWS",NEWS.AL JAZEERA
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/14995
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: SAUDI QURAN 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Islamic.png" group-title="ISLAM CHANNELS",AR: SAUDI QURAN 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/413749
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: Al Majd1 4K" tvg-logo="" group-title="Al Majd",AR: Al Majd1 4K
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/399906
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AL RABIAA SPORT 1" tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="AL RABIAA",AL RABIAA SPORT 1
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/371931
-...
-#EXTINF:-1 tvg-ID="" tvg-name="AR: FORJA  KIDS HD" tvg-logo="" group-title="FORJA TV",AR: FORJA  KIDS HD
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/414028
-...
-#EXTINF:-1 tvg-ID="" tvg-name="showtime 1" tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",showtime 1
-http://xlion.net:8080/54:44:a3:10:7a:ee33/530152974649/280000
+#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| ENTV (PROGRAMME NATIONAL) HD" tvg-logo="https://i.imgur.com/UPECPKc.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ENTV (PROGRAMME NATIONAL) HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1783
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| ENTV (PROGRAMME NATIONAL) FHD" tvg-logo="https://i.imgur.com/UPECPKc.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ENTV (PROGRAMME NATIONAL) FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/171
+#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| CANAL ALGERIE" tvg-logo="http://i.imgur.com/pOE3cTT.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| CANAL ALGERIE
+http://www.r56mail.com:80/merwanemessfr/r413TTt/173
+#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| CANAL ALGERIE FHD" tvg-logo="http://i.imgur.com/pOE3cTT.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| CANAL ALGERIE FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2825
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| ALGERIE 3 HD" tvg-logo="http://www.tunisvista.com/medias/algeria3.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 3 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/225
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| ALGERIE 3 FHD" tvg-logo="http://www.tunisvista.com/medias/algeria3.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 3 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1410
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| ALGERIE 4" tvg-logo="http://i.imgur.com/IBx84Z7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 4
+http://www.r56mail.com:80/merwanemessfr/r413TTt/226
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| ALGERIE 5 HD" tvg-logo="http://i.imgur.com/TXyy8t7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 5 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/227
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| ALGERIE 6 HD" tvg-logo="https://i.imgur.com/FcNLRrO.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 6 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42087
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| ALGERIE 6 FHD" tvg-logo="https://i.imgur.com/FcNLRrO.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 6 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/229
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| ALGERIE 7 EL MAARIFA" tvg-logo="https://i.imgur.com/GVfSdP1.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 7 EL MAARIFA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/45716
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| ALGERIE 8 EL DAKIRA" tvg-logo="https://i.imgur.com/6dGGebB.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIE 8 EL DAKIRA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/45717
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| EL BARLAMANYA FHD" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL BARLAMANYA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/104965
+#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| SAMIRA TV" tvg-logo="http://i.imgur.com/J26q8bp.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| SAMIRA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/176
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| SAMIRA TV HD" tvg-logo="http://i.imgur.com/J26q8bp.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| SAMIRA TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3151
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| SAMIRA TV FHD" tvg-logo="http://i.imgur.com/J26q8bp.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| SAMIRA TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/22398
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| ZAHRA TV" tvg-logo="https://i.imgur.com/K9BnK4p.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ZAHRA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/41988
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| ALGERIA 4 KIDS" tvg-logo="https://4kids-tv.com/wp-content/uploads/2022/02/logo4kids.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ALGERIA 4 KIDS
+http://www.r56mail.com:80/merwanemessfr/r413TTt/228
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| BEUR TV HD" tvg-logo="http://i.imgur.com/GvMXf3K.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| BEUR TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2805
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| ONE TV FHD" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ONE TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/22395
+#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| ECHOROUK TV" tvg-logo="http://i.imgur.com/hizkQd7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ECHOROUK TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/175
+#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| ECHOROUK TV FHD" tvg-logo="http://i.imgur.com/hizkQd7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ECHOROUK TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1559
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| ECHOROUK NEWS" tvg-logo="http://i.imgur.com/b2koAeh.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ECHOROUK NEWS
+http://www.r56mail.com:80/merwanemessfr/r413TTt/230
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| ECHOROUK NEWS HD" tvg-logo="http://i.imgur.com/b2koAeh.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ECHOROUK NEWS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1560
+#EXTINF:-1 tvg-id="ElBiladTV.dz" tvg-name="|DZ| EL BILAD TV" tvg-logo="http://i.imgur.com/lESg64o.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL BILAD TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/231
+#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| EL HEDDAF TV FHD" tvg-logo="http://i.imgur.com/mgPHvo8.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL HEDDAF TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/233
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| ENNAHAR TV" tvg-logo="http://i.imgur.com/QxUvmMy.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ENNAHAR TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/172
+#EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-name="|DZ| ENNAHAR TV SD" tvg-logo="http://i.imgur.com/QxUvmMy.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ENNAHAR TV SD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2806
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| AMOU YAZID TOFOLA HD" tvg-logo="https://i.imgur.com/jrfdlWq.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| AMOU YAZID TOFOLA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/6974
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| EL WATANIA TV" tvg-logo="https://i.imgur.com/VUdIe25.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL WATANIA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42074
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| EL FADJR TV" tvg-logo="https://i.imgur.com/W1x47Ar.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL FADJR TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/236
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| AL MAGHARIBIA HD" tvg-logo="http://i.imgur.com/iMC45iQ.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| AL MAGHARIBIA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2810
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| BAHIA TV" tvg-logo="http://i.imgur.com/3ExRISi.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| BAHIA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1112
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| EL ANIS TV" tvg-logo="https://i.imgur.com/2CNfkrr.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL ANIS TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1113
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| EL HAYAT TV HD" tvg-logo="https://i.imgur.com/s8NHjDR.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL HAYAT TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1772
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| EL HAYAT TV FHD" tvg-logo="https://i.imgur.com/s8NHjDR.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL HAYAT TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2260
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| AL24 NEWS FHD" tvg-logo="https://i.imgur.com/sHq6ktu.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| AL24 NEWS FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3601
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| SALAM TV HD" tvg-logo="https://i.imgur.com/YKJQLtf.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| SALAM TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42041
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| EL DJAZAIR N1" tvg-logo="https://i.imgur.com/Cpt7Lri.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| EL DJAZAIR N1
+http://www.r56mail.com:80/merwanemessfr/r413TTt/6183
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| BERBERE TV" tvg-logo="http://i.imgur.com/98gjMeV.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| BERBERE TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/949
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| BERBERE MUSIC (EXCLUS)" tvg-logo="https://i.imgur.com/AmekoXo.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| BERBERE MUSIC (EXCLUS)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42075
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| BERBERE JEUNESSE (EXCLUS)" tvg-logo="https://i.imgur.com/iNaAtbD.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| BERBERE JEUNESSE (EXCLUS)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/374
+#EXTINF:-1 tvg-id="" tvg-name="|DZ| BEUR FM TV (EXCLU)" tvg-logo="https://i.imgur.com/bgtm9Gm.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| BEUR FM TV (EXCLU)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/4279
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ MA ▀▄▀▄▀▄  MAROC ▄▀▄▀▄▀" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",▀▄ MA ▀▄▀▄▀▄  MAROC ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3709
+#EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="|MA| AL AOULA INTER" tvg-logo="http://i.imgur.com/NjFnTSG.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| AL AOULA INTER
+http://www.r56mail.com:80/merwanemessfr/r413TTt/383
+#EXTINF:-1 tvg-id="" tvg-name="|MA| AL AOULA FHD" tvg-logo="http://i.imgur.com/NjFnTSG.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| AL AOULA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1507
+#EXTINF:-1 tvg-id="" tvg-name="|MA| AL OULA INTER FHD" tvg-logo="http://i.imgur.com/TaxrKCi.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| AL OULA INTER FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/4261
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-name="|MA| AL MAGHRIBIA ALIKHBARIA FHD" tvg-logo="http://i.imgur.com/TaxrKCi.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| AL MAGHRIBIA ALIKHBARIA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/382
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="|MA| 2M MONDE" tvg-logo="http://i.imgur.com/YGXdwKu.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| 2M MONDE
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3150
+#EXTINF:-1 tvg-id="2M.ma" tvg-name="|MA| 2M MAROC HD" tvg-logo="http://i.imgur.com/YGXdwKu.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| 2M MAROC HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/274
+#EXTINF:-1 tvg-id="2M.ma" tvg-name="|MA| 2M FHD" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| 2M FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5245
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="|MA| ARRYADIA MAROC" tvg-logo="https://i.imgur.com/81ksuGS.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| ARRYADIA MAROC
+http://www.r56mail.com:80/merwanemessfr/r413TTt/13308
+#EXTINF:-1 tvg-id="" tvg-name="|MA| ARRIADIA MAROC HD" tvg-logo="https://i.imgur.com/81ksuGS.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| ARRIADIA MAROC HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/644
+#EXTINF:-1 tvg-id="" tvg-name="|MA| ARRIADIA MAROC FHD" tvg-logo="https://i.imgur.com/81ksuGS.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| ARRIADIA MAROC FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/4377
+#EXTINF:-1 tvg-id="" tvg-name="|MA| ARRYADIA 2 HD" tvg-logo="https://i.imgur.com/81ksuGS.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| ARRYADIA 2 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42108
+#EXTINF:-1 tvg-id="" tvg-name="|MA| ARRABIAA HD" tvg-logo="http://i.imgur.com/IWBJT17.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| ARRABIAA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/560
+#EXTINF:-1 tvg-id="" tvg-name="|MA| ARRABIAA FHD" tvg-logo="http://i.imgur.com/IWBJT17.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| ARRABIAA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/4380
+#EXTINF:-1 tvg-id="" tvg-name="|MA| LAAYOUN TV FHD" tvg-logo="https://i.imgur.com/XYS9g4x.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| LAAYOUN TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7083
+#EXTINF:-1 tvg-id="" tvg-name="|MA| ASSADISSA HD" tvg-logo="http://i.imgur.com/l1puCC0.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| ASSADISSA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/535
+#EXTINF:-1 tvg-id="" tvg-name="|MA| ASSADISSA FHD" tvg-logo="http://i.imgur.com/l1puCC0.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| ASSADISSA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/4378
+#EXTINF:-1 tvg-id="" tvg-name="|MA| ASSABIA 7 TV FHD" tvg-logo="https://i.imgur.com/3E5nP0Y.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| ASSABIA 7 TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1768
+#EXTINF:-1 tvg-id="" tvg-name="|MA| TAMAZIGHT HD" tvg-logo="http://i.imgur.com/htebjJD.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| TAMAZIGHT HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/559
+#EXTINF:-1 tvg-id="" tvg-name="|MA| TAMAZIGHT FHD" tvg-logo="http://i.imgur.com/htebjJD.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| TAMAZIGHT FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/4379
+#EXTINF:-1 tvg-id="" tvg-name="|MA| MEDI1 MAGHREB HD" tvg-logo="http://i.imgur.com/JWcgynN.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| MEDI1 MAGHREB HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/411
+#EXTINF:-1 tvg-id="" tvg-name="|MA| MEDI1 ARABIC HD" tvg-logo="http://i.imgur.com/JWcgynN.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| MEDI1 ARABIC HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1447
+#EXTINF:-1 tvg-id="" tvg-name="|MA| TELE MAROC FHD" tvg-logo="http://i.imgur.com/oDn4VbO.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| TELE MAROC FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1114
+#EXTINF:-1 tvg-id="" tvg-name="|MA| TELE MAROC HD" tvg-logo="http://i.imgur.com/oDn4VbO.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| TELE MAROC HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/41990
+#EXTINF:-1 tvg-id="" tvg-name="|MA| M24 MAROC" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| M24 MAROC
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42018
+#EXTINF:-1 tvg-id="" tvg-name="|MA| CANAL ATLAS" tvg-logo="https://i.imgur.com/ExQOKII.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| CANAL ATLAS
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5313
+#EXTINF:-1 tvg-id="" tvg-name="|MA| CHADA TV HD" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| CHADA TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5247
+#EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="|MA| AL AOULA MAROC TNT HD" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| AL AOULA MAROC TNT HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5246
+#EXTINF:-1 tvg-id="" tvg-name="|MA| ARRIADIA LIVE TNT HD" tvg-logo="https://i.imgur.com/81ksuGS.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| ARRIADIA LIVE TNT HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5244
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ TN ▀▄▀▄▀▄  TUNISIE ▄▀▄▀▄▀" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",▀▄ TN ▀▄▀▄▀▄  TUNISIE ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3710
+#EXTINF:-1 tvg-id="Watania1.tn" tvg-name="|TN| AL WATANIA 1" tvg-logo="http://i.imgur.com/PV84GcJ.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| AL WATANIA 1
+http://www.r56mail.com:80/merwanemessfr/r413TTt/408
+#EXTINF:-1 tvg-id="Watania1.tn" tvg-name="|TN| AL WATANIA 1 FHD" tvg-logo="http://i.imgur.com/PV84GcJ.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| AL WATANIA 1 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/4376
+#EXTINF:-1 tvg-id="" tvg-name="|TN| AL WATANIA 1 EDUC" tvg-logo="http://i.imgur.com/PV84GcJ.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| AL WATANIA 1 EDUC
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3016
+#EXTINF:-1 tvg-id="Watania2.tn" tvg-name="|TN| AL WATANIA 2" tvg-logo="https://i.imgur.com/t3kXPWp.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| AL WATANIA 2
+http://www.r56mail.com:80/merwanemessfr/r413TTt/645
+#EXTINF:-1 tvg-id="" tvg-name="|TN| AL WATANIA 2 HD" tvg-logo="https://i.imgur.com/t3kXPWp.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| AL WATANIA 2 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/4375
+#EXTINF:-1 tvg-id="" tvg-name="|TN| M TUNISIA" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| M TUNISIA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/698
+#EXTINF:-1 tvg-id="" tvg-name="|TN| TUNISNA" tvg-logo="http://i.imgur.com/4nxzeZ3.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| TUNISNA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/409
+#EXTINF:-1 tvg-id="" tvg-name="|TN| NESSMA TV EJDIDA" tvg-logo="http://i.imgur.com/zhHRK51.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| NESSMA TV EJDIDA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/41330
+#EXTINF:-1 tvg-id="" tvg-name="|TN| NESSMA TV" tvg-logo="http://i.imgur.com/zhHRK51.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| NESSMA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2807
+#EXTINF:-1 tvg-id="Nessma.tn" tvg-name="|TN| NESSMA TV HD" tvg-logo="http://i.imgur.com/zhHRK51.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| NESSMA TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/334
+#EXTINF:-1 tvg-id="" tvg-name="|TN| CARTHAGE+" tvg-logo="https://i.imgur.com/xkxCa69.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| CARTHAGE+
+http://www.r56mail.com:80/merwanemessfr/r413TTt/8724
+#EXTINF:-1 tvg-id="" tvg-name="|TN| HANNIBAL" tvg-logo="http://i.imgur.com/nlg56WH.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| HANNIBAL
+http://www.r56mail.com:80/merwanemessfr/r413TTt/410
+#EXTINF:-1 tvg-id="" tvg-name="|TN| MOSAIQUE FM" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| MOSAIQUE FM
+http://www.r56mail.com:80/merwanemessfr/r413TTt/8723
+#EXTINF:-1 tvg-id="" tvg-name="|TN| ATTESIA TV" tvg-logo="http://i.imgur.com/fWumXQF.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| ATTESIA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/564
+#EXTINF:-1 tvg-id="" tvg-name="|TN| TUNISIA SPORT HD" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| TUNISIA SPORT HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195441
+#EXTINF:-1 tvg-id="" tvg-name="|TN| EL HIWAR ETTOUNSI TV" tvg-logo="http://i.imgur.com/YYP8evG.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| EL HIWAR ETTOUNSI TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/562
+#EXTINF:-1 tvg-id="ElHiwarEttounsi.tn" tvg-name="|TN| EL HIWAR ETTOUNSI TV HD" tvg-logo="http://i.imgur.com/YYP8evG.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| EL HIWAR ETTOUNSI TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3159
+#EXTINF:-1 tvg-id="" tvg-name="|TN| TELEVISION 1" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| TELEVISION 1
+http://www.r56mail.com:80/merwanemessfr/r413TTt/6052
+#EXTINF:-1 tvg-id="" tvg-name="|TN| TELVAZA TV" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| TELVAZA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1510
+#EXTINF:-1 tvg-id="" tvg-name="|TN| ZAYTOONA TV HD" tvg-logo="http://i.imgur.com/IY2Ysal.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| ZAYTOONA TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/565
+#EXTINF:-1 tvg-id="" tvg-name="|TN| AL JANOUBIA" tvg-logo="https://i.imgur.com/CMydHtZ.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| AL JANOUBIA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1785
+#EXTINF:-1 tvg-id="" tvg-name="|TN| AL INSEN TV" tvg-logo="http://i.imgur.com/cU2YQkI.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| AL INSEN TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1115
+#EXTINF:-1 tvg-id="" tvg-name="|TN| AL MUSTAKILAH" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| AL MUSTAKILAH
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1111
+#EXTINF:-1 tvg-id="" tvg-name="------▼|AE|-CHAINES.ARABE-|AE|▼------" tvg-logo="" group-title="",------▼|AE|-CHAINES.ARABE-|AE|▼------
+http://www.r56mail.com:80/merwanemessfr/r413TTt/199
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 7 HD (50 FPS)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112159
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 7 FHD (50 FPS)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112089
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 8 HD (50 FPS)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112154
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 8 FHD (50 FPS)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/45545
+#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 9 HD (50 FPS)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112156
+#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="|AR| BEIN SPORTS 9 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 9 FHD (50 FPS)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/22393
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-name="|AR| ABU DHABI SPORTS 1 HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/AD_Sports_1.png" group-title="AD SPORTS | STARZPLAY | ALRABIAA",|AR| ABU DHABI SPORTS 1 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1445
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-name="|AR| ABU DHABI SPORTS 1 FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/AD_Sports_1.png" group-title="AD SPORTS | STARZPLAY | ALRABIAA",|AR| ABU DHABI SPORTS 1 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/12675
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-name="|AR| ABU DHABI SPORTS 2 HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/AD_Sports_2.png" group-title="AD SPORTS | STARZPLAY | ALRABIAA",|AR| ABU DHABI SPORTS 2 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/354
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-name="|AR| ABU DHABI SPORTS 2 FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/AD_Sports_2.png" group-title="AD SPORTS | STARZPLAY | ALRABIAA",|AR| ABU DHABI SPORTS 2 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1446
+#EXTINF:-1 tvg-id="AbuDhabiSports1PremiumAr.ae" tvg-name="|AR| ABU DHABI SPORT PREMIUM 1 HD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/hFM94yc.png" group-title="AD SPORTS | STARZPLAY | ALRABIAA",|AR| ABU DHABI SPORT PREMIUM 1 HD (DOUBLE AUDIO)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/91718
+#EXTINF:-1 tvg-id="AbuDhabiSports1PremiumAr.ae" tvg-name="|AR| ABU DHABI SPORT PREMIUM 1 FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/hFM94yc.png" group-title="AD SPORTS | STARZPLAY | ALRABIAA",|AR| ABU DHABI SPORT PREMIUM 1 FHD (DOUBLE AUDIO)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2365
+#EXTINF:-1 tvg-id="AbuDhabiSports2PremiumAr.ae" tvg-name="|AR| ABU DHABI SPORT PREMIUM 2 HD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/uUDR1Pj.png" group-title="AD SPORTS | STARZPLAY | ALRABIAA",|AR| ABU DHABI SPORT PREMIUM 2 HD (DOUBLE AUDIO)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/91719
+#EXTINF:-1 tvg-id="AbuDhabiSports2PremiumAr.ae" tvg-name="|AR| ABU DHABI SPORT PREMIUM 2 FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/uUDR1Pj.png" group-title="AD SPORTS | STARZPLAY | ALRABIAA",|AR| ABU DHABI SPORT PREMIUM 2 FHD (DOUBLE AUDIO)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2366
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALRABIAA SPORT 1 FHD" tvg-logo="https://i.imgur.com/NYOgH7n.png" group-title="AD SPORTS | STARZPLAY | ALRABIAA",|AR| ALRABIAA SPORT 1 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/183890
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALRABIAA SPORT 2 FHD" tvg-logo="https://i.imgur.com/NYOgH7n.png" group-title="AD SPORTS | STARZPLAY | ALRABIAA",|AR| ALRABIAA SPORT 2 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/183891
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALRABIAA SPORT 3 FHD" tvg-logo="https://i.imgur.com/NYOgH7n.png" group-title="AD SPORTS | STARZPLAY | ALRABIAA",|AR| ALRABIAA SPORT 3 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/183892
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALRABIAA SPORT 4 FHD" tvg-logo="https://i.imgur.com/NYOgH7n.png" group-title="AD SPORTS | STARZPLAY | ALRABIAA",|AR| ALRABIAA SPORT 4 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/183893
+#EXTINF:-1 tvg-id="" tvg-name="|AR| THMANYAH 1 HD" tvg-logo="https://i.imgur.com/18cUvw8.png" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| THMANYAH 1 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112576
+#EXTINF:-1 tvg-id="" tvg-name="|AR| THMANYAH 1 FHD" tvg-logo="https://i.imgur.com/18cUvw8.png" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| THMANYAH 1 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112579
+#EXTINF:-1 tvg-id="" tvg-name="|AR| THMANYAH 2 HD" tvg-logo="https://i.imgur.com/18cUvw8.png" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| THMANYAH 2 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112381
+#EXTINF:-1 tvg-id="" tvg-name="|AR| THMANYAH 2 FHD" tvg-logo="https://i.imgur.com/18cUvw8.png" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| THMANYAH 2 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112382
+#EXTINF:-1 tvg-id="" tvg-name="|AR| THMANYAH 3 HD" tvg-logo="https://i.imgur.com/18cUvw8.png" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| THMANYAH 3 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/4373
+#EXTINF:-1 tvg-id="" tvg-name="|AR| THMANYAH 3 FHD" tvg-logo="https://i.imgur.com/18cUvw8.png" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| THMANYAH 3 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7056
+#EXTINF:-1 tvg-id="" tvg-name="|AR| THMANYAH 4 FHD" tvg-logo="https://i.imgur.com/18cUvw8.png" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| THMANYAH 4 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195254
+#EXTINF:-1 tvg-id="" tvg-name="|AR| STC TV THMANYAH HD" tvg-logo="https://play-lh.googleusercontent.com/PcElR7hORfG7zB9cZLxGdFgqlSg7dJVdv-BHbKloE5Xg2Cp9prh_8LJ54jN0AveEjqo=w600-h300-pc0xffffff-pd" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| STC TV THMANYAH HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2259
+#EXTINF:-1 tvg-id="" tvg-name="|AR| STC CINEMA HD" tvg-logo="https://play-lh.googleusercontent.com/PcElR7hORfG7zB9cZLxGdFgqlSg7dJVdv-BHbKloE5Xg2Cp9prh_8LJ54jN0AveEjqo=w600-h300-pc0xffffff-pd" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| STC CINEMA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/933
+#EXTINF:-1 tvg-id="" tvg-name="|AR| STC DRAMA HD" tvg-logo="https://play-lh.googleusercontent.com/PcElR7hORfG7zB9cZLxGdFgqlSg7dJVdv-BHbKloE5Xg2Cp9prh_8LJ54jN0AveEjqo=w600-h300-pc0xffffff-pd" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| STC DRAMA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/932
+#EXTINF:-1 tvg-id="" tvg-name="|AR| STC FAMILY HD" tvg-logo="https://play-lh.googleusercontent.com/PcElR7hORfG7zB9cZLxGdFgqlSg7dJVdv-BHbKloE5Xg2Cp9prh_8LJ54jN0AveEjqo=w600-h300-pc0xffffff-pd" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| STC FAMILY HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112
+#EXTINF:-1 tvg-id="" tvg-name="|AR| STC SPORT 3 HD" tvg-logo="https://play-lh.googleusercontent.com/PcElR7hORfG7zB9cZLxGdFgqlSg7dJVdv-BHbKloE5Xg2Cp9prh_8LJ54jN0AveEjqo=w600-h300-pc0xffffff-pd" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| STC SPORT 3 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5090
+#EXTINF:-1 tvg-id="" tvg-name="|AR| STC SPORT 4 HD" tvg-logo="https://play-lh.googleusercontent.com/PcElR7hORfG7zB9cZLxGdFgqlSg7dJVdv-BHbKloE5Xg2Cp9prh_8LJ54jN0AveEjqo=w600-h300-pc0xffffff-pd" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| STC SPORT 4 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/101142
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 1 SD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 1 SD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112086
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 1 HD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 1 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112083
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 1 FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 1 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112500
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 2 SD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 2 SD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112556
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 2 HD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 2 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112557
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 2 FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 2 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/183889
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 3 SD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 3 SD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201163
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 3 HD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 3 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201159
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 3 FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 3 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201148
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 4 SD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 4 SD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201164
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 4 HD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 4 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201160
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 4 FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 4 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201149
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 5 SD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 5 SD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201165
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 5 HD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 5 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201161
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 5 FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 5 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201150
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 6 SD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 6 SD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201166
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 6 HD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 6 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201162
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 6 FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 6 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201151
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 7 FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 7 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201152
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 8 FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 8 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201153
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 9 FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 9 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201154
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN SPORT 10 FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN SPORT 10 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201155
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN WWE FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN WWE FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201158
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN F1 FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN F1 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201157
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN UFC FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN UFC FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201156
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN AFLAM 1 FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN AFLAM 1 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201167
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN AFLAM 2 FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN AFLAM 2 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201168
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN AFLAM 3 FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN AFLAM 3 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201169
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN AFLAM 4 FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN AFLAM 4 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201170
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN MOSALSALAT FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN MOSALSALAT FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201173
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN TURKEY FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN TURKEY FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201174
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN ANIME FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN ANIME FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201179
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN MOSALSALAT+ FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN MOSALSALAT+ FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201178
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN KOREA FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN KOREA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201177
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN BOLLYWOOD FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN BOLLYWOOD FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201176
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN ALWATHAEQYE FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN ALWATHAEQYE FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201171
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWAN Atfal FHD" tvg-logo="https://iconape.com/wp-content/files/ta/173871/svg/173871.svg" group-title="ALWAN SPORT | CULTE | CINE ( ARABIC )",|AR| ALWAN Atfal FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201172
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 1 HD" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| SHAHID SPORTS 1 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/101046
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 1 FHD" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| SHAHID SPORTS 1 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/101038
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 2 HD" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| SHAHID SPORTS 2 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/101020
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 2 FHD" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| SHAHID SPORTS 2 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/100848
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 3 HD" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| SHAHID SPORTS 3 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/12204
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 3 FHD" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| SHAHID SPORTS 3 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/13261
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 4 HD" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| SHAHID SPORTS 4 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/100816
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 4 FHD" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| SHAHID SPORTS 4 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/100866
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 5 HD" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| SHAHID SPORTS 5 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/69198
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID SPORTS 5 FHD" tvg-logo="https://i.imgur.com/XHxpMzB.png" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| SHAHID SPORTS 5 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/100803
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ASHARQ DOCUMENTARY HD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| ASHARQ DOCUMENTARY HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112421
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ASHARQ DOCUMENTARY FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| ASHARQ DOCUMENTARY FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2018
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ASHARQ DISCOVERY HD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| ASHARQ DISCOVERY HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112422
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ASHARQ DISCOVERY FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| ASHARQ DISCOVERY FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2014
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA ست النكهات FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| ROYA ست النكهات FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/111839
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA شيف مان FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| ROYA شيف مان FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112005
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA ZESTE FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| ROYA ZESTE FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112278
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA طبخ ونفخ FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| ROYA طبخ ونفخ FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/111976
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA مطبخ FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| ROYA مطبخ FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112239
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA TV HD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| ROYA TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/22635
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA ORIGINAL PRODUCTION FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| ROYA ORIGINAL PRODUCTION FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112592
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA MARAYA FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| ROYA MARAYA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112554
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA ACTION FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| ROYA ACTION FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112545
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA JELTA FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| ROYA JELTA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112544
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA KIDS ORIGINAL FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| ROYA KIDS ORIGINAL FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2027
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID TOP CHEF FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| SHAHID TOP CHEF FHD
+https://cdxaws-ak.akamaized.net/v1/channel/Top-Chef/index_hls/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID TOP GUEAR FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| SHAHID TOP GUEAR FHD
+https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID FEEL GOOD MOVIES FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| SHAHID FEEL GOOD MOVIES FHD
+https://cdxaws-ak.akamaized.net/v1/channel/Feel_Good_Movies/index_hls/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID RAMEZ FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| SHAHID RAMEZ FHD
+https://cdxaws-ak.akamaized.net/v1/channel/Ramez/index_hls/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID NATURE TIME FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| SHAHID NATURE TIME FHD
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID ADEL EMAM FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| SHAHID ADEL EMAM FHD
+https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID BAB AL HARA FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| SHAHID BAB AL HARA FHD
+https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID WWE FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| SHAHID WWE FHD
+https://cdxaws-ak.akamaized.net/v1/channel/WWE/index_hls/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 1 HD" tvg-logo="https://www.kindpng.com/picc/m/599-5998237_ksa-sports-logo-png-png-download-ksa-sports.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| KSA SPORTS 1 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112530
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 1 FHD" tvg-logo="https://www.kindpng.com/picc/m/599-5998237_ksa-sports-logo-png-png-download-ksa-sports.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| KSA SPORTS 1 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42069
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 2 HD" tvg-logo="https://www.kindpng.com/picc/m/599-5998237_ksa-sports-logo-png-png-download-ksa-sports.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| KSA SPORTS 2 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112514
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 2 FHD" tvg-logo="https://www.kindpng.com/picc/m/599-5998237_ksa-sports-logo-png-png-download-ksa-sports.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| KSA SPORTS 2 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42070
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 3 HD" tvg-logo="https://www.kindpng.com/picc/m/599-5998237_ksa-sports-logo-png-png-download-ksa-sports.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| KSA SPORTS 3 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112490
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 3 FHD" tvg-logo="https://www.kindpng.com/picc/m/599-5998237_ksa-sports-logo-png-png-download-ksa-sports.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| KSA SPORTS 3 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42071
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SBC FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/sbc-ae.png" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",|AR| SBC FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/90004
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="|AR| MBC 1" tvg-logo="https://i.imgur.com/YO6kFsp.png" group-title="ARABES  ( العربية)",|AR| MBC 1
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1786
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="|AR| MBC 1 FHD" tvg-logo="https://i.imgur.com/YO6kFsp.png" group-title="ARABES  ( العربية)",|AR| MBC 1 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89992
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="|AR| MBC 2" tvg-logo="https://i.imgur.com/WBh4NGJ.png" group-title="ARABES  ( العربية)",|AR| MBC 2
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1787
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC 3" tvg-logo="https://i.imgur.com/qygieMO.png" group-title="ARABES  ( العربية)",|AR| MBC 3
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1788
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC 3 FHD" tvg-logo="https://i.imgur.com/qygieMO.png" group-title="ARABES  ( العربية)",|AR| MBC 3 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89993
+#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="|AR| MBC 4" tvg-logo="https://i.imgur.com/ItBKYL1.png" group-title="ARABES  ( العربية)",|AR| MBC 4
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1789
+#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="|AR| MBC 4 FHD" tvg-logo="https://i.imgur.com/ItBKYL1.png" group-title="ARABES  ( العربية)",|AR| MBC 4 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/90161
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="|AR| MBC 5" tvg-logo="https://i.imgur.com/XotBHFv.png" group-title="ARABES  ( العربية)",|AR| MBC 5
+http://www.r56mail.com:80/merwanemessfr/r413TTt/658
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="|AR| MBC 5 FHD" tvg-logo="https://i.imgur.com/XotBHFv.png" group-title="ARABES  ( العربية)",|AR| MBC 5 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89995
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="|AR| MBC ACTION" tvg-logo="https://i.imgur.com/I4z3F0j.png" group-title="ARABES  ( العربية)",|AR| MBC ACTION
+http://www.r56mail.com:80/merwanemessfr/r413TTt/521
+#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="|AR| MBC BOLLYWOOD" tvg-logo="https://i.imgur.com/xJMUYpD.png" group-title="ARABES  ( العربية)",|AR| MBC BOLLYWOOD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/320
+#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="|AR| MBC BOLLYWOOD FHD" tvg-logo="https://i.imgur.com/xJMUYpD.png" group-title="ARABES  ( العربية)",|AR| MBC BOLLYWOOD FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/90162
+#EXTINF:-1 tvg-id="MBCDramaEn.ae" tvg-name="|AR| MBC DRAMA" tvg-logo="https://i.imgur.com/ae0YnDx.png" group-title="ARABES  ( العربية)",|AR| MBC DRAMA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/215
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC IRAQ HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/mbc-iraq-ae.png" group-title="ARABES  ( العربية)",|AR| MBC IRAQ HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42093
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  MY HD ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ AR ▀▄▀▄▀▄  MY HD ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7025
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="|AR| MBC 1 HD" tvg-logo="https://i.imgur.com/YO6kFsp.png" group-title="OSN & MY HD (Arabic)",|AR| MBC 1 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/94
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="|AR| MBC 2 HD" tvg-logo="https://i.imgur.com/WBh4NGJ.png" group-title="OSN & MY HD (Arabic)",|AR| MBC 2 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/109
+#EXTINF:-1 tvg-id="MBC3Ar.ae" tvg-name="|AR| MBC 3 HD" tvg-logo="https://i.imgur.com/qygieMO.png" group-title="OSN & MY HD (Arabic)",|AR| MBC 3 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/110
+#EXTINF:-1 tvg-id="MBC4En.sa" tvg-name="|AR| MBC 4 HD" tvg-logo="https://i.imgur.com/ItBKYL1.png" group-title="OSN & MY HD (Arabic)",|AR| MBC 4 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/319
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="|AR| MBC 5 FHD+" tvg-logo="https://i.imgur.com/XotBHFv.png" group-title="OSN & MY HD (Arabic)",|AR| MBC 5 FHD+
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42091
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC IRAQ FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/mbc-iraq-ae.png" group-title="ARABES  ( العربية)",|AR| MBC IRAQ FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89987
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC IRAQ FHD+" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/mbc-iraq-ae.png" group-title="ARABES  ( العربية)",|AR| MBC IRAQ FHD+
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42092
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="|AR| MBC ACTION HD" tvg-logo="https://i.imgur.com/I4z3F0j.png" group-title="OSN & MY HD (Arabic)",|AR| MBC ACTION HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2852
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC PERSIA HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/mbc-persia-ae.png" group-title="OSN & MY HD (Arabic)",|AR| MBC PERSIA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/22401
+#EXTINF:-1 tvg-id="MBCDramaEn.ae" tvg-name="|AR| MBC DRAMA FHD" tvg-logo="https://i.imgur.com/ae0YnDx.png" group-title="OSN & MY HD (Arabic)",|AR| MBC DRAMA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2269
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="|AR| MBC FM HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| MBC FM HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/22399
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC FM FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MBC FM FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89986
+#EXTINF:-1 tvg-id="MbcMasr.eg" tvg-name="|AR| MBC MASR 1 HD" tvg-logo="https://i.imgur.com/3GTiYWF.png" group-title="OSN & MY HD (Arabic)",|AR| MBC MASR 1 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/22397
+#EXTINF:-1 tvg-id="MbcMasr.eg" tvg-name="|AR| MBC MASR FHD" tvg-logo="https://i.imgur.com/3GTiYWF.png" group-title="ARABES  ( العربية)",|AR| MBC MASR FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89988
+#EXTINF:-1 tvg-id="MbcMasr2.eg" tvg-name="|AR| MBC MASR 2 HD" tvg-logo="https://i.imgur.com/2kbbTap.png" group-title="OSN & MY HD (Arabic)",|AR| MBC MASR 2 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/22396
+#EXTINF:-1 tvg-id="MbcMasr2.eg" tvg-name="|AR| MBC MASR 2 FHD" tvg-logo="https://i.imgur.com/2kbbTap.png" group-title="ARABES  ( العربية)",|AR| MBC MASR 2 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89989
+#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="|AR| MBC BOLLYWOOD HD" tvg-logo="https://i.imgur.com/xJMUYpD.png" group-title="OSN & MY HD (Arabic)",|AR| MBC BOLLYWOOD HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/22394
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="|AR| MBC DRAMA PLUS HD" tvg-logo="https://i.imgur.com/1V2ryze.png" group-title="OSN & MY HD (Arabic)",|AR| MBC DRAMA PLUS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/616
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="|AR| MBC DRAMA PLUS FHD" tvg-logo="https://i.imgur.com/1V2ryze.png" group-title="ARABES  ( العربية)",|AR| MBC DRAMA PLUS FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89991
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC MASR DRAMA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MBC MASR DRAMA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/600
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC MASR DRAMA FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MBC MASR DRAMA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/90002
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="|AR| MBC MAX HD" tvg-logo="https://i.imgur.com/B22r6Zq.png" group-title="OSN & MY HD (Arabic)",|AR| MBC MAX HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/321
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC PERSIA FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/mbc-persia-ae.png" group-title="ARABES  ( العربية)",|AR| MBC PERSIA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89990
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MIX ONE" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MIX ONE
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112042
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MIX BEL ARABY" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MIX BEL ARABY
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112037
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MIX HOLLYWOOD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MIX HOLLYWOOD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/111959
+#EXTINF:-1 tvg-id="" tvg-name="|AR| WANASA FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/wanasah-ae.png" group-title="ARABES  ( العربية)",|AR| WANASA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/90007
+#EXTINF:-1 tvg-id="MbcWanasahAr.eg" tvg-name="|AR| MBC WANASAH HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/wanasah-ae.png" group-title="OSN & MY HD (Arabic)",|AR| MBC WANASAH HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/22400
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MY HD MBC VARIETY HD" tvg-logo="https://i.imgur.com/S5J9MNz.png" group-title="OSN & MY HD (Arabic)",|AR| MY HD MBC VARIETY HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2256
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MY HD FOX LIFE HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| MY HD FOX LIFE HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7039
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MY HD DISCOVERY SCIENCE HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| MY HD DISCOVERY SCIENCE HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7027
+#EXTINF:-1 tvg-id="BeinSports1EnEn.qa" tvg-name="|AR| BEIN SPORTS ENGLISH FHD" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS ENGLISH FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/26511
+#EXTINF:-1 tvg-id="beINSportsXtra1.qa" tvg-name="|AR| BEIN SPORTS XTRA FHD" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS XTRA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89275
+#EXTINF:-1 tvg-id="BeinSportsExtra1.qa" tvg-name="|AR| BEIN SPORTS XTRA 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 1 HD (50 FPS)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42086
+#EXTINF:-1 tvg-id="BeinSportsExtra1.qa" tvg-name="|AR| BEIN SPORTS XTRA 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 1 FHD (50 FPS)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112275
+#EXTINF:-1 tvg-id="BeinSportsExtra2.qa" tvg-name="|AR| BEIN SPORTS XTRA 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 2 HD (50 FPS)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/4418
+#EXTINF:-1 tvg-id="BeinSportsExtra2.qa" tvg-name="|AR| BEIN SPORTS XTRA 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 2 FHD (50 FPS)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42094
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS XTRA 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 3 FHD (50 FPS)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112160
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS XTRA 4 HD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 4 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112437
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS XTRA 4 FHD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 4 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112302
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS XTRA 5 HD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 5 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/113553
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS XTRA 5 FHD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 5 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112582
+#EXTINF:-1 tvg-id="Drama.qa" tvg-name="|AR| BEIN DRAMA 1 FHD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN DRAMA 1 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112030
+#EXTINF:-1 tvg-id="beINMovies1.qa" tvg-name="|AR| BEIN MOVIES 1 HD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN MOVIES 1 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/111
+#EXTINF:-1 tvg-id="beINMovies1.qa" tvg-name="|AR| BEIN MOVIES 1 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN MOVIES 1 FHD (EXCLUS)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/69350
+#EXTINF:-1 tvg-id="beINMovies2.qa" tvg-name="|AR| BEIN MOVIES 2 HD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN MOVIES 2 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/346
+#EXTINF:-1 tvg-id="beINMovies2.qa" tvg-name="|AR| BEIN MOVIES 2 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN MOVIES 2 FHD (EXCLUS)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/43850
+#EXTINF:-1 tvg-id="beINMovies4.qa" tvg-name="|AR| BEIN MOVIES 4 FHD (EXCLUS)" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN MOVIES 4 FHD (EXCLUS)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/43852
+#EXTINF:-1 tvg-id="beINSeries1.qa" tvg-name="|AR| BEIN SERIES 1 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SERIES 1 FHD (EXCLUS)
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2396
+#EXTINF:-1 tvg-id="beINSeries2.qa" tvg-name="|AR| BEIN SERIES 2 FHD" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SERIES 2 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3147
+#EXTINF:-1 tvg-id="FatafeatAr.qa" tvg-name="|AR| BEIN FATAFEAT HD" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN FATAFEAT HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/37234
+#EXTINF:-1 tvg-id="FOXMoviesAction.qa" tvg-name="|AR| BEIN FOX CRIME HD" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN FOX CRIME HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3644
+#EXTINF:-1 tvg-id="NatGeo.qa" tvg-name="|AR| BEIN NAT GEO HD" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN NAT GEO HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/4391
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄ ROTANA ▄▀▄▀▄▀" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",▀▄ AR ▀▄▀▄▀▄ ROTANA ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7026
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LANA TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LANA TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/101145
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA COMEDY HD" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA COMEDY HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/90003
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA FHD+" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA FHD+
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89686
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA M+ FHD" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA M+ FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89687
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA DRAMA FHD" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA DRAMA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/90163
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA MASRIYA" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA MASRIYA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89688
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA AFLAM+ FHD" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA AFLAM+ FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89690
+#EXTINF:-1 tvg-id="RotanaAflam.eg" tvg-name="|AR| ROTANA AFLAM HD" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA AFLAM HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/385
+#EXTINF:-1 tvg-id="RotanaKhalijiah.eg" tvg-name="|AR| ROTANA KHALIJIA" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA KHALIJIA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/598
+#EXTINF:-1 tvg-id="RotanaKhalijiah.eg" tvg-name="|AR| ROTANA KHALIJIA FHD" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA KHALIJIA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/90001
+#EXTINF:-1 tvg-id="RotanaCinema.eg" tvg-name="|AR| ROTANA CINEMA KSA" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA CINEMA KSA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/386
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA CINEMA KSA FHD" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA CINEMA KSA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89998
+#EXTINF:-1 tvg-id="RotanaCinema.eg" tvg-name="|AR| ROTANA CINEMA EGY" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA CINEMA EGY
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1791
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA CINEMA EGY FHD" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA CINEMA EGY FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89997
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA CINEMA" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA CINEMA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89691
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA CINEMA+ FR FHD" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA CINEMA+ FR FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89692
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA CINEMA + US" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA CINEMA + US
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195439
+#EXTINF:-1 tvg-id="RotanaDramaAr.eg" tvg-name="|AR| ROTANA DRAMA HD" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA DRAMA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/384
+#EXTINF:-1 tvg-id="RotanaClassic.eg" tvg-name="|AR| ROTANA CLASSIC" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA CLASSIC
+http://www.r56mail.com:80/merwanemessfr/r413TTt/601
+#EXTINF:-1 tvg-id="RotanaClassic.eg" tvg-name="|AR| ROTANA CLASSIC FHD" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA CLASSIC FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89999
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA CLIP" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA CLIP
+http://www.r56mail.com:80/merwanemessfr/r413TTt/599
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA MUSIC CHANNEL HD" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA MUSIC CHANNEL HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89689
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA AMERICA HD" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA AMERICA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/45549
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AGHANI AGHANI HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AGHANI AGHANI HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1586
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ARABICA TV FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ARABICA TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1784
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MAZZIKA MUSIC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MAZZIKA MUSIC
+http://www.r56mail.com:80/merwanemessfr/r413TTt/19704
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  ART ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ AR ▀▄▀▄▀▄  ART ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7024
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ART" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ART
+http://www.r56mail.com:80/merwanemessfr/r413TTt/45582
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ART MOVIES" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ART MOVIES
+http://www.r56mail.com:80/merwanemessfr/r413TTt/45579
+#EXTINF:-1 tvg-id="dossiers-fbi-fr" tvg-name="|AR| ART TARAB" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ART TARAB
+http://www.r56mail.com:80/merwanemessfr/r413TTt/45578
+#EXTINF:-1 tvg-id="ARTCinema.sa" tvg-name="|AR| ART CINEMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ART CINEMA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42105
+#EXTINF:-1 tvg-id="ARTAflam1.sa" tvg-name="|AR| ART AFLAM 1" tvg-logo="http://i.imgur.com/r95iHs8.png" group-title="ARABES  ( العربية)",|AR| ART AFLAM 1
+http://www.r56mail.com:80/merwanemessfr/r413TTt/352
+#EXTINF:-1 tvg-id="ARTAflam2.sa" tvg-name="|AR| ART AFLAM 2" tvg-logo="http://i.imgur.com/b1GwAbc.png" group-title="ARABES  ( العربية)",|AR| ART AFLAM 2
+http://www.r56mail.com:80/merwanemessfr/r413TTt/353
+#EXTINF:-1 tvg-id="Hekayat.sa" tvg-name="|AR| ART HEKAYAT 1" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ART HEKAYAT 1
+http://www.r56mail.com:80/merwanemessfr/r413TTt/647
+#EXTINF:-1 tvg-id="Hekayat2.sa" tvg-name="|AR| ART HEKAYAT 2" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ART HEKAYAT 2
+http://www.r56mail.com:80/merwanemessfr/r413TTt/648
+#EXTINF:-1 tvg-id="ZeeAflam.ae" tvg-name="|AR| ZEE AFLAM" tvg-logo="http://i.imgur.com/diwNYkt.png" group-title="ARABES  ( العربية)",|AR| ZEE AFLAM
+http://www.r56mail.com:80/merwanemessfr/r413TTt/415
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ZEE ALWAN" tvg-logo="http://i.imgur.com/XDKqhCY.png" group-title="ARABES  ( العربية)",|AR| ZEE ALWAN
+http://www.r56mail.com:80/merwanemessfr/r413TTt/413
+#EXTINF:-1 tvg-id="B4UPlus.ae" tvg-name="|AR| B4U PLUS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| B4U PLUS
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1511
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  OSN ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ AR ▀▄▀▄▀▄  OSN ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3713
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ OSN ▀▄▀▄▀▄  MOVIES ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ OSN ▀▄▀▄▀▄  MOVIES ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7107
+#EXTINF:-1 tvg-id="OSNMoviesFirst.ae" tvg-name="|AR| OSN MOVIES FIRST HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OM1.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MOVIES FIRST HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7066
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN MOVIES FIRST +2 HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OMX.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MOVIES FIRST +2 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/4368
+#EXTINF:-1 tvg-id="OSNMoviesAction.ae" tvg-name="|AR| OSN MOVIES ACTION HD" tvg-logo="http://content.osn.com/logo/channel/cropped/AHD.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MOVIES ACTION HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2769
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN MIX HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN MIX HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1793
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN REEL PX UNLIMITED HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN REEL PX UNLIMITED HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/101114
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN REEL PX COMEDY HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN REEL PX COMEDY HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/101141
+#EXTINF:-1 tvg-id="OSNMovies.ae" tvg-name="|AR| OSN MOVIES HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OPR.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MOVIES HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/4371
+#EXTINF:-1 tvg-id="OSNMoviesComedy.ae" tvg-name="|AR| OSN COMEDY HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OMC.png" group-title="OSN & MY HD (Arabic)",|AR| OSN COMEDY HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/4370
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ OSN ▀▄▀▄▀▄  ENTERTAINMENT ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ OSN ▀▄▀▄▀▄  ENTERTAINMENT ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7108
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN MOVIES HORROR HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN MOVIES HORROR HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7067
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN SERIES COMEDY HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OCO.png" group-title="OSN & MY HD (Arabic)",|AR| OSN SERIES COMEDY HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7059
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN E! HD" tvg-logo="http://content.osn.com/logo/channel/cropped/ETV.png" group-title="OSN & MY HD (Arabic)",|AR| OSN E! HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7073
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN LIVING HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OLH.png" group-title="OSN & MY HD (Arabic)",|AR| OSN LIVING HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7070
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ OSN ▀▄▀▄▀▄  ARABIC ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ OSN ▀▄▀▄▀▄  ARABIC ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7109
+#EXTINF:-1 tvg-id="OSNYahala.ae" tvg-name="|AR| OSN YA HALA AOULA HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OYH.png" group-title="OSN & MY HD (Arabic)",|AR| OSN YA HALA AOULA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/516
+#EXTINF:-1 tvg-id="OSNYahalaCinema.ae" tvg-name="|AR| OSN YA HALA CINEMA HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OYC.png" group-title="OSN & MY HD (Arabic)",|AR| OSN YA HALA CINEMA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1207
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN SERIES CHANNEL HD" tvg-logo="http://content.osn.com/logo/channel/cropped/SER.png" group-title="OSN & MY HD (Arabic)",|AR| OSN SERIES CHANNEL HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7064
+#EXTINF:-1 tvg-id="OSNYahala.ae" tvg-name="|AR| OSN YA HALA HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OYA.png" group-title="OSN & MY HD (Arabic)",|AR| OSN YA HALA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7054
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN ALYOUM" tvg-logo="http://content.osn.com/logo/channel/cropped/YAW.png" group-title="OSN & MY HD (Arabic)",|AR| OSN ALYOUM
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7082
+#EXTINF:-1 tvg-id="OSNCinema.ae" tvg-name="|AR| OSN CINEMA 1" tvg-logo="http://content.osn.com/logo/channel/cropped/CM1.png" group-title="OSN & MY HD (Arabic)",|AR| OSN CINEMA 1
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7081
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN CINEMA 2" tvg-logo="http://content.osn.com/logo/channel/cropped/CM2.png" group-title="OSN & MY HD (Arabic)",|AR| OSN CINEMA 2
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7080
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ OSN ▀▄▀▄▀▄ MUSIC ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ OSN ▀▄▀▄▀▄ MUSIC ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7110
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN FANN HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN FANN HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7113
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN MUSIC NOW HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/alfa-music-now-ae.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MUSIC NOW HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7063
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ OSN ▀▄▀▄▀▄ KIDS ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ OSN ▀▄▀▄▀▄ KIDS ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7111
+#EXTINF:-1 tvg-id="OSNFamily.ae" tvg-name="|AR| OSN FAMILY HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN FAMILY HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2254
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN NICKTOONS HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN NICKTOONS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7055
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN DISNEY CHANNEL HD" tvg-logo="http://content.osn.com/logo/channel/cropped/DIS.png" group-title="OSN & MY HD (Arabic)",|AR| OSN DISNEY CHANNEL HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7075
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN DISNEY JUNIOR HD" tvg-logo="http://content.osn.com/logo/channel/cropped/DJR.png" group-title="OSN & MY HD (Arabic)",|AR| OSN DISNEY JUNIOR HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7074
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN KID ZONE TV" tvg-logo="http://content.osn.com/logo/channel/cropped/KDZ.png" group-title="OSN & MY HD (Arabic)",|AR| OSN KID ZONE TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7060
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BIDAYA TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| BIDAYA TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/26846
+#EXTINF:-1 tvg-id="" tvg-name="|AR| THIKRAYAT FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/zekrayat-tv-ae.png" group-title="ARABES  ( العربية)",|AR| THIKRAYAT FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/90006
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN MOONBUG HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/moonbug-ae.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MOONBUG HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2772
+#EXTINF:-1 tvg-id="OSNMoviesKids.ae" tvg-name="|AR| OSN KIDS HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OPX.png" group-title="OSN & MY HD (Arabic)",|AR| OSN KIDS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7068
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN BABY HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN BABY HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/963
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ OSN ▀▄▀▄▀▄ FACTUAL ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",▀▄ OSN ▀▄▀▄▀▄ FACTUAL ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7112
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN DISCOVERY CHANNEL HD" tvg-logo="http://content.osn.com/logo/channel/cropped/DSC.png" group-title="OSN & MY HD (Arabic)",|AR| OSN DISCOVERY CHANNEL HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7077
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN SHOWCASE HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN SHOWCASE HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7076
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN DISCOVERY ID HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN DISCOVERY ID HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2252
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN DISCOVERY IDX HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN DISCOVERY IDX HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2253
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN HISTORY CHANNEL HD" tvg-logo="http://content.osn.com/logo/channel/cropped/HIS.png" group-title="OSN & MY HD (Arabic)",|AR| OSN HISTORY CHANNEL HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7069
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN HISTORY 2 HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN HISTORY 2 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7061
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN MEZZE HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN MEZZE HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7079
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN TLC HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN TLC HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7062
+#EXTINF:-1 tvg-id="Fatafeat.qa" tvg-name="|AR| OSN FATAFEAT HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN FATAFEAT HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7057
+#EXTINF:-1 tvg-id="TravelChannel.qa" tvg-name="|AR| OSN TRAVEL CHANNEL HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN TRAVEL CHANNEL HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7078
+#EXTINF:-1 tvg-id="FoodNetwork.qa" tvg-name="|AR| OSN FOOD NETWORK HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN FOOD NETWORK HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/101111
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="|AR| AL JAZEERA HD" tvg-logo="http://i.imgur.com/jLxN3D8.png" group-title="ARABES  ( العربية)",|AR| AL JAZEERA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/45586
+#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="|AR| AL JAZEERA FHD" tvg-logo="http://i.imgur.com/jLxN3D8.png" group-title="ARABES  ( العربية)",|AR| AL JAZEERA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/6057
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL JAZEERA 2 HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL JAZEERA 2 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195330
+#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="|AR| AL JAZEERA MUBASHER 2 HD" tvg-logo="http://i.imgur.com/jLxN3D8.png" group-title="ARABES  ( العربية)",|AR| AL JAZEERA MUBASHER 2 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/269
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL JAZEERA ENGLISH HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL JAZEERA ENGLISH HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7028
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-name="|AR| AL JAZEERA MUBASHER" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL JAZEERA MUBASHER
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7029
+#EXTINF:-1 tvg-id="Alarabiya.sa" tvg-name="|AR| AL ARABIYA HD" tvg-logo="http://i.imgur.com/bztmSXX.png" group-title="ARABES  ( العربية)",|AR| AL ARABIYA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/343
+#EXTINF:-1 tvg-id="Alarabiya.sa" tvg-name="|AR| AL ARABIYA FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL ARABIYA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89973
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL ARABIYA BUSINESS HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL ARABIYA BUSINESS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195417
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL ARABIYA BUSINESS FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL ARABIYA BUSINESS FHD
+https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|AR| FRANCE 24 HD" tvg-logo="http://i.imgur.com/jELYlh5.png" group-title="ARABES  ( العربية)",|AR| FRANCE 24 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/344
+#EXTINF:-1 tvg-id="" tvg-name="|AR| CGTN ARABIA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| CGTN ARABIA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/19596
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SKY NEWS ARABIYA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SKY NEWS ARABIYA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/585
+#EXTINF:-1 tvg-id="" tvg-name="|AR| RT ARABIC FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| RT ARABIC FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1770
+#EXTINF:-1 tvg-id="" tvg-name="|AR| EURONEWS" tvg-logo="http://i.imgur.com/eoxsyGr.png" group-title="ARABES  ( العربية)",|AR| EURONEWS
+http://www.r56mail.com:80/merwanemessfr/r413TTt/871
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL GHAD TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL GHAD TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195418
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL EKHBARIA HD FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL EKHBARIA HD FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195419
+#EXTINF:-1 tvg-id="" tvg-name="|AR| HIWAR TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| HIWAR TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195421
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DW TV ARABIA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| DW TV ARABIA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/869
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL ALAM NEWS HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL ALAM NEWS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195416
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ASHARQ NEWS CHANNEL HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ASHARQ NEWS CHANNEL HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195420
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE NEWS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| NILE NEWS
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195300
+#EXTINF:-1 tvg-id="AlAan.ae" tvg-name="|AR| SAUDIA ALAAN TV FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAUDIA ALAAN TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/755
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BBC NEWS ARABIA FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/international/bbc-news-arabic-white-hz-int.png" group-title="ARABES  ( العربية)",|AR| BBC NEWS ARABIA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/754
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL ARABY TV FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL ARABY TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/12068
+#EXTINF:-1 tvg-id="" tvg-name="|AR| TRT ARABIYA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| TRT ARABIYA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2614
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ▀▄▀▄▀ [ EMIRATS ARABES UNIS ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ▀▄▀▄▀ [ EMIRATS ARABES UNIS ] ▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195312
+#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-name="|AR| DUBAI HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/dubai-tv-ae.png" group-title="ARABES  ( العربية)",|AR| DUBAI HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/681
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DUBAI ONE FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/dubai-one-ae.png" group-title="ARABES  ( العربية)",|AR| DUBAI ONE FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/682
+#EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-name="|AR| DUBAI ZAMAN" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/dubai-zaman-ae.png" group-title="ARABES  ( العربية)",|AR| DUBAI ZAMAN
+http://www.r56mail.com:80/merwanemessfr/r413TTt/590
+#EXTINF:-1 tvg-id="AbuDhabi.ae" tvg-name="|AR| ABU DHABI TV HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/abu-dhabi-tv-ae.png" group-title="ARABES  ( العربية)",|AR| ABU DHABI TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2804
+#EXTINF:-1 tvg-id="AbuDhabi.ae" tvg-name="|AR| ABU DHABI TV FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/abu-dhabi-tv-ae.png" group-title="ARABES  ( العربية)",|AR| ABU DHABI TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2802
+#EXTINF:-1 tvg-id="SamaDubai.ae" tvg-name="|AR| SAMA DUBAI HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/sama-dubai-ae.png" group-title="ARABES  ( العربية)",|AR| SAMA DUBAI HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2803
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL WOUSTA TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL WOUSTA TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195316
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL EMARAT TV FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL EMARAT TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195315
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BAYNOUNAH TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| BAYNOUNAH TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195318
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL DAFRA FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL DAFRA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195314
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHARJAH TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SHARJAH TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195331
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHARJAH 2 TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SHARJAH 2 TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195329
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHARQIYA KALBATV TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SHARQIYA KALBATV TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195332
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DMC FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| DMC FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195291
+#EXTINF:-1 tvg-id="" tvg-name="|AR| FUJAIRA FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| FUJAIRA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195327
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AJMAN HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AJMAN HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195313
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DUBAI SPORT 1 HD" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| DUBAI SPORT 1 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195323
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DUBAI SPORT 2 HD" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| DUBAI SPORT 2 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195324
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DUBAI RACING 1 HD" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| DUBAI RACING 1 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195320
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DUBAI RACING 2 HD" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| DUBAI RACING 2 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195321
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHARJAH SPORT SD" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| SHARJAH SPORT SD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42850
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ LB ▀▄▀▄▀▄  LEBANON ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ LB ▀▄▀▄▀▄  LEBANON ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3711
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="|AR| LBC HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LBC HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/680
+#EXTINF:-1 tvg-id="LBCInternational.lb" tvg-name="|AR| LBC INTERNATIONAL HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/lbc-international-lb.png" group-title="ARABES  ( العربية)",|AR| LBC INTERNATIONAL HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42064
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL JADEED" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL JADEED
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5973
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL JOUMHOURIYA YAMEN HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL JOUMHOURIYA YAMEN HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112626
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ARABICA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ARABICA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195387
+#EXTINF:-1 tvg-id="NBN.lb" tvg-name="|AR| NBN HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/nbn-lb.png" group-title="ARABES  ( العربية)",|AR| NBN HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1299
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NBN FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/nbn-lb.png" group-title="ARABES  ( العربية)",|AR| NBN FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42080
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OTV FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| OTV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195388
+#EXTINF:-1 tvg-id="" tvg-name="|AR| TELE LIBAN HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/tele-liban-lb.png" group-title="ARABES  ( العربية)",|AR| TELE LIBAN HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2770
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="|AR| MTV LEBANON ONE TV HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/mtv-lebanon-lb.png" group-title="ARABES  ( العربية)",|AR| MTV LEBANON ONE TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7058
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="|AR| MTV LEBANON" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/mtv-lebanon-lb.png" group-title="ARABES  ( العربية)",|AR| MTV LEBANON
+http://www.r56mail.com:80/merwanemessfr/r413TTt/684
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MTV LEBANON HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/mtv-lebanon-lb.png" group-title="ARABES  ( العربية)",|AR| MTV LEBANON HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42079
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ EG ▀▄▀▄▀▄  EGYPTE ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ EG ▀▄▀▄▀▄  EGYPTE ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/4114
+#EXTINF:-1 tvg-id="" tvg-name="|AR| HALA LONDON FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| HALA LONDON FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42027
+#EXTINF:-1 tvg-id="" tvg-name="|AR| O-TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| O-TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1769
+#EXTINF:-1 tvg-id="MbcMasr.eg" tvg-name="|AR| MBC MASR 1" tvg-logo="https://i.imgur.com/3GTiYWF.png" group-title="ARABES  ( العربية)",|AR| MBC MASR 1
+http://www.r56mail.com:80/merwanemessfr/r413TTt/416
+#EXTINF:-1 tvg-id="MBCMasr2En.eg" tvg-name="|AR| MBC MASR 2" tvg-logo="https://i.imgur.com/2kbbTap.png" group-title="ARABES  ( العربية)",|AR| MBC MASR 2
+http://www.r56mail.com:80/merwanemessfr/r413TTt/420
+#EXTINF:-1 tvg-id="CBC.eg" tvg-name="|AR| CBC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| CBC
+http://www.r56mail.com:80/merwanemessfr/r413TTt/699
+#EXTINF:-1 tvg-id="CBCDrama.eg" tvg-name="|AR| CBC DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| CBC DRAMA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/700
+#EXTINF:-1 tvg-id="" tvg-name="|AR| CBC EXTRA NEWS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| CBC EXTRA NEWS
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1795
+#EXTINF:-1 tvg-id="CBCSofra.eg" tvg-name="|AR| CBC SOFRA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| CBC SOFRA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/701
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| NILE TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/111902
+#EXTINF:-1 tvg-id="NileCinema.eg" tvg-name="|AR| NILE CINEMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| NILE CINEMA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/686
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE NEWS HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| NILE NEWS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/687
+#EXTINF:-1 tvg-id="NileDrama.eg" tvg-name="|AR| NILE DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| NILE DRAMA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/685
+#EXTINF:-1 tvg-id="NileLife.eg" tvg-name="|AR| NILE LIFE" tvg-logo="" group-title="ARABES  ( العربية)",|AR| NILE LIFE
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1300
+#EXTINF:-1 tvg-id="NileSport.eg" tvg-name="|AR| NILE SPORTS HD" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| NILE SPORTS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/725
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL NAHAR HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL NAHAR HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1474
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL NAHAR DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL NAHAR DRAMA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/734
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MASRIYA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MASRIYA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1767
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL THANYA EGYPTE" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL THANYA EGYPTE
+http://www.r56mail.com:80/merwanemessfr/r413TTt/41998
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL KAHERA WAL NASS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL KAHERA WAL NASS
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5086
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL KAHERA WAL NASS 2" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL KAHERA WAL NASS 2
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1509
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MEKAMELEEN TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MEKAMELEEN TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/12058
+#EXTINF:-1 tvg-id="" tvg-name="|AR| EL SHARQ" tvg-logo="" group-title="ARABES  ( العربية)",|AR| EL SHARQ
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5270
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ASHARQ FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ASHARQ FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89979
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ON TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/728
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON SPORT TV" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| ON SPORT TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/729
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TIME SPORTS" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| ON TIME SPORTS
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7089
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ONTIME SPORTS 2" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| ONTIME SPORTS 2
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42017
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL AHLY TV FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL AHLY TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/45588
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL ZAMALEK SPORTS" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| AL ZAMALEK SPORTS
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42063
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DMC HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| DMC HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5093
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DMC DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| DMC DRAMA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5094
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON DRAMA EGYPTE" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ON DRAMA EGYPTE
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42036
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL-NAHAR LIFE" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL-NAHAR LIFE
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195288
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL DELTA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL DELTA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195276
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL HADATH ALYOUM" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL HADATH ALYOUM
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195277
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL KAHERA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL KAHERA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195278
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL KANAL" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL KANAL
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195279
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MASAR TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MASAR TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195391
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MASRIYAH FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MASRIYAH FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195280
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL OULA EG FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL OULA EG FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195281
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL QAHERA NEWS HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL QAHERA NEWS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195282
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SAIED" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL SAIED
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195283
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SHAMS 2" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL SHAMS 2
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195284
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SHAMS TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL SHAMS TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195285
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALTHANYA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ALTHANYA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195286
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL HADATH FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-arabiya-al-hadath-ae.png" group-title="ARABES  ( العربية)",|AR| AL HADATH FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89974
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL ARABIA AL HADATH HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-arabiya-al-hadath-ae.png" group-title="ARABES  ( العربية)",|AR| AL ARABIA AL HADATH HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5092
+#EXTINF:-1 tvg-id="" tvg-name="|AR| EXTRA LIVE" tvg-logo="" group-title="ARABES  ( العربية)",|AR| EXTRA LIVE
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195292
+#EXTINF:-1 tvg-id="" tvg-name="|AR| EXTRA NEWS HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| EXTRA NEWS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195293
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="|AR| AL HAYAT HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL HAYAT HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5089
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL HAYAT FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL HAYAT FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5088
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ONE DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ONE DRAMA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195302
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ONE MOVIES" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ONE MOVIES
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195303
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PNC DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PNC DRAMA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195305
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PNC DRAMA 2" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PNC DRAMA 2
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195306
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PNC FILM" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PNC FILM
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195307
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PNC FOOD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PNC FOOD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195308
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PNC TODAY" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PNC TODAY
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195309
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NOGOUM FM" tvg-logo="" group-title="ARABES  ( العربية)",|AR| NOGOUM FM
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195301
+#EXTINF:-1 tvg-id="" tvg-name="|AR| CIMA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| CIMA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195289
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DAHAB TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| DAHAB TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195290
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MAJESTIC CINEMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MAJESTIC CINEMA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195294
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MIX HOLLYWOOD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MIX HOLLYWOOD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195297
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MASPERO ZAMAN" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MASPERO ZAMAN
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5095
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL ITTIHAD TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL ITTIHAD TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2835
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAYADEEN TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAYADEEN TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/760
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL RASHEED FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL RASHEED FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/759
+#EXTINF:-1 tvg-id="" tvg-name="|AR| TEN" tvg-logo="" group-title="ARABES  ( العربية)",|AR| TEN
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195311
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PANORAMA FM FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PANORAMA FM FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89996
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PANORAMA DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PANORAMA DRAMA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/766
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PANORAMA DRAMA 2" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PANORAMA DRAMA 2
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1483
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SADA EL BALAD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SADA EL BALAD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42046
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SADA EL BALAD 2" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SADA EL BALAD 2
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42047
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SADA EL BALAD DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SADA EL BALAD DRAMA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42048
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL ASKANDRIA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL ASKANDRIA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195275
+#EXTINF:-1 tvg-id="" tvg-name="|AR| RADIO 9090" tvg-logo="" group-title="ARABES  ( العربية)",|AR| RADIO 9090
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195310
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ QP ▀▄▀▄▀▄  QATAR ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ QP ▀▄▀▄▀▄  QATAR ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/4115
+#EXTINF:-1 tvg-id="QatarTV.qa" tvg-name="|AR| QATAR TV HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/qatar-tv-ae.png" group-title="ARABES  ( العربية)",|AR| QATAR TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5403
+#EXTINF:-1 tvg-id="" tvg-name="|AR| QATAR 2 HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| QATAR 2 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7033
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL RAYAN QADEEM TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL RAYAN QADEEM TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195436
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL RAYAN TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL RAYAN TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195437
+#EXTINF:-1 tvg-id="AlKass.qa" tvg-name="|AR| AL KASS ONE HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| AL KASS ONE HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/90323
+#EXTINF:-1 tvg-id="AlKass.qa" tvg-name="|AR| AL KASS ONE FHD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| AL KASS ONE FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1763
+#EXTINF:-1 tvg-id="AlKassTwo.qa" tvg-name="|AR| AL KASS TWO FHD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| AL KASS TWO FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1764
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL KASS THREE FHD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| AL KASS THREE FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/19726
+#EXTINF:-1 tvg-id="AlKassFour.qa" tvg-name="|AR| AL KASS FOUR FHD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| AL KASS FOUR FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1765
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL KASS FIVE HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| AL KASS FIVE HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195432
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ KW ▀▄▀▄▀▄  KUWAIT ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ KW ▀▄▀▄▀▄  KUWAIT ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/4112
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWEIT TV 1 HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| KUWEIT TV 1 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1773
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWAIT TV 1 FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| KUWAIT TV 1 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195382
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWAIT TV 2 FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| KUWAIT TV 2 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195383
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWEIT TV AL.ARABI FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| KUWEIT TV AL.ARABI FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1776
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWAIT ETHRAA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| KUWAIT ETHRAA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195379
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWAIT SPORTS FHD" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| KUWAIT SPORTS FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195380
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWAIT SPORTS PLUS HD" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| KUWAIT SPORTS PLUS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195381
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MARINA TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MARINA TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195384
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL-BAWADI HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL-BAWADI HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195376
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ADALA TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ADALA TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195377
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ KSA ▀▄▀▄▀▄  SAUDIA ARABIA ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ KSA ▀▄▀▄▀▄  SAUDIA ARABIA ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3724
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI 1 HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-saudiya-ae.png" group-title="ARABES  ( العربية)",|AR| SAUDI 1 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/730
+#EXTINF:-1 tvg-id="Saudi1.sa" tvg-name="|AR| SAUDI TV FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-saudiya-ae.png" group-title="ARABES  ( العربية)",|AR| SAUDI TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42066
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDIA FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-saudiya-ae.png" group-title="ARABES  ( العربية)",|AR| SAUDIA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89978
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALIKHBARIYA FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ALIKHBARIYA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89977
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI AL EKHBARIA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAUDI AL EKHBARIA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42067
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI  ALSAHRAA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAUDI  ALSAHRAA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42073
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI RESSALA FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAUDI RESSALA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42068
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALWESAM TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ALWESAM TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195248
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KAIF TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| KAIF TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195249
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI 24 HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAUDI 24 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195250
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDIA ALAAN TV FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAUDIA ALAAN TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195253
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI SPORTS 24" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| SAUDI SPORTS 24
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195251
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI ZEKRAYAT FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAUDI ZEKRAYAT FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195252
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI SBC HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/sbc-ae.png" group-title="ARABES  ( العربية)",|AR| SAUDI SBC HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42065
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD GENERAL" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD GENERAL
+http://www.r56mail.com:80/merwanemessfr/r413TTt/4365
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD MASA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD MASA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/19657
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ▀▄▀▄▀ [ BAHREIN ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ▀▄▀▄▀ [ BAHREIN ] ▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195255
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BAHRAIN INTERNATIONAL TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| BAHRAIN INTERNATIONAL TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195256
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LUALUA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LUALUA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195257
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BAHRAIN SPORT 1 FHD" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| BAHRAIN SPORT 1 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7085
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BAHRAIN SPORT 2 FHD" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| BAHRAIN SPORT 2 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7084
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ SY ▀▄▀▄▀▄  SYRIA ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ SY ▀▄▀▄▀▄  SYRIA ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3722
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SHARQYA TV FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL SHARQYA TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5091
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SHARQYA NEWS FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL SHARQYA NEWS FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3645
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA CHANNEL FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SYRIA CHANNEL FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/726
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA AL THANIA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SYRIA AL THANIA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195456
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SYRIA DRAMA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/727
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAMA SYRIA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAMA SYRIA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/768
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ANA SOORIA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ANA SOORIA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195450
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LANA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LANA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195452
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL ALAM SYRIA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL ALAM SYRIA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195449
+#EXTINF:-1 tvg-id="" tvg-name="|AR| HALAB TODAY" tvg-logo="" group-title="ARABES  ( العربية)",|AR| HALAB TODAY
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195451
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MISK SYRIA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MISK SYRIA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195453
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROJAVA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROJAVA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195454
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAM TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SHAM TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195455
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIAN EDUCATION" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SYRIAN EDUCATION
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7043
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ▀▄▀▄▀ [ JORDANIE ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ▀▄▀▄▀ [ JORDANIE ] ▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195367
+#EXTINF:-1 tvg-id="" tvg-name="|AR| JORDAN TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| JORDAN TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/22634
+#EXTINF:-1 tvg-id="" tvg-name="|AR| JORDAN SAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| JORDAN SAMA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5409
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAMLAKA TV JORDANIE" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAMLAKA TV JORDANIE
+http://www.r56mail.com:80/merwanemessfr/r413TTt/45584
+#EXTINF:-1 tvg-id="" tvg-name="|AR| JORDAN AMEN" tvg-logo="" group-title="ARABES  ( العربية)",|AR| JORDAN AMEN
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2000
+#EXTINF:-1 tvg-id="" tvg-name="|AR| JORDAN SPORT" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| JORDAN SPORT
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1779
+#EXTINF:-1 tvg-id="" tvg-name="|AR| RO'YA FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| RO'YA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195370
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA NEWS HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROYA NEWS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195371
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAMLAKA TV FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAMLAKA TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195369
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL YAWM FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL YAWM FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/45583
+#EXTINF:-1 tvg-id="mtv-catfish-tv-show-fr" tvg-name="|AR| AL MEHWAR TV FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MEHWAR TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/45546
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ▀▄▀▄▀ [ IRAK ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ▀▄▀▄▀ [ IRAK ] ▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195342
+#EXTINF:-1 tvg-id="" tvg-name="|AR| 1 IRAQ TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| 1 IRAQ TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195343
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL IRAQIA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL IRAQIA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195348
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL IRAQIA SPORT HD" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| AL IRAQIA SPORT HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195349
+#EXTINF:-1 tvg-id="" tvg-name="|AR| IRAQ 24 HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| IRAQ 24 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195353
+#EXTINF:-1 tvg-id="" tvg-name="|AR| IRAQ FUTURE TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| IRAQ FUTURE TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42081
+#EXTINF:-1 tvg-id="" tvg-name="|AR| IRAQIA NEWS HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| IRAQIA NEWS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195354
+#EXTINF:-1 tvg-id="" tvg-name="|AR| 12ARABIA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| 12ARABIA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195344
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DIJLAH TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| DIJLAH TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195351
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DIJLAH ZAMAN HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| DIJLAH ZAMAN HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195352
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL FORAT HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL FORAT HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195347
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL BASRAH HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL BASRAH HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195345
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL FALUJAH TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL FALUJAH TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195346
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL FALUJAH TV FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL FALUJAH TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/45587
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SUMARIA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL SUMARIA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195350
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ▀▄▀▄▀ [ MAURITANIE ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ▀▄▀▄▀ [ MAURITANIE ] ▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195402
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MOURITANIYA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MOURITANIYA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195405
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MOURITANIYA 2" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MOURITANIYA 2
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195404
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ARRIADIA MR" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ARRIADIA MR
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195406
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ATHAGAVIA MR" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ATHAGAVIA MR
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195407
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DAVA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| DAVA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195408
+#EXTINF:-1 tvg-id="" tvg-name="|AR| EL MAHADRA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| EL MAHADRA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195409
+#EXTINF:-1 tvg-id="" tvg-name="|AR| EL WATANIA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| EL WATANIA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195410
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MEDINA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MEDINA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195411
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAHEL TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAHEL TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195412
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ▀▄▀▄▀ [ SOUDAN ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ▀▄▀▄▀ [ SOUDAN ] ▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195440
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SUDAN TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SUDAN TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3603
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALBALAD TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ALBALAD TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195442
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALZRGA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ALZRGA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195443
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KASSALA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| KASSALA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195445
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAMALIA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SHAMALIA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195446
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SSBC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SSBC
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195447
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ▀▄▀▄▀ [ LIBYE ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ▀▄▀▄▀ [ LIBYE ] ▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195389
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LIBYA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LIBYA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/2830
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LIBYA AL AHRAR FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LIBYA AL AHRAR FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1794
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LIBYA SPORT" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| LIBYA SPORT
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3600
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LIBYA AL HEDAYA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LIBYA AL HEDAYA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195393
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LIBYA AL WATHAIQIA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LIBYA AL WATHAIQIA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195394
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LIBYA IFTA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LIBYA IFTA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195395
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LIBYA SPORTS 2HD" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| LIBYA SPORTS 2HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195396
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SALAM TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SALAM TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195401
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LIBYA TANASUH EDUCATION TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LIBYA TANASUH EDUCATION TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195397
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LIBYA WTV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LIBYA WTV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195398
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LJBC TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LJBC TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195399
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NEW LIBYA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| NEW LIBYA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195400
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ▀▄▀▄▀ [ PALESTINE ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ▀▄▀▄▀ [ PALESTINE ] ▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195422
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PALESTINE PFC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PALESTINE PFC
+http://www.r56mail.com:80/merwanemessfr/r413TTt/758
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PALESTINE LIVE FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PALESTINE LIVE FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7035
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PALESTINE TV NEWS FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PALESTINE TV NEWS FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7036
+#EXTINF:-1 tvg-id="" tvg-name="|AR| RAJEEN HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| RAJEEN HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195430
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AWDEH" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AWDEH
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195427
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL-NAJAH NBC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL-NAJAH NBC
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195426
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL KOFIYA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL KOFIYA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195424
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL AQSA TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL AQSA TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195423
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PALESTINE SPORT HD" tvg-logo="https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png" group-title="AR SPORTS (رياضة بالعربي)",|AR| PALESTINE SPORT HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195429
+#EXTINF:-1 tvg-id="" tvg-name="|AR| FALESTINONA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| FALESTINONA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195428
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL QUDS TODAY TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL QUDS TODAY TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/761
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PALESTINE TODAY" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PALESTINE TODAY
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7031
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ANB IRAQ" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ANB IRAQ
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7034
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ▀▄▀▄▀ [ YEMEN ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ▀▄▀▄▀ [ YEMEN ] ▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195461
+#EXTINF:-1 tvg-id="" tvg-name="|AR| YEMEN HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| YEMEN HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195474
+#EXTINF:-1 tvg-id="" tvg-name="|AR| YEMEN SHABAB HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| YEMEN SHABAB HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195475
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MUGHTARIB AL YEMENI" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MUGHTARIB AL YEMENI
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195464
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MASIRAH TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MASIRAH TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195462
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MASERAH MUBASHER" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MASERAH MUBASHER
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195463
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SAEEDAH" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL SAEEDAH
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195465
+#EXTINF:-1 tvg-id="" tvg-name="|AR| YEMEN DOCUMENTARY" tvg-logo="" group-title="ARABES  ( العربية)",|AR| YEMEN DOCUMENTARY
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195473
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AIC HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AIC HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195467
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL HAWYAH TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL HAWYAH TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195468
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALMAHRIAH HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ALMAHRIAH HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195469
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SAHAT" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL SAHAT
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195466
+#EXTINF:-1 tvg-id="" tvg-name="|AR| HADRAMAUT" tvg-logo="" group-title="ARABES  ( العربية)",|AR| HADRAMAUT
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195470
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SHEBA TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SHEBA TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195471
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SUHAIL TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SUHAIL TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195472
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  INFORMATION ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ AR ▀▄▀▄▀▄  INFORMATION ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3730
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  DOC ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ AR ▀▄▀▄▀▄  DOC ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3725
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="|AR| AL JAZEERA DOCUMENTARY HD" tvg-logo="http://i.imgur.com/br8qG1j.png" group-title="ARABES  ( العربية)",|AR| AL JAZEERA DOCUMENTARY HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/345
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-name="|AR| NATIONAL GEO AD FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/national-geographic-abu-dhabi-ae.png" group-title="ARABES  ( العربية)",|AR| NATIONAL GEO AD FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/332
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-name="|AR| NATIONAL GEO AD HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/national-geographic-abu-dhabi-ae.png" group-title="ARABES  ( العربية)",|AR| NATIONAL GEO AD HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1561
+#EXTINF:-1 tvg-id="pluto-tv-teen-series-fr" tvg-name="|AR| HELWA TV FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| HELWA TV FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/45548
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PANORAMA FOOD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PANORAMA FOOD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42022
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL THAQAFEYA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL THAQAFEYA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195260
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL WATHAEQYA FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL WATHAEQYA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195261
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ANIMAL PLANET ARABIA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ANIMAL PLANET ARABIA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5233
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD SCIENTIFIC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD SCIENTIFIC
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5232
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD DOCUMENTARY" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD DOCUMENTARY
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5223
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD NATURAL" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD NATURAL
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7030
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  ISLAMIC ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ AR ▀▄▀▄▀▄  ISLAMIC ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3727
+#EXTINF:-1 tvg-id="" tvg-name="|AR| IQRA" tvg-logo="http://i.imgur.com/TRcKrY9.png" group-title="ARABES  ( العربية)",|AR| IQRA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/523
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD 1 FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD 1 FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7032
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD QURAN" tvg-logo="http://i.imgur.com/nyWnWq8.png" group-title="ARABES  ( العربية)",|AR| AL MAJD QURAN
+http://www.r56mail.com:80/merwanemessfr/r413TTt/270
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD HADITH" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD HADITH
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1766
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ZAD TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ZAD TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7233
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DUA CHANNEL" tvg-logo="" group-title="ARABES  ( العربية)",|AR| DUA CHANNEL
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195362
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="|AR| AL RESALA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL RESALA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/649
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AZHARI" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AZHARI
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195360
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL NADA TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL NADA TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/112047
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SSAD TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SSAD TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195366
+#EXTINF:-1 tvg-id="" tvg-name="|AR| RIYAD AL SALIHIN" tvg-logo="" group-title="ARABES  ( العربية)",|AR| RIYAD AL SALIHIN
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195365
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL NASS TV" tvg-logo="http://i.imgur.com/75ZwdOa.png" group-title="ARABES  ( العربية)",|AR| AL NASS TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/387
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MTA 3" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MTA 3
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195364
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI QURAN HD" tvg-logo="http://i.imgur.com/akthN6N.png" group-title="ARABES  ( العربية)",|AR| SAUDI QURAN HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/272
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI QURAN FHD" tvg-logo="http://i.imgur.com/akthN6N.png" group-title="ARABES  ( العربية)",|AR| SAUDI QURAN FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/762
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL ONS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL ONS
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195358
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL QURAAN EL KAREEM FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL QURAAN EL KAREEM FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89975
+#EXTINF:-1 tvg-id="Sunnah.sa" tvg-name="|AR| SAUDI SUNNA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAUDI SUNNA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/732
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI SUNNA FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAUDI SUNNA FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/724
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL SUNNAH NABAWIYAH FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL SUNNAH NABAWIYAH FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89976
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MENHAG ALNABOWE" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MENHAG ALNABOWE
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195363
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI EL HAJ" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAUDI EL HAJ
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3643
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MAKKAH TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MAKKAH TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/757
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AFRICA TV 1 QURAN" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AFRICA TV 1 QURAN
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195356
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL QURAIN HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL QURAIN HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195374
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BAHRAN QURAN HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| BAHRAN QURAN HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195361
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL ISTIQAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL ISTIQAMA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195357
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MISR QURAN KAREEM" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MISR QURAN KAREEM
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195296
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MANAR" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/al-manar-lb.png" group-title="ARABES  ( العربية)",|AR| AL MANAR
+http://www.r56mail.com:80/merwanemessfr/r413TTt/765
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL INSEN" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL INSEN
+http://www.r56mail.com:80/merwanemessfr/r413TTt/1780
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL BASIRA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL BASIRA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42100
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL RAHMA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL RAHMA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42095
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAFA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAFA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42099
+#EXTINF:-1 tvg-id="" tvg-name="|AR| TANASOH" tvg-logo="" group-title="ARABES  ( العربية)",|AR| TANASOH
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42096
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALIMAN TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ALIMAN TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42076
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ▀▄▀▄▀ [ DIVERS ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ▀▄▀▄▀ [ DIVERS ] ▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195262
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ERITREA TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ERITREA TV
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195263
+#EXTINF:-1 tvg-id="" tvg-name="|AR| HALA LONDON HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| HALA LONDON HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195264
+#EXTINF:-1 tvg-id="" tvg-name="|AR| IFILM ARABIC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| IFILM ARABIC
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195265
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL QANAT 9" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL QANAT 9
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195266
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ▀▄▀▄▀ [ EDUCATION ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ▀▄▀▄▀ [ EDUCATION ] ▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195267
+#EXTINF:-1 tvg-id="" tvg-name="|AR| EGY EDUC 1" tvg-logo="" group-title="ARABES  ( العربية)",|AR| EGY EDUC 1
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195268
+#EXTINF:-1 tvg-id="" tvg-name="|AR| IEN DOROS 01" tvg-logo="" group-title="ARABES  ( العربية)",|AR| IEN DOROS 01
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195269
+#EXTINF:-1 tvg-id="" tvg-name="|AR| IEN TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| IEN TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195270
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MADRASETNA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MADRASETNA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195271
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MADRASETNA 2" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MADRASETNA 2
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195272
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MADRASETNA 3" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MADRASETNA 3
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195273
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ AR ▀▄▀▄▀▄  KIDS ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES  ( العربية)",▀▄ AR ▀▄▀▄▀▄  KIDS ▄▀▄▀▄▀
+http://www.r56mail.com:80/merwanemessfr/r413TTt/3729
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DISNEY JUNIOR HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| DISNEY JUNIOR HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5096
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SPACETOON" tvg-logo="http://i.imgur.com/eHw38xa.png" group-title="ARABES  ( العربية)",|AR| SPACETOON
+http://www.r56mail.com:80/merwanemessfr/r413TTt/568
+#EXTINF:-1 tvg-id="SpaceToon.sa" tvg-name="|AR| SPACETOON FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SPACETOON FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/90005
+#EXTINF:-1 tvg-id="CartoonNetwork.qa" tvg-name="|AR| CARTOON NETWORK ARABIA" tvg-logo="http://i.imgur.com/QznQYb7.png" group-title="ARABES  ( العربية)",|AR| CARTOON NETWORK ARABIA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/414
+#EXTINF:-1 tvg-id="" tvg-name="|AR| CARTOON NETWORK FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| CARTOON NETWORK FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89980
+#EXTINF:-1 tvg-id="" tvg-name="|AR| TOYOR EL JANNAH" tvg-logo="http://i.imgur.com/qG3sWFM.png" group-title="ARABES  ( العربية)",|AR| TOYOR EL JANNAH
+http://www.r56mail.com:80/merwanemessfr/r413TTt/271
+#EXTINF:-1 tvg-id="" tvg-name="|AR| TOYOR BABY" tvg-logo="http://i.imgur.com/tGjib1L.png" group-title="ARABES  ( العربية)",|AR| TOYOR BABY
+http://www.r56mail.com:80/merwanemessfr/r413TTt/534
+#EXTINF:-1 tvg-id="Baraem.qa" tvg-name="|AR| BARAEM HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| BARAEM HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/41999
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BARAEM FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| BARAEM FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/68966
+#EXTINF:-1 tvg-id="" tvg-name="|AR| JEEM HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| JEEM HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42088
+#EXTINF:-1 tvg-id="" tvg-name="|AR| GULLI ARABIC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| GULLI ARABIC
+http://www.r56mail.com:80/merwanemessfr/r413TTt/679
+#EXTINF:-1 tvg-id="" tvg-name="|AR| GULLI BIL ARABI FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| GULLI BIL ARABI FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/89982
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA KIDS HD" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES  ( العربية)",|AR| ROTANA KIDS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42102
+#EXTINF:-1 tvg-id="" tvg-name="|AR| TAHA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| TAHA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195340
+#EXTINF:-1 tvg-id="" tvg-name="|AR| 5 KIDS HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| 5 KIDS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195334
+#EXTINF:-1 tvg-id="" tvg-name="|AR| COOKIES KIDS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| COOKIES KIDS
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195336
+#EXTINF:-1 tvg-id="" tvg-name="|AR| HODHOD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| HODHOD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195337
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ATFAL W MAWAHEB" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ATFAL W MAWAHEB
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195335
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KRAMESH KIDS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| KRAMESH KIDS
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195338
+#EXTINF:-1 tvg-id="" tvg-name="|AR| WANASAT BABY" tvg-logo="" group-title="ARABES  ( العربية)",|AR| WANASAT BABY
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195341
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROYA KIDS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROYA KIDS
+http://www.r56mail.com:80/merwanemessfr/r413TTt/195339
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MAJID KIDS FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/majid-tv-ae.png" group-title="ARABES  ( العربية)",|AR| MAJID KIDS FHD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/42084
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD BASMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD BASMA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/5231
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD TAGHAREED" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD TAGHAREED
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7072
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD RAWDA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD RAWDA
+http://www.r56mail.com:80/merwanemessfr/r413TTt/7090
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD KIDS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD KIDS
+http://www.r56mail.com:80/merwanemessfr/r413TTt/12672
