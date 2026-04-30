@@ -1,11 +1,76 @@
+# سلسلة المسلسلات من ملف MARVEL.TXT (الجزء 1)
+
+```m3u
 #EXTM3U
-#EXTINF:-1,24/7 Series: The Witcher
-https://ssoweb.xyz:443/live/Anfil737/28472890/121320.ts
-#EXTINF:-1,24/7 Series: Breaking Bad
-https://ssoweb.xyz:443/live/Anfil737/28472890/121321.ts
-#EXTINF:-1,24/7 Series: Band Of Brothers
-https://ssoweb.xyz:443/live/Anfil737/28472890/121322.ts
-#EXTINF:-1,24/7 Series: King Of Queens Seasons 1-5
-https://ssoweb.xyz:443/live/Anfil737/28472890/121323.ts
-#EXTINF:-1,24/7 Series: King Of Queens Seasons 6-9
-https://ssoweb.xyz:443/live/Anfil737/28472890/121324.ts
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ PLUTO TV ▀▄ SÉRIES ▄▀▄" tvg-logo="" group-title="PLUTO TV (FRANCE)",▀▄ PLUTO TV ▀▄ SÉRIES ▄▀▄
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201696
+#EXTINF:-1 tvg-id="plutotv_alertecobra" tvg-name="|FR| ALERTE COBRA HD" tvg-logo="https://images.pluto.tv/channels/62f3e4bc08f5ec000744f552/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| ALERTE COBRA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201590
+#EXTINF:-1 tvg-id="plutotv_alertemalibu" tvg-name="|FR| ALERTE À MALIBU HD" tvg-logo="https://images.pluto.tv/channels/60afaa535580be0007ac9ee4/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| ALERTE À MALIBU HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201595
+#EXTINF:-1 tvg-id="plutotv_bbcseries" tvg-name="|FR| BBC SERIES HD" tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG_1771579997925.png" group-title="PLUTO TV (FRANCE)",|FR| BBC SERIES HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201606
+#EXTINF:-1 tvg-id="plutotv_bluebloods" tvg-name="|FR| BLUE BLOODS HD" tvg-logo="https://images.pluto.tv/channels/66f55a9a747bfa0008521859/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| BLUE BLOODS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201588
+#EXTINF:-1 tvg-id="plutotv_znation" tvg-name="|FR| Z NATION HD" tvg-logo="https://images.pluto.tv/channels/66b227b446762a000846c208/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| Z NATION HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201599
+#EXTINF:-1 tvg-id="plutotv_cheers" tvg-name="|FR| CHEERS HD" tvg-logo="https://images.pluto.tv/channels/65cce14060eb870008dbd003/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| CHEERS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201604
+#EXTINF:-1 tvg-id="plutotv_dawson" tvg-name="|FR| DAWSON HD" tvg-logo="https://images.pluto.tv/channels/69aadc5551df9542f2521e1a/colorLogoPNG_1775658935857.png" group-title="PLUTO TV (FRANCE)",|FR| DAWSON HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201584
+#EXTINF:-1 tvg-id="plutotv_degrassi" tvg-name="|FR| DEGRASSI HD" tvg-logo="https://images.pluto.tv/channels/611e71322f5f180007001dde/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| DEGRASSI HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201605
+#EXTINF:-1 tvg-id="plutotv_dianefemmeflic" tvg-name="|FR| DIANE, FEMME FLIC HD" tvg-logo="https://images.pluto.tv/channels/6671b26836a2f90008d9333c/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| DIANE, FEMME FLIC HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201591
+#EXTINF:-1 tvg-id="plutotv_flashpoint" tvg-name="|FR| FLASHPOINT HD" tvg-logo="https://images.pluto.tv/channels/66d71ff86b63480008cf15c5/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| FLASHPOINT HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201587
+#EXTINF:-1 tvg-id="plutotv_flynncarsonettheoutpost" tvg-name="|FR| FLYNN CARSON ET THE OUTPOST HD" tvg-logo="https://images.pluto.tv/channels/68d292d554c61bfff220a635/colorLogoPNG_1761761926608.png" group-title="PLUTO TV (FRANCE)",|FR| FLYNN CARSON ET THE OUTPOST HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201598
+#EXTINF:-1 tvg-id="plutotv_gnrationsitcoms" tvg-name="|FR| GÉNÉRATION SITCOMS HD" tvg-logo="https://images.pluto.tv/channels/60afb203ec391c00070ea1bf/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| GÉNÉRATION SITCOMS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201619
+#EXTINF:-1 tvg-id="plutotv_hlneetlesgarons" tvg-name="|FR| HÉLÈNE ET LES GARÇONS HD" tvg-logo="https://images.pluto.tv/channels/604f8de01b479400078fb1e7/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| HÉLÈNE ET LES GARÇONS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201615
+#EXTINF:-1 tvg-id="plutotv_instantsaga" tvg-name="|FR| INSTANT SAGA HD" tvg-logo="https://images.pluto.tv/channels/60549e98061b5f000776866a/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| INSTANT SAGA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201618
+#EXTINF:-1 tvg-id="plutotv_jag" tvg-name="|FR| JAG HD" tvg-logo="https://images.pluto.tv/channels/65ccd26060eb870008db95fc/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| JAG HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201592
+#EXTINF:-1 tvg-id="plutotv_lemiracledelamour" tvg-name="|FR| LE MIRACLE DE L'AMOUR HD" tvg-logo="https://images.pluto.tv/channels/60549c238c3f21000753d3e0/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| LE MIRACLE DE L'AMOUR HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201616
+#EXTINF:-1 tvg-id="plutotv_lesannesfac" tvg-name="|FR| LES ANNÉES FAC HD" tvg-logo="https://images.pluto.tv/channels/60afae68a7fc50000737186d/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| LES ANNÉES FAC HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201617
+#EXTINF:-1 tvg-id="plutotv_lesfillesdct" tvg-name="|FR| LES FILLES D'À CÔTÉ HD" tvg-logo="https://images.pluto.tv/channels/60549d97cd7b090007c73314/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| LES FILLES D'À CÔTÉ HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201614
+#EXTINF:-1 tvg-id="plutotv_lesroutesduparadis" tvg-name="|FR| LES ROUTES DU PARADIS HD" tvg-logo="https://images.pluto.tv/channels/65cce23bdc10a400080645ad/colorLogoPNG_1759145235227.png" group-title="PLUTO TV (FRANCE)",|FR| LES ROUTES DU PARADIS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201597
+#EXTINF:-1 tvg-id="plutotv_louislabrocante" tvg-name="|FR| LOUIS LA BROCANTE HD" tvg-logo="https://images.pluto.tv/channels/5f8ed6d569d2d4000864a976/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| LOUIS LA BROCANTE HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201612
+#EXTINF:-1 tvg-id="plutotv_macgyver" tvg-name="|FR| MACGYVER HD" tvg-logo="https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| MACGYVER HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201594
+#EXTINF:-1 tvg-id="plutotv_missionimpossible" tvg-name="|FR| MISSION IMPOSSIBLE HD" tvg-logo="https://images.pluto.tv/channels/6671b21ffc3a46000857fe75/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| MISSION IMPOSSIBLE HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201593
+#EXTINF:-1 tvg-id="plutotv_nina" tvg-name="|FR| NINA HD" tvg-logo="https://images.pluto.tv/channels/692ec6d82329c10c5166f436/colorLogoPNG_1771598181775.png" group-title="PLUTO TV (FRANCE)",|FR| NINA HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201609
+#EXTINF:-1 tvg-id="plutotv_plusbellelavie2" tvg-name="|FR| PLUS BELLE LA VIE 2 HD" tvg-logo="https://images.pluto.tv/channels/662a6309307fa30008196b4e/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| PLUS BELLE LA VIE 2 HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201608
+#EXTINF:-1 tvg-id="plutotv_plutotv90sclassics" tvg-name="|FR| PLUTO TV 90'S CLASSICS HD" tvg-logo="https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| PLUTO TV 90'S CLASSICS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201602
+#EXTINF:-1 tvg-id="plutotv_plutotv2010sclassics" tvg-name="|FR| PLUTO TV 2010'S CLASSICS HD" tvg-logo="https://images.pluto.tv/channels/66b498bc14a2bb00086965bc/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| PLUTO TV 2010'S CLASSICS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201601
+#EXTINF:-1 tvg-id="plutotv_plutotvfrenchcollection" tvg-name="|FR| PLUTO TV FRENCH COLLECTION HD" tvg-logo="https://images.pluto.tv/channels/62f3e0522443200008c567d7/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| PLUTO TV FRENCH COLLECTION HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201620
+#EXTINF:-1 tvg-id="plutotv_plutotvsriesfantastiques" tvg-name="|FR| PLUTO TV SÉRIES FANTASTIQUES HD" tvg-logo="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/colorLogoPNG_1775048560569.png" group-title="PLUTO TV (FRANCE)",|FR| PLUTO TV SÉRIES FANTASTIQUES HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201600
+#EXTINF:-1 tvg-id="plutotv_seriesbyplutotv" tvg-name="|FR| SERIES BY PLUTO TV HD" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG_1775048963457.png" group-title="PLUTO TV (FRANCE)",|FR| SERIES BY PLUTO TV HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201607
+#EXTINF:-1 tvg-id="plutotv_startrektheoriginalseries" tvg-name="|FR| STAR TREK: THE ORIGINAL SERIES HD" tvg-logo="https://images.pluto.tv/channels/67b4b3c51a5ca760802cc1c7/colorLogoPNG_1752571349761.png" group-title="PLUTO TV (FRANCE)",|FR| STAR TREK: THE ORIGINAL SERIES HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201596
+#EXTINF:-1 tvg-id="plutotv_toutlemondedtestechris" tvg-name="|FR| TOUT LE MONDE DÉTESTE CHRIS HD" tvg-logo="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png" group-title="PLUTO TV (FRANCE)",|FR| TOUT LE MONDE DÉTESTE CHRIS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201603
+#EXTINF:-1 tvg-id="plutotv_unsigrandsoleil" tvg-name="|FR| UN SI GRAND SOLEIL HD" tvg-logo="https://images.pluto.tv/channels/6683cd0f63a5f20008fb84a3/colorLogoPNG_1749650858325.png" group-title="PLUTO TV (FRANCE)",|FR| UN SI GRAND SOLEIL HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201610
+#EXTINF:-1 tvg-id="plutotv_unvillagefranais" tvg-name="|FR| UN VILLAGE FRANÇAIS HD" tvg-logo="https://images.pluto.tv/channels/6304f2e2eb10450007298023/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| UN VILLAGE FRANÇAIS HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201611
+#EXTINF:-1 tvg-id="plutotv_walkertexasranger" tvg-name="|FR| WALKER TEXAS RANGER HD" tvg-logo="https://images.pluto.tv/channels/60afa749ac7f3200078adb40/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| WALKER TEXAS RANGER HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201589
+#EXTINF:-1 tvg-id="plutotv_plutotvpolar" tvg-name="|FR| PLUTO TV POLAR HD" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" group-title="PLUTO TV (FRANCE)",|FR| PLUTO TV POLAR HD
+http://www.r56mail.com:80/merwanemessfr/r413TTt/201585
