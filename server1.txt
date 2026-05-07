@@ -1,3 +1,1 @@
-http://vipapyenhmw.top:8080
-VIP013011742986209373
-ff9af4bb7d7e
+http://vipapyenhmw.top:8080/get.php?username=VIP013011742986209373&password=ff9af4bb7d7e&type=m3u&output=mpegts
