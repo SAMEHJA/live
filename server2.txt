@@ -1,2 +1,2 @@
-Portal URL: http://esogalaxiusnext.tech
-MAC Address: 00:1A:79:B4:EF:A6
+http://esogalaxiusnext.tech
+00:1A:79:B4:EF:A6
