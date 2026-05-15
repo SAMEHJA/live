@@ -10,5 +10,16 @@ https://ugc-cdn-caching-n312aihntfmbp5vdad.cloudwindow-route.com/engine/hls2/01/
 #EXTINF:-1 tvg-id="Titanic" tvg-logo="https://example.com/posters/titanic.jpg" tvg-name="Titanic (1997)" group-title="Movies",Titanic (1997)
 http://example.com/stream/movies/titanic_1997.mp4
 
+#EXTINF:-1 tvg-id="Frankenstein" tvg-logo="https://www.fushaar.info/media/media/2025/11/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_-229x337.jpg" tvg-name="Frankenstein" group-title="Movies - all",Frankenstein
+https://ugc-cdn-caching-n3vhfrcgzcntzyhsiv.cloudwindow-route.com/engine/hls2-c/01/15959/mjry4cnyerg8_,n,.urlset/index-v1-a1.m3u8?t=OO1CHFcTmjv9xrYbAULH9oPV9dKujVqGewlJw1HBFCs&s=1778885953&e=14400&f=79798292&node=CcG+qOjROgZUTd3yvKUVtqHPJW1rxtjJmbg4P9ekU20=&i=82.102&sp=2500&asn=12975&q=n&rq=UWz3KHMHJ7nL8FCJzGR0w0U1GuX5ifuXta015qC4
+#EXTINF:-1 tvg-id="The Lost Bus" tvg-logo="https://www.fushaar.info/media/media/2025/10/zpygCOYY1DPBkeUsrrznLRN5js5-229x337.webp" tvg-name="The Lost Bus" group-title="Movies - all",The Lost Bus
+
+
+
 #EXTINF:-1 tvg-id="The_Godfather" tvg-logo="https://example.com/posters/godfather.jpg" tvg-name="The Godfather (1972)" group-title="Movies - Classic",The Godfather (1972)
-http://example.com/stream/movies/the_godfather_1972.mp4
+#EXTINF:-1 tvg-id="The_Godfather" tvg-logo="https://example.com/posters/godfather.jpg" tvg-name="The Godfather (1972)" group-title="Movies - Classic",The Godfather (1972)
+#EXTINF:-1 tvg-id="The_Godfather" tvg-logo="https://example.com/posters/godfather.jpg" tvg-name="The Godfather (1972)" group-title="Movies - Classic",The Godfather (1972)
+#EXTINF:-1 tvg-id="Frankenstein" tvg-logo="https://www.fushaar.info/media/media/2025/11/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_-229x337.jpg" tvg-name="Frankenstein" group-title="Movies - all",Frankenstein
+#EXTINF:-1 tvg-id="Frankenstein" tvg-logo="https://www.fushaar.info/media/media/2025/11/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_-229x337.jpg" tvg-name="Frankenstein" group-title="Movies - all",Frankenstein
+#EXTINF:-1 tvg-id="Frankenstein" tvg-logo="https://www.fushaar.info/media/media/2025/11/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_-229x337.jpg" tvg-name="Frankenstein" group-title="Movies - all",Frankenstein
+
