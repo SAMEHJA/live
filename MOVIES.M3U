@@ -1,6 +1,19 @@
-#EXTINF:-1 tvg-ID="Over Your Dead Body" tvg-name="Over Your Dead Body" tvg-logo="https://timothysjohnston.com/wordpress/wp-content/uploads/2026/02/Over-Your-Dead-Body-Poster.jpg"
-https://s3.savefiles.com/hls2/01/00341/i1tr6rb4vogx_n/index-v1-a1.m3u8?t=wVD6D4mZVCxvbVySohVlpRL_RD05nchCTW6GBq4T0AA&s=1778877424&e=43200&v=336481&srv=s1&i=0.0&sp=0
-#EXTINF:-1 tvg-ID="" tvg-name="rosebush pruning " tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYwMTdmYTUtYTkzMi00NmIzLTg4NWQtNGNkN2RhZjE5NGZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="rosebush pruning
-https://be7713.rcr82.waw05.r66nv9ed.com/hls2/06/11293/azs68mxobefv_h/index-v1-a1.m3u8?t=OHLE-pMv8Ja7p1CHoBf1GcysaVSs9HYSQnA7fKmYiLY&s=1778877849&e=10800&f=56467379&srv=1060&asn=12975&sp=4000&p=0
-#EXTINF:-1 tvg-ID="" tvg-name="One Spoon of Chocolate " tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQyZjYwNzgtZGVkZS00NjhlLWExMzktMWJhMGVmMDQ1NWQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="One Spoon of Chocolate
-https://be7713.rcr82.waw05.r66nv9ed.com/hls2/01/11293/a6u7yj04x4a1_h/index-v1-a1.m3u8?t=IJVatbl_zNOC_Tyjk8leFSmuWabCKeWr6QZMosntXIU&s=1778878015&e=10800&f=56466524&srv=1065&asn=12975&sp=4000&p=0
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Black Phone 2" tvg-logo="https://www.fushaar.info/media/media/2025/11/MV5BMWIzYzdkZjMtZGQ2YS00MWNkLWJhN2ItNTNmMzZlOGI5YjkxXkEyXkFqcGc@._V1_-229x337.jpg" tvg-name="Black Phone 2" group-title="Movies - Sci-Fi",Black Phone 2
+https://ugc-cdn-caching-n3mqgdbmysvmw0rswd.cloudwindow-route.com/engine/hls2/01/15891/sqytkoi2cdjv_,n,.urlset/index-v1-a1.m3u8?t=pSpuKqkbVwHE6m-S1ARS70cYFVuwNFzwjlkuj8iuf5w&s=1778881378&e=14400&f=79458686&node=cXF1Td2BBxb1oIni1hcS69YwENb8JnECLm3/oyXZuQ0=&i=82.102&sp=2500&asn=12975&q=n&rq=rsauRJP8PdLQDILKIkjWeNXWFmH7kJ5ayK8PM5TJ
+
+#EXTINF:-1 tvg-id="Inception" tvg-logo="https://example.com/posters/inception.jpg" tvg-name="Inception (2010)" group-title="Movies - Action",Inception (2010)
+http://example.com/stream/movies/inception_2010.mp4
+
+#EXTINF:-1 tvg-id="The_Dark_Knight" tvg-logo="https://example.com/posters/dark_knight.jpg" tvg-name="The Dark Knight (2008)" group-title="Movies - Action",The Dark Knight (2008)
+http://example.com/stream/movies/the_dark_knight_2008.mp4
+
+#EXTINF:-1 tvg-id="Interstellar" tvg-logo="https://example.com/posters/interstellar.jpg" tvg-name="Interstellar (2014)" group-title="Movies - Sci-Fi",Interstellar (2014)
+http://example.com/stream/movies/interstellar_2014.mp4
+
+#EXTINF:-1 tvg-id="Titanic" tvg-logo="https://example.com/posters/titanic.jpg" tvg-name="Titanic (1997)" group-title="Movies - Drama",Titanic (1997)
+http://example.com/stream/movies/titanic_1997.mp4
+
+#EXTINF:-1 tvg-id="The_Godfather" tvg-logo="https://example.com/posters/godfather.jpg" tvg-name="The Godfather (1972)" group-title="Movies - Classic",The Godfather (1972)
+http://example.com/stream/movies/the_godfather_1972.mp4
