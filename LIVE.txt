@@ -1,1 +1,3 @@
-http://xlion.net:80/get.php?username=d8:e0:e1:c0:78:53&password=391844836198&type=m3u_plus
+http://vlc.news:9000
+AhmadAboHamor
+Ff078Dd079Rr077
