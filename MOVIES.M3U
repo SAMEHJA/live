@@ -1,25 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Black Phone 2" tvg-logo="https://www.fushaar.info/media/media/2025/11/MV5BMWIzYzdkZjMtZGQ2YS00MWNkLWJhN2ItNTNmMzZlOGI5YjkxXkEyXkFqcGc@._V1_-229x337.jpg" tvg-name="Black Phone 2" group-title="Black Phone 2
-https://ugc-cdn-caching-n3mqgdbmysvmw0rswd.cloudwindow-route.com/engine/hls2/01/15891/sqytkoi2cdjv_,n,.urlset/index-v1-a1.m3u8?t=pSpuKqkbVwHE6m-S1ARS70cYFVuwNFzwjlkuj8iuf5w&s=1778881378&e=14400&f=79458686&node=cXF1Td2BBxb1oIni1hcS69YwENb8JnECLm3/oyXZuQ0=&i=82.102&sp=2500&asn=12975&q=n&rq=rsauRJP8PdLQDILKIkjWeNXWFmH7kJ5ayK8PM5TJ
-#EXTINF:-1 tvg-id="Inception" tvg-logo="https://example.com/posters/inception.jpg" tvg-name="Inception (2010)" group-title="Movies - Action",Inception (2010)
-http://example.com/stream/movies/inception_2010.mp4
-#EXTINF:-1 tvg-id="Stolen Girl" tvg-logo="https://www.fushaar.info/media/media/2025/10/fZlNXEHZsBp7unqw009MeBbMv87-229x337.webp" tvg-name="Stolen Girl" group-title="Movies - Stolen Girl
-https://ugc-cdn-caching-n3mwnbzmkmgszpn6np.cloudwindow-route.com/engine/hls2/01/15750/8i0t5kj8ardi_,n,.urlset/index-v1-a1.m3u8?t=u9QticwPoYSq-7fQW8TKTE62HWbMjcPgJ4DP7FIRONM&s=1778883043&e=14400&f=78751161&node=YtCZELWUrgGjSsBuDCcxHaEohVPZRWna6MKOrojnO9k=&i=82.102&sp=2500&asn=12975&q=n&rq=UWz3KHMHJ7nL8FCJzGR0w0U1GuX5ifuXta015qC4
-#EXTINF:-1 tvg-id="Affinity" tvg-logo="https://www.fushaar.info/media/media/2025/10/WKwQOPh2mQPRL12jSu2yFHk4A7-229x337.webp" tvg-name="Affinity" group-title="Affinity
-https://ugc-cdn-caching-n312aihntfmbp5vdad.cloudwindow-route.com/engine/hls2/01/15723/8cbcgp4xmgyy_,n,.urlset/index-v1-a1.m3u8?t=knGG0GUw9cdGRx6CSn8fQJWBzHpvWdv3GUXKEwi3Fzs&s=1778883106&e=14400&f=78616718&node=/tPFhwS3ty/ft7gIXFciqVzL8G45bg9r/TKehVOKTuc=&i=82.102&sp=2500&asn=12975&q=n&rq=UWz3KHMHJ7nL8FCJzGR0w0U1GuX5ifuXta015qC4
-#EXTINF:-1 tvg-id="Titanic" tvg-logo="https://example.com/posters/titanic.jpg" tvg-name="Titanic (1997)" group-title="Movies",Titanic (1997)
-http://example.com/stream/movies/titanic_1997.mp4
-
-#EXTINF:-1 tvg-id="Frankenstein" tvg-logo="https://www.fushaar.info/media/media/2025/11/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_-229x337.jpg" tvg-name="Frankenstein" group-title="Movies - all",Frankenstein
-https://ugc-cdn-caching-n3vhfrcgzcntzyhsiv.cloudwindow-route.com/engine/hls2-c/01/15959/mjry4cnyerg8_,n,.urlset/index-v1-a1.m3u8?t=OO1CHFcTmjv9xrYbAULH9oPV9dKujVqGewlJw1HBFCs&s=1778885953&e=14400&f=79798292&node=CcG+qOjROgZUTd3yvKUVtqHPJW1rxtjJmbg4P9ekU20=&i=82.102&sp=2500&asn=12975&q=n&rq=UWz3KHMHJ7nL8FCJzGR0w0U1GuX5ifuXta015qC4
-#EXTINF:-1 tvg-id="The Lost Bus" tvg-logo="https://www.fushaar.info/media/media/2025/10/zpygCOYY1DPBkeUsrrznLRN5js5-229x337.webp" tvg-name="The Lost Bus" group-title="Movies - all",The Lost Bus
-
-
-
-#EXTINF:-1 tvg-id="The_Godfather" tvg-logo="https://example.com/posters/godfather.jpg" tvg-name="The Godfather (1972)" group-title="Movies - Classic",The Godfather (1972)
-#EXTINF:-1 tvg-id="The_Godfather" tvg-logo="https://example.com/posters/godfather.jpg" tvg-name="The Godfather (1972)" group-title="Movies - Classic",The Godfather (1972)
-#EXTINF:-1 tvg-id="The_Godfather" tvg-logo="https://example.com/posters/godfather.jpg" tvg-name="The Godfather (1972)" group-title="Movies - Classic",The Godfather (1972)
-#EXTINF:-1 tvg-id="Frankenstein" tvg-logo="https://www.fushaar.info/media/media/2025/11/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_-229x337.jpg" tvg-name="Frankenstein" group-title="Movies - all",Frankenstein
-#EXTINF:-1 tvg-id="Frankenstein" tvg-logo="https://www.fushaar.info/media/media/2025/11/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_-229x337.jpg" tvg-name="Frankenstein" group-title="Movies - all",Frankenstein
-#EXTINF:-1 tvg-id="Frankenstein" tvg-logo="https://www.fushaar.info/media/media/2025/11/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_-229x337.jpg" tvg-name="Frankenstein" group-title="Movies - all",Frankenstein
-
+#EXTINF:-1 tvg-logo="https://www.fushaar.info/media/media/2025/10/fZlNXEHZsBp7unqw009MeBbMv87-229x337.webp", Stolen Girl
+https://ugc-cdn-caching-n3mwnbzmkmgszpn6np.cloudwindow-route.com/engine/hls2/01/15750/8i0t5kj8ardi_,n,.urlset/index-v1-a1.m3u8?t=kw6QoPmmLZEHgiPlWfs99QMVWa1-dx7_Hbps_3e3_Uo&s=1778931718&e=14400&f=78751161&node=YtCZELWUrgGjSsBuDCcxHaEohVPZRWna6MKOrojnO9k=&i=1.178&sp=2500&asn=12975&q=n&rq=tbrLcEd9ToOaIsrXtsf13N9nup0Pxm8AJRginpaf
+#EXTINF:-1 tvg-logo="https://www.fushaar.info/media/media/2025/11/MV5BNTI0MmFhZWItYTdjMC00MjYxLTkzZDQtNjMxNzM2ZjM3MTFkXkEyXkFqcGc@._V1_-229x337.jpg", Anemone
+https://ugc-cdn-caching-n3l5dervschske6k1j.cloudwindow-route.com/engine/hls2/01/15871/6y0otdvsk6ki_,n,.urlset/index-v1-a1.m3u8?t=EHavNjCibJ07CBKG6pWR1sDSZzt0iGtltdARYJtKsGA&s=1778931793&e=14400&f=79358062&node=JxQn4LI6CUj/L3H+WtvRXUGoa8rNrOI5EKJr5EXRLVc=&i=1.178&sp=2500&asn=12975&q=n&rq=tbrLcEd9ToOaIsrXtsf13N9nup0Pxm8AJRginpaf
+#EXTINF:-1 tvg-logo="https://www.fushaar.info/media/media/2025/10/wobVTa99eW0ht6c1rNNzLkazPtR-229x337.webp", The Long Walk
+https://ugc-cdn-caching-n3wabhgcgpbqjl4ui9.cloudwindow-route.com/engine/hls2/01/15829/esrcbe5a5ljx_,n,.urlset/index-v1-a1.m3u8?t=QpEw37VIvw84U1SCakUlNljxh3yEc25puvn2FwtS3Tk&s=1778932452&e=14400&f=79146852&node=qVDniCaLqTdFa4XnBiGvse8R2Asdvt2nHWvom3h9WMw=&i=1.178&sp=2500&asn=12975&q=n&rq=tbrLcEd9ToOaIsrXtsf13N9nup0Pxm8AJRginpaf
