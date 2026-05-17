@@ -1,4 +1,30 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/98a8c204b-1.jpg", Anniversary
+https://g260.turbosplayer.com/file/02ba918b-6244-45da-a72c-20cb2604ae02/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/2c9cd6fcb-1.jpg", Murder at the Embassy
+https://g239.turbosplayer.com/file/2f808dd6-2a41-49c7-b00a-7ae1be5b4dc9/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/c9eeac937-1.jpg", Kiss of the Spider Woman
+https://g258.turbosplayer.com/file/ac6b75e5-9ab0-4c81-a09c-6f7604d2a074/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/d916fa025-1.jpg", Good Fortune
+https://g261.turbosplayer.com/file/622d752c-9e59-4a29-bcab-4b52466c0f83/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/fba7d06f1-1.jpg", The Strangers Chapter 2
+https://g239.turbosplayer.com/file/cff8f9f7-130e-48b1-9351-3eb6cf3c698a/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/26ac0de63-1.jpg", She Rides Shotgun
+https://g260.turbosplayer.com/file/0279345f-b655-4118-b38c-3fda410c142b/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/fd3dbecad-1.jpg", The Home
+https://g255.turbosplayer.com/file/deedf353-3bd1-448c-b13b-096e28e32c93/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/2574995f4-1.jpg", Whistle
+https://g281.turbosplayer.com/file/72ccd5c0-cfba-4307-a0cf-ff31d7e28a31/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/c50f6cbfa-1.jpg", Mike & Nick & Nick & Alice
+https://g259.turbosplayer.com/file/3d979654-659f-44a4-b078-60e65cf7c99d/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/cedbb81fe-1.jpg", Ready or Not 2: Here I Come
+https://g243.turbosplayer.com/file/03b7caea-f63b-4e07-b575-60306c03df0b/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/0ca151966-1.jpg", Mavka: The True Myth
+https://g259.turbosplayer.com/file/a2fb5ff1-5bd0-432d-9ea0-ae4a135afd29/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/346016f2d-1.jpg", Dreams
+https://g259.turbosplayer.com/file/4fa799ab-01f0-4610-9d10-ecdf517ad20c/master.m3u8
 #EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/456330e2e-1.jpg", If I Had Legs I’d Kick You
 https://g252.turbosplayer.com/file/c83454c0-eaae-487e-b4a7-94babf6d26d4/master.m3u8
 #EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/f00ccf02a-1.jpg", Different Man
