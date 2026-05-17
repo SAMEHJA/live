@@ -1,4 +1,31 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/5559833f7-1.jpg", Harry Potter and the Prisoner of Azkaban
+https://g256.turbosplayer.com/file/3c157e92-22b5-4e9f-bba3-05c0dbfb5887/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/2524db60c-1.jpg", Harry Potter and the Chamber of Secrets
+https://g239.turbosplayer.com/file/0717622b-c2ee-4270-9a79-bd5a3376e2e6/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/66adb6047-1.jpg", Americana 2023
+https://g265.turbosplayer.com/file/9a8b561d-90e9-429b-ab1d-f8944e74fcdc/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/9cee55da9-1.jpg", Star Wars Episode VI Return of the Jedi 1983
+https://g263.turbosplayer.com/file/88616ae9-df1e-4534-a925-cf49fdb824e0/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/3e87b7701-1.jpg", Night Patrol 2025
+https://g243.turbosplayer.com/file/01636824-bdee-45b6-b5ce-ee8a12aef41d/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/9309b59c5-1.jpg", Michael 2026
+https://g266.turbosplayer.com/file/ee719545-c850-49d3-8f2c-81b1354c93df/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/e77c2ede3-1.jpg", The Pout-Pout Fish 2026
+https://g277.turbosplayer.com/file/5c37694d-a833-42db-8153-4126c4fee6f9/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/479f57cdf-1.jpg", Clika 2026
+https://g271.turbosplayer.com/file/d7cc96ee-0f88-4772-98f2-22540dd622f4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/f3bb227f6-1.jpg", Freakier Friday 2025
+https://vsped-store9-vnz.cdnz.quest/hls2/02/00219/0m2sabsr7rgh_l/index-v1-a1.m3u8?t=s4i33tJ0ti6U94ELAcmcsJy8PQNgLqzDk9asiOnypmc&s=1779034611&e=43200&v=939484&i=0.0&sp=0
+#EXTINF:-1 tvg-logo="hhttps://r.cimalight.co/uploads/thumbs/f15249026-1.jpg", Jurassic World Rebirth
+https://hls1.goodstream.one/hls2/01/00043/bdxxxeyghomh_h/index-v1-a1.m3u8?t=5oX3QPCXHde-OnRBYBYzWL9EdW8CzuEXJbNUPzNrhJc&s=1779034652&e=43200&v=293118236&srv=s2&i=0.3&sp=0
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/2f48b12f6-1.jpg", The Idea of You
+https://vsped-store1-lob.cdnz.quest/hls2/01/00176/va3ypxdkyswp_l/index-v1-a1.m3u8?t=-ecDlxRkw7XABkN6RVmg9NqH9VkLdAyNl6lWgI1I6Pc&s=1779034724&e=43200&v=941118&i=0.3&sp=0
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/d41906c05-1.jpg", Peaky Blinders: The Immortal Man
+https://g260.turbosplayer.com/file/6c8e2d0f-db8c-4445-8ef2-7f7f2ab2f84c/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/eee56c08a-1.jpg", The Dark Knight
+https://vroba-store2-qzt.cdnz.quest/hls2/05/00001/9leq15i5h6pn_l/index-v1-a1.m3u8?t=CBLMZm2oYGWWplmxkQfuAql_TmpUuGuBBgGvPTtaLQw&s=1779034787&e=43200&v=172383&i=0.3&sp=0
 #EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/93f5faf43-1.jpg", Kraken 2026
 https://g285.turbosplayer.com/file/1f117f31-4b3d-47f0-b2dd-63b5558cf34a/master.m3u8
 #EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/7b69625ed-1.jpg", The Woman in the White Car
