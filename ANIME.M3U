@@ -1,7 +1,4 @@
 #EXTM3U
-تم تعديل القائمة كما طلبت مع مراعاة أن روابط الحلقات 2 و8 و9 و10 و12 أصبحت بصيغة `.ts` حسب الروابط التي أرفقتها مؤخراً.
-
-```m3u
 #EXTINF:-1 tvg-ID="" tvg-name="Attack on Titan S2 - الحلقة 1" tvg-logo="https://myanimelist.net/images/anime/1710/95650.jpg" group-title="Attack on Titan S2",الحلقة 1
 https://archive.org/download/uiiiiiyfutyf/%D8%A7%D9%86%D9%85%D9%8A%20Shingeki%20no%20Kyojin%20Season%202%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%201%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9%20%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86%20-%20Anime4up.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Attack on Titan S2 - الحلقة 2" tvg-logo="https://myanimelist.net/images/anime/1710/95650.jpg" group-title="Attack on Titan S2",الحلقة 2
