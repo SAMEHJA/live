@@ -1,4 +1,31 @@
 #EXTM3U
+تم تعديل القائمة كما طلبت مع مراعاة أن روابط الحلقات 2 و8 و9 و10 و12 أصبحت بصيغة `.ts` حسب الروابط التي أرفقتها مؤخراً.
+
+```m3u
+#EXTINF:-1 tvg-ID="" tvg-name="Attack on Titan S2 - الحلقة 1" tvg-logo="https://myanimelist.net/images/anime/1710/95650.jpg" group-title="Attack on Titan S2",الحلقة 1
+https://archive.org/download/uiiiiiyfutyf/%D8%A7%D9%86%D9%85%D9%8A%20Shingeki%20no%20Kyojin%20Season%202%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%201%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9%20%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86%20-%20Anime4up.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Attack on Titan S2 - الحلقة 2" tvg-logo="https://myanimelist.net/images/anime/1710/95650.jpg" group-title="Attack on Titan S2",الحلقة 2
+https://archive.org/download/uiiiiiyfutyf/%D8%A7%D9%86%D9%85%D9%8A%20Shingeki%20no%20Kyojin%20Season%202%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%202%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9%20%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86%20-%20Anime4up.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Attack on Titan S2 - الحلقة 3" tvg-logo="https://myanimelist.net/images/anime/1710/95650.jpg" group-title="Attack on Titan S2",الحلقة 3
+https://archive.org/download/uiiiiiyfutyf/%D8%A7%D9%86%D9%85%D9%8A%20Shingeki%20no%20Kyojin%20Season%202%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%203%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9%20%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86%20-%20Anime4up.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Attack on Titan S2 - الحلقة 4" tvg-logo="https://myanimelist.net/images/anime/1710/95650.jpg" group-title="Attack on Titan S2",الحلقة 4
+https://archive.org/download/uiiiiiyfutyf/%D8%A7%D9%86%D9%85%D9%8A%20Shingeki%20no%20Kyojin%20Season%202%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%204%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9%20%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86%20-%20Anime4up.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Attack on Titan S2 - الحلقة 5" tvg-logo="https://myanimelist.net/images/anime/1710/95650.jpg" group-title="Attack on Titan S2",الحلقة 5
+https://archive.org/download/uiiiiiyfutyf/%D8%A7%D9%86%D9%85%D9%8A%20Shingeki%20no%20Kyojin%20Season%202%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%205%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9%20%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86%20-%20Anime4up.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Attack on Titan S2 - الحلقة 6" tvg-logo="https://myanimelist.net/images/anime/1710/95650.jpg" group-title="Attack on Titan S2",الحلقة 6
+https://archive.org/download/uiiiiiyfutyf/%D8%A7%D9%86%D9%85%D9%8A%20Shingeki%20no%20Kyojin%20Season%202%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%206%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9%20%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86%20-%20Anime4up.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Attack on Titan S2 - الحلقة 7" tvg-logo="https://myanimelist.net/images/anime/1710/95650.jpg" group-title="Attack on Titan S2",الحلقة 7
+https://archive.org/download/uiiiiiyfutyf/%D8%A7%D9%86%D9%85%D9%8A%20Shingeki%20no%20Kyojin%20Season%202%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%207%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9%20%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86%20-%20Anime4up.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Attack on Titan S2 - الحلقة 8" tvg-logo="https://myanimelist.net/images/anime/1710/95650.jpg" group-title="Attack on Titan S2",الحلقة 8
+https://archive.org/download/uiiiiiyfutyf/%D8%A7%D9%86%D9%85%D9%8A%20Shingeki%20no%20Kyojin%20Season%202%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%208%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9%20%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86%20-%20Anime4up.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Attack on Titan S2 - الحلقة 9" tvg-logo="https://myanimelist.net/images/anime/1710/95650.jpg" group-title="Attack on Titan S2",الحلقة 9
+https://archive.org/download/uiiiiiyfutyf/%D8%A7%D9%86%D9%85%D9%8A%20Shingeki%20no%20Kyojin%20Season%202%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%209%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9%20%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86%20-%20Anime4up.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Attack on Titan S2 - الحلقة 10" tvg-logo="https://myanimelist.net/images/anime/1710/95650.jpg" group-title="Attack on Titan S2",الحلقة 10
+https://archive.org/download/uiiiiiyfutyf/%D8%A7%D9%86%D9%85%D9%8A%20Shingeki%20no%20Kyojin%20Season%202%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%2010%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9%20%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86%20-%20Anime4up.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Attack on Titan S2 - الحلقة 11" tvg-logo="https://myanimelist.net/images/anime/1710/95650.jpg" group-title="Attack on Titan S2",الحلقة 11
+https://archive.org/download/uiiiiiyfutyf/%D8%A7%D9%86%D9%85%D9%8A%20Shingeki%20no%20Kyojin%20Season%202%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%2011%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9%20%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86%20-%20Anime4up.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Attack on Titan S2 - الحلقة 12 والأخيرة" tvg-logo="https://myanimelist.net/images/anime/1710/95650.jpg" group-title="Attack on Titan S2",الحلقة 12 والأخيرة
+https://archive.org/download/uiiiiiyfutyf/%D8%A7%D9%86%D9%85%D9%8A%20Shingeki%20no%20Kyojin%20Season%202%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%2012%20%D9%88%D8%A7%D9%84%D8%A7%D8%AE%D9%8A%D8%B1%D8%A9%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9%20%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86%20-%20Anime4up.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Attack on Titan S1 - الحلقة 1" tvg-logo="https://myanimelist.net/images/anime/10/47347.jpg" group-title="Attack on Titan S1",الحلقة 1
 https://archive.org/download/arety7576/%D8%A7%D9%86%D9%85%D9%8A%20Shingeki%20no%20Kyojin%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%201%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9%20%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86%20-%20Anime4up.ts
 
@@ -231,6 +258,45 @@ https://archive.org/download/anime-sanka.com-dm-s-2-2019-00-web-dl-1080p-x-265/%
 
 #EXTINF:-1 tvg-ID="" tvg-name="DANMACHI S2 - الحلقة 12" tvg-logo="https://cdn.cultura.com/cdn-cgi/image/width=830/media/pim/TITELIVE/48_9782377174744_1_75.jpg" group-title="DANMACHI S2",الحلقة 12
 https://archive.org/download/anime-sanka.com-dm-s-2-2019-00-web-dl-1080p-x-265/%5BAnimeSanka.com%5D%20DM%20S2%202019%20-%2012%20END%20%5BWeb-DL%20-%201080p%20-%20X265%5D.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 1" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 1
+https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2001%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 2" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 2
+https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2002%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 3" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 3
+https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2003%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 4" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 4
+https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2004%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 5" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 5
+https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2005%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 6" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 6
+https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2006%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 7" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 7
+https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2007%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 8" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 8
+https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2008%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 9" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 9
+https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2009%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 10" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 10
+https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2010%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 11" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 11
+https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2011%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 12" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 12
+https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2012%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 13" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 13
+https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2013%20END%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Dead Account - الحلقة 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx-8ULVLakfJt-QKWHayru4Ehe0-KtV2zJcTQ61tWNHbddh7vUPQ_KB5IsPs5opNlIyRT7pEMC3zykohdv6nmPAdbsozMqt6UVxXTbm4JkzY9b6CCgAmghfm9-g6cGvB_Ngff0HaZFodu11eCJh_pQes7sH9xuqaFLqorJI-2qmUaDwXxmA52L0dH70-U/s1600/DeadAccount.webp" group-title="Dead Account",الحلقة 1
 https://archive.org/download/anime-phoenix.com-dea-acc-s-1-ep-12-end-web-dl-1080p-ar-x-265/%5BAnime-phoenix.com%5D%20Dea%20Acc%20S1%20-%20EP%2001%20%5BWebDL%20-%201080p%20-%20Ar%20-%20x265%5D.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Dead Account - الحلقة 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx-8ULVLakfJt-QKWHayru4Ehe0-KtV2zJcTQ61tWNHbddh7vUPQ_KB5IsPs5opNlIyRT7pEMC3zykohdv6nmPAdbsozMqt6UVxXTbm4JkzY9b6CCgAmghfm9-g6cGvB_Ngff0HaZFodu11eCJh_pQes7sH9xuqaFLqorJI-2qmUaDwXxmA52L0dH70-U/s1600/DeadAccount.webp" group-title="Dead Account",الحلقة 2
@@ -301,43 +367,3 @@ https://archive.org/download/anime-phoenix.com-eig-six-ep-21-blu-ray-1080p-ar-x-
 https://archive.org/download/anime-phoenix.com-eig-six-ep-21-blu-ray-1080p-ar-x-265/%5BAnime-phoenix.com%5D%20Eig-Six%20-%20EP%2022%20%5BBluRay%20-%201080p%20-%20Ar%20-%20x265%5D%20.mkv
 #EXTINF:-1 tvg-ID="" ID="" tvg-name="86 - الحلقة 23" tvg-logo="https://a.storyblok.com/f/178900/564x800/54424a6696/86-live-reading-visual.jpg" group-title="86",الحلقة 23
 https://archive.org/download/anime-phoenix.com-eig-six-ep-21-blu-ray-1080p-ar-x-265/%5BAnime-phoenix.com%5D%20Eig-Six%20-%20EP%2023%20END%20%5BBluRay%20-%201080p%20-%20Ar%20-%20x265%5D%20.mkv
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 1" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 1
-https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2001%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
-
-#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 2" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 2
-https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2002%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
-
-#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 3" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 3
-https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2003%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
-
-#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 4" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 4
-https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2004%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
-
-#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 5" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 5
-https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2005%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
-
-#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 6" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 6
-https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2006%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
-
-#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 7" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 7
-https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2007%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
-
-#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 8" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 8
-https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2008%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
-
-#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 9" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 9
-https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2009%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
-
-#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 10" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 10
-https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2010%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
-
-#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 11" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 11
-https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2011%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
-
-#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 12" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 12
-https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2012%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
-
-#EXTINF:-1 tvg-ID="" tvg-name="DANMACHI - الحلقة 13" tvg-logo="https://thegeekclinic.wordpress.com/wp-content/uploads/2016/07/danmachi.jpg" group-title="DANMACHI",الحلقة 13
-https://archive.org/download/anime-sanka.com-dm-s-1-12-bluray-1080p-ar-x-265/%5BAnimeSanka.com%5D%20DM%20S1%20-%2013%20END%20%5BBluray%20-%201080p%20-%20Ar%20-%20X265%5D.mkv
