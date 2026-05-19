@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="Kaijuu 8-gou - الحلقة 1" tvg-logo="https://cdn.myanimelist.net/images/anime/1370/140362.jpg" group-title="Kaijuu 8-gou",الحلقة 1
+https://archive.org/download/f-3_20260519/F1.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kaijuu 8-gou - الحلقة 2" tvg-logo="https://cdn.myanimelist.net/images/anime/1370/140362.jpg" group-title="Kaijuu 8-gou",الحلقة 2
+https://archive.org/download/f-3_20260519/F2.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kaijuu 8-gou - الحلقة 3" tvg-logo="https://cdn.myanimelist.net/images/anime/1370/140362.jpg" group-title="Kaijuu 8-gou",الحلقة 3
+https://archive.org/download/f-3_20260519/F3.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kaijuu 8-gou - الحلقة 4" tvg-logo="https://cdn.myanimelist.net/images/anime/1370/140362.jpg" group-title="Kaijuu 8-gou",الحلقة 4
+https://archive.org/download/f-3_20260519/F4.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kaijuu 8-gou - الحلقة 5" tvg-logo="https://cdn.myanimelist.net/images/anime/1370/140362.jpg" group-title="Kaijuu 8-gou",الحلقة 5
+https://archive.org/download/f-3_20260519/F5.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kaijuu 8-gou - الحلقة 6" tvg-logo="https://cdn.myanimelist.net/images/anime/1370/140362.jpg" group-title="Kaijuu 8-gou",الحلقة 6
+https://archive.org/download/f-3_20260519/F6.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kaijuu 8-gou - الحلقة 7" tvg-logo="https://cdn.myanimelist.net/images/anime/1370/140362.jpg" group-title="Kaijuu 8-gou",الحلقة 7
+https://archive.org/download/f-3_20260519/F7.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kaijuu 8-gou - الحلقة 8" tvg-logo="https://cdn.myanimelist.net/images/anime/1370/140362.jpg" group-title="Kaijuu 8-gou",الحلقة 8
+https://archive.org/download/f-3_20260519/F8.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kaijuu 8-gou - الحلقة 9" tvg-logo="https://cdn.myanimelist.net/images/anime/1370/140362.jpg" group-title="Kaijuu 8-gou",الحلقة 9
+https://archive.org/download/f-3_20260519/F9.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kaijuu 8-gou - الحلقة 10" tvg-logo="https://cdn.myanimelist.net/images/anime/1370/140362.jpg" group-title="Kaijuu 8-gou",الحلقة 10
+https://archive.org/download/f-3_20260519/F10.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kaijuu 8-gou - الحلقة 11" tvg-logo="https://cdn.myanimelist.net/images/anime/1370/140362.jpg" group-title="Kaijuu 8-gou",الحلقة 11
+https://archive.org/download/f-3_20260519/F11.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kaijuu 8-gou - الحلقة 12" tvg-logo="https://cdn.myanimelist.net/images/anime/1370/140362.jpg" group-title="Kaijuu 8-gou",الحلقة 12
+https://archive.org/download/f-3_20260519/F12.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Akudama Drive - الحلقة 1" tvg-logo="https://cdn.myanimelist.net/images/anime/1468/109172.jpg" group-title="Akudama Drive",الحلقة 1
 https://archive.org/download/w-2_20260518/W1.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Akudama Drive - الحلقة 2" tvg-logo="https://cdn.myanimelist.net/images/anime/1468/109172.jpg" group-title="Akudama Drive",الحلقة 2
@@ -645,3 +669,42 @@ https://archive.org/download/anime-phoenix.com-dev-may-cry-s-1-ep-05-web-dl-1080
 https://archive.org/download/anime-phoenix.com-dev-may-cry-s-1-ep-05-web-dl-1080p-ar-x-265/%5BAnime-Phoenix.com%5D%20Dev%20May%20Cry%20S1%20-%20EP%2007%20%5BWebDL%20-%201080p%20-%20Ar%20-%20x265%5D.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Devil May Cry - الحلقة 8" tvg-logo="https://cdn.myanimelist.net/images/anime/4/26417.jpg" group-title="Devil May Cry",الحلقة 8
 https://archive.org/download/anime-phoenix.com-dev-may-cry-s-1-ep-05-web-dl-1080p-ar-x-265/%5BAnime-Phoenix.com%5D%20Dev%20May%20Cry%20S1%20-%20EP%2008%20END%20%5BWebDL%20-%201080p%20-%20Ar%20-%20x265%5D.mkv
+آسف على سوء الفهم السابق. الآن فهمت أنك تريد تعديل بيانات M3U كاملة، مع تغيير الاسم والصورة وإدراج جميع الروابط (بما فيها المكررة) بترقيم متسلسل. إليك النتيجة:
+#EXTINF:-1 tvg-ID="" tvg-name="Vampire Dormitory - الحلقة 1" tvg-logo="https://cdn.myanimelist.net/images/anime/1375/141863.jpg" group-title="Vampire Dormitory",الحلقة 1
+https://archive.org/download/i-3_20260519/I1.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vampire Dormitory - الحلقة 2" tvg-logo="https://cdn.myanimelist.net/images/anime/1375/141863.jpg" group-title="Vampire Dormitory",الحلقة 2
+https://archive.org/download/i-3_20260519/I2.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vampire Dormitory - الحلقة 3" tvg-logo="https://cdn.myanimelist.net/images/anime/1375/141863.jpg" group-title="Vampire Dormitory",الحلقة 3
+https://archive.org/download/i-3_20260519/I3.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vampire Dormitory - الحلقة 4" tvg-logo="https://cdn.myanimelist.net/images/anime/1375/141863.jpg" group-title="Vampire Dormitory",الحلقة 4
+https://archive.org/download/i-3_20260519/I4.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vampire Dormitory - الحلقة 5" tvg-logo="https://cdn.myanimelist.net/images/anime/1375/141863.jpg" group-title="Vampire Dormitory",الحلقة 5
+https://archive.org/download/i-3_20260519/I5.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vampire Dormitory - الحلقة 6" tvg-logo="https://cdn.myanimelist.net/images/anime/1375/141863.jpg" group-title="Vampire Dormitory",الحلقة 6
+https://archive.org/download/i-3_20260519/I6.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vampire Dormitory - الحلقة 7" tvg-logo="https://cdn.myanimelist.net/images/anime/1375/141863.jpg" group-title="Vampire Dormitory",الحلقة 7
+https://archive.org/download/i-3_20260519/I7.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vampire Dormitory - الحلقة 8" tvg-logo="https://cdn.myanimelist.net/images/anime/1375/141863.jpg" group-title="Vampire Dormitory",الحلقة 8
+https://archive.org/download/i-3_20260519/I8.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vampire Dormitory - الحلقة 9" tvg-logo="https://cdn.myanimelist.net/images/anime/1375/141863.jpg" group-title="Vampire Dormitory",الحلقة 9
+https://archive.org/download/i-3_20260519/I9.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vampire Dormitory - الحلقة 10" tvg-logo="https://cdn.myanimelist.net/images/anime/1375/141863.jpg" group-title="Vampire Dormitory",الحلقة 10
+https://archive.org/download/i-3_20260519/I10.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vampire Dormitory - الحلقة 11" tvg-logo="https://cdn.myanimelist.net/images/anime/1375/141863.jpg" group-title="Vampire Dormitory",الحلقة 11
+https://archive.org/download/i-3_20260519/I11.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vampire Dormitory - الحلقة 12" tvg-logo="https://cdn.myanimelist.net/images/anime/1375/141863.jpg" group-title="Vampire Dormitory",الحلقة 12
+https://archive.org/download/i-3_20260519/I12.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vampire Dormitory - الحلقة 13" tvg-logo="https://cdn.myanimelist.net/images/anime/1375/141863.jpg" group-title="Vampire Dormitory",الحلقة 13
+https://archive.org/download/i-3_20260519/I3.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vampire Dormitory - الحلقة 14" tvg-logo="https://cdn.myanimelist.net/images/anime/1375/141863.jpg" group-title="Vampire Dormitory",الحلقة 14
+https://archive.org/download/i-3_20260519/I4.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vampire Dormitory - الحلقة 15" tvg-logo="https://cdn.myanimelist.net/images/anime/1375/141863.jpg" group-title="Vampire Dormitory",الحلقة 15
+https://archive.org/download/i-3_20260519/I5.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vampire Dormitory - الحلقة 16" tvg-logo="https://cdn.myanimelist.net/images/anime/1375/141863.jpg" group-title="Vampire Dormitory",الحلقة 16
+https://archive.org/download/i-3_20260519/I6.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vampire Dormitory - الحلقة 17" tvg-logo="https://cdn.myanimelist.net/images/anime/1375/141863.jpg" group-title="Vampire Dormitory",الحلقة 17
+https://archive.org/download/i-3_20260519/I7.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vampire Dormitory - الحلقة 18" tvg-logo="https://cdn.myanimelist.net/images/anime/1375/141863.jpg" group-title="Vampire Dormitory",الحلقة 18
+https://archive.org/download/i-3_20260519/I8.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vampire Dormitory - الحلقة 19" tvg-logo="https://cdn.myanimelist.net/images/anime/1375/141863.jpg" group-title="Vampire Dormitory",الحلقة 19
+https://archive.org/download/i-3_20260519/I9.mkv
