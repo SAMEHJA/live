@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/01beacba0-1.jpg", The Truth and Tragedy of Moriah Wilson
+https://g261.turbosplayer.com/file/5972b562-4f16-4c0e-a6eb-d4507ca14cc8/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/03a681caa-1.jpg", Feel My Voice 2026
+https://g256.turbosplayer.com/file/35e06c48-9128-4924-a91e-30d97c50cf9d/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/5dcecee4b-1.jpg", Red Riding
+https://g252.turbosplayer.com/file/5f40981b-aa0c-4c2a-869b-be67a9862361/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/f41dfc01a-1.jpg", The Secret Agent
+https://g267.turbosplayer.com/file/9a8cb419-8471-428f-8a68-b5401614d5cb/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/e00a8b20d-1.jpg", Starbright 2026
 #EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/73798b8a1-1.jpg", Pinecone 2026
 https://g260.turbosplayer.com/file/702e1889-7d3c-45f0-9935-e249aae8b730/master.m3u8
 #EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/c9d5db36b-1.jpg", Capture 2026
