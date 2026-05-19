@@ -1,4 +1,40 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/73798b8a1-1.jpg", Pinecone 2026
+https://g260.turbosplayer.com/file/702e1889-7d3c-45f0-9935-e249aae8b730/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/c9d5db36b-1.jpg", Capture 2026
+https://g243.turbosplayer.com/file/f590a602-b8b5-4c9f-8131-83921dd5ccd0/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/68c3d53ae-1.jpg", Calle Málaga 2025
+https://g284.turbosplayer.com/file/f5826c6e-9790-40f5-8c58-d222f0c81722/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/655372d23-1.jpg", Rescued by Faith: The Connie and Larry Van Oosten Story
+https://g258.turbosplayer.com/file/9c901c30-3177-4dc0-b472-13b82e006e3f/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/5d6e42fd1-1.jpg", The Carpenter’s Son 2025
+https://g255.turbosplayer.com/file/4311073f-a5b1-45ee-afb8-6b319cd1babe/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/053d52683-1.jpg", Out Standing 2025
+https://g282.turbosplayer.com/file/4f51c1b3-f19e-4ef4-a6a0-4f82d5036edc/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/6e630915f-1.jpg", Infiltrate 2026
+https://g246.turbosplayer.com/file/fe98861f-82e7-4d5d-8b16-f21601c053aa/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/d88373ecd-1.jpg", Concrete Market 2025
+https://g249.turbosplayer.com/file/fdece96d-5145-49be-8cf6-8080690580f6/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/0e9956afd-1.jpg", Outcome 2026
+https://g270.turbosplayer.com/file/ad90dde0-d35f-4256-971c-813cb7bc23aa/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/8476056a2-1.jpg", Thrash 2026
+https://afast-store2-lmy.cdnz.quest/hls2/02/00055/kz82abluj52r_n/index-v1-a1.m3u8?t=D7i9B3snz6sGZalEFLuDyEDJ4K0qrfpsgaEcWckih78&s=1779190146&e=18000&v=127207828&i=0.3&sp=0
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/9522c0106-1.jpg", Wasteman 2025
+https://be7713.rcr82.waw05.r66nv9ed.com/hls2/01/11081/fymr16ef0aj9_h/index-v1-a1.m3u8?t=PT3QHhhFYvihcwVncltoh6-H-0Kjk8d6zCfswxsd6nI&s=1779190211&e=10800&f=55409361&srv=1050&asn=12975&sp=4000&p=0
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/b2440b224-1.jpg", 18th Rose 2026
+https://yourcontent.cloud/hls2/01/00002/41xqtwvcnpnd_l/index-v1-a1.m3u8?t=bKT3FRVjfRhk4j81p4uDMNyLPi1TRdv80qz2OXo6CpY&s=1779190271&e=43200&v=8585280&i=0.3&sp=0
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/3d3fd3a17-1.jpg", Noise 2024
+https://g249.turbosplayer.com/file/dea4dd70-24d5-4a1c-b8ab-2e036787e0ed/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/bf0d921b8-1.jpg", In Your Dreams 2025
+https://g242.turbosplayer.com/file/30f23e3a-7473-47f3-bf0e-c8a5f19095f2/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/08ebaa4cf-1.jpg", Countdown 2019
+https://callistanise.com/stream/chGFFkptVKv45eR9n-8aUQ/hjkrhuihghfvu/1779233607/9452301/index-f2-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/5f800671f-1.jpg", The Ugly Stepsister 2025
+https://g252.turbosplayer.com/file/3a8c7004-a319-467f-bbd4-3d82b972c238/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/2395afd19-1.jpg", Star Wars Episode I The Phantom Menace 1999
+https://g265.turbosplayer.com/file/209a0e7e-78a5-4113-a650-00a8d5db5ec5/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/59d43c523-1.jpg", Star Wars Episode III Revenge of the Sith 2005
 https://g257.turbosplayer.com/file/6b9ab43a-a304-4eac-9f30-feea7e6cf95d/master.m3u8
 #EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/e4ea39ff2-1.jpg", Rogue One A Star Wars Story 2016
