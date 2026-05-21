@@ -1,4 +1,45 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/809f3d275-1.jpg", New Fears Eve
+https://g246.turbosplayer.com/file/1b403899-3f61-49fa-8957-ceff584d96ac/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/8da63ec26-1.jpg", The Calling Witch 2026
+https://g264.turbosplayer.com/file/bd4d0f75-7fcf-4cc1-a78b-4fc5f21d4e06/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/01d8eeb9c-1.jpg", We Bury the Dead 2026
+https://g269.turbosplayer.com/file/309e9ebe-7e02-4b5b-bea0-9fb73fb9cfc8/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/54dcde8fe-1.jpg", Hamnet 2025
+https://g249.turbosplayer.com/file/4c1131dd-74d1-4448-a95f-3052e7ac2bdc/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/40db944cd-1.jpg", Mirrors No 3 2025
+https://g253.turbosplayer.com/file/a313f19c-ba71-4c47-903c-0c5fdf002065/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/39c2a876d-1.jpg", Pig Hill 2025
+https://g250.turbosplayer.com/file/00367d3f-5598-4612-ad00-9832a05203fd/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/a8d3a3bbd-1.jpg", Do You Fear What I Fear 2025
+https://g252.turbosplayer.com/file/cebab72c-2a51-4c76-bff2-d429821a2541/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/edff6d3d6-1.jpg", Darwin 2025
+https://g246.turbosplayer.com/file/7966b474-b244-45a0-8f74-066abdb209a9/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/20956f11c-1.jpg", Red Plague 2025
+https://g244.turbosplayer.com/file/26bc5443-350f-4ea4-b4f2-a0605f455611/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/53a1f0967-1.jpg", Tormento 2025
+https://g241.turbosplayer.com/file/2bff3dca-8176-4beb-b41b-c08257028dbf/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/20368b705-1.jpg", My Sister’s Bones 2026
+https://g241.turbosplayer.com/file/07e9b145-d795-4b7e-b762-bd9191d0bef2/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/8e826d63b-1.jpg", Bury ‘Em Deep 2025
+https://g245.turbosplayer.com/file/58cfca73-76cb-49ac-9a37-a6ba6c9a234b/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/53f89aab2-1.jpg", Blackout 2026
+https://g249.turbosplayer.com/file/cc278457-457d-4b5d-8116-2def30faf2e6/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/7dfe85e25-1.jpg", The Night Time World 2025
+https://g270.turbosplayer.com/file/a9618307-1530-4899-9753-113ce17f3ede/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/b22e88354-1.jpg", Dead to Rights 2025
+https://g268.turbosplayer.com/file/0a2bdc5c-0e9f-483c-8ac3-b9156dbe366c/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/8ffef897e-1.jpg", Mama Pesan Dari Neraka 2025
+https://g240.turbosplayer.com/file/97b27912-8492-4d73-9242-65a513843ee6/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/e2b9c5efe-1.jpg", Sukma 2025
+https://g266.turbosplayer.com/file/bd6ad141-d43c-41db-a76b-b5eac24d713a/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/92d68f28e-1.jpg", Taste and Tears 2025
+https://g266.turbosplayer.com/file/bca7f90a-13c3-406b-9663-8f0da4109fdf/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/0f1819b54-1.jpg", Dhurandhar 2025
+https://g258.turbosplayer.com/file/c3034613-8b68-4efe-b17b-9beb444b0636/master.m3u8
+#EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/eb5cf23eb-1.jpg", Portal in the Pines 2025
+https://g246.turbosplayer.com/file/936da47a-30b2-473b-94e3-129aa86734b4/master.m3u8
 #EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/d4517b64c-1.jpg", A Fisherman’s Tale 2024
 https://g241.turbosplayer.com/file/a6a2ca19-8234-43f7-95f8-8bd54f171464/master.m3u8
 #EXTINF:-1 tvg-logo="https://r.cimalight.co/uploads/thumbs/528d83641-1.jpg", Kissing Is the Easy Part 2026
