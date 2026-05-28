@@ -1,6 +1,210 @@
 {
   "movies": [
     {
+    "title": "Bungou Stray Dogs: Dead Apple",
+    "logo": "https://r.cimalight.co/uploads/thumbs/25e7b8d51-1.jpg",
+    "url": "https://g259.turbosplayer.com/file/7f6fe364-f333-4d44-8349-2111b718e755/master.m3u8",
+    "genre": "Animation"
+  },
+  {
+    "title": "The Beast of Trinity Texas",
+    "logo": "https://r.cimalight.co/uploads/thumbs/9cd2b34ae-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/cb9f1e11-65c0-47c4-8ec1-3c88c4ca7a39/master.m3u8",
+    "genre": "Horror"
+  },
+  {
+    "title": "Violent Ends",
+    "logo": "https://r.cimalight.co/uploads/thumbs/27a4f7bdd-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/cca196fc-9f97-4637-a13b-f7b816f7bba6/master.m3u8",
+    "genre": "Action"
+  },
+  {
+    "title": "Haq",
+    "logo": "https://r.cimalight.co/uploads/thumbs/cac1bf4e2-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/ad2d9637-a3e4-495f-880f-eba1d8965952/master.m3u8",
+    "genre": "Drama"
+  },
+  {
+    "title": "Chris Hemsworth: A Road Trip to Remember",
+    "logo": "https://r.cimalight.co/uploads/thumbs/d30db85ca-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/79453b11-82fa-4418-a227-3567a057c868/master.m3u8",
+    "genre": "Documentary"
+  },
+  {
+    "title": "Relay 2024",
+    "logo": "https://r.cimalight.co/uploads/thumbs/53b32350a-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/899660a4-c8f4-457d-93c9-81d5d6b48c5a/master.m3u8",
+    "genre": "Thriller"
+  },
+  {
+    "title": "The Cobbler 2014",
+    "logo": "https://r.cimalight.co/uploads/thumbs/4fe90931b-1.jpg",
+    "url": "https://g259.turbosplayer.com/file/070a09b1-8841-436c-8af8-65748ca7970d/master.m3u8",
+    "genre": "Comedy"
+  },
+  {
+    "title": "The Day After Tomorrow",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c6dbb0f70-1.jpg",
+    "url": "https://g261.turbosplayer.com/file/c7964dcd-c2fd-4113-aabe-0cefae742b06/master.m3u8",
+    "genre": "Sci-Fi"
+  },
+  {
+    "title": "The Eagle",
+    "logo": "https://r.cimalight.co/uploads/thumbs/dde8d9c89-1.jpg",
+    "url": "https://g246.turbosplayer.com/file/57fa23b5-d967-4019-91b0-640a2b4a8f6e/master.m3u8",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The Evil Dead 1981",
+    "logo": "https://r.cimalight.co/uploads/thumbs/84a1807a5-1.jpg",
+    "url": "https://g264.turbosplayer.com/file/2c433d3c-439d-40b4-a90e-e68ae2471366/master.m3u8",
+    "genre": "Horror"
+  },
+  {
+    "title": "The Founder 2016",
+    "logo": "https://r.cimalight.co/uploads/thumbs/9f5216d07-1.jpg",
+    "url": "https://g245.turbosplayer.com/file/e151659b-0af9-4d8a-9085-3ecd74a5ead3/master.m3u8",
+    "genre": "Biography"
+  },
+  {
+    "title": "The Judge 2014",
+    "logo": "https://r.cimalight.co/uploads/thumbs/19937fc2e-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/6db3c083-4c5f-434f-b8e9-3a9236412e66/master.m3u8",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Kid Who Would Be King 2019",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b1f916fe1-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/511d9907-7812-4a69-878f-970431848a90/master.m3u8",
+    "genre": "Family"
+  },
+  {
+    "title": "The Other Guys 2010",
+    "logo": "https://r.cimalight.co/uploads/thumbs/9886ff0e9-1.jpg",
+    "url": "https://g244.turbosplayer.com/file/0e9cd3f4-ec40-4db9-88f0-296a2d224066/master.m3u8",
+    "genre": "Comedy"
+  },
+  {
+    "title": "The Mummy: Tomb of the Dragon Emperor 2008",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c939d2665-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/97e9f2fa-e781-4945-be4f-a32ca02f4746/master.m3u8",
+    "genre": "Action"
+  },
+  {
+    "title": "The Mummy 1999",
+    "logo": "https://r.cimalight.co/uploads/thumbs/a125d8ae9-1.jpg",
+    "url": "https://g263.turbosplayer.com/file/3a1ae540-0aae-4915-bca6-265b408ef3da/master.m3u8",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The Mummy Returns 2001",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3655e7ddc-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/50684765-51e0-4a42-9f9d-a03fd7fa05a2/master.m3u8",
+    "genre": "Action"
+  },
+  {
+    "title": "The Postcard Killings 2020",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ab67fdd5b-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/12b89a13-081a-4203-bd62-f60a6f46479f/master.m3u8",
+    "genre": "Crime"
+  },
+  {
+    "title": "Trainspotting 1996",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c613cbc02-1.jpg",
+    "url": "https://g266.turbosplayer.com/file/6046b0b3-135b-42f1-bb08-8e1178c91f86/master.m3u8",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Final Girls 2015",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e17583ea1-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/878a4edd-44ca-4a58-8854-b5ef6604e564/master.m3u8",
+    "genre": "Comedy"
+  },
+  {
+    "title": "The Departed 2006",
+    "logo": "https://r.cimalight.co/uploads/thumbs/2f37ac431-1.jpg",
+    "url": "https://g266.turbosplayer.com/file/15b72b22-997d-4276-979a-3638c8b0e8fb/master.m3u8",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Tiger 2025",
+    "logo": "https://r.cimalight.co/uploads/thumbs/45e904bbb-1.jpg",
+    "url": "https://g263.turbosplayer.com/file/95ef381d-d887-4db3-80a8-44db6ffe1904/master.m3u8",
+    "genre": "Action"
+  },
+  {
+    "title": "Follow My Voice 2025",
+    "logo": "https://r.cimalight.co/uploads/thumbs/9e32d01f8-1.jpg",
+    "url": "https://g240.turbosplayer.com/file/9903d8b1-cab9-4dad-a561-47f832b6aae0/master.m3u8",
+    "genre": "Drama"
+  },
+  {
+    "title": "Our Girls 2025",
+    "logo": "https://r.cimalight.co/uploads/thumbs/d69069bcf-1.jpg",
+    "url": "https://g267.turbosplayer.com/file/d2d0bf0d-7cc0-407b-93dc-5e2d24c41857/master.m3u8",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Light Within 2024",
+    "logo": "https://r.cimalight.co/uploads/thumbs/bbe7c0f6a-1.jpg",
+    "url": "https://g244.turbosplayer.com/file/f5c6ae5e-9add-4f40-91cd-c34be6d757f6/master.m3u8",
+    "genre": "Romance"
+  },
+  {
+    "title": "Unseen Enemy 2025",
+    "logo": "https://r.cimalight.co/uploads/thumbs/f2ad27800-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/57c369f1-29d2-429d-b8ea-72a19347e082/master.m3u8",
+    "genre": "Thriller"
+  },
+  {
+    "title": "Mr. & Mrs. Aslan 2025",
+    "logo": "https://r.cimalight.co/uploads/thumbs/65b9979fb-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/28d471bb-2c3d-45bb-9640-3ec45961e929/master.m3u8",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Hazel 2025",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ea460f843-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/31d1ab86-8af3-4d56-9528-03ed89a9c330/master.m3u8",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Talent 2025",
+    "logo": "https://r.cimalight.co/uploads/thumbs/55b5cb79a-1.jpg",
+    "url": "https://g264.turbosplayer.com/file/769c5068-842e-4576-9bcd-7d60f1d515de/master.m3u8",
+    "genre": "Music"
+  },
+  {
+    "title": "The War Between 2025",
+    "logo": "https://r.cimalight.co/uploads/thumbs/65ddfbc01-1.jpg",
+    "url": "https://g266.turbosplayer.com/file/62f14593-3ddf-46b8-98a4-656647e56805/master.m3u8",
+    "genre": "War"
+  },
+  {
+    "title": "Pets on a Train 2025",
+    "logo": "https://r.cimalight.co/uploads/thumbs/17ee248a4-1.jpg",
+    "url": "https://g245.turbosplayer.com/file/46a4f9dd-afc1-4e6b-8bcf-f3c79760082f/master.m3u8",
+    "genre": "Animation"
+  },
+  {
+    "title": "Interview with the Vampire: The Vampire Chronicles",
+    "logo": "https://r.cimalight.co/uploads/thumbs/39520cb8b-1.jpg",
+    "url": "https://g267.turbosplayer.com/file/bc3d07ff-c648-4f92-a330-c93102526dbc/master.m3u8",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "Gran Torino 2008",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b77fec1e4-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/9c45e0b8-68b4-4e49-a7a6-9fe6b7e6c72f/master.m3u8",
+    "genre": "Drama"
+  },
+  {
+    "title": "Independence Day: Resurgence 2016",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e41052806-1.jpg",
+    "url": "https://afast-store2-lmy.cdnz.quest/hls2/01/00051/clerfriqx6k0_n/index-v1-a1.m3u8?t=st2iWgvuomPNWkjNyjWc0mLMe4jJmbLiv8YIv4-Xdz8&s=1779990533&e=18000&v=129640958&i=0.3&sp=0",
+    "genre": "Sci-Fi"
+  }
+]
       "title": "Dhurandhar 2025",
       "logo": "https://r.cimalight.co/uploads/thumbs/0f1819b54-1.jpg",
       "url": "https://g258.turbosplayer.com/file/c3034613-8b68-4efe-b17b-9beb444b0636/master.m3u8",
