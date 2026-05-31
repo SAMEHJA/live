@@ -118,7 +118,7 @@
   {
     "title": "Under the Stars",
     "url": "https://g238.turbosplayer.com/file/58b0a27a-318e-4ea1-8c09-e0e9933fb700/master.m3u8",
-    "genre": ["رومانسي"]
+    "genre": "رومانسي"
   },
   {
     "title": "Transformers: Age of Extinction",
@@ -178,7 +178,7 @@
   {
     "title": "Car Show Kings",
     "url": "https://g260.turbosplayer.com/file/7353ea4e-8cd7-4558-a69e-cf1b1d2c0989/master.m3u8",
-    "genre": ["وثائقي"]
+    "genre": "وثائقي"
   },
   {
     "title": "Tendaberry",
@@ -228,7 +228,7 @@
   {
     "title": "The Night My Dad Saved Christmas 2",
     "url": "https://g242.turbosplayer.com/file/b01cd06d-19aa-4bb8-bf0e-41e0a0d1ed5b/master.m3u8",
-    "genre": ["عائلي", "كوميدي"]
+    "genre": "عائلي", "كوميدي"
   },
   {
     "title": "House on Eden",
