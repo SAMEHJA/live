@@ -1,6 +1,1644 @@
 {
   "movies": [
     {
+          "title": "Putin",
+    "logo": "https://r.cimalight.co/uploads/thumbs/937d46aaf-1.jpg",
+    "url": "https://g250.turbosplayer.com/file/309c1d69-2fea-4a4c-922c-4182a2315662/master.m3u8",
+    "genre": "وثائقي"
+  },
+  {
+    "title": "Kannappa",
+    "logo": "https://r.cimalight.co/uploads/thumbs/72a04cc8d-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/6f9db1fb-f74d-4a53-8fb1-9429791b3471/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Killing Faith",
+    "logo": "https://r.cimalight.co/uploads/thumbs/79da5622a-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/572078e0-d127-4798-af6d-249ed1f44612/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Gypsy Moon",
+    "logo": "https://r.cimalight.co/uploads/thumbs/81e78c5b5-1.jpg",
+    "url": "https://vroba-store2-qzt.cdnz.quest/hls2/04/00088/ldmaefcdfa51_l/index-v1-a1.m3u8?t=jDcOmnsrHC9n3kpOpWBdp7at6a5mHhpumllGNUVF9Ps&s=1780485516&e=43200&v=109733&i=0.3&sp=0",
+    "genre": "دراما"
+  },
+  {
+    "title": "J I A The Justice Intelligence Agency",
+    "logo": "https://r.cimalight.co/uploads/thumbs/86ec586ef-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/610cf34c-d05e-46b7-9c59-9ebb69713de0/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Sovereign",
+    "logo": "https://r.cimalight.co/uploads/thumbs/72df306ec-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/07bc8cb1-e749-4775-a2fc-3b7d5376c917/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "No Tears in Hell",
+    "logo": "https://r.cimalight.co/uploads/thumbs/83cdf9a9b-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/4a54aa20-48c6-4d42-bcf7-f773ef485f87/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "The Sticks",
+    "logo": "https://r.cimalight.co/uploads/thumbs/100ca3cd1-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/017d3ad3-4c69-455d-b126-99ecbfe8c162/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Spider Man 2",
+    "logo": "https://r.cimalight.co/uploads/thumbs/196cea0f6-1.jpg",
+    "url": "https://g263.turbosplayer.com/file/f9ced249-9cae-40a2-b263-7fc985352129/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "The Amazing Spider Man 2",
+    "logo": "https://r.cimalight.co/uploads/thumbs/270b8305b-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/a8e5105e-5c5e-4bd5-800c-e61fd2249aa2/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "The Banished",
+    "logo": "https://r.cimalight.co/uploads/thumbs/64d2d9f1b-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/36a70925-4aca-456e-b916-67c9e787f134/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Butchers Book Three Bonesaw",
+    "logo": "https://r.cimalight.co/uploads/thumbs/77f1b2ed0-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/7e9dcd12-4ed9-4a2b-ad13-9598e5e5863b/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Cavern Crimes",
+    "logo": "https://r.cimalight.co/uploads/thumbs/90cefedb5-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/3fad39cf-3a53-4e76-8227-7743a1f27d98/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "Cold Wallet",
+    "logo": "https://r.cimalight.co/uploads/thumbs/90be2fa5b-1.jpg",
+    "url": "https://afast-store2-lmy.cdnz.quest/hls2/02/00049/at3jv913bgtb_n/index-v1-a1.m3u8?t=hjl5T9X3MSA5aQSSIo0W_ed2MtIscEbTj81IFHoVrhw&s=1780485841&e=18000&v=131307261&i=0.3&sp=0",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Burner",
+    "logo": "https://r.cimalight.co/uploads/thumbs/63f9fabfa-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/4c814a6f-8134-42bd-832a-49831f7a34dc/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Furious 7",
+    "logo": "https://r.cimalight.co/uploads/thumbs/90d6c500b-1.jpg",
+    "url": "https://g263.turbosplayer.com/file/f4531c14-dd28-4aa1-b01c-952820f19268/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Waktu Maghrib 2",
+    "logo": "https://r.cimalight.co/uploads/thumbs/91f1e23f6-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/24faeb08-83e0-46b6-8652-2b0e892747d6/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Holy Ghost",
+    "logo": "https://r.cimalight.co/uploads/thumbs/58fb24438-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/24a177ab-bd0f-4d02-847f-6f737bb6b698/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Jumanji Welcome to the Jungle",
+    "logo": "https://r.cimalight.co/uploads/thumbs/74f4c6f74-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/f2278bab-1a6b-449e-912e-4ed6c206aa54/master.m3u8",
+    "genre": "مغامرة"
+  },
+  {
+    "title": "Shell",
+    "logo": "https://r.cimalight.co/uploads/thumbs/69b9282be-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/d6b8d090-8d4a-4e84-b270-66d1410109b5/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "IF",
+    "logo": "https://r.cimalight.co/uploads/thumbs/95e58b304-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/5f968ada-c74c-490c-914f-8875ef42d1b0/master.m3u8",
+    "genre": "فانتازيا"
+  },
+  {
+    "title": "Land of Happiness",
+    "logo": "https://r.cimalight.co/uploads/thumbs/113cbcf87-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/c71fc7fb-840c-4b21-bec4-75997f10eb48/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "The Summer Book",
+    "logo": "https://r.cimalight.co/uploads/thumbs/85d31c808-1.jpg",
+    "url": "https://g244.turbosplayer.com/file/f34687a1-d3ca-4c06-a301-1c5e80f12e82/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Tolen Heist of the Century",
+    "logo": "https://r.cimalight.co/uploads/thumbs/73de45c85-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/cc5e51b2-bb53-4a98-8a8e-6e7183850cba/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "Descendent",
+    "logo": "https://r.cimalight.co/uploads/thumbs/2b7db505a-1.jpg",
+    "url": "https://g250.turbosplayer.com/file/0a27ef1a-6a19-446c-9a2a-ee40ee9796c8/master.m3u8",
+    "genre": "فانتازيا"
+  },
+  {
+    "title": "Mumu",
+    "logo": "https://r.cimalight.co/uploads/thumbs/7e4b8b2d0-1.jpg",
+    "url": "https://g243.turbosplayer.com/file/dbfb7c3e-1483-43f2-a644-27f84b7a3ee6/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Rust",
+    "logo": "https://r.cimalight.co/uploads/thumbs/209ddf8c6-1.jpg",
+    "url": "https://g248.turbosplayer.com/file/9288e5c0-c0ba-4b36-a149-3de11d729aa6/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Hot Milk",
+    "logo": "https://r.cimalight.co/uploads/thumbs/7fb03c257-1.jpg",
+    "url": "https://g250.turbosplayer.com/file/d83211a8-7585-402a-b0e1-31e343cbc115/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Monster Island",
+    "logo": "https://r.cimalight.co/uploads/thumbs/244a8491e-1.jpg",
+    "url": "https://g249.turbosplayer.com/file/647aec3b-cbce-49b0-8d00-2a7902d72c70/master.m3u8",
+    "genre": "مغامرة"
+  },
+  {
+    "title": "The Land That Time Forgot",
+    "logo": "https://r.cimalight.co/uploads/thumbs/174cb812b-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/87f9cddb-158d-4cd0-8365-0d766cc03acb/master.m3u8",
+    "genre": "مغامرة"
+  },
+  {
+    "title": "Almost Family",
+    "logo": "https://r.cimalight.co/uploads/thumbs/73ea590c9-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/83984557-5c55-4e07-9085-4147fee59a2f/master.m3u8",
+    "genre": "عائلي"
+  },
+  {
+    "title": "Fixed",
+    "logo": "https://r.cimalight.co/uploads/thumbs/81ac342c7-1.jpg",
+    "url": "https://g250.turbosplayer.com/file/70678140-4d74-49e5-aa89-4687784af61d/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "No Address",
+    "logo": "https://r.cimalight.co/uploads/thumbs/67c4eae1e-1.jpg",
+    "url": "https://dayt-fer-dw14.gamescdn.online/d/3gne6jlcmi3hdr7efmkl5mayxp45w7cfltsdfhliq3v6ql25q5eavkj63km72kxp5hy3swws/video.mp4",
+    "genre": "دراما"
+  },
+  {
+    "title": "Mononoke the Movie Chapter II – The Ashes of Rage",
+    "logo": "https://r.cimalight.co/uploads/thumbs/79d5e8a07-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/6650842e-ddd2-4da1-8c67-507a6cae7788/master.m3u8",
+    "genre": "انميشن"
+  },
+  {
+    "title": "Peacock",
+    "logo": "https://r.cimalight.co/uploads/thumbs/54a7dbbbb-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/f8e32e60-866e-4c35-972e-3578659b7890/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Black Panthers of WWII",
+    "logo": "https://r.cimalight.co/uploads/thumbs/48d1ed4a1-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/44885ee1-11d9-4483-bef6-c192481cd400/master.m3u8",
+    "genre": "وثائقي"
+  },
+  {
+    "title": "Other",
+    "logo": "https://r.cimalight.co/uploads/thumbs/31b1e7286-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/32956df9-7e13-40c3-862d-da3ac535a3ce/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Never Blink",
+    "logo": "https://r.cimalight.co/uploads/thumbs/22f322c3a-1.jpg",
+    "url": "https://g243.turbosplayer.com/file/732e5cb1-e574-41eb-a638-fa5332ddfb2b/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Jane Austen Wrecked My Life",
+    "logo": "https://r.cimalight.co/uploads/thumbs/50e795d4f-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/1ba3a993-37a2-4416-9306-843fc6175e19/master.m3u8",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "300",
+    "logo": "https://r.cimalight.co/uploads/thumbs/54b868359-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/a96487d2-a222-400e-ab54-8805c230cd67/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Street Queens",
+    "logo": "https://r.cimalight.co/uploads/thumbs/24d258f6d-1.jpg",
+    "url": "https://g248.turbosplayer.com/file/dcefa10e-99fc-4cb0-aed2-21ae4bdc1395/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Qodrat 2",
+    "logo": "https://r.cimalight.co/uploads/thumbs/49a8ca914-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/c983b911-f6cb-40ef-a108-40b820f76c51/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Spider Man No Way Home",
+    "logo": "https://r.cimalight.co/uploads/thumbs/28b188b3c-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/f88dbae9-06b7-4276-be35-0ae026def66a/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Xeno",
+    "logo": "https://r.cimalight.co/uploads/thumbs/38c1ed4a5-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/6f0900da-203b-4540-91f7-5d4ff0234721/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "Stiller & Meara Nothing Is Lost",
+    "logo": "https://r.cimalight.co/uploads/thumbs/34c61664a-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/ba3f0c22-7d67-4ada-9baf-060e30906e09/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Our Fault",
+    "logo": "https://r.cimalight.co/uploads/thumbs/21aefc665-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/96e304e0-621f-4766-8d2b-4cc6c18c9671/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Islands",
+    "logo": "https://r.cimalight.co/uploads/thumbs/25d0d6604-1.jpg",
+    "url": "https://g263.turbosplayer.com/file/9cee2f01-339b-472f-b92c-36ab96da18aa/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Thomas and Friends Sodor Sings Together",
+    "logo": "https://r.cimalight.co/uploads/thumbs/46ac8c5bb-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/ea8c26a6-f301-4482-999d-0128ae1db4e9/master.m3u8",
+    "genre": "عائلي"
+  },
+  {
+    "title": "27 Nights",
+    "logo": "https://r.cimalight.co/uploads/thumbs/aeab96608-1.jpg",
+    "url": "https://afast-store3-umh.cdnz.quest/hls2/02/00050/ed584v48ecur_n/index-v1-a1.m3u8?t=LbDX91HdTxdRmKq6p9kqnOMpeMVXE4YirAbH5sB8i9M&s=1780487175&e=18000&v=131312546&i=0.3&sp=0",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "Woken",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c127999db-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/90350328-6594-4269-875a-317cdbd27f07/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Kesari Veer",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b444ae946-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/990d26df-5ff3-4518-805c-c6653e6877fb/master.m3u8",
+    "genre": "حرب"
+  },
+  {
+    "title": "Delivery Run",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b2810fed4-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/61b23888-f264-4c2f-ade1-29d5b522a3a9/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Die'ced: Reloaded",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b94b3b892-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/026cef25-2e70-4ff4-a863-965ff224e0f8/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Healing Towers",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b24da114a-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/47760e0a-850a-4aa4-99ec-5ea93ab7e67d/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "All of You",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b49d7ebec-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/78d5d978-d26d-4b65-8b8c-b1748e6f7906/master.m3u8",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "Aladdin",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b7120a915-1.jpg",
+    "url": "https://g266.turbosplayer.com/file/8ecdd1d0-fe09-4020-9f40-7e39233d2690/master.m3u8",
+    "genre": "فانتازيا"
+  },
+  {
+    "title": "Eenie Meanie",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b10bcd132-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/9e85c816-faae-4236-87bf-c8afd275e8b9/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Tehran",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b3eb31f6f-1.jpg",
+    "url": "https://g260.turbosplayer.com/file/4a42bd8f-7afe-4936-8351-c1cac69e1801/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Dreams",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b9ea2acc8-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/41e5c07c-0b83-4c95-8468-1d4478d0569b/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Nobody 2",
+    "logo": "https://r.cimalight.co/uploads/thumbs/0e1fa56aa-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/3096c06d-454e-4f01-af86-3acb3dea1ab2/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Mr K",
+    "logo": "https://r.cimalight.co/uploads/thumbs/446c49176-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/92cf6007-7bc9-4901-9ec0-cbdf0dea7b76/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "The Roughneck",
+    "logo": "https://r.cimalight.co/uploads/thumbs/283bf3841-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/97186ce6-a8b7-4cf2-9729-768c039f0717/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Into the Wonderwoods",
+    "logo": "https://r.cimalight.co/uploads/thumbs/878c4316c-1.jpg",
+    "url": "https://vroba-store2-qzt.cdnz.quest/hls2/04/00088/slh141yvj63n_l/index-v1-a1.m3u8?t=Jie8sbArw9_taDVV7I9NzUG78zi9M-HXgv5Bs5-RQYk&s=1780443583&e=43200&v=16685&i=0.3&sp=0",
+    "genre": "مغامرة"
+  },
+  {
+    "title": "Coolie",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e08eafe98-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/fe0a13e6-e589-4c75-89db-1022928414b9/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Lilith",
+    "logo": "https://r.cimalight.co/uploads/thumbs/823b87390-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/326d22cd-0189-407e-af91-460beb75544c/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Extraction",
+    "logo": "https://r.cimalight.co/uploads/thumbs/334e52a0d-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/c833df46-3a1a-479f-a781-7a93ea402c07/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Extraction 2",
+    "logo": "https://r.cimalight.co/uploads/thumbs/296a65c1a-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/5d54d3c7-9232-4bcc-beac-35a7a1510806/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Desire A Temptation Story",
+    "logo": "https://r.cimalight.co/uploads/thumbs/984c65954-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/b161d5c2-cb1c-48fa-90ba-d9eb958da9d9/master.m3u8",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "Scurry",
+    "logo": "https://r.cimalight.co/uploads/thumbs/969b26303-1.jpg",
+    "url": "https://afast-store3-umh.cdnz.quest/hls2/02/00049/z6ft4ungohd4_n/index-v1-a1.m3u8?t=OaL-faKvjQziV3SbFtLjQH_YqDTP-QEVYf2ujzNji58&s=1780443869&e=18000&v=131204705&i=0.3&sp=0",
+    "genre": "رعب"
+  },
+  {
+    "title": "Culprit",
+    "logo": "https://r.cimalight.co/uploads/thumbs/980af9f43-1.jpg",
+    "url": "https://g240.turbosplayer.com/file/868645ee-2646-4637-afca-3b384f547f6a/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "السيد المرعب مدبلج",
+    "logo": "https://r.cimalight.co/uploads/thumbs/626e2f919-1.jpg",
+    "url": "https://afast-store3-umh.cdnz.quest/hls2/02/00050/vdsu6b89dgca_n/index-v1-a1.m3u8?t=5IyCZP5KSV1f_n7s6diWuhf1GkLr3_W1kHOrxBWvP9w&s=1780443962&e=18000&v=131205266&i=0.3&sp=0",
+    "genre": "رعب"
+  },
+  {
+    "title": "Strangers",
+    "logo": "https://r.cimalight.co/uploads/thumbs/974a41388-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/2674db2f-47ad-4d3e-aa8b-c9298b77f29a/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Monster Beneath Us",
+    "logo": "https://r.cimalight.co/uploads/thumbs/571ecb933-1.jpg",
+    "url": "https://g244.turbosplayer.com/file/c9d47ef3-3e2a-4184-bc64-13294ec507f0/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Madharaasi",
+    "logo": "https://r.cimalight.co/uploads/thumbs/389a2207b-1.jpg",
+    "url": "https://g260.turbosplayer.com/file/6c046434-ec54-4420-a5de-c59436d5065a/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Look Whos Back",
+    "logo": "https://r.cimalight.co/uploads/thumbs/491fb4b7c-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/8b6f3da0-4b32-487c-97e9-d3fb143d5799/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Culpa nuestra",
+    "logo": "https://r.cimalight.co/uploads/thumbs/527b05d51-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/96e304e0-621f-4766-8d2b-4cc6c18c9671/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Swim to Me",
+    "logo": "https://r.cimalight.co/uploads/thumbs/728fede45-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/df36c646-f128-4bc8-b1fd-6fcffb847f9b/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Akshardham Operation Vajra Shakti",
+    "logo": "https://r.cimalight.co/uploads/thumbs/505effaf9-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/186e2b21-35a4-4058-94cb-b4d1b38312d3/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Zombies of the Third Reich",
+    "logo": "https://r.cimalight.co/uploads/thumbs/d08c64fd6-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/04e5dccf-ca11-41e4-bbda-49966b048c1f/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "A Girl Upstairs",
+    "logo": "https://r.cimalight.co/uploads/thumbs/cf0355784-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/54ec59f3-41cb-4b37-890c-5d5b6cb8fd4b/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Stay",
+    "logo": "https://r.cimalight.co/uploads/thumbs/d549519a2-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/19d72e6c-edeb-4dc3-867a-958b73063ed9/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Milarepa",
+    "logo": "https://r.cimalight.co/uploads/thumbs/d1685d9ed-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/1ea9d520-6567-49ec-99f1-54cdf700fb41/master.m3u8",
+    "genre": "وثائقي"
+  },
+  {
+    "title": "A Quiet Place 3 Day One",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3cb1d2f21-1.jpg",
+    "url": "https://playnixes.com/stream/rwDR2rzGNspKH8gI6hUk6g/kjhhiuahiuhgihdf/1780480693/22387742/index-v1-a1.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Eleanor the Great",
+    "logo": "https://r.cimalight.co/uploads/thumbs/dfb832d3c-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/0af2bf2d-17fe-453f-9476-3c42abd9fa7f/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Sweeney Todd Slice & Dice",
+    "logo": "https://r.cimalight.co/uploads/thumbs/d9081354c-1.jpg",
+    "url": "https://g249.turbosplayer.com/file/cc5b3fc8-9dce-4cdb-bd97-b0e4f41b1161/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Push",
+    "logo": "https://r.cimalight.co/uploads/thumbs/d38ec09d1-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/a7a7545d-7925-4bab-840c-1f0aaab90123/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "300 Rise of an Empire",
+    "logo": "https://r.cimalight.co/uploads/thumbs/d27149b4b-1.jpg",
+    "url": "https://g265.turbosplayer.com/file/66833940-e8ba-41d5-a196-0c731c165b24/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Forced Vacation",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e1e3eb229-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/b87e9b97-b5ee-4a9d-a29f-e19add7501e4/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Mortal Game",
+    "logo": "https://r.cimalight.co/uploads/thumbs/d6e55d505-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/74e7680c-b3ce-497b-8911-161856d04f4c/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "The Amazing Spider Man",
+    "logo": "https://r.cimalight.co/uploads/thumbs/85c1dc0cf-1.jpg",
+    "url": "https://g260.turbosplayer.com/file/cff1cf39-0029-464b-89e4-75ce0b03817c/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Prisoner of War",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e02d51f73-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/d4b4487f-ce8b-44c2-8df2-b1b6d61abeea/master.m3u8",
+    "genre": "حرب"
+  },
+  {
+    "title": "Lupin III vs Cat's Eye",
+    "logo": "https://r.cimalight.co/uploads/thumbs/d52ee544c-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/8e159e85-b6d4-49c8-bfaf-cd8808ed3801/master.m3u8",
+    "genre": "انميشن"
+  },
+  {
+    "title": "Iron Man 2",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e017d8d18-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/e6771cc3-c705-4e63-ad9a-94ad729f8b52/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Spider Man Across the Spider Verse",
+    "logo": "https://r.cimalight.co/uploads/thumbs/dc76f2281-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/d9e44959-bf9e-487d-8799-cab7bb7b04d6/master.m3u8",
+    "genre": "انميشن"
+  },
+  {
+    "title": "8 Vasanthalu",
+    "logo": "https://r.cimalight.co/uploads/thumbs/de39109a9-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/706fdeb9-9a9f-4b9b-9a11-e65a07be57a8/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Surviving Ohio State",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e105d466e-1.jpg",
+    "url": "https://g243.turbosplayer.com/file/ec181573-82a2-4b11-b1ad-487563a515ce/master.m3u8",
+    "genre": "وثائقي"
+  },
+  {
+    "title": "Absolution",
+    "logo": "https://r.cimalight.co/uploads/thumbs/59bdc522b-1.jpg",
+    "url": "https://vroba-store2-qzt.cdnz.quest/hls2/05/00078/slfbip9f6yd1_l/index-v1-a1.m3u8?t=0FewpLmidZlK9ldO8jFWspnNVJWxYF5E5o5noZxA1Rk&s=1780438450&e=43200&v=280868&i=0.3&sp=0",
+    "genre": "اكشن"
+  },
+  {
+    "title": "The Perfect Neighbor",
+    "logo": "https://r.cimalight.co/uploads/thumbs/da4d9aa82-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/d3cc65f2-6c5d-43dc-ac4f-fc0a9e4c061b/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Distant",
+    "logo": "https://r.cimalight.co/uploads/thumbs/d742997be-1.jpg",
+    "url": "https://g240.turbosplayer.com/file/b2a65e73-9142-494d-9bc5-a7ee7e32aa34/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "Inside",
+    "logo": "https://r.cimalight.co/uploads/thumbs/dab9d991b-1.jpg",
+    "url": "https://g245.turbosplayer.com/file/61942d5c-7e1a-44f5-9ed1-0473ffbba0c7/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Ejen Ali the Movie 2",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b75079ce0-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/c22ce109-5477-4fa5-b546-fe7de7952756/master.m3u8",
+    "genre": "انميشن"
+  },
+  {
+    "title": "Bone Lake",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c46890daa-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/0fb29b18-ccb5-4312-a96d-dfbfc631c444/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Yadang The Snitch",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ccf096e43-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/af735224-3137-4f40-bfdd-8633a6b5b060/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Hostile Takeover",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b1681392e-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/8655f2a3-fb89-4991-85ba-24f6a301dac2/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Shaman",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c62614f8e-1.jpg",
+    "url": "https://g250.turbosplayer.com/file/41e76633-9817-4505-9545-e708149c51c0/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Bikini Nuns",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c2c5f1b57-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/19ac822b-2c85-4e52-ac8c-da8899ac1684/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "In Tenebras Into the Darkness",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c845eb4bd-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/4999ae36-7e2f-4d86-963a-30c14a8a7373/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Hitman 2",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b42154faf-1.jpg",
+    "url": "https://g263.turbosplayer.com/file/bdca67cc-9b0a-4f01-bb04-53dc0fe0c2e9/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Jumanji The Next Level",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c1d352229-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/7977a953-3155-44ad-b115-ca5a10a983f7/master.m3u8",
+    "genre": "مغامرة"
+  },
+  {
+    "title": "Buried Alive",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ba4e56cb8-1.jpg",
+    "url": "https://cdn154.foudsea.com/data/A/C7/68f836871f49c/68f836871f49c720.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Fast X",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c68e1de9c-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/48533074-be21-4a2f-ac08-4405ad912476/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "The Life of Chuck",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b98720511-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/42ae3113-5c64-451c-b702-183f2910e212/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "The Shrouds",
+    "logo": "https://r.cimalight.co/uploads/thumbs/bb69ba851-1.jpg",
+    "url": "https://afast-store3-umh.cdnz.quest/hls2/02/00049/8g5uzberozj7_l/index-v1-a1.m3u8?t=BwYcebmnnkE-pQqblC8KHc1kKgWhDqsosi2ELEXdesQ&s=1780439455&e=18000&v=131181007&i=0.3&sp=0",
+    "genre": "رعب"
+  },
+  {
+    "title": "Hellhound",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c4db2d0a8-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/a3493476-817a-4447-9f66-82ad4bf79c38/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Spider man 3",
+    "logo": "https://r.cimalight.co/uploads/thumbs/bfda7d52a-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/c40a2f82-659a-4834-aba6-6c0301d067be/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Blue Sun Palace",
+    "logo": "https://r.cimalight.co/uploads/thumbs/cb84a6ee1-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/83d60d17-8a23-40e0-8bce-4b50953efac0/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Mountain Shark",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c69dd41c7-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/b5c5a3d6-b938-4727-a5ea-4c413993f165/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Untold",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c964dac91-1.jpg",
+    "url": "https://g250.turbosplayer.com/file/a9f0f467-14fa-4b02-a046-acd45e674b77/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Furioza",
+    "logo": "https://r.cimalight.co/uploads/thumbs/80390cc0c-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/b5ae52d7-48c9-472e-8be6-8e2c70f44eca/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Furioza Again",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c199fca61-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/a85ba969-e6b9-4004-8242-787abfacaee8/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "The Wrong Paris",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c0a6de93d-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/dad242bd-87dc-4e20-827e-c371e8267074/master.m3u8",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "A House of Dynamite",
+    "logo": "https://r.cimalight.co/uploads/thumbs/bb2e057b6-1.jpg",
+    "url": "https://cdn154.foudsea.com/data/D/BF/68fc462678349/68fc462678349720.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Broken Bird",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c1eed4660-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/565a2f3c-1348-4909-b0ef-9703af91cab0/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Girl with the Needle",
+    "logo": "https://r.cimalight.co/uploads/thumbs/bce70116a-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/b4bcf7d5-cff2-4225-a6f2-97dbb8b591be/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "2 Fast 2 Furious",
+    "logo": "https://r.cimalight.co/uploads/thumbs/bb16aefaa-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/a1fba14b-f4ca-4603-aaed-6635fd0dcabe/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Fast and Furious",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c48ab9a37-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/2d72db30-8eb6-4b68-9f6b-dc5617490a9d/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Red Sonja",
+    "logo": "https://r.cimalight.co/uploads/thumbs/9bdf332ea-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/33246073-29ab-47f4-9ddb-486550ddf6c4/master.m3u8",
+    "genre": "فانتازيا"
+  },
+  {
+    "title": "The Twits",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c8d108a4a-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/61e0bed8-1452-44db-a8b1-b05ab84f5042/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Greater Kalesh",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c1a7c22ef-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/0eb85d49-8b5e-4093-8a49-becee5f48948/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Don't Let's Go to the Dogs Tonight",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c7f539bb7-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/2e8fb400-44c4-4b25-8d36-883b416bc07a/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "The Jester 2",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c46a5f6b2-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/221b8272-990f-4cdf-aaf8-fd846aa9e5a3/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Holy Night Demon Hunters",
+    "logo": "https://r.cimalight.co/uploads/thumbs/cbe7c5813-1.jpg",
+    "url": "https://g250.turbosplayer.com/file/a7976a7d-e0ad-435f-bf87-14e59e724d06/master.m3u8",
+    "genre": "فانتازيا"
+  },
+  {
+    "title": "The Rats A Witcher Tale",
+    "logo": "https://r.cimalight.co/uploads/thumbs/99d49d34b-1.jpg",
+    "url": "https://cdn160.fantasab.com/data/2/E6/690ab2f558727/690ab2f558727720.m3u8",
+    "genre": "فانتازيا"
+  },
+  {
+    "title": "Unsinkable",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b768de074-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/aa4ddeb5-43ba-492b-ace8-9f11f1980cfe/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Raw File",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ce59240ee-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/08d5bc5a-5c0b-490b-9fb0-521d1214245a/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "The Handyman",
+    "logo": "https://r.cimalight.co/uploads/thumbs/19559a598-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/5269ac27-f560-4bd3-bcc9-43f49f75a9e8/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "The Defender",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ce4fb95c4-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/65cdd819-295e-4e6e-a481-9bb71d4bee61/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Secret Lives of Sister Wives",
+    "logo": "https://r.cimalight.co/uploads/thumbs/bbc234847-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/8d7bec2f-be79-4df9-97cd-7508093dfda0/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Safe House",
+    "logo": "https://r.cimalight.co/uploads/thumbs/376211eb8-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/43bff5e2-6096-4622-a246-12f92f8e1394/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Indera",
+    "logo": "https://r.cimalight.co/uploads/thumbs/f299a64c1-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/93f1e022-6a46-4356-9894-a8b5082eaa54/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Hazard",
+    "logo": "https://r.cimalight.co/uploads/thumbs/6acf305ca-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/0a4b9ad1-ce94-4619-b876-b1ac366556b2/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Deadly Obsession 2",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1e28be6ae-1.jpg",
+    "url": "https://vroba-store1-lgk.cdnz.quest/hls2/04/00089/gco0vsaakwen_l/index-v1-a1.m3u8?t=-Bm-YCuUG0eJIRNPyRKtbHFPQiuEtBPiISMKYzoeaZM&s=1780427289&e=43200&v=217436&i=0.3&sp=0",
+    "genre": "إثارة"
+  },
+  {
+    "title": "A Demon's Revenge",
+    "logo": "https://r.cimalight.co/uploads/thumbs/54604bc59-1.jpg",
+    "url": "https://afast-store3-umh.cdnz.quest/hls2/02/00050/w9xojo5zpybl_l/index-v1-a1.m3u8?t=5TIhaCWGP2r16jBhA44ZfZBtk3iw4YuSMrlbGTezc9k&s=1780427339&e=18000&v=131108370&i=0.3&sp=0",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Widow's Payback",
+    "logo": "https://r.cimalight.co/uploads/thumbs/dddbde82a-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/0c461226-e55b-4bf0-94d4-2f0d9b2497ed/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Killin' Jim Kelly",
+    "logo": "https://r.cimalight.co/uploads/thumbs/873877cef-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/e0abcc3a-011f-4381-a2dc-09b1dacc4756/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Grassland",
+    "logo": "https://r.cimalight.co/uploads/thumbs/d7ebb3470-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/99c5da0f-799b-42e9-bcf5-81772817e67c/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Gates of Flesh",
+    "logo": "https://r.cimalight.co/uploads/thumbs/fc8ab8122-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/26ca63d8-974a-41d1-b2cf-2911677571a8/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Mannequin",
+    "logo": "https://r.cimalight.co/uploads/thumbs/fc1fe97fe-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/e4d017a1-28b6-43e8-818d-df559b771459/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Echo Valley",
+    "logo": "https://r.cimalight.co/uploads/thumbs/11721b915-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/bcc783ec-72a7-4411-99fa-e1b2d45cdc1b/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Lost on a Mountain in Maine",
+    "logo": "https://r.cimalight.co/uploads/thumbs/f0ff0ac1a-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/06d5210d-9218-4229-8b6c-c0b6887836a4/master.m3u8",
+    "genre": "مغامرة"
+  },
+  {
+    "title": "Jumanji",
+    "logo": "https://r.cimalight.co/uploads/thumbs/f01f43141-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/82532455-2d23-40df-a031-8fb703108fb2/master.m3u8",
+    "genre": "مغامرة"
+  },
+  {
+    "title": "The Lost Bus",
+    "logo": "https://r.cimalight.co/uploads/thumbs/a0de8e5a8-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/7a85e5eb-e630-43d1-a785-59aa0395c90d/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "The Fate of the Furious",
+    "logo": "https://r.cimalight.co/uploads/thumbs/fee1f504f-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/342f0674-7f12-4b9f-982f-6d5054a87c75/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Ballad of a Small Player",
+    "logo": "https://r.cimalight.co/uploads/thumbs/f5107eed2-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/03ce07b9-12be-45a4-9c20-8d9c1e03ea51/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "The North Witch",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ea8523ab6-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/9743211f-3727-4bd5-a1f0-348f916bd183/master.m3u8",
+    "genre": "فانتازيا"
+  },
+  {
+    "title": "Meteor Final Impact",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ff2af281a-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/160052f5-26bc-454c-86e3-5d8cfb59a114/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "The Cursed of Satan Temptation",
+    "logo": "https://r.cimalight.co/uploads/thumbs/fee794b5b-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/9fa29e2f-e5a8-4963-98cd-0804835c53c9/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Manor of Darkness",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ecd06de5c-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/de66cd8a-0f62-4823-8cfd-fa8ebfdd0239/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Affinity",
+    "logo": "https://r.cimalight.co/uploads/thumbs/fb61a5992-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/a4433675-430e-4226-b868-f5f98a7ae18d/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Please Don't Feed the Children",
+    "logo": "https://r.cimalight.co/uploads/thumbs/eb0e4cfa3-1.jpg",
+    "url": "https://g240.turbosplayer.com/file/91886efe-1d9b-4eae-856b-1e972e33d471/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Bitter Taste",
+    "logo": "https://r.cimalight.co/uploads/thumbs/f8083ffd0-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/fc7bbdff-adc0-486f-a81e-bfd0737a4fe5/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Hulk",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e836e43b2-1.jpg",
+    "url": "https://g240.turbosplayer.com/file/637ff6db-ffd6-434e-bc44-9d18b94615a9/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "The Elixir",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ee43bedb1-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/4a42a744-d064-477e-87a1-5e1be733383b/master.m3u8",
+    "genre": "فانتازيا"
+  },
+  {
+    "title": "The Matriarch",
+    "logo": "https://r.cimalight.co/uploads/thumbs/f030de7ec-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/4af1d15e-3a23-48b8-a18d-f95a8d191b0b/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Tangled",
+    "logo": "https://r.cimalight.co/uploads/thumbs/f5df2c3a8-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/78158643-ea52-4372-b8ce-dc01e5a493d4/master.m3u8",
+    "genre": "انميشن"
+  },
+  {
+    "title": "Abraham's Boys",
+    "logo": "https://r.cimalight.co/uploads/thumbs/aeb503f26-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/692824c3-d24e-46a4-9e44-ed702993f22b/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Audrey's Children",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e8f5abca0-1.jpg",
+    "url": "https://g265.turbosplayer.com/file/3bbf4789-4a91-4eed-ad85-d9f04068735f/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Millers in Marriage",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e8f94f861-1.jpg",
+    "url": "https://vsped-store9-vnz.cdnz.quest/hls2/03/00217/fn34otyt4alv_l/index-v1-a1.m3u8?t=pngTwKlWIy4ylIGMLk2vlyXlQO5_Cd9AI2l-pnsmPgE&s=1780436649&e=43200&v=1539993&i=0.3&sp=0",
+    "genre": "دراما"
+  },
+  {
+    "title": "Bad Man",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e55a175a6-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/fabeb300-30ad-403d-95e8-4a4a51ba9473/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "The Incredible Hulk",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e5c46c9b3-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/16d9b084-d85f-407b-97f5-74add4c0b17d/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Spider Man Far From Home",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e6ace2f4e-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/4f23a296-c6ae-46d4-929d-b2afd2ae34ba/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "The Fast and the Furious Tokyo Drift",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e5a973f82-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/5c290443-a9a4-4d5a-86e1-d15d0a34e62e/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Daha Iyi Bir Yarin",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e7ac5b49b-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/b6b06db3-e280-4136-9d90-72b073a38839/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Your Fault 2",
+    "logo": "https://r.cimalight.co/uploads/thumbs/81843baf9-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/7af6ea11-ead4-494f-8bce-0b788beafa8f/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Trainwreck Balloon Boy",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e5c0a92d5-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/b3d01de3-1fb2-443f-8d4a-905b32c6bd19/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "A Deadly Ride",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ddcfdf9a1-1.jpg",
+    "url": "https://vsped-store8-mfr.cdnz.quest/hls2/02/00217/pp7rngnxuhut_l/index-v1-a1.m3u8?t=yTOzv9BeYtQAqXjaipeq-c1T09BPPtA-LRGPYjbj1VA&s=1780437014&e=43200&v=1551319&i=0.0&sp=0",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Shark Terror",
+    "logo": "https://r.cimalight.co/uploads/thumbs/20ffa8e63-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/f8d1ab22-928b-48c5-89c9-29797275bf9f/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Raptus",
+    "logo": "https://r.cimalight.co/uploads/thumbs/f7c43b114-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/6d343c1e-7a35-4640-84de-956459a439f4/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Predator Killer of Killers",
+    "logo": "https://r.cimalight.co/uploads/thumbs/745a07786-1.jpg",
+    "url": "https://g191.turbosplayer.com/file/1d706042-1e3d-4b39-b0c3-bf28591ed363/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Black Panther",
+    "logo": "https://r.cimalight.co/uploads/thumbs/eca617770-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/8f075f02-16db-43ed-ac5d-e53885c3fc9d/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Jombieland",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3f73f654e-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/6d756917-9d2b-4773-8370-1ca24f768ea8/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Grow",
+    "logo": "https://r.cimalight.co/uploads/thumbs/7834e7cec-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/ffdd6bb6-9216-470d-9d7e-1d14502275a7/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Son Bayram",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5f93fd087-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/edf7327e-6e63-471f-b0e1-35118a436899/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "They Were Witches",
+    "logo": "http://r.cimalight.co/uploads/thumbs/314b612be-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/55fb422b-1a37-44c2-b224-e29b61f59526/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Being Eddie",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5631d688c-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/dc3f47c5-47bf-4564-8438-5300cbc84638/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Smile 2",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ba2309f75-1.jpg",
+    "url": "https://vidhidehub.com/stream/_m5-x955MJhyg1_RZQCW0Q/hjkrhuihghfvu/1780461660/14123051/index-v1-a1.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "A Merry Little Ex Mas",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3e1abcb10-1.jpg",
+    "url": "https://vsped-store9-vnz.cdnz.quest/hls2/04/00219/cmiedmr1bho0_l/index-v1-a1.m3u8?t=_pluLHejFu70pKJnHNfkt_kd2O_vkGtBY0b15AaMzcU&s=1780418507&e=43200&v=1067725&i=0.3&sp=0",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Worldbreaker",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b25a83a1d-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/9cdd7df9-0d33-4c68-a10f-32c28067a082/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "The Beldham",
+    "logo": "https://r.cimalight.co/uploads/thumbs/25732ea45-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/5031ee39-7abc-414a-90c7-a2be0049b06a/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Miami Nights",
+    "logo": "https://r.cimalight.co/uploads/thumbs/918215c9a-1.jpg",
+    "url": "https://g240.turbosplayer.com/file/a820513b-22a5-43ae-8a6c-ff8a2aecd14b/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "A Woman Scorned",
+    "logo": "https://r.cimalight.co/uploads/thumbs/fda658aff-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/7b77a488-79d5-449f-9d58-d9f6c3ccc434/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Bunker",
+    "logo": "https://r.cimalight.co/uploads/thumbs/874dcb4da-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/c38e6e5f-96f3-4f33-934a-f3c59ffd24e9/master.m3u8",
+    "genre": "حرب"
+  },
+  {
+    "title": "Kantara A Legend Chapter 1",
+    "logo": "https://r.cimalight.co/uploads/thumbs/2f21fa17d-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/5de209ee-4d3a-42f5-8ca6-3a96aa5a453b/master.m3u8",
+    "genre": "فانتازيا"
+  },
+  {
+    "title": "Idly Kadai",
+    "logo": "https://r.cimalight.co/uploads/thumbs/8e301b134-1.jpg",
+    "url": "https://vroba-store2-qzt.cdnz.quest/hls2/04/00090/tqknwocpxvrw_n/index-v1-a1.m3u8?t=0A5eaFCnfE2qCORQo5BvLXIGJV9oxJ3hKBlNsMQlXd4&s=1780418796&e=43200&v=180829&i=0.3&sp=0",
+    "genre": "دراما"
+  },
+  {
+    "title": "Mere Husband Ki Biwi",
+    "logo": "https://r.cimalight.co/uploads/thumbs/6110bbf10-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/a19cd349-aff1-4699-acce-54ffaedf458a/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Pretty Crazy",
+    "logo": "https://r.cimalight.co/uploads/thumbs/d48ce582e-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/c7f4aa64-4575-40eb-a341-56c3d9b88d67/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Iron Man 3",
+    "logo": "https://r.cimalight.co/uploads/thumbs/7c91ea3d7-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/6d076d50-4cd1-44f9-a40b-cad92e208f9e/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Doctor Strange",
+    "logo": "https://r.cimalight.co/uploads/thumbs/fac203e01-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/c7c04347-1823-437a-9e34-334c6e52dc27/master.m3u8",
+    "genre": "فانتازيا"
+  },
+  {
+    "title": "Terror Tales Poetry & Death Volume 1",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e86774f06-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/56ae81c9-f877-4bc4-87f7-b9c2ee89fba7/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Maybelline Prince",
+    "logo": "https://r.cimalight.co/uploads/thumbs/8cd18478b-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/a84ea0b4-a82e-46f7-80b4-0cdb3d9d39c5/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Dr Seuss's the Sneetches",
+    "logo": "https://r.cimalight.co/uploads/thumbs/07785140f-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/25611f81-7e68-48dd-9262-7a5a3561eef0/master.m3u8",
+    "genre": "عائلي"
+  },
+  {
+    "title": "To Kill a Wolf",
+    "logo": "https://r.cimalight.co/uploads/thumbs/9b39f1325-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/e3297060-f10b-4952-a6ea-0d5a950fbc7f/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "The Strangers: Chapter 1",
+    "logo": "https://r.cimalight.co/uploads/thumbs/0ca195368-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/24be4490-3d48-4a24-9a33-88a057e65e76/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Miller's Girl",
+    "logo": "https://r.cimalight.co/uploads/thumbs/a40628719-1.jpg",
+    "url": "https://vroba-store2-qzt.cdnz.quest/hls2/04/00071/my7ufm0yf1z4_l/index-v1-a1.m3u8?t=FsghItoRfNyaa906xFKby0P5Jz53T6oc6XRnz_g8AR4&s=1780419221&e=43200&v=182308&i=0.3&sp=0",
+    "genre": "دراما"
+  },
+  {
+    "title": "Sons of the Neon Night",
+    "logo": "https://r.cimalight.co/uploads/thumbs/37ab4e1f4-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/bd68aa1e-4981-4331-861b-a3715a131dbb/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "Baramulla",
+    "logo": "https://r.cimalight.co/uploads/thumbs/798ac94e9-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/6a626c8d-9bd9-4455-b897-09c4e4aa927f/master.m3u8",
+    "genre": "حرب"
+  },
+  {
+    "title": "Mango",
+    "logo": "https://r.cimalight.co/uploads/thumbs/8cae063b3-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/94ea65c4-ff3b-4525-909d-dadf51f3552f/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Frankenstein",
+    "logo": "https://r.cimalight.co/uploads/thumbs/11fd1d7f5-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/613c1d91-e712-4a5b-9197-358546878b6d/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Black Phone",
+    "logo": "https://r.cimalight.co/uploads/thumbs/000869c99-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/e99ccba3-ff78-4291-8a79-a678e3ae2321/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Hippo's Revenge",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1d607a20c-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/585af135-7a02-4ee9-adfd-2edd098c11a9/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Meat Kills",
+    "logo": "https://r.cimalight.co/uploads/thumbs/59bcc024b-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/cc75450d-0c24-4d32-bd3a-1e2e3de6956d/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Ice Fall",
+    "logo": "https://r.cimalight.co/uploads/thumbs/807196e35-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/4180f317-5468-4632-a3f9-2db7db769254/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "The Ice Tower",
+    "logo": "https://r.cimalight.co/uploads/thumbs/71cd6f02c-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/4a416863-0a08-4521-adf1-ba66aee6b216/master.m3u8",
+    "genre": "فانتازيا"
+  },
+  {
+    "title": "I Really Love My Husband",
+    "logo": "https://r.cimalight.co/uploads/thumbs/400012524-1.jpg",
+    "url": "https://g240.turbosplayer.com/file/b4a9aea6-6919-4ef8-a61a-1ece87059d52/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Grand Prix of Europe",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1686f3796-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/03cf7362-a3f8-4a74-b35c-511e9f56ef2d/master.m3u8",
+    "genre": "رياضة"
+  },
+  {
+    "title": "Gabby's Dollhouse The Movie",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c4b1f23e7-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/3adf4b26-0bc0-401b-a5a2-88e85520e355/master.m3u8",
+    "genre": "عائلي"
+  },
+  {
+    "title": "Cottonmouth",
+    "logo": "https://r.cimalight.co/uploads/thumbs/57f2501c9-1.jpg",
+    "url": "https://g240.turbosplayer.com/file/5bca86ef-f593-4401-955f-ba754428af61/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Under Fire",
+    "logo": "https://r.cimalight.co/uploads/thumbs/7bdaaa65b-1.jpg",
+    "url": "https://g240.turbosplayer.com/file/c8496478-6367-41f2-9559-1e8147a36a8d/master.m3u8",
+    "genre": "حرب"
+  },
+  {
+    "title": "London Calling",
+    "logo": "https://r.cimalight.co/uploads/thumbs/bb7d31de1-1.jpg",
+    "url": "https://vroba-store2-qzt.cdnz.quest/hls2/03/00089/m0ahbzhe3lj9_n/index-v1-a1.m3u8?t=Fc0W4qc7L8BgjQ4MCAYvpZ_Fwi1DqdSvabl6eoFuqIw&s=1780426837&e=43200&v=215267&i=0.3&sp=0",
+    "genre": "جريمة"
+  },
+  {
+    "title": "Afterburn",
+    "logo": "https://r.cimalight.co/uploads/thumbs/f750680d7-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/ace7f0b2-7be5-4339-a135-efd3cf0dd1ff/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Hunting Daze",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5df393a4b-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/42566fc5-18d0-4713-bdbd-e0e07e01cd22/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Colours of Time",
+    "logo": "https://r.cimalight.co/uploads/thumbs/bf9166296-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/6a6ad682-a2b6-4966-a7ea-8aabb0285405/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Now You See Me 2",
+    "logo": "https://r.cimalight.co/uploads/thumbs/391a9f96b-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/0940f331-f955-4ba7-a8eb-0abd3d0ef0ff/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "The Best You Can",
+    "logo": "https://r.cimalight.co/uploads/thumbs/6451eb54d-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/2f3da707-51f4-49e9-8480-fa731d0e60cb/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Now You See Me",
+    "logo": "https://r.cimalight.co/uploads/thumbs/20d86e210-1.jpg",
+    "url": "https://g260.turbosplayer.com/file/02ba918b-6244-45da-a72c-20cb2604ae02/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Wildcat",
+    "logo": "https://r.cimalight.co/uploads/thumbs/f50964b8a-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/f3fbc815-4261-4f23-98f4-d92eef8c92d5/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Last Days",
+    "logo": "https://r.cimalight.co/uploads/thumbs/63950f177-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/48544eb1-7b73-4119-8e66-49b400cac282/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Border Hunters",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b4627e822-1.jpg",
+    "url": "https://cdn151.teifanc.com/data/B/15/69290299c6c8f/69290299c6c8f720.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "My Daughter Is a Zombie",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e5dc543a4-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/4b5b76e4-5bd1-4c4c-80d3-6c0de03d5dd3/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Anemone",
+    "logo": "https://r.cimalight.co/uploads/thumbs/2d3f0e5fb-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/85ba5663-4337-4717-b3ae-3b38ea25ba06/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Sirat",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ebd39dd78-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/6f253889-e14f-4812-82db-8cffab74f3dd/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Revolver",
+    "logo": "https://r.cimalight.co/uploads/thumbs/a89199467-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/bd237441-04c0-43aa-9500-53afd051d9af/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "A Normal Family",
+    "logo": "https://r.cimalight.co/uploads/thumbs/d5cf81b6f-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/0c3fd0c2-d1b7-44fc-98b7-e33f1782bb22/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Jingle Bell Heist",
+    "logo": "https://r.cimalight.co/uploads/thumbs/611ae337f-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/eac1a3de-967d-4dc4-8444-59ea6f51d673/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "The Negotiator",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c0c3a01b0-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/9edd1983-9eba-4cf4-b856-1edd89332006/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "Belen",
+    "logo": "https://r.cimalight.co/uploads/thumbs/6a88eda24-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/81e973ea-a5b4-467f-b9b4-da0540d84f9d/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Blue Moon",
+    "logo": "https://r.cimalight.co/uploads/thumbs/f5e0a5682-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/e81440d1-28e6-432a-a570-349138582d43/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "عالمان امنية واحدة",
+    "logo": "https://r.cimalight.co/uploads/thumbs/8bc7faeda-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/091a9c3e-fbf8-4342-a682-54303c991c25/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Riddick",
+    "logo": "https://r.cimalight.co/uploads/thumbs/cb4f91016-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/0f730fbe-8070-4008-b884-e44729826a2d/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "The Chronicles of Riddick",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5c5d122bf-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/b634e842-986d-46c4-a749-31702fd531e5/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "Pitch Black",
+    "logo": "https://r.cimalight.co/uploads/thumbs/362583835-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/5d37fd5a-ee32-40fe-9142-b42eb01dbdbd/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "A Working Man",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1b8e29289-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/a9210114-b2fa-4418-b6eb-b58f26317652/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Altered",
+    "logo": "https://r.cimalight.co/uploads/thumbs/a9f228670-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/23bf3a31-fc70-43a0-a3c1-37ffe23f897e/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "Mystery Island House Rules",
+    "logo": "https://r.cimalight.co/uploads/thumbs/0e88727ad-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/0971fff4-4601-4649-a4bf-f7ab43b93748/master.m3u8",
+    "genre": "غموض"
+  },
+  {
+    "title": "Train Dreams",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1601233fa-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/58233edb-5f14-48f1-b996-f1aae40eda4f/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "V/H/S/Halloween",
+    "logo": "https://r.cimalight.co/uploads/thumbs/da89d7cc2-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/c35dd6c6-da39-4323-9ad5-dbf814ffa4d6/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Aztec Batman Clash of Empires",
+    "logo": "https://r.cimalight.co/uploads/thumbs/bdec59658-1.jpg",
+    "url": "https://g267.turbosplayer.com/file/a443f05b-8e2b-4238-85e5-88c3567cb796/master.m3u8",
+    "genre": "انميشن"
+  },
+  {
+    "title": "Soul on Fire",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3200893ae-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/651808c1-39f7-40bd-b8ac-fabc4454b723/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "After the Hunt",
+    "logo": "https://r.cimalight.co/uploads/thumbs/a5364002e-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/ae3ad2ee-a8fc-4d3e-bf9f-5c33928c9411/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "The Follies",
+    "logo": "https://r.cimalight.co/uploads/thumbs/cef392d11-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/ec3fed19-8a74-4479-a181-df467ec1ae13/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Caught Stealing",
+    "logo": "https://r.cimalight.co/uploads/thumbs/423ff9f15-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/9f2e36bb-0339-4200-8039-b962c2bdd3c3/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "Guns Up",
+    "logo": "https://r.cimalight.co/uploads/thumbs/de3879473-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/ba456d07-53cc-4f2b-b834-4c93cc425dd7/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Blink Twice",
+    "logo": "https://r.cimalight.co/uploads/thumbs/88d6ac6b9-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/3c40c93a-5eb7-4937-b7dc-2949eb142e90/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "The Son of a Thousand Men",
+    "logo": "https://r.cimalight.co/uploads/thumbs/d0a75c27a-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/5762cf9d-a0d6-4200-bdae-1516b60c359b/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Champagne Problems",
+    "logo": "https://r.cimalight.co/uploads/thumbs/bbb4e7e2d-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/3978898f-3ed6-46cc-89a4-79478b730128/master.m3u8",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "Swiped",
+    "logo": "https://r.cimalight.co/uploads/thumbs/27ee0925f-1.jpg",
+    "url": "https://g267.turbosplayer.com/file/78ee539b-7add-4160-8ab0-f6e72ca42d52/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Shelby Oaks",
+    "logo": "https://r.cimalight.co/uploads/thumbs/d61e6e2ce-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/0ff604a0-3115-46ce-b007-5732d8816c87/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Man in My Basement",
+    "logo": "https://r.cimalight.co/uploads/thumbs/2b0adc4b0-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/b8d9cc56-2c89-4994-a748-b913e76b4d71/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Texas Cult House",
+    "logo": "https://r.cimalight.co/uploads/thumbs/20239e809-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/ecce6f2a-2396-4554-900f-e5e7a0d599ed/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Run",
+    "logo": "https://r.cimalight.co/uploads/thumbs/6b0526d09-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/a2fbc25c-696e-42e5-970f-d8cf4f1601f6/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Escobank",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ead1efb1b-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/d538703e-91c1-43f6-8c87-08fbb70f0fdd/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Double Exposure",
+    "logo": "https://r.cimalight.co/uploads/thumbs/64b823f3a-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/63dcb51c-75de-4428-ab62-0f0dfd3810fe/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Dog Fugitive",
+    "logo": "https://r.cimalight.co/uploads/thumbs/6044c439b-1.jpg",
+    "url": "https://g261.turbosplayer.com/file/cc427c28-5fb8-4639-8279-9790788cbf7a/master.m3u8",
+    "genre": "عائلي"
+  },
+  {
+    "title": "الدكتور سوس ذا سنيتشز مدبلج",
+    "logo": "https://r.cimalight.co/uploads/thumbs/fc7bbe35c-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/92b00a75-6e8d-4942-b8b4-29090f4926f9/master.m3u8",
+    "genre": "عائلي"
+  },
+  {
+    "title": "The Bad Guys 2",
+    "logo": "https://r.cimalight.co/uploads/thumbs/25e9dc79d-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/93775af7-15a2-453b-9fc5-c74b427220ee/master.m3u8",
+    "genre": "انميشن"
+  },
+  {
+    "title": "The Wailing",
+    "logo": "https://r.cimalight.co/uploads/thumbs/630938ddf-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/4e0cdc8e-0070-44f1-912f-315747d3cd90/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Cut",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1b917b08e-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/ef42ae46-2eba-4b8a-a174-028afcf7eb0c/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Stone Cold Fox",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ce103a842-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/e78cca24-b81d-4bc2-9e74-0ddaeac2b911/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Deathstalker",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b122e1cc0-1.jpg",
+    "url": "https://g261.turbosplayer.com/file/4b5a51bc-f563-4341-a741-239c17dd36ae/master.m3u8",
+    "genre": "فانتازيا"
+  },
+  {
+    "title": "The Old Woman with the Knife",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e84eb2682-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/d3fb99a8-ae8f-4cc2-bee3-6b516ec2d635/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Lefter The Story of the Ordinarius",
+    "logo": "https://r.cimalight.co/uploads/thumbs/327b52970-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/eb97d3fa-4ccc-4171-aa48-5a6d78a6c12b/master.m3u8",
+    "genre": "وثائقي"
+  },
+  {
+    "title": "Fuuto Tantei Kamen Rider Skull",
+    "logo": "https://r.cimalight.co/uploads/thumbs/593cb0d4f-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/bcadb541-9b5d-446a-8a54-9336fc5225be/master.m3u8",
+    "genre": "انميشن"
+  },
+  {
+    "title": "Full Moon",
+    "logo": "https://r.cimalight.co/uploads/thumbs/342b9f2d2-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/ea9dea7e-cfea-46ef-b146-8c6a2256a2ca/master.m3u8",
+    "genre": "رعب"
+    },
+    {
       "title": "Lookout",
       "logo": "https://d2j05qp2jb3mfw.cloudfront.net/film-artwork/5529/_filmArtworkLarge/JRM_Lookout_v2_KA_LLR-small-the-film-catalogue.jpg",
       "url": "https://g257.turbosplayer.com/file/a581f618-ff7a-4232-9d32-751695bc966e/master.m3u8",
@@ -13,7 +1651,7 @@
       "genre": "إثارة"
     },
     {
-      "title": "Thor 2011",
+      "title": "Thor",
       "logo": "https://m.media-amazon.com/images/I/71EtSa211nL._AC_UF1000,1000_QL80_.jpg",
       "url": "https://g264.turbosplayer.com/file/a3032593-adcb-4e92-905a-c5889fabdbe9/master.m3u8",
       "genre": "جريمة"
@@ -37,7 +1675,7 @@
       "genre": "اكشن"
     },
     {
-      "title": "Exit Protocol 2025",
+      "title": "Exit Protocol",
       "logo": "https://image.tmdb.org/t/p/w780/oZKwNSLdCQBETNMwqJgkPcxGx3G.jpg",
       "url": "https://g270.turbosplayer.com/file/065f19b9-ae7f-47f2-bca7-b794ce22ef65/master.m3u8",
       "genre": "اكشن"
@@ -61,7 +1699,7 @@
       "genre": "جريمة"
     },
     {
-      "title": "Off the Record 2024",
+      "title": "Off the Record",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/lDoJirMuPh4eEJgny5Gkh34bpmU.jpg",
       "url": "https://g241.turbosplayer.com/file/be023b09-cadc-49bb-9000-8958a192c8cf/master.m3u8",
       "genre": "دراما"
@@ -79,7 +1717,7 @@
       "genre": "رعب"
     },
     {
-      "title": "Girl in the Attic 2025",
+      "title": "Girl in the Attic",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/ymH9eGV2Z48iW5hz15qcyhoQAhh.jpg",
       "url": "https://g261.turbosplayer.com/file/26d3b48b-d91c-405b-9729-f7ac6b030da8/master.m3u8",
       "genre": "رعب"
@@ -94,7 +1732,7 @@
       "title": "Mrs. Christmas",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/7DFyI1S8xJ34AkUutVBqDSfOtfJ.jpg",
       "url": "https://g254.turbosplayer.com/file/78fd6ac3-c8c4-4c1a-a427-cf7b75890986/master.m3u8",
-      "genre": ["عائلي", "رومانسي"]
+      "genre": "عائلي"
     },
     {
       "title": "Sugarcane",
@@ -103,7 +1741,7 @@
       "genre": "دراما"
     },
     {
-      "title": "Stone Creek Killer 2025",
+      "title": "Stone Creek Killer",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/sAg254rEBdzBXqLysWTZkkcfGZV.jpg",
       "url": "https://g253.turbosplayer.com/file/827101c1-3ab9-4d52-abed-d0febb01d10d/master.m3u8",
       "genre": "جريمة"
@@ -121,7 +1759,7 @@
       "genre": "دراما"
     },
     {
-      "title": "Faster 2025",
+      "title": "Faster",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/2ahZeZm6osfmUZI19QPkEzx6K6T.jpg",
       "url": "https://g238.turbosplayer.com/file/942c2e64-68f8-4d44-a92c-c1646937b889/master.m3u8",
       "genre": "اكشن"
@@ -130,7 +1768,7 @@
       "title": "A Very Jonas Christmas Movie",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/kGLgaDrYWmTAdRFzGP5pBquRnhO.jpg",
       "url": "https://g242.turbosplayer.com/file/804df93b-91a0-4faa-befe-a583262e50cc/master.m3u8",
-      "genre": ["عائلي", "موسيقى"]
+      "genre": "عائلي"
     },
     {
       "title": "Keeper",
@@ -140,43 +1778,43 @@
     },
     {
       "title": "Under the Stars",
-       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/oJjCXVwPbNq2QeNdNvG2atZHj11.jpg",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/oJjCXVwPbNq2QeNdNvG2atZHj11.jpg",
       "url": "https://g238.turbosplayer.com/file/58b0a27a-318e-4ea1-8c09-e0e9933fb700/master.m3u8",
       "genre": "رومانسي"
     },
     {
       "title": "Transformers: Age of Extinction",
-       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg",
       "url": "https://g253.turbosplayer.com/file/7980fa97-3f9d-4c33-b4be-d3e3e188036e/master.m3u8",
       "genre": "خيال علمي"
     },
     {
-      "title": "Transformers: Dark of the Moon 2011",
-       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg",
+      "title": "Transformers: Dark of the Moon",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg",
       "url": "https://g257.turbosplayer.com/file/200f2428-d3b7-4063-92f5-7c401c6fe550/master.m3u8",
       "genre": "خيال علمي"
     },
     {
       "title": "Elmo and Mark Rober’s Merry Giftmas",
-       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/gcFxbtsgyMMripGtUIxPmmFxQXT.jpg",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/gcFxbtsgyMMripGtUIxPmmFxQXT.jpg",
       "url": "https://g252.turbosplayer.com/file/b1327ff4-4ffe-4f56-805d-21780614ad47/master.m3u8",
-      "genre": ["عائلي", "كوميدي"]
+      "genre": "عائلي"
     },
     {
-      "title": "Pose 2025",
-       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
+      "title": "Pose",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
       "url": "https://g241.turbosplayer.com/file/e19d1efa-206d-4dbb-a012-5bdc9f17f756/master.m3u8",
       "genre": "دراما"
     },
     {
       "title": "Hunting Jessica Brok",
-       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/xRcGnwShS9wpqlTc6KvK4WUY55A.jpg",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/xRcGnwShS9wpqlTc6KvK4WUY55A.jpg",
       "url": "https://g257.turbosplayer.com/file/244d2e5c-df40-433c-a3ee-5d7ed23f70e5/master.m3u8",
       "genre": "إثارة"
     },
     {
       "title": "The Wrecker",
-       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/5JHPHQxcE1b0W2Spbncq5uJKW7i.jpg",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/5JHPHQxcE1b0W2Spbncq5uJKW7i.jpg",
       "url": "https://g253.turbosplayer.com/file/f71d0964-0cf2-491e-8d81-c2217a35feea/master.m3u8",
       "genre": "اكشن"
     },
@@ -190,7 +1828,7 @@
       "title": "Chainsaw Man The Movie Reze Arc",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/3uX6xo6kZrylBrMIyLtrOS5BR9p.jpg",
       "url": "https://g256.turbosplayer.com/file/c1f7dda5-0e48-41d4-9d0f-8d4f690ba137/master.m3u8",
-      "genre": "انمي"
+      "genre": "انميشن"
     },
     {
       "title": "Hi-Five",
@@ -274,7 +1912,7 @@
       "title": "The Night My Dad Saved Christmas 2",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/n1YtLc6viVt93gOdU8SX7mnq22y.jpg",
       "url": "https://g242.turbosplayer.com/file/b01cd06d-19aa-4bb8-bf0e-41e0a0d1ed5b/master.m3u8",
-      "genre": ["عائلي", "كوميدي"]
+      "genre": "عائلي"
     },
     {
       "title": "House on Eden",
@@ -283,7 +1921,7 @@
       "genre": "رعب"
     },
     {
-      "title": "Transformers 2007",
+      "title": "Transformers",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
       "url": "https://g257.turbosplayer.com/file/a667d7cd-32c9-442c-8bc6-7fc0bcdc8647/master.m3u8",
       "genre": "خيال علمي"
@@ -316,7 +1954,7 @@
       "title": "My Secret Santa",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg",
       "url": "https://g254.turbosplayer.com/file/f938be05-5da4-41e6-b3bb-acf1b190d064/master.m3u8",
-      "genre": ["عائلي", "رومانسي"]
+      "genre": "عائلي"
     },
     {
       "title": "Alien Romulus",
@@ -352,37 +1990,37 @@
       "title": "Bau: Artist at War",
       "logo": "https://media.themoviedb.org/t/p/w533_and_h300_face/ioMUeaiNwPrTRnKRqjkzzcRlAEy.jpg",
       "url": "https://g238.turbosplayer.com/file/a590a476-5d07-4ad4-bd70-8dd64c3b59ae/master.m3u8",
-      "genre": "سيرة ذاتية"
+      "genre": "دراما"
     },
     {
       "title": "A Newport Christmas",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/bNWUsEOg7HzHlZmSTVKuZ6SglxM.jpg",
       "url": "https://g258.turbosplayer.com/file/482754e2-2a74-4bdb-88bb-6c78145d7a4a/master.m3u8",
-      "genre": ["عائلي", "رومانسي"]
+      "genre": "عائلي"
     },
     {
-      "title": "Hag 2025",
+      "title": "Hag",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/jI5oZHPrTRqX8BtJtUpsfd4nDkQ.jpg",
       "url": "https://g268.turbosplayer.com/file/06d03f8b-3123-4781-82a0-b32d8162e789/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Father 2025",
+      "title": "Father",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
       "url": "https://g263.turbosplayer.com/file/4b0a1864-b417-425c-90af-11cb20f5e670/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "The Sound of Balloons 2 2025",
+      "title": "The Sound of Balloons 2",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/goQeoeb8PdZBqLy7oiUIBa5IZLz.jpg",
       "url": "https://g263.turbosplayer.com/file/79c30d2d-2007-4ef1-8353-98b6c75dbc16/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Home Alone 2: Lost in New York 1992",
+      "title": "Home Alone 2: Lost in New York",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
       "url": "https://g264.turbosplayer.com/file/bd65a99d-fb98-4f40-8202-17f2dd2864ff/master.m3u8",
-      "genre": ["عائلي", "كوميدي"]
+      "genre": "عائلي"
     },
     {
       "title": "The Astronaut",
@@ -421,7 +2059,7 @@
       "genre": "رعب"
     },
     {
-      "title": "The Wilderness 2025",
+      "title": "The Wilderness",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/gVyPY561PLSAROWsMuOcStVkyXn.jpg",
       "url": "https://g261.turbosplayer.com/file/9ab34ce9-0572-4005-ab1d-ba8cd56f3dba/master.m3u8",
       "genre": "مغامرة"
@@ -439,7 +2077,7 @@
       "genre": "جريمة"
     },
     {
-      "title": "Thieves Highway 2025",
+      "title": "Thieves Highway",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/ljnFEsYQXeoW03Jagw159xVDP0J.jpg",
       "url": "https://g243.turbosplayer.com/file/9ba5e743-fb60-401a-9565-3b2047d970f3/master.m3u8",
       "genre": "جريمة"
@@ -457,7 +2095,7 @@
       "genre": "رومانسي"
     },
     {
-      "title": "Vicious 2025",
+      "title": "Vicious",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
       "url": "https://g241.turbosplayer.com/file/da8d5a39-89a8-43d7-89c0-25ed37619e9e/master.m3u8",
       "genre": "إثارة"
@@ -482,73 +2120,73 @@
     },
     {
       "title": "Omniscient Reader The Prophecy",
-        "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/67DqPJjTYnZTDuKlnUCHnAUphGF.jpg",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/67DqPJjTYnZTDuKlnUCHnAUphGF.jpg",
       "url": "https://g259.turbosplayer.com/file/29c4da87-1706-46b1-9bf8-eecd9e13a65a/master.m3u8",
       "genre": "خيال علمي"
     },
     {
       "title": "Bugonia",
-        "logo": "http://media.themoviedb.org/t/p/w300_and_h450_face/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+      "logo": "http://media.themoviedb.org/t/p/w300_and_h450_face/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
       "url": "https://g265.turbosplayer.com/file/ccf0d241-c3b7-44ed-a73e-73cf6af785b0/master.m3u8",
       "genre": "خيال علمي"
     },
     {
       "title": "Now You See Me: Now You Don't",
-        "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
       "url": "https://g260.turbosplayer.com/file/c38159ec-f861-4ceb-bdf0-13ef59694308/master.m3u8",
       "genre": "إثارة"
     },
     {
       "title": "Glass Onion: A Knives Out Mystery",
-       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
       "url": "https://g266.turbosplayer.com/file/d6d8c126-1922-4463-ace6-6aba386422d6/master.m3u8",
       "genre": "جريمة"
     },
     {
-      "title": "Knives Out 2019",
-       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
       "url": "https://g260.turbosplayer.com/file/21bdbf60-d786-48c1-961b-633639a40f87/master.m3u8",
       "genre": "جريمة"
     },
     {
       "title": "Downton Abbey 3 The Grand Finale",
-       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/m1tLlMTCwc6oK6OjWTOI4b32wnA.jpg",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/m1tLlMTCwc6oK6OjWTOI4b32wnA.jpg",
       "url": "https://g270.turbosplayer.com/file/8c5496d0-ed7c-4c69-9983-878352586689/master.m3u8",
       "genre": "دراما"
     },
     {
       "title": "Back to the Outback",
-       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/jbAUTO7qFN8XFG2LM3bz30vzGFJ.jpg",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/jbAUTO7qFN8XFG2LM3bz30vzGFJ.jpg",
       "url": "https://g242.turbosplayer.com/file/48a0dd95-8b26-4119-87aa-04d9112002bd/master.m3u8",
-      "genre": ["عائلي", "مغامرة"]
+      "genre": "عائلي"
     },
     {
       "title": "The Return of Jafar مدبلج",
-       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/7SC793qtORB6YL4mu0F5o3hfjDQ.jpg",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/7SC793qtORB6YL4mu0F5o3hfjDQ.jpg",
       "url": "https://g267.turbosplayer.com/file/4e3256d6-28bf-46f7-8b70-e4acbde269ef/master.m3u8",
-      "genre": ["عائلي", "فانتازيا"]
+      "genre": "عائلي"
     },
     {
       "title": "Aladdin and the King of Thieves",
-       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/kTH7qEyvdDYMoQraQZm3LFKCge3.jpg",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/kTH7qEyvdDYMoQraQZm3LFKCge3.jpg",
       "url": "https://g261.turbosplayer.com/file/a7abf0cf-98df-40dc-b88d-590a0b3a263e/master.m3u8",
-      "genre": ["عائلي", "مغامرة"]
+      "genre": "عائلي"
     },
     {
-      "title": "Stephen 2025",
-        "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/yUURUJzeSTc47T2VeNw7nZwZ8VJ.jpg",
+      "title": "Stephen",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/yUURUJzeSTc47T2VeNw7nZwZ8VJ.jpg",
       "url": "https://g268.turbosplayer.com/file/e118c129-f121-40f7-a1ab-cd5c5a532056/master.m3u8",
       "genre": "دراما"
     },
     {
       "title": "Haul Out the Halloween",
-        "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/jbPRLRliQFZJumIjzuQ6qsODnKm.jpg",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/jbPRLRliQFZJumIjzuQ6qsODnKm.jpg",
       "url": "https://g252.turbosplayer.com/file/17cd7cb1-6426-40c3-bd65-073a91aee8f0/master.m3u8",
-      "genre": ["عائلي", "كوميدي"]
+      "genre": "عائلي"
     },
     {
       "title": "Wake Up Dead Man A Knives Out Mystery",
-        "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
       "url": "https://g264.turbosplayer.com/file/701c1c8c-21ea-42c8-811c-9a831e5e3984/master.m3u8",
       "genre": "جريمة"
     },
@@ -571,7 +2209,7 @@
       "genre": "رعب"
     },
     {
-      "title": "Witchy Ways 2024",
+      "title": "Witchy Ways",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/aE6UNLmcpjaHGrLVsBjeF2OPoiS.jpg",
       "url": "https://g262.turbosplayer.com/file/8621ea15-b1ae-407a-a0e9-ab26ed38350e/master.m3u8",
       "genre": "جريمة"
@@ -601,181 +2239,181 @@
       "genre": "اكشن"
     },
     {
-      "title": "John Wick 2014",
+      "title": "John Wick",
       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
       "url": "https://g240.turbosplayer.com/file/76c0455a-82fb-4be9-b1f6-3b87d4fabefa/master.m3u8",
       "genre": "اكشن"
     },
     {
-      "title": "Ballerina Assassin 2025",
+      "title": "Ballerina Assassin",
       "logo": "https://r.cimalight.co/uploads/thumbs/066745c97-1.jpg",
       "url": "https://g256.turbosplayer.com/file/882f9e8f-9f97-409f-b813-fa143a0f97ed/master.m3u8",
       "genre": "اكشن"
     },
     {
-      "title": "Bangkok Dog 2024",
+      "title": "Bangkok Dog",
       "logo": "https://r.cimalight.co/uploads/thumbs/483614db1-1.jpg",
       "url": "https://g270.turbosplayer.com/file/370fe830-30d2-46e7-946d-0e9d5fa0800b/master.m3u8",
       "genre": "اكشن"
     },
     {
-      "title": "Gladiator Underground 2025",
+      "title": "Gladiator Underground",
       "logo": "https://r.cimalight.co/uploads/thumbs/9827f1336-1.jpg",
       "url": "https://g240.turbosplayer.com/file/2e81a9cc-0f23-4d9b-bbde-0fa0e99f2d9f/master.m3u8",
       "genre": "اكشن"
     },
     {
-      "title": "Gatao Big Brothers 2025",
+      "title": "Gatao Big Brothers",
       "logo": "https://r.cimalight.co/uploads/thumbs/b57d2c12a-1.jpg",
       "url": "https://g260.turbosplayer.com/file/d66c6ed8-6ac1-41b9-925a-e042380f5af5/master.m3u8",
       "genre": "جريمة"
     },
     {
-      "title": "The Girlfriend 2025",
+      "title": "The Girlfriend",
       "logo": "https://r.cimalight.co/uploads/thumbs/3b6a6fd90-1.jpg",
       "url": "https://afast-store3-umh.cdnz.quest/hls2/04/00051/jd4cmguqhnlb_o/index-v1-a1.m3u8?t=OEAg0EwCY52If6vUYiu6Pr9-BtyEKGCFWfZKDQgk3qc&s=1780048678&e=18000&v=129815295&i=0.3&sp=0",
       "genre": "دراما"
     },
     {
-      "title": "Sherlock Holmes 2009",
+      "title": "Sherlock Holmes",
       "logo": "https://r.cimalight.co/uploads/thumbs/ddf3dd930-1.jpg",
       "url": "https://g238.turbosplayer.com/file/07b80a8f-641c-4464-a2a5-a411b78bdada/master.m3u8",
       "genre": "اكشن"
     },
     {
-      "title": "Home Sweet Home Alone 2021",
+      "title": "Home Sweet Home Alone",
       "logo": "https://r.cimalight.co/uploads/thumbs/8d0813ee5-1.jpg",
       "url": "https://g243.turbosplayer.com/file/514ed5a9-8fe1-4d49-aaac-6171ce5ca0f9/master.m3u8",
-      "genre": ["عائلي", "كوميدي"]
+      "genre": "عائلي"
     },
     {
-      "title": "Home Alone: The Holiday Heist 2012",
+      "title": "Home Alone: The Holiday Heist",
       "logo": "https://r.cimalight.co/uploads/thumbs/4cb8eb808-1.jpg",
       "url": "https://g263.turbosplayer.com/file/a85f805d-f3d5-4a6f-a6b9-9215af812271/master.m3u8",
-      "genre": ["عائلي", "كوميدي"]
+      "genre": "عائلي"
     },
     {
-      "title": "Home Alone 4: Taking Back the House 2002",
+      "title": "Home Alone 4: Taking Back the House",
       "logo": "https://r.cimalight.co/uploads/thumbs/f4d122f9e-1.jpg",
       "url": "https://g270.turbosplayer.com/file/d944ed89-0e53-4978-ad6a-84a4d0bb2973/master.m3u8",
-      "genre": ["عائلي", "كوميدي"]
+      "genre": "عائلي"
     },
     {
-      "title": "Black Phone 2 2025",
+      "title": "Black Phone 2",
       "logo": "https://r.cimalight.co/uploads/thumbs/3da208be2-1.jpg",
       "url": "https://g265.turbosplayer.com/file/7a06caa0-f1ad-4c13-b081-42825365212c/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Goodbye June 2025",
+      "title": "Goodbye June",
       "logo": "https://r.cimalight.co/uploads/thumbs/5928efa3d-1.jpg",
       "url": "https://g245.turbosplayer.com/file/12a0b450-648c-4d68-a4ef-6082d4a57f5a/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Five Nights at Freddy’s 2023",
+      "title": "Five Nights at Freddy’s",
       "logo": "https://r.cimalight.co/uploads/thumbs/1804a35c4-1.jpg",
       "url": "https://g258.turbosplayer.com/file/6b20072d-d4d4-47e2-b48e-64e0584f6038/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Home Alone 3 1997",
+      "title": "Home Alone 3",
       "logo": "https://r.cimalight.co/uploads/thumbs/56e218526-1.jpg",
       "url": "https://g261.turbosplayer.com/file/1694da4c-4ff3-4c8b-bea0-1d843c193add/master.m3u8",
-      "genre": ["عائلي", "كوميدي"]
+      "genre": "عائلي"
     },
     {
-      "title": "Leak 2 2025",
+      "title": "Leak 2",
       "logo": "https://r.cimalight.co/uploads/thumbs/463eeb677-1.jpg",
       "url": "https://g254.turbosplayer.com/file/9fca5f73-f524-4417-accd-1266723da5f8/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "Dog Patrol: Operation Santa Paws 2025",
+      "title": "Dog Patrol: Operation Santa Paws",
       "logo": "https://r.cimalight.co/uploads/thumbs/a84ebd998-1.jpg",
       "url": "https://g266.turbosplayer.com/file/cccb9e1f-e50a-4737-a0d1-65b6e582b8f1/master.m3u8",
-      "genre": ["عائلي", "مغامرة"]
+      "genre": "عائلي"
     },
     {
-      "title": "I Wish You Had Told Me 2025",
+      "title": "I Wish You Had Told Me",
       "logo": "https://r.cimalight.co/uploads/thumbs/0003b5273-1.jpg",
       "url": "https://g251.turbosplayer.com/file/04e496fa-8fd8-4528-a015-686ee64a0378/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Frontier Crucible 2025",
+      "title": "Frontier Crucible",
       "logo": "https://r.cimalight.co/uploads/thumbs/e5aa65c83-1.jpg",
       "url": "https://g253.turbosplayer.com/file/4d28aea7-285a-4016-8068-6db8a40ad75b/master.m3u8",
       "genre": "اكشن"
     },
     {
-      "title": "Lone Samurai 2025",
+      "title": "Lone Samurai",
       "logo": "https://r.cimalight.co/uploads/thumbs/c39fb2037-1.jpg",
       "url": "https://g240.turbosplayer.com/file/3e96bd4b-61d4-42ad-9906-3fca7f8a12d5/master.m3u8",
       "genre": "اكشن"
     },
     {
-      "title": "Selepas Tahlil 2025",
+      "title": "Selepas Tahlil",
       "logo": "https://r.cimalight.co/uploads/thumbs/0d69daa52-1.jpg",
       "url": "https://g261.turbosplayer.com/file/17393285-cae5-4c0c-a60c-3dc2892baabb/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Lost in the Spotlight 2025",
+      "title": "Lost in the Spotlight",
       "logo": "https://r.cimalight.co/uploads/thumbs/3c64b440e-1.jpg",
       "url": "https://g238.turbosplayer.com/file/0f03df55-b134-4bbc-9c72-2d6c51bbb57c/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "The Girl Who Invented Kissing 2017",
+      "title": "The Girl Who Invented Kissing",
       "logo": "https://r.cimalight.co/uploads/thumbs/431d5bb49-1.jpg",
       "url": "https://vsped-store7-tkb.cdnz.quest/hls2/04/00086/xa4m93tn3miw_l/index-v1-a1.m3u8?t=0XREaPxyzo9l4lDUFy2bLb8hidnjKzBQNWf-NwjbGIY&s=1780062933&e=43200&v=778815&i=0.3&sp=0",
       "genre": "رومانسي"
     },
     {
-      "title": "Love Untangled 2025",
+      "title": "Love Untangled",
       "logo": "https://r.cimalight.co/uploads/thumbs/63db9630a-1.jpg",
       "url": "https://g254.turbosplayer.com/file/6294b03b-5013-4f0e-bd28-8f3dcda8c31c/master.m3u8",
       "genre": "رومانسي"
     },
     {
-      "title": "Jalan Pulang 2025",
+      "title": "Jalan Pulang",
       "logo": "https://r.cimalight.co/uploads/thumbs/681909314-1.jpg",
       "url": "https://cdn154.foudsea.com/data/E/FD/69092271b63b5/69092271b63b5720.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "He Went That Way 2023",
+      "title": "He Went That Way",
       "logo": "https://r.cimalight.co/uploads/thumbs/b83aa6d13-1.jpg",
       "url": "https://g244.turbosplayer.com/file/e48e9236-4196-49f0-8ee8-1b5da34519ad/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "Kraken 2025",
+      "title": "Kraken",
       "logo": "https://r.cimalight.co/uploads/thumbs/02f1015ed-1.jpg",
       "url": "https://g261.turbosplayer.com/file/2540d840-c0be-43f5-be2a-29080f14c443/master.m3u8",
       "genre": "جريمة"
     },
     {
-      "title": "Killing Mary Sue 2025",
+      "title": "Killing Mary Sue",
       "logo": "https://r.cimalight.co/uploads/thumbs/d2ac8783a-1.jpg",
       "url": "https://g268.turbosplayer.com/file/c0eeac03-6771-4738-a667-a2e99e70c6a2/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "I Swear 2025",
+      "title": "I Swear",
       "logo": "https://r.cimalight.co/uploads/thumbs/d75b42567-1.jpg",
       "url": "https://g244.turbosplayer.com/file/bdfdcf07-bb39-46a3-ab67-964e22815663/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Kaiju No 8 Mission Recon 2025",
+      "title": "Kaiju No 8 Mission Recon",
       "logo": "https://r.cimalight.co/uploads/thumbs/5b03885d4-1.jpg",
       "url": "https://g239.turbosplayer.com/file/2d113fd6-7a59-4fb7-b103-293b16e62d33/master.m3u8",
-      "genre": ["انمي"]
+      "genre": "انميشن"
     },
     {
-      "title": "Harry Potter and the Deathly Hallows Part 2 2011",
+      "title": "Harry Potter and the Deathly Hallows Part 2",
       "logo": "https://r.cimalight.co/uploads/thumbs/0a9195bd2-1.jpg",
       "url": "https://g239.turbosplayer.com/file/f39298e5-23fe-466d-a3be-407ba4a42377/master.m3u8",
       "genre": "جريمة"
@@ -784,7 +2422,7 @@
       "title": "Bungou Stray Dogs: Dead Apple",
       "logo": "https://r.cimalight.co/uploads/thumbs/25e7b8d51-1.jpg",
       "url": "https://g259.turbosplayer.com/file/7f6fe364-f333-4d44-8349-2111b718e755/master.m3u8",
-      "genre": "انمي"
+      "genre": "انميشن"
     },
     {
       "title": "The Beast of Trinity Texas",
@@ -796,7 +2434,7 @@
       "title": "Violent Ends",
       "logo": "https://r.cimalight.co/uploads/thumbs/27a4f7bdd-1.jpg",
       "url": "https://g270.turbosplayer.com/file/cca196fc-9f97-4637-a13b-f7b816f7bba6/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Haq",
@@ -811,13 +2449,13 @@
       "genre": "وثائقي"
     },
     {
-      "title": "Relay 2024",
+      "title": "Relay",
       "logo": "https://r.cimalight.co/uploads/thumbs/53b32350a-1.jpg",
       "url": "https://g242.turbosplayer.com/file/899660a4-c8f4-457d-93c9-81d5d6b48c5a/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "The Cobbler 2014",
+      "title": "The Cobbler",
       "logo": "https://r.cimalight.co/uploads/thumbs/4fe90931b-1.jpg",
       "url": "https://g259.turbosplayer.com/file/070a09b1-8841-436c-8af8-65748ca7970d/master.m3u8",
       "genre": "كوميدي"
@@ -835,136 +2473,136 @@
       "genre": "مغامرة"
     },
     {
-      "title": "The Evil Dead 1981",
+      "title": "The Evil Dead",
       "logo": "https://r.cimalight.co/uploads/thumbs/84a1807a5-1.jpg",
       "url": "https://g264.turbosplayer.com/file/2c433d3c-439d-40b4-a90e-e68ae2471366/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "The Founder 2016",
+      "title": "The Founder",
       "logo": "https://r.cimalight.co/uploads/thumbs/9f5216d07-1.jpg",
       "url": "https://g245.turbosplayer.com/file/e151659b-0af9-4d8a-9085-3ecd74a5ead3/master.m3u8",
-      "genre": "سيرة ذاتية"
+      "genre": "دراما"
     },
     {
-      "title": "The Judge 2014",
+      "title": "The Judge",
       "logo": "https://r.cimalight.co/uploads/thumbs/19937fc2e-1.jpg",
       "url": "https://g242.turbosplayer.com/file/6db3c083-4c5f-434f-b8e9-3a9236412e66/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "The Kid Who Would Be King 2019",
+      "title": "The Kid Who Would Be King",
       "logo": "https://r.cimalight.co/uploads/thumbs/b1f916fe1-1.jpg",
       "url": "https://g241.turbosplayer.com/file/511d9907-7812-4a69-878f-970431848a90/master.m3u8",
       "genre": "عائلي"
     },
     {
-      "title": "The Other Guys 2010",
+      "title": "The Other Guys",
       "logo": "https://r.cimalight.co/uploads/thumbs/9886ff0e9-1.jpg",
       "url": "https://g244.turbosplayer.com/file/0e9cd3f4-ec40-4db9-88f0-296a2d224066/master.m3u8",
       "genre": "كوميدي"
     },
     {
-      "title": "The Mummy: Tomb of the Dragon Emperor 2008",
+      "title": "The Mummy: Tomb of the Dragon Emperor",
       "logo": "https://r.cimalight.co/uploads/thumbs/c939d2665-1.jpg",
       "url": "https://g257.turbosplayer.com/file/97e9f2fa-e781-4945-be4f-a32ca02f4746/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "The Mummy 1999",
+      "title": "The Mummy",
       "logo": "https://r.cimalight.co/uploads/thumbs/a125d8ae9-1.jpg",
       "url": "https://g263.turbosplayer.com/file/3a1ae540-0aae-4915-bca6-265b408ef3da/master.m3u8",
       "genre": "مغامرة"
     },
     {
-      "title": "The Mummy Returns 2001",
+      "title": "The Mummy Returns",
       "logo": "https://r.cimalight.co/uploads/thumbs/3655e7ddc-1.jpg",
       "url": "https://g254.turbosplayer.com/file/50684765-51e0-4a42-9f9d-a03fd7fa05a2/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "The Postcard Killings 2020",
+      "title": "The Postcard Killings",
       "logo": "https://r.cimalight.co/uploads/thumbs/ab67fdd5b-1.jpg",
       "url": "https://g270.turbosplayer.com/file/12b89a13-081a-4203-bd62-f60a6f46479f/master.m3u8",
       "genre": "جريمة"
     },
     {
-      "title": "Trainspotting 1996",
+      "title": "Trainspotting",
       "logo": "https://r.cimalight.co/uploads/thumbs/c613cbc02-1.jpg",
       "url": "https://g266.turbosplayer.com/file/6046b0b3-135b-42f1-bb08-8e1178c91f86/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "The Final Girls 2015",
+      "title": "The Final Girls",
       "logo": "https://r.cimalight.co/uploads/thumbs/e17583ea1-1.jpg",
       "url": "https://g254.turbosplayer.com/file/878a4edd-44ca-4a58-8854-b5ef6604e564/master.m3u8",
       "genre": "كوميدي"
     },
     {
-      "title": "The Departed 2006",
+      "title": "The Departed",
       "logo": "https://r.cimalight.co/uploads/thumbs/2f37ac431-1.jpg",
       "url": "https://g266.turbosplayer.com/file/15b72b22-997d-4276-979a-3638c8b0e8fb/master.m3u8",
       "genre": "جريمة"
     },
     {
-      "title": "The Tiger 2025",
+      "title": "The Tiger",
       "logo": "https://r.cimalight.co/uploads/thumbs/45e904bbb-1.jpg",
       "url": "https://g263.turbosplayer.com/file/95ef381d-d887-4db3-80a8-44db6ffe1904/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Follow My Voice 2025",
+      "title": "Follow My Voice",
       "logo": "https://r.cimalight.co/uploads/thumbs/9e32d01f8-1.jpg",
       "url": "https://g240.turbosplayer.com/file/9903d8b1-cab9-4dad-a561-47f832b6aae0/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Our Girls 2025",
+      "title": "Our Girls",
       "logo": "https://r.cimalight.co/uploads/thumbs/d69069bcf-1.jpg",
       "url": "https://g267.turbosplayer.com/file/d2d0bf0d-7cc0-407b-93dc-5e2d24c41857/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "The Light Within 2024",
+      "title": "The Light Within",
       "logo": "https://r.cimalight.co/uploads/thumbs/bbe7c0f6a-1.jpg",
       "url": "https://g244.turbosplayer.com/file/f5c6ae5e-9add-4f40-91cd-c34be6d757f6/master.m3u8",
       "genre": "رومانسي"
     },
     {
-      "title": "Unseen Enemy 2025",
+      "title": "Unseen Enemy",
       "logo": "https://r.cimalight.co/uploads/thumbs/f2ad27800-1.jpg",
       "url": "https://g270.turbosplayer.com/file/57c369f1-29d2-429d-b8ea-72a19347e082/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "Mr. & Mrs. Aslan 2025",
+      "title": "Mr. & Mrs. Aslan",
       "logo": "https://r.cimalight.co/uploads/thumbs/65b9979fb-1.jpg",
       "url": "https://g270.turbosplayer.com/file/28d471bb-2c3d-45bb-9640-3ec45961e929/master.m3u8",
       "genre": "كوميدي"
     },
     {
-      "title": "Hazel 2025",
+      "title": "Hazel",
       "logo": "https://r.cimalight.co/uploads/thumbs/ea460f843-1.jpg",
       "url": "https://g258.turbosplayer.com/file/31d1ab86-8af3-4d56-9528-03ed89a9c330/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "The Talent 2025",
+      "title": "The Talent",
       "logo": "https://r.cimalight.co/uploads/thumbs/55b5cb79a-1.jpg",
       "url": "https://g264.turbosplayer.com/file/769c5068-842e-4576-9bcd-7d60f1d515de/master.m3u8",
       "genre": "موسيقي"
     },
     {
-      "title": "The War Between 2025",
+      "title": "The War Between",
       "logo": "https://r.cimalight.co/uploads/thumbs/65ddfbc01-1.jpg",
       "url": "https://g266.turbosplayer.com/file/62f14593-3ddf-46b8-98a4-656647e56805/master.m3u8",
       "genre": "حرب"
     },
     {
-      "title": "Pets on a Train 2025",
+      "title": "Pets on a Train",
       "logo": "https://r.cimalight.co/uploads/thumbs/17ee248a4-1.jpg",
       "url": "https://g245.turbosplayer.com/file/46a4f9dd-afc1-4e6b-8bcf-f3c79760082f/master.m3u8",
-      "genre": "انمي"
+      "genre": "انميشن"
     },
     {
       "title": "Interview with the Vampire: The Vampire Chronicles",
@@ -973,73 +2611,73 @@
       "genre": "فانتازيا"
     },
     {
-      "title": "Gran Torino 2008",
+      "title": "Gran Torino",
       "logo": "https://r.cimalight.co/uploads/thumbs/b77fec1e4-1.jpg",
       "url": "https://g241.turbosplayer.com/file/9c45e0b8-68b4-4e49-a7a6-9fe6b7e6c72f/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Independence Day: Resurgence 2016",
+      "title": "Independence Day: Resurgence",
       "logo": "https://r.cimalight.co/uploads/thumbs/e41052806-1.jpg",
       "url": "https://afast-store2-lmy.cdnz.quest/hls2/01/00051/clerfriqx6k0_n/index-v1-a1.m3u8?t=st2iWgvuomPNWkjNyjWc0mLMe4jJmbLiv8YIv4-Xdz8&s=1779990533&e=18000&v=129640958&i=0.3&sp=0",
       "genre": "خيال علمي"
     },
     {
-      "title": "Dhurandhar 2025",
+      "title": "Dhurandhar",
       "logo": "https://r.cimalight.co/uploads/thumbs/0f1819b54-1.jpg",
       "url": "https://g258.turbosplayer.com/file/c3034613-8b68-4efe-b17b-9beb444b0636/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Portal in the Pines 2025",
+      "title": "Portal in the Pines",
       "logo": "https://r.cimalight.co/uploads/thumbs/eb5cf23eb-1.jpg",
       "url": "https://g246.turbosplayer.com/file/936da47a-30b2-473b-94e3-129aa86734b4/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "Black Goat 2025",
+      "title": "Black Goat",
       "logo": "https://r.cimalight.co/uploads/thumbs/8c0074963-1.jpg",
       "url": "https://g248.turbosplayer.com/file/10202759-33ad-474d-9e9a-c0ba8eb0b560/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Afterlight 2025",
+      "title": "Afterlight",
       "logo": "https://r.cimalight.co/uploads/thumbs/046f83ce3-1.jpg",
       "url": "https://g267.turbosplayer.com/file/a08c4d8f-e610-4043-9459-a6924029f908/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "96 Minutes 2025",
+      "title": "96 Minutes",
       "logo": "https://r.cimalight.co/uploads/thumbs/c3e704195-1.jpg",
       "url": "https://g254.turbosplayer.com/file/979fd74a-dbde-4783-9679-2a0f9784aedd/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "Boss 2025",
+      "title": "Boss",
       "logo": "https://r.cimalight.co/uploads/thumbs/56b89f067-1.jpg",
       "url": "https://g255.turbosplayer.com/file/2331e243-9395-40bb-bae1-0828b508de70/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Her Sey Yolunda 2025",
+      "title": "Her Sey Yolunda",
       "logo": "https://r.cimalight.co/uploads/thumbs/85057dc03-1.jpg",
       "url": "https://g255.turbosplayer.com/file/1965befe-f0d0-4acc-bd98-1a9b9f727b00/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Cinderella’s Revenge 2024",
+      "title": "Cinderella’s Revenge",
       "logo": "https://r.cimalight.co/uploads/thumbs/5be6ff677-1.jpg",
       "url": "https://g249.turbosplayer.com/file/74ad1914-8f0a-4480-a5ad-f8956751f43b/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Baka′S Identity 2025",
+      "title": "Baka′S Identity",
       "logo": "https://r.cimalight.co/uploads/thumbs/08a5f9270-1.jpg",
       "url": "https://g244.turbosplayer.com/file/840e1a05-d9fa-4de8-a9a3-affa2137c679/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "45 2025",
+      "title": "45",
       "logo": "https://r.cimalight.co/uploads/thumbs/f7bfe1595-1.jpg",
       "url": "https://g249.turbosplayer.com/file/2601a9c5-c341-4568-9398-e5908a6ab8b3/master.m3u8",
       "genre": "إثارة"
@@ -1051,7 +2689,7 @@
       "genre": "دراما"
     },
     {
-      "title": "Mark 2025",
+      "title": "Mark",
       "logo": "https://r.cimalight.co/uploads/thumbs/abddaf08f-1.jpg",
       "url": "https://g242.turbosplayer.com/file/a9d3df85-8c5d-4b7a-8977-f4a38950d731/master.m3u8",
       "genre": "إثارة"
@@ -1075,7 +2713,7 @@
       "genre": "رعب"
     },
     {
-      "title": "I Am Legend 2007",
+      "title": "I Am Legend",
       "logo": "https://r.cimalight.co/uploads/thumbs/f0ac390ed-1.jpg",
       "url": "https://g268.turbosplayer.com/file/65a277e8-a331-4405-9b07-855051e93c31/master.m3u8",
       "genre": "خيال علمي"
@@ -1084,7 +2722,7 @@
       "title": "The SpongeBob Search for SquarePants",
       "logo": "https://r.cimalight.co/uploads/thumbs/63392581d-1.jpg",
       "url": "https://g262.turbosplayer.com/file/807bf63c-9131-48aa-b9af-1e06cfbc6632/master.m3u8",
-      "genre": "انمي"
+      "genre": "انميشن"
     },
     {
       "title": "The Choral",
@@ -1111,7 +2749,7 @@
       "genre": "كوميدي"
     },
     {
-      "title": "My Sister’s Double Life 2025",
+      "title": "My Sister’s Double Life",
       "logo": "https://r.cimalight.co/uploads/thumbs/b3dd3d83f-1.jpg",
       "url": "https://g267.turbosplayer.com/file/0f836acc-903b-476e-b38c-a2757365af52/master.m3u8",
       "genre": "إثارة"
@@ -1186,7 +2824,7 @@
       "title": "Speed Faster",
       "logo": "https://r.cimalight.co/uploads/thumbs/e38af3cc5-1.jpg",
       "url": "https://g253.turbosplayer.com/file/9a21394a-445b-46b3-83e8-322d7dc62317/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Grizzly Night",
@@ -1240,7 +2878,7 @@
       "title": "Nikita Roy",
       "logo": "https://r.cimalight.co/uploads/thumbs/10022f815-1.jpg",
       "url": "https://g264.turbosplayer.com/file/c1bae4be-b274-47fa-95ef-2df229594722/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Chou Kaguya-hime",
@@ -1279,7 +2917,7 @@
       "genre": "مغامرة"
     },
     {
-      "title": "Truth & Treason 2025",
+      "title": "Truth & Treason",
       "logo": "https://r.cimalight.co/uploads/thumbs/fee7c38fb-1.jpg",
       "url": "https://g241.turbosplayer.com/file/3970f009-b87a-4ce8-8e72-21530fd733b5/master.m3u8",
       "genre": "إثارة"
@@ -1294,10 +2932,10 @@
       "title": "Stealing the Sky",
       "logo": "https://r.cimalight.co/uploads/thumbs/0a009faf8-1.jpg",
       "url": "https://g270.turbosplayer.com/file/0dd696ef-93af-4096-b3c2-1631cc0bf557/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "The Family Plan 2 2025",
+      "title": "The Family Plan 2",
       "logo": "https://r.cimalight.co/uploads/thumbs/0f853fe27-1.jpg",
       "url": "https://g254.turbosplayer.com/file/9cff9974-6573-4826-8286-c619a227a7ab/master.m3u8",
       "genre": "كوميدي"
@@ -1381,7 +3019,7 @@
       "genre": "كوميدي"
     },
     {
-      "title": "Greenland 2020",
+      "title": "Greenland",
       "logo": "https://r.cimalight.co/uploads/thumbs/dc840c438-1.jpg",
       "url": "https://g242.turbosplayer.com/file/f407bbeb-1ebe-4b6a-bde9-7d8e0b69f109/master.m3u8",
       "genre": "إثارة"
@@ -1396,7 +3034,7 @@
       "title": "Relentless",
       "logo": "https://r.cimalight.co/uploads/thumbs/64857b0cf-1.jpg",
       "url": "https://g264.turbosplayer.com/file/f5def0ac-8fd0-4d92-a794-61ca4da327c8/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Fluxx",
@@ -1414,7 +3052,7 @@
       "title": "Akhanda 2",
       "logo": "https://r.cimalight.co/uploads/thumbs/9b9271e50-1.jpg",
       "url": "https://g258.turbosplayer.com/file/330901c8-8dd5-43fa-8109-f55d7ea7c479/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "The Old Bachelor",
@@ -1444,7 +3082,7 @@
       "title": "Revolver Rita",
       "logo": "https://r.cimalight.co/uploads/thumbs/6e7fd4743-1.jpg",
       "url": "https://g265.turbosplayer.com/file/b60c6aab-8cb0-44c6-a7be-ffe11ee31197/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Romería",
@@ -1456,7 +3094,7 @@
       "title": "Baahubali The Epic",
       "logo": "https://r.cimalight.co/uploads/thumbs/881ea5fef-1.jpg",
       "url": "https://g268.turbosplayer.com/file/911339c2-9340-474d-9131-093f6f675534/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Drive",
@@ -1492,13 +3130,13 @@
       "title": "Diesel",
       "logo": "https://r.cimalight.co/uploads/thumbs/9567daef8-1.jpg",
       "url": "https://g271.turbosplayer.com/file/8a397e4c-c693-411f-be98-4d79b642a684/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "120 Bahadur 2025",
+      "title": "120 Bahadur",
       "logo": "https://r.cimalight.co/uploads/thumbs/3503e0fc2-1.jpg",
       "url": "https://g263.turbosplayer.com/file/08b3f672-1c50-4255-9ba6-d8302baf4626/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "The Ballad of Wallis Island",
@@ -1519,211 +3157,211 @@
       "genre": "رعب"
     },
     {
-      "title": "The Calling Witch 2026",
+      "title": "The Calling Witch",
       "logo": "https://r.cimalight.co/uploads/thumbs/8da63ec26-1.jpg",
       "url": "https://g264.turbosplayer.com/file/bd4d0f75-7fcf-4cc1-a78b-4fc5f21d4e06/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "We Bury the Dead 2026",
+      "title": "We Bury the Dead",
       "logo": "https://r.cimalight.co/uploads/thumbs/01d8eeb9c-1.jpg",
       "url": "https://g269.turbosplayer.com/file/309e9ebe-7e02-4b5b-bea0-9fb73fb9cfc8/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Hamnet 2025",
+      "title": "Hamnet",
       "logo": "https://r.cimalight.co/uploads/thumbs/54dcde8fe-1.jpg",
       "url": "https://g249.turbosplayer.com/file/4c1131dd-74d1-4448-a95f-3052e7ac2bdc/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Mirrors No 3 2025",
+      "title": "Mirrors No 3",
       "logo": "https://r.cimalight.co/uploads/thumbs/40db944cd-1.jpg",
       "url": "https://g253.turbosplayer.com/file/a313f19c-ba71-4c47-903c-0c5fdf002065/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Pig Hill 2025",
+      "title": "Pig Hill",
       "logo": "https://r.cimalight.co/uploads/thumbs/39c2a876d-1.jpg",
       "url": "https://g250.turbosplayer.com/file/00367d3f-5598-4612-ad00-9832a05203fd/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Do You Fear What I Fear 2025",
+      "title": "Do You Fear What I Fear",
       "logo": "https://r.cimalight.co/uploads/thumbs/a8d3a3bbd-1.jpg",
       "url": "https://g252.turbosplayer.com/file/cebab72c-2a51-4c76-bff2-d429821a2541/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Darwin 2025",
+      "title": "Darwin",
       "logo": "https://r.cimalight.co/uploads/thumbs/edff6d3d6-1.jpg",
       "url": "https://g246.turbosplayer.com/file/7966b474-b244-45a0-8f74-066abdb209a9/master.m3u8",
       "genre": "خيال علمي"
     },
     {
-      "title": "Red Plague 2025",
+      "title": "Red Plague",
       "logo": "https://r.cimalight.co/uploads/thumbs/20956f11c-1.jpg",
       "url": "https://g244.turbosplayer.com/file/26bc5443-350f-4ea4-b4f2-a0605f455611/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Tormento 2025",
+      "title": "Tormento",
       "logo": "https://r.cimalight.co/uploads/thumbs/53a1f0967-1.jpg",
       "url": "https://g241.turbosplayer.com/file/2bff3dca-8176-4beb-b41b-c08257028dbf/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "My Sister’s Bones 2026",
+      "title": "My Sister’s Bones",
       "logo": "https://r.cimalight.co/uploads/thumbs/20368b705-1.jpg",
       "url": "https://g241.turbosplayer.com/file/07e9b145-d795-4b7e-b762-bd9191d0bef2/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "Bury ‘Em Deep 2025",
+      "title": "Bury ‘Em Deep",
       "logo": "https://r.cimalight.co/uploads/thumbs/8e826d63b-1.jpg",
       "url": "https://g245.turbosplayer.com/file/58cfca73-76cb-49ac-9a37-a6ba6c9a234b/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Blackout 2026",
+      "title": "Blackout",
       "logo": "https://r.cimalight.co/uploads/thumbs/53f89aab2-1.jpg",
       "url": "https://g249.turbosplayer.com/file/cc278457-457d-4b5d-8116-2def30faf2e6/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "The Night Time World 2025",
+      "title": "The Night Time World",
       "logo": "https://r.cimalight.co/uploads/thumbs/7dfe85e25-1.jpg",
       "url": "https://g270.turbosplayer.com/file/a9618307-1530-4899-9753-113ce17f3ede/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Dead to Rights 2025",
+      "title": "Dead to Rights",
       "logo": "https://r.cimalight.co/uploads/thumbs/b22e88354-1.jpg",
       "url": "https://g268.turbosplayer.com/file/0a2bdc5c-0e9f-483c-8ac3-b9156dbe366c/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Mama Pesan Dari Neraka 2025",
+      "title": "Mama Pesan Dari Neraka",
       "logo": "https://r.cimalight.co/uploads/thumbs/8ffef897e-1.jpg",
       "url": "https://g240.turbosplayer.com/file/97b27912-8492-4d73-9242-65a513843ee6/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Sukma 2025",
+      "title": "Sukma",
       "logo": "https://r.cimalight.co/uploads/thumbs/e2b9c5efe-1.jpg",
       "url": "https://g266.turbosplayer.com/file/bd6ad141-d43c-41db-a76b-b5eac24d713a/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Taste and Tears 2025",
+      "title": "Taste and Tears",
       "logo": "https://r.cimalight.co/uploads/thumbs/92d68f28e-1.jpg",
       "url": "https://g266.turbosplayer.com/file/bca7f90a-13c3-406b-9663-8f0da4109fdf/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "A Fisherman’s Tale 2024",
+      "title": "A Fisherman’s Tale",
       "logo": "https://r.cimalight.co/uploads/thumbs/d4517b64c-1.jpg",
       "url": "https://g241.turbosplayer.com/file/a6a2ca19-8234-43f7-95f8-8bd54f171464/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Kissing Is the Easy Part 2026",
+      "title": "Kissing Is the Easy Part",
       "logo": "https://r.cimalight.co/uploads/thumbs/528d83641-1.jpg",
       "url": "https://g241.turbosplayer.com/file/be593b43-9144-4954-9149-2161c986aeeb/master.m3u8",
       "genre": "رومانسي"
     },
     {
-      "title": "Playdate 2025",
+      "title": "Playdate",
       "logo": "https://r.cimalight.co/uploads/thumbs/a536ddcc8-1.jpg",
       "url": "https://vroba-store1-lgk.cdnz.quest/hls2/04/00090/7p739c3u5tdg_n/index-v1-a1.m3u8?t=-m-HjavvUuZLkrb-PbgM7FNQAG4zTEOJ1LJ590X_bEE&s=1779299727&e=43200&v=186720&i=0.3&sp=0",
       "genre": "إثارة"
     },
     {
-      "title": "Sisu: Road to Revenge 2025",
+      "title": "Sisu: Road to Revenge",
       "logo": "https://r.cimalight.co/uploads/thumbs/babd512e6-1.jpg",
       "url": "https://g254.turbosplayer.com/file/eee0bc9e-571c-4ff9-9a88-8a868cd7967b/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Arachnid 2025",
+      "title": "Arachnid",
       "logo": "https://r.cimalight.co/uploads/thumbs/31f919dc3-1.jpg",
       "url": "https://g257.turbosplayer.com/file/45e975b3-04cd-47ab-8933-e4521e3f66ca/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Sweetness 2025",
+      "title": "Sweetness",
       "logo": "https://r.cimalight.co/uploads/thumbs/5eb5b80f7-1.jpg",
       "url": "https://g241.turbosplayer.com/file/2d228b20-552c-4ce8-93f9-b5986a2266df/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Star People 2025",
+      "title": "Star People",
       "logo": "https://r.cimalight.co/uploads/thumbs/58d47e47b-1.jpg",
       "url": "https://g241.turbosplayer.com/file/d1f316cb-5106-421f-803a-6f2e0a42b3cf/master.m3u8",
       "genre": "خيال علمي"
     },
     {
-      "title": "Dinner to Die For 2025",
+      "title": "Dinner to Die For",
       "logo": "https://r.cimalight.co/uploads/thumbs/e54c61a14-1.jpg",
       "url": "https://g248.turbosplayer.com/file/1c60c29a-f627-4a99-b4f7-6759885e2c7a/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "The Surfer 2024",
+      "title": "The Surfer",
       "logo": "https://r.cimalight.co/uploads/thumbs/3b0c325a4-1.jpg",
       "url": "https://g249.turbosplayer.com/file/e1438007-6112-4482-b425-556e513263cb/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Diablo 2025",
+      "title": "Diablo",
       "logo": "https://r.cimalight.co/uploads/thumbs/9f6411881-1.jpg",
       "url": "https://g243.turbosplayer.com/file/00cadfd3-2890-41fe-a066-f2ce9894ab56/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Den of Thieves 2 Pantera 2025",
+      "title": "Den of Thieves 2 Pantera",
       "logo": "https://r.cimalight.co/uploads/thumbs/f3962a20e-1.jpg",
       "url": "https://enc7.goodstream.one/hls2/01/00044/bcisgag2y716_h/index-v1-a1.m3u8?t=liNXoVV8YUZdMZVb6uzPd2g--Ld2FAd4M6aU5yrtF10&s=1779300308&e=43200&v=295497330&srv=s2&i=0.3&sp=0",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Off the Grid 2025",
+      "title": "Off the Grid",
       "logo": "https://r.cimalight.co/uploads/thumbs/4bd94a230-1.jpg",
       "url": "https://g250.turbosplayer.com/file/e26c7c0b-758f-4997-98da-b0d526f1b1be/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "Big Freaking Rat 2020",
+      "title": "Big Freaking Rat",
       "logo": "https://r.cimalight.co/uploads/thumbs/7c1013c1e-1.jpg",
       "url": "https://g243.turbosplayer.com/file/8fe3055f-d7bc-4090-8ae2-904268f5cfde/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Guardians of the Galaxy Vol. 3 2023",
+      "title": "Guardians of the Galaxy Vol. 3",
       "logo": "https://r.cimalight.co/uploads/thumbs/48bbfd348-1.jpg",
       "url": "https://g241.turbosplayer.com/file/21e8842e-b5e6-4eee-8902-1c4a344a7211/master.m3u8",
       "genre": "خيال علمي"
     },
     {
-      "title": "Ikkis 2026",
+      "title": "Ikkis",
       "logo": "https://r.cimalight.co/uploads/thumbs/02ce63f48-1.jpg",
       "url": "https://g258.turbosplayer.com/file/4b8695eb-13e8-477a-92b7-08b8bdad1370/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Reckless 2026",
+      "title": "Reckless",
       "logo": "https://r.cimalight.co/uploads/thumbs/597f67df7-1.jpg",
       "url": "https://g260.turbosplayer.com/file/f91845ce-79d0-4aaa-901f-179b660cca8c/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "The Huntsman 2026",
+      "title": "The Huntsman",
       "logo": "https://r.cimalight.co/uploads/thumbs/0bcba4e08-1.jpg",
       "url": "https://g256.turbosplayer.com/file/f5830424-fe3a-4187-91b7-92dc42c54967/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Rosemead 2025",
+      "title": "Rosemead",
       "logo": "https://r.cimalight.co/uploads/thumbs/45bc9f091-1.jpg",
       "url": "https://g253.turbosplayer.com/file/90cc24c4-08dd-485a-a3b6-0973c2704f4f/master.m3u8",
       "genre": "رعب"
@@ -1735,109 +3373,109 @@
       "genre": "رعب"
     },
     {
-      "title": "Guardians of the Galaxy Vol. 2 2017",
+      "title": "Guardians of the Galaxy Vol. 2",
       "logo": "https://r.cimalight.co/uploads/thumbs/8531f3b03-1.jpg",
       "url": "https://afast-store2-lmy.cdnz.quest/hls2/05/00050/6t446tea2jkj_n/index-v1-a1.m3u8?t=tyd49wVC7xc4fzmRRJPcWeg4adFQKO70akVJfOh1H8w&s=1779300940&e=18000&v=127545763&i=0.3&sp=0",
       "genre": "خيال علمي"
     },
     {
-      "title": "Guardians of the Galaxy 2014",
+      "title": "Guardians of the Galaxy",
       "logo": "https://r.cimalight.co/uploads/thumbs/89cec5e7b-1.jpg",
       "url": "https://g241.turbosplayer.com/file/49af7ab8-3b3f-423d-b0a4-fe0b6a121285/master.m3u8",
       "genre": "خيال علمي"
     },
     {
-      "title": "Chef’s Kiss 2026",
+      "title": "Chef’s Kiss",
       "logo": "https://r.cimalight.co/uploads/thumbs/2bf7ec35c-1.jpg",
       "url": "https://g255.turbosplayer.com/file/9e543069-cdcf-4565-894a-f017f1cd5101/master.m3u8",
       "genre": "كوميدي"
     },
     {
-      "title": "State of Fear 2026",
+      "title": "State of Fear",
       "logo": "https://r.cimalight.co/uploads/thumbs/e5ba3bd49-1.jpg",
       "url": "https://g263.turbosplayer.com/file/57fd802c-b602-43f8-b0e6-0921f0f015e6/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "Bob Trevino Likes It 2024",
+      "title": "Bob Trevino Likes It",
       "logo": "https://r.cimalight.co/uploads/thumbs/d20eee316-1.jpg",
       "url": "https://g242.turbosplayer.com/file/46ea1fca-be66-4ce9-b831-703426c0f9f4/master.m3u8",
       "genre": "كوميدي"
     },
     {
-      "title": "Hurry Up Tomorrow 2025",
+      "title": "Hurry Up Tomorrow",
       "logo": "https://r.cimalight.co/uploads/thumbs/717389a72-1.jpg",
       "url": "https://g254.turbosplayer.com/file/1698e777-97c1-40eb-a030-934c7c35a1c7/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "This is I 2026",
+      "title": "This is I",
       "logo": "https://r.cimalight.co/uploads/thumbs/03ae4b2c5-1.jpg",
       "url": "https://g247.turbosplayer.com/file/8a674160-8cf1-44c5-a6e9-cf6e0a5cf6a3/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Five Nights at Freddy’s 2 2025",
+      "title": "Five Nights at Freddy’s 2",
       "logo": "https://r.cimalight.co/uploads/thumbs/6148cd494-1.jpg",
       "url": "https://g265.turbosplayer.com/file/72b3b413-794d-4c5a-a624-da6a5bc7b802/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Matter of Time 2025",
+      "title": "Matter of Time",
       "logo": "https://r.cimalight.co/uploads/thumbs/9dd828c4d-1.jpg",
       "url": "https://g256.turbosplayer.com/file/4fe4e6d6-388b-424d-9055-03c901a173fc/master.m3u8",
       "genre": "خيال علمي"
     },
     {
-      "title": "Misdirection 2026",
+      "title": "Misdirection",
       "logo": "https://r.cimalight.co/uploads/thumbs/9d56c5fed-1.jpg",
       "url": "https://g249.turbosplayer.com/file/93ecde05-ebb3-4876-9796-be67e3485400/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "Tu Meri Main Tera Main Tera Tu Meri 2025",
+      "title": "Tu Meri Main Tera Main Tera Tu Meri",
       "logo": "https://r.cimalight.co/uploads/thumbs/3b335910a-1.jpg",
       "url": "https://g243.turbosplayer.com/file/00e6dec9-2030-4a7f-8e2b-abbf1d47bb64/master.m3u8",
       "genre": "رومانسي"
     },
     {
-      "title": "Eternity 2025",
+      "title": "Eternity",
       "logo": "https://r.cimalight.co/uploads/thumbs/a26913543-1.jpg",
       "url": "https://g260.turbosplayer.com/file/cef6a709-e278-41a0-8f43-e8fec66fb375/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Anaconda 2024",
+      "title": "Anaconda",
       "logo": "https://r.cimalight.co/uploads/thumbs/9566e64bb-1.jpg",
       "url": "https://g266.turbosplayer.com/file/653d906d-b697-4c34-be4f-c1b3a3108ba2/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "La Grazia 2025",
+      "title": "La Grazia",
       "logo": "https://r.cimalight.co/uploads/thumbs/c7897e61c-1.jpg",
       "url": "https://g244.turbosplayer.com/file/42f6f555-1b4a-44eb-9f03-eaf3327a6c41/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Parasakthi 2026",
+      "title": "Parasakthi",
       "logo": "https://r.cimalight.co/uploads/thumbs/ef83ed6a2-1.jpg",
       "url": "https://g240.turbosplayer.com/file/503703ad-2b70-4d63-aa73-24b437424652/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "The Arborist 2025",
+      "title": "The Arborist",
       "logo": "https://r.cimalight.co/uploads/thumbs/489a5d6ac-1.jpg",
       "url": "https://g260.turbosplayer.com/file/76318979-a9b5-44e2-bcec-e39d50e37180/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "A Young Father’s Nightmare 2025",
+      "title": "A Young Father’s Nightmare",
       "logo": "https://r.cimalight.co/uploads/thumbs/9ed4f14e4-1.jpg",
       "url": "https://g263.turbosplayer.com/file/94875938-4e3e-4f3e-9a40-8c401a1bf566/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "The Martian 2015",
+      "title": "The Martian",
       "logo": "https://r.cimalight.co/uploads/thumbs/b0d5c7094-1.jpg",
       "url": "https://g266.turbosplayer.com/file/63b0bd12-7832-44d8-b680-b510b0748508/master.m3u8",
       "genre": "خيال علمي"
@@ -1849,91 +3487,91 @@
       "genre": "دراما"
     },
     {
-      "title": "The Raja Saab 2026",
+      "title": "The Raja Saab",
       "logo": "https://r.cimalight.co/uploads/thumbs/45b4cde0e-1.jpg",
       "url": "https://g239.turbosplayer.com/file/ed5cec90-1698-4ec7-9631-236e54bb16e5/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "A Pale View of Hills 2025",
+      "title": "A Pale View of Hills",
       "logo": "https://r.cimalight.co/uploads/thumbs/ffc6a47d7-1.jpg",
       "url": "https://g267.turbosplayer.com/file/dc98af15-9885-4a6e-840f-66b6d0115191/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Death Whisperer 3‎ 2025",
+      "title": "Death Whisperer 3",
       "logo": "https://r.cimalight.co/uploads/thumbs/04e0bfaeb-1.jpg",
       "url": "https://g260.turbosplayer.com/file/8a6be4cc-8f36-4620-a732-62a3e8af18ff/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Twisted 2026",
+      "title": "Twisted",
       "logo": "https://r.cimalight.co/uploads/thumbs/14771ce18-1.jpg",
       "url": "https://g241.turbosplayer.com/file/38450bfd-5b74-47ee-9c4c-643c8002a91f/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "Redux Redux 2025",
+      "title": "Redux Redux",
       "logo": "https://r.cimalight.co/uploads/thumbs/09c61a4c8-1.jpg",
       "url": "https://g263.turbosplayer.com/file/03535bce-23b8-424f-a066-3f276361e761/master.m3u8",
       "genre": "خيال علمي"
     },
     {
-      "title": "Fabian and the Deadly Wedding 2026",
+      "title": "Fabian and the Deadly Wedding",
       "logo": "https://r.cimalight.co/uploads/thumbs/285e8a073-1.jpg",
       "url": "https://g253.turbosplayer.com/file/5b94a296-0adc-4b8f-9328-ccdd0b4f48bb/master.m3u8",
       "genre": "كوميدي"
     },
     {
-      "title": "The Matrix 1999",
+      "title": "The Matrix",
       "logo": "https://r.cimalight.co/uploads/thumbs/4986fb57c-1.jpg",
       "url": "https://g262.turbosplayer.com/file/a6a2b8a6-9d1f-4e7a-9c3b-1f4e7d9c3b1a/master.m3u8",
       "genre": "خيال علمي"
     },
     {
-      "title": "2012 2009",
+      "title": "2012",
       "logo": "https://r.cimalight.co/uploads/thumbs/55b4840fa-1.jpg",
       "url": "https://g256.turbosplayer.com/file/34d3c07e-f2b7-4555-a4a2-05b307639a52/master.m3u8",
       "genre": "خيال علمي"
     },
     {
-      "title": "Askin Yuzu 2025",
+      "title": "Askin Yuzu",
       "logo": "https://r.cimalight.co/uploads/thumbs/ef8dd2993-1.jpg",
       "url": "https://g254.turbosplayer.com/file/3d00d857-c8ca-4e58-824f-fd3bbc46fe5d/master.m3u8",
       "genre": "رومانسي"
     },
     {
-      "title": "Hijacked 2025",
+      "title": "Hijacked",
       "logo": "https://r.cimalight.co/uploads/thumbs/a7220a815-1.jpg",
       "url": "https://g248.turbosplayer.com/file/2218ce12-19c9-44e2-ba62-d99da7047cab/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "The Thing with Feathers 2025",
+      "title": "The Thing with Feathers",
       "logo": "https://r.cimalight.co/uploads/thumbs/bef91b49e-1.jpg",
       "url": "https://g264.turbosplayer.com/file/b5ecdb19-0658-43f4-8916-2880eea7ec2b/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Your Letter 2025",
+      "title": "Your Letter",
       "logo": "https://r.cimalight.co/uploads/thumbs/ab70bb80d-1.jpg",
       "url": "https://g256.turbosplayer.com/file/f15d1cd5-dba5-46e3-b84b-82a6ac84a5ad/master.m3u8",
       "genre": "رومانسي"
     },
     {
-      "title": "Streaming 2025",
+      "title": "Streaming",
       "logo": "https://r.cimalight.co/uploads/thumbs/ef85126e6-1.jpg",
       "url": "https://g262.turbosplayer.com/file/fa46ca1e-7b12-40d2-9179-5928a965e8c3/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "The Morrigan 2025",
+      "title": "The Morrigan",
       "logo": "https://r.cimalight.co/uploads/thumbs/eafd5e100-1.jpg",
       "url": "https://g253.turbosplayer.com/file/c6699bcc-d456-4ea3-be6c-8f66c22c4318/master.m3u8",
       "genre": "فانتازيا"
     },
     {
-      "title": "The Investigation of Lucy Letby 2026",
+      "title": "The Investigation of Lucy Letby",
       "logo": "https://r.cimalight.co/uploads/thumbs/dd0acaacb-1.jpg",
       "url": "https://g248.turbosplayer.com/file/a8769d66-dcce-452f-a10e-fb3fd538fed3/master.m3u8",
       "genre": "دراما"
@@ -1945,7 +3583,7 @@
       "genre": "رومانسي"
     },
     {
-      "title": "Lure 2026",
+      "title": "Lure",
       "logo": "https://r.cimalight.co/uploads/thumbs/0900fc361-1.jpg",
       "url": "https://g268.turbosplayer.com/file/039b286c-4e35-4e08-87f4-b4c0f1bc098a/master.m3u8",
       "genre": "إثارة"
@@ -1954,22 +3592,22 @@
       "title": "Gatao Like Father Like Son",
       "logo": "https://r.cimalight.co/uploads/thumbs/6e22713d1-1.jpg",
       "url": "https://afast-store2-lmy.cdnz.quest/hls2/05/00051/hvvwke9ntart_n/index-v1-a1.m3u8?t=uRBMJu2t7Td2602lE_gaW0iaVoNqcFX_goVTbjQCasQ&s=1779306990&e=18000&v=127574089&i=0.3&sp=0",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "The Dutchman 2025",
+      "title": "The Dutchman",
       "logo": "https://r.cimalight.co/uploads/thumbs/1cfb96f17-1.jpg",
       "url": "https://g261.turbosplayer.com/file/87d54cf6-0d3f-45f4-a7e3-f70b5d0c9db5/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "Humint 2026",
+      "title": "Humint",
       "logo": "https://r.cimalight.co/uploads/thumbs/4516cdf8a-1.jpg",
       "url": "https://minochinos.com/stream/eokN6Plbm7bMckypix2TqQ/hjkrhuihghfvu/1779246068/38829842/index-v1-a1.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "The Map That Leads to You 2025",
+      "title": "The Map That Leads to You",
       "logo": "https://r.cimalight.co/uploads/thumbs/0830865c5-1.jpg",
       "url": "https://g263.turbosplayer.com/file/0d55d307-eca3-4727-a4c0-0933c5109350/master.m3u8",
       "genre": "رومانسي"
@@ -1978,7 +3616,7 @@
       "title": "The Accountant 2",
       "logo": "https://r.cimalight.co/uploads/thumbs/d9c81382d-1.jpg",
       "url": "https://g252.turbosplayer.com/file/23c9e1b8-833d-49a7-a8ed-f86a187661b2/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "The Conjuring 2",
@@ -1987,7 +3625,7 @@
       "genre": "رعب"
     },
     {
-      "title": "Bring Her Back 2025",
+      "title": "Bring Her Back",
       "logo": "https://r.cimalight.co/uploads/thumbs/15b322898-1.jpg",
       "url": "https://dayt-fer-dw8.gamescdn.online/d/3gnbakdcmi3hdr7efmklxnifvz2tsjz6aspfwk23mutu6mwlajwaneqxezri3dou6ndwljnk/video.mp4",
       "genre": "رعب"
@@ -1996,7 +3634,7 @@
       "title": "Storm Rider: Legend of Hammerhead",
       "logo": "https://r.cimalight.co/uploads/thumbs/ccc6448a7-1.jpg",
       "url": "https://minochinos.com/stream/OyV1B-XMtuR-et9ttnmr4Q/hjkrhuihghfvu/1779246299/38721509/index-v1-a1.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "The Testament of Ann Lee",
@@ -2005,19 +3643,19 @@
       "genre": "دراما"
     },
     {
-      "title": "In Cold Light 2025",
+      "title": "In Cold Light",
       "logo": "https://r.cimalight.co/uploads/thumbs/85df70076-1.jpg",
       "url": "https://minochinos.com/stream/5i_DNpZEKzaxLLWoDpgH2A/hjkrhuihghfvu/1779246385/37654733/index-v1-a1.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "The Dam 2025",
+      "title": "The Dam",
       "logo": "https://r.cimalight.co/uploads/thumbs/e36dbb2b8-1.jpg",
       "url": "https://g241.turbosplayer.com/file/001e4d4e-2933-43c3-9fad-d15a241d3408/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "The Conjuring Last Rites 2025",
+      "title": "The Conjuring Last Rites",
       "logo": "https://r.cimalight.co/uploads/thumbs/67ce0d324-1.jpg",
       "url": "https://g256.turbosplayer.com/file/938ba19e-9aea-481b-a3c0-6ac5e5f79dce/master.m3u8",
       "genre": "رعب"
@@ -2029,7 +3667,7 @@
       "genre": "فانتازيا"
     },
     {
-      "title": "It 2017",
+      "title": "It",
       "logo": "https://r.cimalight.co/uploads/thumbs/904fad502-1.jpg",
       "url": "https://g267.turbosplayer.com/file/4a74fd4e-2326-4fe6-9aef-8cd4ff358f99/master.m3u8",
       "genre": "رعب"
@@ -2044,28 +3682,28 @@
       "title": "Spy x Family Movie Code White",
       "logo": "https://r.cimalight.co/uploads/thumbs/01ce701ea-1.jpg",
       "url": "https://a4.mp4upload.com:183/d/xkxs4xunz3b4quuoisregnckcmtebqipvcep6jmguolvw3v3prh5p3coml2x6z54eextmiqy/video.mp4",
-      "genre": "انمي"
+      "genre": "انميشن"
     },
     {
-      "title": "Thunderbolts 2025",
+      "title": "Thunderbolts",
       "logo": "https://r.cimalight.co/uploads/thumbs/6b0e6884b-1.jpg",
       "url": "https://g242.turbosplayer.com/file/5bdba8d3-c2c8-47bf-8549-bbd6d4b56235/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "The Ice Road 2021",
+      "title": "The Ice Road",
       "logo": "https://r.cimalight.co/uploads/thumbs/6f217d151-1.jpg",
       "url": "https://g239.turbosplayer.com/file/583de353-fa67-48f8-8724-e7873c9afede/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "Junction 2024",
+      "title": "Junction",
       "logo": "https://r.cimalight.co/uploads/thumbs/e7e608f3b-1.jpg",
       "url": "https://g252.turbosplayer.com/file/e29f40d6-af8c-45ef-b402-51880bb48157/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "Star Wars The Rise of Skywalker 2019",
+      "title": "Star Wars The Rise of Skywalker",
       "logo": "https://r.cimalight.co/uploads/thumbs/375c7ab25-1.jpg",
       "url": "https://g260.turbosplayer.com/file/04fddc04-6bd8-4d02-8bb1-8729ebce2df4/master.m3u8",
       "genre": "خيال علمي"
@@ -2074,10 +3712,10 @@
       "title": "John Wick Ballerina",
       "logo": "https://r.cimalight.co/uploads/thumbs/494e26b99-1.jpg",
       "url": "https://g263.turbosplayer.com/file/0f27ec46-ac6d-458f-86a8-cc71360faa12/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "The Ritual 2025",
+      "title": "The Ritual",
       "logo": "https://r.cimalight.co/uploads/thumbs/5f0f5b7c0-1.jpg",
       "url": "https://g250.turbosplayer.com/file/cb6f21d0-162c-4d60-827c-1e23c48dd6a6/master.m3u8",
       "genre": "رعب"
@@ -2089,13 +3727,13 @@
       "genre": "دراما"
     },
     {
-      "title": "The Plague 2025",
+      "title": "The Plague",
       "logo": "https://r.cimalight.co/uploads/thumbs/95a119388-1.jpg",
       "url": "https://vsped-fs10-d71.cdnz.quest/hls2/01/00222/5pmw51lanr9z_n/index-v1-a1.m3u8?t=SIxgi1Eu6BZT-jnrK_hfoSPuYrJ8o_emrQQiezAaKa0&s=1779212880&e=43200&v=1005155&i=0.0&sp=0",
       "genre": "رعب"
     },
     {
-      "title": "Merv 2025",
+      "title": "Merv",
       "logo": "https://r.cimalight.co/uploads/thumbs/dbb9126c0-1.jpg",
       "url": "https://g240.turbosplayer.com/file/7de19688-09db-45ce-a4dd-f31ff4b954fe/master.m3u8",
       "genre": "رعب"
@@ -2104,7 +3742,7 @@
       "title": "The Last Viking",
       "logo": "https://r.cimalight.co/uploads/thumbs/50664b9c3-1.jpg",
       "url": "https://g262.turbosplayer.com/file/4d7692de-e3e6-4333-86ad-18cf5b0b6ca4/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "The Things You Kill",
@@ -2119,34 +3757,34 @@
       "genre": "رومانسي"
     },
     {
-      "title": "Nights of Hero 2025",
+      "title": "Nights of Hero",
       "logo": "https://r.cimalight.co/uploads/thumbs/ea0b3bbde-1.jpg",
       "url": "https://g268.turbosplayer.com/file/e3087d68-cedc-42f0-8ab8-5bb48ea1f428/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Hellfire 2026",
+      "title": "Hellfire",
       "logo": "https://r.cimalight.co/uploads/thumbs/4d735fcba-1.jpg",
       "url": "https://g258.turbosplayer.com/file/c4787ded-5e37-48f3-a731-ad887384ade2/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Mercy 2026",
+      "title": "Mercy",
       "logo": "https://r.cimalight.co/uploads/thumbs/434c8a282-1.jpg",
       "url": "https://g255.turbosplayer.com/file/a35f58c6-1e5a-48d1-aa40-d4813df3a6c8/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "Him 2025",
+      "title": "Him",
       "logo": "https://r.cimalight.co/uploads/thumbs/e96c4eeaa-1.jpg",
       "url": "https://g264.turbosplayer.com/file/47b23abd-5c94-4de3-b477-fe20b40d56a7/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Lilo & Stitch 2025",
+      "title": "Lilo & Stitch",
       "logo": "https://r.cimalight.co/uploads/thumbs/5a29e8de8-1.jpg",
       "url": "https://g249.turbosplayer.com/file/b06e49f5-40c0-4795-9db8-2e6b4648a981/master.m3u8",
-      "genre": "انمي"
+      "genre": "انميشن"
     },
     {
       "title": "Oh What Fun",
@@ -2155,7 +3793,7 @@
       "genre": "كوميدي"
     },
     {
-      "title": "Ella McCay 2025",
+      "title": "Ella McCay",
       "logo": "https://r.cimalight.co/uploads/thumbs/c906cfb2a-1.jpg",
       "url": "https://g260.turbosplayer.com/file/d6146358-03e2-4f19-84e7-9869113ec375/master.m3u8",
       "genre": "دراما"
@@ -2167,7 +3805,7 @@
       "genre": "دراما"
     },
     {
-      "title": "Feel My Voice 2026",
+      "title": "Feel My Voice",
       "logo": "https://r.cimalight.co/uploads/thumbs/03a681caa-1.jpg",
       "url": "https://g256.turbosplayer.com/file/35e06c48-9128-4924-a91e-30d97c50cf9d/master.m3u8",
       "genre": "دراما"
@@ -2185,25 +3823,25 @@
       "genre": "إثارة"
     },
     {
-      "title": "Starbright 2026",
+      "title": "Starbright",
       "logo": "https://r.cimalight.co/uploads/thumbs/e00a8b20d-1.jpg",
       "url": "",
       "genre": "خيال علمي"
     },
     {
-      "title": "Pinecone 2026",
+      "title": "Pinecone",
       "logo": "https://r.cimalight.co/uploads/thumbs/73798b8a1-1.jpg",
       "url": "https://g260.turbosplayer.com/file/702e1889-7d3c-45f0-9935-e249aae8b730/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Capture 2026",
+      "title": "Capture",
       "logo": "https://r.cimalight.co/uploads/thumbs/c9d5db36b-1.jpg",
       "url": "https://g243.turbosplayer.com/file/f590a602-b8b5-4c9f-8131-83921dd5ccd0/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "Calle Málaga 2025",
+      "title": "Calle Málaga",
       "logo": "https://r.cimalight.co/uploads/thumbs/68c3d53ae-1.jpg",
       "url": "https://g284.turbosplayer.com/file/f5826c6e-9790-40f5-8c58-d222f0c81722/master.m3u8",
       "genre": "دراما"
@@ -2215,145 +3853,145 @@
       "genre": "دراما"
     },
     {
-      "title": "The Carpenter’s Son 2025",
+      "title": "The Carpenter’s Son",
       "logo": "https://r.cimalight.co/uploads/thumbs/5d6e42fd1-1.jpg",
       "url": "https://g255.turbosplayer.com/file/4311073f-a5b1-45ee-afb8-6b319cd1babe/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Out Standing 2025",
+      "title": "Out Standing",
       "logo": "https://r.cimalight.co/uploads/thumbs/053d52683-1.jpg",
       "url": "https://g282.turbosplayer.com/file/4f51c1b3-f19e-4ef4-a6a0-4f82d5036edc/master.m3u8",
       "genre": "كوميدي"
     },
     {
-      "title": "Infiltrate 2026",
+      "title": "Infiltrate",
       "logo": "https://r.cimalight.co/uploads/thumbs/6e630915f-1.jpg",
       "url": "https://g246.turbosplayer.com/file/fe98861f-82e7-4d5d-8b16-f21601c053aa/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Concrete Market 2025",
+      "title": "Concrete Market",
       "logo": "https://r.cimalight.co/uploads/thumbs/d88373ecd-1.jpg",
       "url": "https://g249.turbosplayer.com/file/fdece96d-5145-49be-8cf6-8080690580f6/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Outcome 2026",
+      "title": "Outcome",
       "logo": "https://r.cimalight.co/uploads/thumbs/0e9956afd-1.jpg",
       "url": "https://g270.turbosplayer.com/file/ad90dde0-d35f-4256-971c-813cb7bc23aa/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "Thrash 2026",
+      "title": "Thrash",
       "logo": "https://r.cimalight.co/uploads/thumbs/8476056a2-1.jpg",
       "url": "https://afast-store2-lmy.cdnz.quest/hls2/02/00055/kz82abluj52r_n/index-v1-a1.m3u8?t=D7i9B3snz6sGZalEFLuDyEDJ4K0qrfpsgaEcWckih78&s=1779190146&e=18000&v=127207828&i=0.3&sp=0",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Wasteman 2025",
+      "title": "Wasteman",
       "logo": "https://r.cimalight.co/uploads/thumbs/9522c0106-1.jpg",
       "url": "https://be7713.rcr82.waw05.r66nv9ed.com/hls2/01/11081/fymr16ef0aj9_h/index-v1-a1.m3u8?t=PT3QHhhFYvihcwVncltoh6-H-0Kjk8d6zCfswxsd6nI&s=1779190211&e=10800&f=55409361&srv=1050&asn=12975&sp=4000&p=0",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "18th Rose 2026",
+      "title": "18th Rose",
       "logo": "https://r.cimalight.co/uploads/thumbs/b2440b224-1.jpg",
       "url": "https://yourcontent.cloud/hls2/01/00002/41xqtwvcnpnd_l/index-v1-a1.m3u8?t=bKT3FRVjfRhk4j81p4uDMNyLPi1TRdv80qz2OXo6CpY&s=1779190271&e=43200&v=8585280&i=0.3&sp=0",
       "genre": "دراما"
     },
     {
-      "title": "Noise 2024",
+      "title": "Noise",
       "logo": "https://r.cimalight.co/uploads/thumbs/3d3fd3a17-1.jpg",
       "url": "https://g249.turbosplayer.com/file/dea4dd70-24d5-4a1c-b8ab-2e036787e0ed/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "In Your Dreams 2025",
+      "title": "In Your Dreams",
       "logo": "https://r.cimalight.co/uploads/thumbs/bf0d921b8-1.jpg",
       "url": "https://g242.turbosplayer.com/file/30f23e3a-7473-47f3-bf0e-c8a5f19095f2/master.m3u8",
       "genre": "فانتازيا"
     },
     {
-      "title": "Countdown 2019",
+      "title": "Countdown",
       "logo": "https://r.cimalight.co/uploads/thumbs/08ebaa4cf-1.jpg",
       "url": "https://callistanise.com/stream/chGFFkptVKv45eR9n-8aUQ/hjkrhuihghfvu/1779233607/9452301/index-f2-v1-a1.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "The Ugly Stepsister 2025",
+      "title": "The Ugly Stepsister",
       "logo": "https://r.cimalight.co/uploads/thumbs/5f800671f-1.jpg",
       "url": "https://g252.turbosplayer.com/file/3a8c7004-a319-467f-bbd4-3d82b972c238/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Star Wars Episode I The Phantom Menace 1999",
+      "title": "Star Wars Episode I The Phantom Menace",
       "logo": "https://r.cimalight.co/uploads/thumbs/2395afd19-1.jpg",
       "url": "https://g265.turbosplayer.com/file/209a0e7e-78a5-4113-a650-00a8d5db5ec5/master.m3u8",
       "genre": "خيال علمي"
     },
     {
-      "title": "Star Wars Episode III Revenge of the Sith 2005",
+      "title": "Star Wars Episode III Revenge of the Sith",
       "logo": "https://r.cimalight.co/uploads/thumbs/59d43c523-1.jpg",
       "url": "https://g257.turbosplayer.com/file/6b9ab43a-a304-4eac-9f30-feea7e6cf95d/master.m3u8",
       "genre": "خيال علمي"
     },
     {
-      "title": "Rogue One A Star Wars Story 2016",
+      "title": "Rogue One A Star Wars Story",
       "logo": "https://r.cimalight.co/uploads/thumbs/e4ea39ff2-1.jpg",
       "url": "https://g266.turbosplayer.com/file/6955a81e-dc66-4830-a433-b2ecd3da7405/master.m3u8",
       "genre": "خيال علمي"
     },
     {
-      "title": "Die My Love 2025",
+      "title": "Die My Love",
       "logo": "https://r.cimalight.co/uploads/thumbs/5ee92290b-1.jpg",
       "url": "https://g261.turbosplayer.com/file/0cd06556-7b2b-47fa-b492-07ecf7121095/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Psycho Killer 2026",
+      "title": "Psycho Killer",
       "logo": "https://r.cimalight.co/uploads/thumbs/e3bf2d18d-1.jpg",
       "url": "https://g282.turbosplayer.com/file/1b40b613-ab04-457d-8dae-e226051b1531/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Sniper: No Nation 2026",
+      "title": "Sniper: No Nation",
       "logo": "https://r.cimalight.co/uploads/thumbs/a5c3594af-1.jpg",
       "url": "https://g281.turbosplayer.com/file/2062a674-7640-41be-a539-5c0b3cf19029/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "The Anacondas 2025",
+      "title": "The Anacondas",
       "logo": "https://r.cimalight.co/uploads/thumbs/c5886fc64-1.jpg",
       "url": "https://g272.turbosplayer.com/file/1dd3c72d-eee9-40be-b361-1256253f74e4/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Mile 666 2025",
+      "title": "Mile 666",
       "logo": "https://r.cimalight.co/uploads/thumbs/1546d19f4-1.jpg",
       "url": "https://g260.turbosplayer.com/file/d9510ef3-a5de-482d-9c8b-92bee0f6cefe/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Thinestra 2025",
+      "title": "Thinestra",
       "logo": "https://r.cimalight.co/uploads/thumbs/3d4665715-1.jpg",
       "url": "https://minochinos.com/stream/IODK9O3cCdMho6qnReKiEA/hjkrhuihghfvu/1779234799/38993451/index-v1-a1.m3u8",
       "genre": "فانتازيا"
     },
     {
-      "title": "The Protos Experiment 2025",
+      "title": "The Protos Experiment",
       "logo": "https://r.cimalight.co/uploads/thumbs/e7d0949c9-1.jpg",
       "url": "https://minochinos.com/stream/0F59hcX4NQqsZwP6VvIDBw/hjkrhuihghfvu/1779234842/38993357/index-v1-a1.m3u8",
       "genre": "خيال علمي"
     },
     {
-      "title": "Last Save Point 2026",
+      "title": "Last Save Point",
       "logo": "https://r.cimalight.co/uploads/thumbs/6d2e51988-1.jpg",
       "url": "https://minochinos.com/stream/09g5n0GggSbX4FJ3kr3r3A/hjkrhuihghfvu/1779234884/38992680/index-v1-a1.m3u8",
       "genre": "خيال علمي"
     },
     {
-      "title": "Touch Me 2025",
+      "title": "Touch Me",
       "logo": "https://r.cimalight.co/uploads/thumbs/052b2bdaa-1.jpg",
       "url": "https://g253.turbosplayer.com/file/90162825-c723-471f-bd2c-cbbdd180a6c6/master.m3u8",
       "genre": "دراما"
@@ -2362,16 +4000,16 @@
       "title": "Demon Slayer: Kimetsu no Yaiba The Movie Infinity Castle",
       "logo": "https://r.cimalight.co/uploads/thumbs/5c1695c60-1.jpg",
       "url": "https://g268.turbosplayer.com/file/f61d0abb-aee4-4a76-8968-1ac114081a1f/master.m3u8",
-      "genre": "انمي"
+      "genre": "انميشن"
     },
     {
-      "title": "Happy Patel Khatarnak Jasoos 2026",
+      "title": "Happy Patel Khatarnak Jasoos",
       "logo": "https://r.cimalight.co/uploads/thumbs/ff78add9c-1.jpg",
       "url": "https://minochinos.com/stream/ed5VswS8gq0QYPb6yHId4w/hjkrhuihghfvu/1779235069/38893316/index-v1-a1.m3u8",
       "genre": "كوميدي"
     },
     {
-      "title": "Once We Were Us 2025",
+      "title": "Once We Were Us",
       "logo": "https://r.cimalight.co/uploads/thumbs/520126cec-1.jpg",
       "url": "https://g256.turbosplayer.com/file/2561dd2e-fee8-4389-a625-048fad89f135/master.m3u8",
       "genre": "رومانسي"
@@ -2386,10 +4024,10 @@
       "title": "Revenge",
       "logo": "https://r.cimalight.co/uploads/thumbs/1cfede01a-1.jpg",
       "url": "https://g281.turbosplayer.com/file/072988d0-6c35-48a1-b35f-c9ec4530999d/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "28 Years Later 2025",
+      "title": "28 Years Later",
       "logo": "https://r.cimalight.co/uploads/thumbs/1353bb5cc-1.jpg",
       "url": "https://hls2.goodstream.one/hls2/01/00041/kw4zekex8r3z_h/index-v1-a1.m3u8?t=mZdnlua5Y-nc0KyJuSMs1O2gfC7-aj65et707eRlXwc&s=1779145021&e=43200&v=294268552&srv=s2&i=0.3&sp=0",
       "genre": "رعب"
@@ -2473,16 +4111,16 @@
       "genre": "إثارة"
     },
     {
-      "title": "Panopticon 2024",
+      "title": "Panopticon",
       "logo": "https://r.cimalight.co/uploads/thumbs/1aa7f7387-1.jpg",
       "url": "https://g255.turbosplayer.com/file/55057121-787f-471d-a71d-878e85a4785b/master.m3u8",
       "genre": "خيال علمي"
     },
     {
-      "title": "Protector 2025",
+      "title": "Protector",
       "logo": "https://r.cimalight.co/uploads/thumbs/653f33bb7-1.jpg",
       "url": "https://g261.turbosplayer.com/file/1d7891e6-c476-47ef-8e58-95918ede1f0b/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Luther: The Fallen Sun",
@@ -2494,13 +4132,13 @@
       "title": "Ne Zha 2",
       "logo": "https://r.cimalight.co/uploads/thumbs/32a6aeee5-1.jpg",
       "url": "https://g240.turbosplayer.com/file/a54a81ef-bd5c-4de2-8be7-961826ef1fc4/master.m3u8",
-      "genre": "انمي"
+      "genre": "انميشن"
     },
     {
-      "title": "Muzzle City of Wolves 2025",
+      "title": "Muzzle City of Wolves",
       "logo": "https://r.cimalight.co/uploads/thumbs/065d30930-1.jpg",
       "url": "https://g242.turbosplayer.com/file/b8fef057-e3cb-4f60-b4a6-a5f335846563/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Crime 101",
@@ -2509,19 +4147,19 @@
       "genre": "إثارة"
     },
     {
-      "title": "Fuck Valentines Day 2026",
+      "title": "Fuck Valentines Day",
       "logo": "https://r.cimalight.co/uploads/thumbs/b893f199c-1.jpg",
       "url": "https://g240.turbosplayer.com/file/9d5db5e8-8619-4983-bc5e-a390e55692f4/master.m3u8",
       "genre": "كوميدي"
     },
     {
-      "title": "Love Me Love Me 2026",
+      "title": "Love Me Love Me",
       "logo": "https://r.cimalight.co/uploads/thumbs/2563adbdd-1.jpg",
       "url": "https://g269.turbosplayer.com/file/ad71fbab-9853-4ebe-bcce-e73cbc18d9f0/master.m3u8",
       "genre": "رومانسي"
     },
     {
-      "title": "Hedda 2025",
+      "title": "Hedda",
       "logo": "https://r.cimalight.co/uploads/thumbs/9c900ff19-1.jpg",
       "url": "https://g254.turbosplayer.com/file/78fecfa3-fcc8-4180-96ac-406f05d802ee/master.m3u8",
       "genre": "دراما"
@@ -2542,7 +4180,7 @@
       "title": "Ice Road Vengeance",
       "logo": "https://r.cimalight.co/uploads/thumbs/45ba289cd-1.jpg",
       "url": "https://g239.turbosplayer.com/file/edb557ad-ec8c-4dbe-92ad-1087b52aa320/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "The Napa Boys",
@@ -2578,7 +4216,7 @@
       "title": "The Wrecking Crew",
       "logo": "https://r.cimalight.co/uploads/thumbs/277c87d5f-1.jpg",
       "url": "https://g253.turbosplayer.com/file/a4e4e3df-2b2a-420e-953e-b79d8ebb830e/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Preparation for the Next Life",
@@ -2605,13 +4243,13 @@
       "genre": "وثائقي"
     },
     {
-      "title": "Eden 2024",
+      "title": "Eden",
       "logo": "https://r.cimalight.co/uploads/thumbs/6fcd8e9e8-1.jpg",
       "url": "https://g241.turbosplayer.com/file/973d1348-efa7-4684-8e5d-857364d99025/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Shelter 2026",
+      "title": "Shelter",
       "logo": "https://r.cimalight.co/uploads/thumbs/5adc5580a-1.jpg",
       "url": "https://g272.turbosplayer.com/file/03593d9c-332d-4c52-b66d-e46921b7db42/master.m3u8",
       "genre": "إثارة"
@@ -2623,16 +4261,16 @@
       "genre": "دراما"
     },
     {
-      "title": "Hive 2026",
+      "title": "Hive",
       "logo": "https://r.cimalight.co/uploads/thumbs/3591af5bc-1.jpg",
       "url": "https://g274.turbosplayer.com/file/cb6b23c9-e986-4375-adf1-07fcf6aa2d76/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Ballistic 2025",
+      "title": "Ballistic",
       "logo": "https://r.cimalight.co/uploads/thumbs/e2a4cf905-1.jpg",
       "url": "https://g283.turbosplayer.com/file/9a84d654-e687-4b2f-8933-612bd975e514/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Roommates",
@@ -2644,10 +4282,10 @@
       "title": "Mission Impossible 8 The Final Reckoning",
       "logo": "https://r.cimalight.co/uploads/thumbs/a3a34549e-1.jpg",
       "url": "https://g240.turbosplayer.com/file/2819f947-d4e1-40af-8ff7-cc139e278383/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Primate 2025",
+      "title": "Primate",
       "logo": "https://r.cimalight.co/uploads/thumbs/233d74009-1.jpg",
       "url": "https://g246.turbosplayer.com/file/3f1d1e8f-850c-443e-892d-336e1ce47fab/master.m3u8",
       "genre": "رعب"
@@ -2656,34 +4294,34 @@
       "title": "The Running Man",
       "logo": "https://r.cimalight.co/uploads/thumbs/5e7862fa1-1.jpg",
       "url": "https://g257.turbosplayer.com/file/95aaefdb-fb0f-44e0-b8d9-88433c32909c/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Primavera 2025",
+      "title": "Primavera",
       "logo": "https://r.cimalight.co/uploads/thumbs/0207c940e-1.jpg",
       "url": "https://g266.turbosplayer.com/file/03fa7dca-9759-42ef-871f-a998fb62035d/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Apex 2026",
+      "title": "Apex",
       "logo": "https://r.cimalight.co/uploads/thumbs/b6c568103-1.jpg",
       "url": "https://g283.turbosplayer.com/file/43491d0b-133b-4d7c-a08e-4553e10aaf22/master.m3u8",
       "genre": "خيال علمي"
     },
     {
-      "title": "The Favor 2025",
+      "title": "The Favor",
       "logo": "https://r.cimalight.co/uploads/thumbs/17ded517f-1.jpg",
       "url": "https://g258.turbosplayer.com/file/435318dd-99dc-49fe-97d9-50995ca47fcb/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "Swapped 2026",
+      "title": "Swapped",
       "logo": "https://r.cimalight.co/uploads/thumbs/bb7d40cd9-1.jpg",
       "url": "https://g246.turbosplayer.com/file/15ca45f2-87b3-424d-8fc5-5e784458807d/master.m3u8",
       "genre": "كوميدي"
     },
     {
-      "title": "Kill Code 2026",
+      "title": "Kill Code",
       "logo": "https://r.cimalight.co/uploads/thumbs/2f733a67f-1.jpg",
       "url": "https://g283.turbosplayer.com/file/f273a071-2364-40ca-a8a3-d0d6c26e5d9b/master.m3u8",
       "genre": "خيال علمي"
@@ -2695,10 +4333,10 @@
       "genre": "رعب"
     },
     {
-      "title": "Panda Plan 2: The Magical Tribe 2026",
+      "title": "Panda Plan 2: The Magical Tribe",
       "logo": "https://r.cimalight.co/uploads/thumbs/9b57d92b6-1.jpg",
       "url": "https://g262.turbosplayer.com/file/62797e8f-28d5-4563-8a03-6d9448920620/master.m3u8",
-      "genre": "انمي"
+      "genre": "انميشن"
     },
     {
       "title": "Ice-Pocalypse",
@@ -2707,34 +4345,34 @@
       "genre": "خيال علمي"
     },
     {
-      "title": "No Ordinary Heist 2026",
+      "title": "No Ordinary Heist",
       "logo": "https://r.cimalight.co/uploads/thumbs/d57160ed8-1.jpg",
       "url": "https://g270.turbosplayer.com/file/bfea02bc-9be9-4368-9d75-d3bf03874b42/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Lee Cronin’s The Mummy 2026",
+      "title": "Lee Cronin’s The Mummy",
       "logo": "https://r.cimalight.co/uploads/thumbs/85d55be19-1.jpg",
       "url": "https://g271.turbosplayer.com/file/3dfc0aff-cc21-4e26-941e-c7244ebb2dda/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "Black Creek 2024",
+      "title": "Black Creek",
       "logo": "https://r.cimalight.co/uploads/thumbs/f9123b85a-1.jpg",
       "url": "https://g270.turbosplayer.com/file/038077a9-4e72-4e4b-8d64-8882700243e8/master.m3u8",
       "genre": "رعب"
     },
     {
-      "title": "No Other Choice 2025",
+      "title": "No Other Choice",
       "logo": "https://r.cimalight.co/uploads/thumbs/ee70a9d53-1.jpg",
       "url": "https://g271.turbosplayer.com/file/53301cf8-396d-48a1-88cd-9d1703c55fbe/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "Hoppers 2026",
+      "title": "Hoppers",
       "logo": "https://r.cimalight.co/uploads/thumbs/f4ca58beb-1.jpg",
       "url": "https://g284.turbosplayer.com/file/00e32158-69ae-4d66-9db8-29870a8fda13/master.m3u8",
-      "genre": "انمي"
+      "genre": "انميشن"
     },
     {
       "title": "The Legend of Aang: The Last Airbender",
@@ -2749,10 +4387,10 @@
       "genre": "كوميدي"
     },
     {
-      "title": "Fast & Furious Presents Hobbs & Shaw 2019",
+      "title": "Fast & Furious Presents Hobbs & Shaw",
       "logo": "https://r.cimalight.co/uploads/thumbs/3ab058ff8-1.jpg",
       "url": "https://g241.turbosplayer.com/file/0a096628-9107-47ad-aa28-b91a507d57f4/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Pizza Movie",
@@ -2770,7 +4408,7 @@
       "title": "Rise of the Conqueror",
       "logo": "https://r.cimalight.co/uploads/thumbs/0787d613a-1.jpg",
       "url": "https://g281.turbosplayer.com/file/fedda0be-7260-44f9-a9ac-5eccb6755e25/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Harry Potter and the Prisoner of Azkaban",
@@ -2785,43 +4423,43 @@
       "genre": "فانتازيا"
     },
     {
-      "title": "Americana 2023",
+      "title": "Americana",
       "logo": "https://r.cimalight.co/uploads/thumbs/66adb6047-1.jpg",
       "url": "https://g265.turbosplayer.com/file/9a8b561d-90e9-429b-ab1d-f8944e74fcdc/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Star Wars Episode VI Return of the Jedi 1983",
+      "title": "Star Wars Episode VI Return of the Jedi",
       "logo": "https://r.cimalight.co/uploads/thumbs/9cee55da9-1.jpg",
       "url": "https://g263.turbosplayer.com/file/88616ae9-df1e-4534-a925-cf49fdb824e0/master.m3u8",
       "genre": "خيال علمي"
     },
     {
-      "title": "Night Patrol 2025",
+      "title": "Night Patrol",
       "logo": "https://r.cimalight.co/uploads/thumbs/3e87b7701-1.jpg",
       "url": "https://g243.turbosplayer.com/file/01636824-bdee-45b6-b5ce-ee8a12aef41d/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Michael 2026",
+      "title": "Michael",
       "logo": "https://r.cimalight.co/uploads/thumbs/9309b59c5-1.jpg",
       "url": "https://g266.turbosplayer.com/file/ee719545-c850-49d3-8f2c-81b1354c93df/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "The Pout-Pout Fish 2026",
+      "title": "The Pout-Pout Fish",
       "logo": "https://r.cimalight.co/uploads/thumbs/e77c2ede3-1.jpg",
       "url": "https://g277.turbosplayer.com/file/5c37694d-a833-42db-8153-4126c4fee6f9/master.m3u8",
-      "genre": "انمي"
+      "genre": "انميشن"
     },
     {
-      "title": "Clika 2026",
+      "title": "Clika",
       "logo": "https://r.cimalight.co/uploads/thumbs/479f57cdf-1.jpg",
       "url": "https://g271.turbosplayer.com/file/d7cc96ee-0f88-4772-98f2-22540dd622f4/master.m3u8",
       "genre": "إثارة"
     },
     {
-      "title": "Freakier Friday 2025",
+      "title": "Freakier Friday",
       "logo": "https://r.cimalight.co/uploads/thumbs/f3bb227f6-1.jpg",
       "url": "https://vsped-store9-vnz.cdnz.quest/hls2/02/00219/0m2sabsr7rgh_l/index-v1-a1.m3u8?t=s4i33tJ0ti6U94ELAcmcsJy8PQNgLqzDk9asiOnypmc&s=1779034611&e=43200&v=939484&i=0.0&sp=0",
       "genre": "كوميدي"
@@ -2842,16 +4480,16 @@
       "title": "Peaky Blinders: The Immortal Man",
       "logo": "https://r.cimalight.co/uploads/thumbs/d41906c05-1.jpg",
       "url": "https://g260.turbosplayer.com/file/6c8e2d0f-db8c-4445-8ef2-7f7f2ab2f84c/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "The Dark Knight",
       "logo": "https://r.cimalight.co/uploads/thumbs/eee56c08a-1.jpg",
       "url": "https://vroba-store2-qzt.cdnz.quest/hls2/05/00001/9leq15i5h6pn_l/index-v1-a1.m3u8?t=CBLMZm2oYGWWplmxkQfuAql_TmpUuGuBBgGvPTtaLQw&s=1779034787&e=43200&v=172383&i=0.3&sp=0",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Kraken 2026",
+      "title": "Kraken",
       "logo": "https://r.cimalight.co/uploads/thumbs/93f5faf43-1.jpg",
       "url": "https://g285.turbosplayer.com/file/1f117f31-4b3d-47f0-b2dd-63b5558cf34a/master.m3u8",
       "genre": "رعب"
@@ -2869,7 +4507,7 @@
       "genre": "رعب"
     },
     {
-      "title": "Inception 2010",
+      "title": "Inception",
       "logo": "https://r.cimalight.co/uploads/thumbs/221c18bb6-1.jpg",
       "url": "https://g243.turbosplayer.com/file/b25b8e71-549d-4c4a-89f5-e1543e26a5fd/master.m3u8",
       "genre": "خيال علمي"
@@ -2884,10 +4522,10 @@
       "title": "My Dearest Assassin",
       "logo": "https://r.cimalight.co/uploads/thumbs/7ec64e3bf-1.jpg",
       "url": "https://g269.turbosplayer.com/file/3085610f-e57c-47cb-8655-1c1f93a64805/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Heresy 2024",
+      "title": "Heresy",
       "logo": "https://r.cimalight.co/uploads/thumbs/4b51c935d-1.jpg",
       "url": "https://g275.turbosplayer.com/file/5aad4ede-6b7d-4c66-a9a9-88e199850474/master.m3u8",
       "genre": "رعب"
@@ -2911,10 +4549,10 @@
       "genre": "فانتازيا"
     },
     {
-      "title": "Thor Ragnarok 2017",
+      "title": "Thor Ragnarok",
       "logo": "https://r.cimalight.co/uploads/thumbs/1f2db0306-1.jpg",
       "url": "https://g250.turbosplayer.com/file/33f2bce2-5b0b-4706-8d48-5ad78bf787cb/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Popeye the Slayer Man",
@@ -2983,13 +4621,13 @@
       "genre": "كوميدي"
     },
     {
-      "title": "The Christophers 2025",
+      "title": "The Christophers",
       "logo": "https://r.cimalight.co/uploads/thumbs/3751121a3-1.jpg",
       "url": "https://g278.turbosplayer.com/file/d1e274bb-949d-43eb-8289-2e394eba2c8c/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Faces of Death 2026",
+      "title": "Faces of Death",
       "logo": "https://r.cimalight.co/uploads/thumbs/bfb0b4a19-1.jpg",
       "url": "https://g243.turbosplayer.com/file/e0b1b007-7250-4515-b693-aad9a07faa75/master.m3u8",
       "genre": "رعب"
@@ -2998,52 +4636,52 @@
       "title": "Saving Bikini Bottom The Sandy Cheeks",
       "logo": "https://r.cimalight.co/uploads/thumbs/9e7d919c4-1.jpg",
       "url": "https://vsped-store9-vnz.cdnz.quest/hls2/01/00186/06v88egc8urf_l/index-v1-a1.m3u8?t=kL2KiJxsnsJ-59memvEZj4z435s7sJva-k1Oljp5RTs&s=1779021502&e=43200&v=705370&i=0.3&sp=0",
-      "genre": "انمي"
+      "genre": "انميشن"
     },
     {
-      "title": "The Portuguese House 2025",
+      "title": "The Portuguese House",
       "logo": "https://r.cimalight.co/uploads/thumbs/841dc25a1-1.jpg",
       "url": "https://g274.turbosplayer.com/file/d08e1b48-27d4-4c54-9315-cdb3a509e5a1/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "She Dances 2025",
+      "title": "She Dances",
       "logo": "https://r.cimalight.co/uploads/thumbs/ffcfe23e1-1.jpg",
       "url": "https://g280.turbosplayer.com/file/16b01d0f-ce06-4bbc-968c-03f6e139e206/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Runaway Revenge 2024",
+      "title": "Runaway Revenge",
       "logo": "https://r.cimalight.co/uploads/thumbs/74348a1ed-1.jpg",
       "url": "https://g266.turbosplayer.com/file/fc07aded-1d80-4af5-a620-c15bdfd1525e/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Amrum 2025",
+      "title": "Amrum",
       "logo": "https://r.cimalight.co/uploads/thumbs/1fb83f682-1.jpg",
       "url": "https://g276.turbosplayer.com/file/c92c1f2d-bef1-4df6-bea0-3ab2353201a4/master.m3u8",
       "genre": "دراما"
     },
     {
-      "title": "Captain America Brave New World 2025",
+      "title": "Captain America Brave New World",
       "logo": "https://r.cimalight.co/uploads/thumbs/a7da48dd1-1.jpg",
       "url": "https://g238.turbosplayer.com/file/595df710-a487-48fb-acff-9795d904e61c/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Thor The Dark World 2013",
+      "title": "Thor The Dark World",
       "logo": "https://r.cimalight.co/uploads/thumbs/be7d20c55-1.jpg",
       "url": "https://g247.turbosplayer.com/file/3be2fb7f-3459-496c-bc76-ac36bb6fff80/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Thor Love and Thunder 2022",
+      "title": "Thor Love and Thunder",
       "logo": "https://r.cimalight.co/uploads/thumbs/3af9b53dd-1.jpg",
       "url": "https://g264.turbosplayer.com/file/7792c5f5-9334-483f-8cb0-be5148ab0022/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Dolly 2025",
+      "title": "Dolly",
       "logo": "https://r.cimalight.co/uploads/thumbs/988d88ab6-1.jpg",
       "url": "https://g239.turbosplayer.com/file/ae580a54-f047-4579-ba3b-553166647225/master.m3u8",
       "genre": "دراما"
@@ -3082,7 +4720,7 @@
       "title": "She Rides Shotgun",
       "logo": "https://r.cimalight.co/uploads/thumbs/26ac0de63-1.jpg",
       "url": "https://g260.turbosplayer.com/file/0279345f-b655-4118-b38c-3fda410c142b/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "The Home",
@@ -3190,7 +4828,7 @@
       "title": "The Pickup",
       "logo": "https://r.cimalight.co/uploads/thumbs/6d614911b-1.jpg",
       "url": "https://g240.turbosplayer.com/file/2bca2451-eee0-4aeb-bf19-82098679c25d/master.m3u8-",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Marty Supreme",
@@ -3202,7 +4840,7 @@
       "title": "Captain America The Winter Soldier",
       "logo": "https://r.cimalight.co/uploads/thumbs/757a6a32a-1.jpg",
       "url": "https://g238.turbosplayer.com/file/ea9d143f-b241-45e7-8975-a35466bcde52/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Star Wars Episode VII The Force Awakens",
@@ -3214,7 +4852,7 @@
       "title": "Civil War",
       "logo": "https://r.cimalight.co/uploads/thumbs/e8c961244-1.jpg",
       "url": "https://g258.turbosplayer.com/file/e8c1f9bc-bb4f-48cd-ad26-9cd03a12fa9b/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "The Devil Wears Prada 2",
@@ -3232,7 +4870,7 @@
       "title": "Zootopia 2",
       "logo": "https://r.cimalight.co/uploads/thumbs/3c0e52937-1.jpg",
       "url": "https://g266.turbosplayer.com/file/c6cd700a-eaaf-4f35-b161-7d917c0bd6d9/master.m3u8",
-      "genre": "انمي"
+      "genre": "انميشن"
     },
     {
       "title": "Dune",
@@ -3250,7 +4888,7 @@
       "title": "Weapons",
       "logo": "https://r.cimalight.co/uploads/thumbs/6617d78c0-1.jpg",
       "url": "https://g241.turbosplayer.com/file/795133cb-346b-44b4-b411-ea7da2090e28/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Star Wars Episode V The Empire Strikes Back",
@@ -3262,19 +4900,19 @@
       "title": "Doctor Strange in the Multiverse of Madness",
       "logo": "https://r.cimalight.co/uploads/thumbs/77418579b-1.jpg",
       "url": "https://g241.turbosplayer.com/file/f8f128d6-0a27-4b3a-8322-dcfffbcf3b4a/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
-      "title": "Iron Man 2008",
+      "title": "Iron Man",
       "logo": "https://r.cimalight.co/uploads/thumbs/2f2d6b59b-1.jpg",
       "url": "https://g252.turbosplayer.com/file/17bf7c76-47cd-4ffb-95b8-dfc13fd4fa6b/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Captain America Civil War",
       "logo": "https://r.cimalight.co/uploads/thumbs/e7f1ec73e-1.jpg",
       "url": "https://g254.turbosplayer.com/file/2f52c3de-417a-4795-a11d-9b5ff51fef70/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Star Wars The Last Jedi",
@@ -3286,13 +4924,13 @@
       "title": "Avengers Age of Ultron",
       "logo": "https://r.cimalight.co/uploads/thumbs/89c277a72-1.jpg",
       "url": "https://g248.turbosplayer.com/file/2676b26e-df50-44bf-8303-cc2addbfe0f5/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "The Avengers",
       "logo": "https://r.cimalight.co/uploads/thumbs/61e44ba8f-1.jpg",
       "url": "https://g246.turbosplayer.com/file/1e8a1197-0608-4b15-9eb8-f0929ddd4d4e/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Mickey 17",
@@ -3334,7 +4972,7 @@
       "title": "Mortal Kombat II",
       "logo": "https://r.cimalight.co/uploads/thumbs/e7fcd4b28-1.jpg",
       "url": "https://g269.turbosplayer.com/file/b7a4c3e2-8034-4e34-ad50-6795e7a49e4a/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     },
     {
       "title": "Couples Weekend",
@@ -3346,7 +4984,7 @@
       "title": "Immortal Combat",
       "logo": "https://r.cimalight.co/uploads/thumbs/0d9dffd52-1.jpg",
       "url": "https://g270.turbosplayer.com/file/36326164-772a-4a9a-989b-f9fc4c25b028/master.m3u8",
-      "genre": "أكشن"
+      "genre": "اكشن"
     }
   ]
 }
