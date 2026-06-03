@@ -2,506 +2,607 @@
   "movies": [
     {
       "title": "Lookout",
+      "logo": "https://d2j05qp2jb3mfw.cloudfront.net/film-artwork/5529/_filmArtworkLarge/JRM_Lookout_v2_KA_LLR-small-the-film-catalogue.jpg",
       "url": "https://g257.turbosplayer.com/file/a581f618-ff7a-4232-9d32-751695bc966e/master.m3u8",
       "genre": "إثارة"
     },
     {
       "title": "The Hand That Rocks the Cradle",
+      "logo": "https://m.media-amazon.com/images/I/61xRh2P6-iL._AC_UF894,1000_QL80_.jpg",
       "url": "https://g255.turbosplayer.com/file/bbb6bbe2-f31a-4bb4-a9ba-71eef5870c8d/master.m3u8",
       "genre": "إثارة"
     },
     {
       "title": "Thor 2011",
+      "logo": "https://m.media-amazon.com/images/I/71EtSa211nL._AC_UF1000,1000_QL80_.jpg",
       "url": "https://g264.turbosplayer.com/file/a3032593-adcb-4e92-905a-c5889fabdbe9/master.m3u8",
       "genre": "جريمة"
     },
     {
       "title": "The Quiet Ones",
+      "logo": "https://m.media-amazon.com/images/I/71mulhdWrrS._AC_UF894,1000_QL80_.jpg",
       "url": "https://g259.turbosplayer.com/file/aee99e53-f824-452e-8aff-22404ed2070e/master.m3u8",
       "genre": "رعب"
     },
     {
       "title": "Dracula A Love Tale",
+      "logo": "https://m.media-amazon.com/images/I/71G9-DSWzNL._UF1000,1000_QL80_.jpg",
       "url": "https://vroba-store1-lgk.cdnz.quest/hls2/03/00088/bzid134yxmf6_n/index-v1-a1.m3u8?t=nbiHxr1zlgEZ4kbJAxVTcfsc8Q7-cWmV6ClP8sDIMA4&s=1780179896&e=43200&v=285174&i=0.3&sp=0",
       "genre": "رعب"
     },
     {
       "title": "Blood for Dust",
+      "logo": "https://m.media-amazon.com/images/I/81Hcbul-eaL._AC_UF894,1000_QL80_.jpg",
       "url": "https://g254.turbosplayer.com/file/b5b9c844-9642-4c5b-94c2-cd83657d9c7f/master.m3u8",
       "genre": "اكشن"
     },
     {
       "title": "Exit Protocol 2025",
+      "logo": "https://image.tmdb.org/t/p/w780/oZKwNSLdCQBETNMwqJgkPcxGx3G.jpg",
       "url": "https://g270.turbosplayer.com/file/065f19b9-ae7f-47f2-bca7-b794ce22ef65/master.m3u8",
       "genre": "اكشن"
     },
     {
       "title": "Frontline",
+      "logo": "https://media.themoviedb.org/t/p/w94_and_h141_face/zlc0FP7BNJGdd47QvIxnrmX1U0.jpg",
       "url": "https://g238.turbosplayer.com/file/8c932bb6-3af5-4e0e-8c60-0e757ba1ef84/master.m3u8",
       "genre": "حرب"
     },
     {
       "title": "Perrengue Fashion",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/qVQ58sWH6c36D6YAQ552tHB2x97.jpg",
       "url": "https://g258.turbosplayer.com/file/3d248e3d-fdd9-439b-8675-4062f8d325fb/master.m3u8",
       "genre": "كوميدي"
     },
     {
       "title": "Live and Die in East LA",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/bvcMOGvLLkrPt72F8XA5i0e1Qpu.jpg",
       "url": "https://g238.turbosplayer.com/file/0fdb3595-4b65-4c9b-82fa-5d402ff1956c/master.m3u8",
       "genre": "جريمة"
     },
     {
       "title": "Off the Record 2024",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/lDoJirMuPh4eEJgny5Gkh34bpmU.jpg",
       "url": "https://g241.turbosplayer.com/file/be023b09-cadc-49bb-9000-8958a192c8cf/master.m3u8",
       "genre": "دراما"
     },
     {
       "title": "The Stranger in My Home",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/8rxFUdvtFwAxbyZfSBKPB2Vaal9.jpg",
       "url": "https://g257.turbosplayer.com/file/cf5f44e9-b353-4eb1-b35e-bd6b59ee56bf/master.m3u8",
       "genre": "إثارة"
     },
     {
       "title": "Troll 2",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
       "url": "https://g255.turbosplayer.com/file/0a69abcc-bbb4-4066-b8a2-a6bfa0e46ba5/master.m3u8",
       "genre": "رعب"
     },
     {
       "title": "Girl in the Attic 2025",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/ymH9eGV2Z48iW5hz15qcyhoQAhh.jpg",
       "url": "https://g261.turbosplayer.com/file/26d3b48b-d91c-405b-9729-f7ac6b030da8/master.m3u8",
       "genre": "رعب"
     },
     {
       "title": "Reflection in a Dead Diamond",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/5CdRxBu7jRDHjthkAL8vE0GdKUD.jpg",
       "url": "https://g238.turbosplayer.com/file/1ea705fa-e73d-42a2-8c75-0a232c051b7b/master.m3u8",
       "genre": "إثارة"
     },
     {
       "title": "Mrs. Christmas",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/7DFyI1S8xJ34AkUutVBqDSfOtfJ.jpg",
       "url": "https://g254.turbosplayer.com/file/78fd6ac3-c8c4-4c1a-a427-cf7b75890986/master.m3u8",
       "genre": ["عائلي", "رومانسي"]
     },
     {
-      "title": "Sugarcane 2025",
+      "title": "Sugarcane",
+      "logo": "https://media.themoviedb.org/t/p/w94_and_h141_face/9Xx4o4MVSDv0pojOzoHMH5y85hB.jpg",
       "url": "https://g238.turbosplayer.com/file/4932152b-9798-4c39-ab27-0fce308c690c/master.m3u8",
       "genre": "دراما"
     },
     {
       "title": "Stone Creek Killer 2025",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/sAg254rEBdzBXqLysWTZkkcfGZV.jpg",
       "url": "https://g253.turbosplayer.com/file/827101c1-3ab9-4d52-abed-d0febb01d10d/master.m3u8",
       "genre": "جريمة"
     },
     {
       "title": "Beast of War",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/2xgDjVEOtu5LlbPEngxfbCqWEFg.jpg",
       "url": "https://g261.turbosplayer.com/file/482664f7-3e4a-4572-864b-87051e3dc4c6/master.m3u8",
       "genre": "حرب"
     },
     {
       "title": "The Stringer: The Man Who Took the Photo",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/cnDf5hkhoAa810dWTSkBDYEkbcY.jpg",
       "url": "https://g254.turbosplayer.com/file/47f37e14-fc57-4a84-a7b2-a2ed5f7bac0a/master.m3u8",
       "genre": "دراما"
     },
     {
       "title": "Faster 2025",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/2ahZeZm6osfmUZI19QPkEzx6K6T.jpg",
       "url": "https://g238.turbosplayer.com/file/942c2e64-68f8-4d44-a92c-c1646937b889/master.m3u8",
       "genre": "اكشن"
     },
     {
       "title": "A Very Jonas Christmas Movie",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/kGLgaDrYWmTAdRFzGP5pBquRnhO.jpg",
       "url": "https://g242.turbosplayer.com/file/804df93b-91a0-4faa-befe-a583262e50cc/master.m3u8",
       "genre": ["عائلي", "موسيقى"]
     },
     {
       "title": "Keeper",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg",
       "url": "https://g241.turbosplayer.com/file/b1cedf00-f06b-40d7-bde8-24a4a1b1d9ed/master.m3u8",
       "genre": "إثارة"
     },
     {
       "title": "Under the Stars",
+       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/oJjCXVwPbNq2QeNdNvG2atZHj11.jpg",
       "url": "https://g238.turbosplayer.com/file/58b0a27a-318e-4ea1-8c09-e0e9933fb700/master.m3u8",
       "genre": "رومانسي"
     },
     {
       "title": "Transformers: Age of Extinction",
+       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg",
       "url": "https://g253.turbosplayer.com/file/7980fa97-3f9d-4c33-b4be-d3e3e188036e/master.m3u8",
       "genre": "خيال علمي"
     },
     {
       "title": "Transformers: Dark of the Moon 2011",
+       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg",
       "url": "https://g257.turbosplayer.com/file/200f2428-d3b7-4063-92f5-7c401c6fe550/master.m3u8",
       "genre": "خيال علمي"
     },
     {
       "title": "Elmo and Mark Rober’s Merry Giftmas",
+       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/gcFxbtsgyMMripGtUIxPmmFxQXT.jpg",
       "url": "https://g252.turbosplayer.com/file/b1327ff4-4ffe-4f56-805d-21780614ad47/master.m3u8",
       "genre": ["عائلي", "كوميدي"]
     },
     {
       "title": "Pose 2025",
+       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
       "url": "https://g241.turbosplayer.com/file/e19d1efa-206d-4dbb-a012-5bdc9f17f756/master.m3u8",
       "genre": "دراما"
     },
     {
       "title": "Hunting Jessica Brok",
+       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/xRcGnwShS9wpqlTc6KvK4WUY55A.jpg",
       "url": "https://g257.turbosplayer.com/file/244d2e5c-df40-433c-a3ee-5d7ed23f70e5/master.m3u8",
       "genre": "إثارة"
     },
     {
       "title": "The Wrecker",
+       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/5JHPHQxcE1b0W2Spbncq5uJKW7i.jpg",
       "url": "https://g253.turbosplayer.com/file/f71d0964-0cf2-491e-8d81-c2217a35feea/master.m3u8",
       "genre": "اكشن"
     },
     {
       "title": "Hunting Season",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
       "url": "https://g261.turbosplayer.com/file/246c5d00-4b38-4581-a424-dd6cb8a38130/master.m3u8",
       "genre": "إثارة"
     },
     {
       "title": "Chainsaw Man The Movie Reze Arc",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/3uX6xo6kZrylBrMIyLtrOS5BR9p.jpg",
       "url": "https://g256.turbosplayer.com/file/c1f7dda5-0e48-41d4-9d0f-8d4f690ba137/master.m3u8",
       "genre": "انمي"
     },
     {
       "title": "Hi-Five",
+      "logo": "http://media.themoviedb.org/t/p/w300_and_h450_face/5hi6bQWfbXfJ1W0iCrM78RWbrwi.jpg",
       "url": "https://g240.turbosplayer.com/file/8bf93d12-3917-40ba-b5f7-a14b57b64ae8/master.m3u8",
       "genre": "كوميدي"
     },
     {
       "title": "Transformers: Revenge of the Fallen",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg",
       "url": "https://g240.turbosplayer.com/file/3aea8628-64ee-442c-b89d-194bac6979c2/master.m3u8",
       "genre": "خيال علمي"
     },
     {
       "title": "Don’t Tell Larry",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/tp3gc29vrZYBhqBzqh5OR0zFQ81.jpg",
       "url": "https://g252.turbosplayer.com/file/3461554f-f3e6-4ce9-8503-13ef11dcf6b7/master.m3u8",
       "genre": "كوميدي"
     },
     {
       "title": "Car Show Kings",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/8V6TCz0GzN9aD2o3Q9DyFsHGtTU.jpg",
       "url": "https://g260.turbosplayer.com/file/7353ea4e-8cd7-4558-a69e-cf1b1d2c0989/master.m3u8",
       "genre": "وثائقي"
     },
     {
       "title": "Tendaberry",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/4dq7y04pB0UdfMQ6N1bKBm7ryuT.jpg",
       "url": "https://g238.turbosplayer.com/file/266ef0dc-011f-44aa-b660-99105dfb7d3f/master.m3u8",
       "genre": "دراما"
     },
     {
       "title": "Traumatika",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/jnINnXC7KHAVodspt9xIepEE9f6.jpg",
       "url": "https://g255.turbosplayer.com/file/fdd85c39-972f-4fad-a32c-c4aedc3374cf/master.m3u8",
       "genre": "رعب"
     },
     {
       "title": "Synthesized",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/wsKKqM5DhxDxbCqjMi0qZIePguL.jpg",
       "url": "https://g251.turbosplayer.com/file/0c4f1afb-95a3-4fcf-8762-660c9ec99627/master.m3u8",
       "genre": "خيال علمي"
     },
     {
       "title": "Predator: Wastelands",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/bQ0neJZ5QAD6jRHIbbdx2rtMBUb.jpg",
       "url": "https://g256.turbosplayer.com/file/3b292fee-8be0-448a-a7db-1b5921ec4c94/master.m3u8",
       "genre": "خيال علمي"
     },
     {
       "title": "Man Finds Tape",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/1WMaJEwwsw8ALCo1mRGjjTV5e8T.jpg",
       "url": "https://g239.turbosplayer.com/file/016deb17-3581-4cb1-b3c1-73b9bacb5e23/master.m3u8",
       "genre": "رعب"
     },
     {
       "title": "Director’s Cut",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/r9Av3hx6RxIjZIX7nkM2WOfY3pK.jpg",
       "url": "https://g240.turbosplayer.com/file/e4977344-45f8-4593-b51e-673a67df377b/master.m3u8",
       "genre": "رعب"
     },
     {
       "title": "The Offing",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/18l7gGF4PA9gqPLHBhqqAISL8Hk.jpg",
       "url": "https://g242.turbosplayer.com/file/8e8b4df7-fe77-458c-87c7-b35e4aa1df16/master.m3u8",
       "genre": "دراما"
     },
     {
       "title": "The Blade Cuts Deeper",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/c2BfHIwph8oREzckdItkEFEKnaS.jpg",
       "url": "https://g238.turbosplayer.com/file/88b9641e-3af4-4846-a0e2-87b46e94e754/master.m3u8",
       "genre": "إثارة"
     },
     {
       "title": "Mirror Life",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/lCj96toltQ5uMcIezuEO8cb0kb2.jpg",
       "url": "https://g254.turbosplayer.com/file/6978cf42-a300-408c-89b8-8b7a415d0e4a/master.m3u8",
       "genre": "خيال علمي"
     },
     {
       "title": "The Night My Dad Saved Christmas 2",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/n1YtLc6viVt93gOdU8SX7mnq22y.jpg",
       "url": "https://g242.turbosplayer.com/file/b01cd06d-19aa-4bb8-bf0e-41e0a0d1ed5b/master.m3u8",
       "genre": ["عائلي", "كوميدي"]
     },
     {
       "title": "House on Eden",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/2xVyCvnuVVRpYohPxrvwxZiH49r.jpg",
       "url": "https://g265.turbosplayer.com/file/bb9dcbf2-6840-4fff-aa98-8a1ca42ae617/master.m3u8",
       "genre": "رعب"
     },
     {
       "title": "Transformers 2007",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
       "url": "https://g257.turbosplayer.com/file/a667d7cd-32c9-442c-8bc6-7fc0bcdc8647/master.m3u8",
       "genre": "خيال علمي"
     },
     {
       "title": "Zombies 4 Dawn of the Vampires",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/6rGsqBxI4r1YkS9FuraovWi465w.jpg",
       "url": "https://g257.turbosplayer.com/file/3b7fc6eb-8d50-4b90-b167-8572288aee69/master.m3u8",
       "genre": "رعب"
     },
     {
       "title": "Little Amelie or the Character of Rain",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/qoqDvTUVPoZJWw24AjGDt3J4tZN.jpg",
       "url": "https://g256.turbosplayer.com/file/14c0e1e3-be92-43a5-8040-d328aa66f3a1/master.m3u8",
       "genre": "دراما"
     },
     {
       "title": "Lost Horizon",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/gK7dswB1Epf4hg0UCepZRZGL6Ms.jpg",
       "url": "https://g252.turbosplayer.com/file/972f8ddc-bde8-4bc0-8a15-e74acaeac1b9/master.m3u8",
       "genre": "مغامرة"
     },
     {
       "title": "High Rollers",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/hHowAaChDjwueySmwVbsjHmpWa.jpg",
       "url": "https://g253.turbosplayer.com/file/5418f2e4-dcb0-4e06-a4e8-1c7bfc371134/master.m3u8",
       "genre": "جريمة"
     },
     {
       "title": "My Secret Santa",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg",
       "url": "https://g254.turbosplayer.com/file/f938be05-5da4-41e6-b3bb-acf1b190d064/master.m3u8",
       "genre": ["عائلي", "رومانسي"]
     },
     {
       "title": "Alien Romulus",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg",
       "url": "https://hlswish.com/stream/utu3CViz5-nuU9BmxKPxcA/kjhhiuahiuhgihdf/1780222278/25641051/index-v1-a1.m3u8",
       "genre": "رعب"
     },
     {
       "title": "The Roses",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/99O8HLHklXGzvF2TqiRqr7WddzT.jpg",
       "url": "https://g257.turbosplayer.com/file/ce36fd95-5cb6-4cf7-a80f-5824c114e724/master.m3u8",
       "genre": "دراما"
     },
     {
       "title": "The Partisan",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/a6AMhzCY0vlnO9KSbawvGg7c2y.jpg",
       "url": "https://g239.turbosplayer.com/file/1ce4d9e2-429b-42cc-aa9a-61da8361b613/master.m3u8",
       "genre": "حرب"
     },
     {
       "title": "Everything to Me",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/zR13bo2N0nyWaUaYhO30REBRvms.jpg",
       "url": "https://g270.turbosplayer.com/file/b80f1811-9119-4945-8e06-daf9ab580679/master.m3u8",
       "genre": "دراما"
     },
     {
       "title": "In Our Blood",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/s7fxMJ7KNnq14FaXV3lIEthkRcQ.jpg",
       "url": "https://g238.turbosplayer.com/file/553a5c47-c65b-461f-8de7-f188cf3dc299/master.m3u8",
       "genre": "إثارة"
     },
     {
       "title": "Bau: Artist at War",
+      "logo": "https://media.themoviedb.org/t/p/w533_and_h300_face/ioMUeaiNwPrTRnKRqjkzzcRlAEy.jpg",
       "url": "https://g238.turbosplayer.com/file/a590a476-5d07-4ad4-bd70-8dd64c3b59ae/master.m3u8",
       "genre": "سيرة ذاتية"
     },
     {
       "title": "A Newport Christmas",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/bNWUsEOg7HzHlZmSTVKuZ6SglxM.jpg",
       "url": "https://g258.turbosplayer.com/file/482754e2-2a74-4bdb-88bb-6c78145d7a4a/master.m3u8",
       "genre": ["عائلي", "رومانسي"]
     },
     {
       "title": "Hag 2025",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/jI5oZHPrTRqX8BtJtUpsfd4nDkQ.jpg",
       "url": "https://g268.turbosplayer.com/file/06d03f8b-3123-4781-82a0-b32d8162e789/master.m3u8",
       "genre": "رعب"
     },
     {
       "title": "Father 2025",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
       "url": "https://g263.turbosplayer.com/file/4b0a1864-b417-425c-90af-11cb20f5e670/master.m3u8",
       "genre": "دراما"
     },
     {
       "title": "The Sound of Balloons 2 2025",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/goQeoeb8PdZBqLy7oiUIBa5IZLz.jpg",
       "url": "https://g263.turbosplayer.com/file/79c30d2d-2007-4ef1-8353-98b6c75dbc16/master.m3u8",
       "genre": "رعب"
     },
     {
       "title": "Home Alone 2: Lost in New York 1992",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
       "url": "https://g264.turbosplayer.com/file/bd65a99d-fb98-4f40-8202-17f2dd2864ff/master.m3u8",
       "genre": ["عائلي", "كوميدي"]
     },
     {
       "title": "The Astronaut",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/souvvkJHYhztC1UqZ8lEVUiJa3J.jpg",
       "url": "https://g264.turbosplayer.com/file/6f4c6f36-4627-4f49-9c3a-064cd53dd279/master.m3u8",
       "genre": "خيال علمي"
     },
     {
       "title": "Wallace Peebles: Paranormal Inspectre",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/iFsjmbUzJWRK4Wy6RPRpSTpudg.jpg",
       "url": "https://g265.turbosplayer.com/file/7bafc1e3-48ae-4342-8a33-d4781b1e35a6/master.m3u8",
       "genre": "كوميدي"
     },
     {
       "title": "Wife Stalker",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/lqCsHkEeLbB4zyapUzAa1k9SDm4.jpg",
       "url": "https://g258.turbosplayer.com/file/8bb206bb-15cc-4511-9dd3-b4920cb2d644/master.m3u8",
       "genre": "إثارة"
     },
     {
       "title": "The Great Flood",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/1tUOZQDgZaGqZtrB21MieiXARL2.jpg",
       "url": "https://g254.turbosplayer.com/file/65b000a0-bcf8-4606-9a8d-21042ac9a870/master.m3u8",
       "genre": "دراما"
     },
     {
       "title": "A Time For Bravery",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/qKKG22O5pFxqglG0oMjWTjQWCNl.jpg",
       "url": "https://g261.turbosplayer.com/file/0541a193-601a-468c-a4b8-afbfb4cc660b/master.m3u8",
       "genre": "حرب"
     },
     {
       "title": "Whispers of the Witching Hour",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/7iH9kG3giu6TgvCyRKRAlnPSu8R.jpg",
       "url": "https://g265.turbosplayer.com/file/00fd1d91-8c5d-4872-afc8-76ef335ca76f/master.m3u8",
       "genre": "رعب"
     },
     {
       "title": "The Wilderness 2025",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/gVyPY561PLSAROWsMuOcStVkyXn.jpg",
       "url": "https://g261.turbosplayer.com/file/9ab34ce9-0572-4005-ab1d-ba8cd56f3dba/master.m3u8",
       "genre": "مغامرة"
     },
     {
       "title": "Taken at a Basketball Game",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/nbZzS1hyJwITnRBrNY0v3qPrQuB.jpg",
       "url": "https://g265.turbosplayer.com/file/a55d3e17-be6b-443f-a254-a0b820a147c7/master.m3u8",
       "genre": "إثارة"
     },
     {
       "title": "The Mastermind",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/oPaEQ3m4zHOzIAstgXCZZtzcHTL.jpg",
       "url": "https://g268.turbosplayer.com/file/edb6f33c-fad4-4138-8879-e2fa96e011bf/master.m3u8",
       "genre": "جريمة"
     },
     {
       "title": "Thieves Highway 2025",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/ljnFEsYQXeoW03Jagw159xVDP0J.jpg",
       "url": "https://g243.turbosplayer.com/file/9ba5e743-fb60-401a-9565-3b2047d970f3/master.m3u8",
       "genre": "جريمة"
     },
     {
       "title": "Murder in Monaco",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/hW93OYJnnHwGaGa4S2mNxlEhgsF.jpg",
       "url": "https://g264.turbosplayer.com/file/8ce140d2-d6ed-456a-b2a6-022fdbda374a/master.m3u8",
       "genre": "جريمة"
     },
     {
       "title": "Tell Me Softly",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/6Z37lW0JfLdeFcgH9yaTyg6B9A6.jpg",
       "url": "https://g258.turbosplayer.com/file/ba1d2303-49af-46ce-b81a-02081737b405/master.m3u8",
       "genre": "رومانسي"
     },
     {
       "title": "Vicious 2025",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
       "url": "https://g241.turbosplayer.com/file/da8d5a39-89a8-43d7-89c0-25ed37619e9e/master.m3u8",
       "genre": "إثارة"
     },
     {
       "title": "The Platform",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/iXvQnzy6JCAx1PiQEKXuTY04ZHl.jpg",
       "url": "https://g263.turbosplayer.com/file/cb33153c-c2f1-468e-83f3-1f18af62f257/master.m3u8",
       "genre": "خيال علمي"
     },
     {
       "title": "Aaryan",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/rRjh3zumdW89fNMe4tdjmALB1xG.jpg",
       "url": "https://g258.turbosplayer.com/file/3edf3205-a37e-4533-a334-a7dc5af3d17f/master.m3u8",
       "genre": "دراما"
     },
     {
       "title": "Shadow Force",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/9LCpHFXZgkqp2AWiYq0mGbfZauk.jpg",
       "url": "https://g267.turbosplayer.com/file/539e9bc2-33b4-414a-8cc0-e7843b8ed14f/master.m3u8",
       "genre": "اكشن"
     },
     {
       "title": "Omniscient Reader The Prophecy",
+        "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/67DqPJjTYnZTDuKlnUCHnAUphGF.jpg",
       "url": "https://g259.turbosplayer.com/file/29c4da87-1706-46b1-9bf8-eecd9e13a65a/master.m3u8",
       "genre": "خيال علمي"
     },
     {
       "title": "Bugonia",
+        "logo": "http://media.themoviedb.org/t/p/w300_and_h450_face/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
       "url": "https://g265.turbosplayer.com/file/ccf0d241-c3b7-44ed-a73e-73cf6af785b0/master.m3u8",
       "genre": "خيال علمي"
     },
     {
       "title": "Now You See Me: Now You Don't",
+        "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
       "url": "https://g260.turbosplayer.com/file/c38159ec-f861-4ceb-bdf0-13ef59694308/master.m3u8",
       "genre": "إثارة"
     },
     {
       "title": "Glass Onion: A Knives Out Mystery",
+       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
       "url": "https://g266.turbosplayer.com/file/d6d8c126-1922-4463-ace6-6aba386422d6/master.m3u8",
       "genre": "جريمة"
     },
     {
       "title": "Knives Out 2019",
+       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
       "url": "https://g260.turbosplayer.com/file/21bdbf60-d786-48c1-961b-633639a40f87/master.m3u8",
       "genre": "جريمة"
     },
     {
       "title": "Downton Abbey 3 The Grand Finale",
+       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/m1tLlMTCwc6oK6OjWTOI4b32wnA.jpg",
       "url": "https://g270.turbosplayer.com/file/8c5496d0-ed7c-4c69-9983-878352586689/master.m3u8",
       "genre": "دراما"
     },
     {
       "title": "Back to the Outback",
+       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/jbAUTO7qFN8XFG2LM3bz30vzGFJ.jpg",
       "url": "https://g242.turbosplayer.com/file/48a0dd95-8b26-4119-87aa-04d9112002bd/master.m3u8",
       "genre": ["عائلي", "مغامرة"]
     },
     {
       "title": "The Return of Jafar مدبلج",
+       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/7SC793qtORB6YL4mu0F5o3hfjDQ.jpg",
       "url": "https://g267.turbosplayer.com/file/4e3256d6-28bf-46f7-8b70-e4acbde269ef/master.m3u8",
       "genre": ["عائلي", "فانتازيا"]
     },
     {
       "title": "Aladdin and the King of Thieves",
+       "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/kTH7qEyvdDYMoQraQZm3LFKCge3.jpg",
       "url": "https://g261.turbosplayer.com/file/a7abf0cf-98df-40dc-b88d-590a0b3a263e/master.m3u8",
       "genre": ["عائلي", "مغامرة"]
     },
     {
       "title": "Stephen 2025",
+        "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/yUURUJzeSTc47T2VeNw7nZwZ8VJ.jpg",
       "url": "https://g268.turbosplayer.com/file/e118c129-f121-40f7-a1ab-cd5c5a532056/master.m3u8",
       "genre": "دراما"
     },
     {
       "title": "Haul Out the Halloween",
+        "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/jbPRLRliQFZJumIjzuQ6qsODnKm.jpg",
       "url": "https://g252.turbosplayer.com/file/17cd7cb1-6426-40c3-bd65-073a91aee8f0/master.m3u8",
       "genre": ["عائلي", "كوميدي"]
     },
     {
       "title": "Wake Up Dead Man A Knives Out Mystery",
+        "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
       "url": "https://g264.turbosplayer.com/file/701c1c8c-21ea-42c8-811c-9a831e5e3984/master.m3u8",
       "genre": "جريمة"
     },
     {
       "title": "Lake Rockaway",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/iQevftZXSmIggfM98cT0dIYT01O.jpg",
       "url": "https://g241.turbosplayer.com/file/ad5de4df-1a5b-49ac-8d83-8e4da8f244dd/master.m3u8",
       "genre": "رعب"
     },
     {
       "title": "Bumblebee",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg",
       "url": "https://g251.turbosplayer.com/file/6c0654bb-76d8-4a71-8dbc-8ca6b6aa99a0/master.m3u8",
       "genre": "خيال علمي"
     },
     {
       "title": "Hell House LLC Lineage",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/vFZo2cUEF16gsY5lhewOLFA7CBC.jpg",
       "url": "https://g238.turbosplayer.com/file/51f0a50e-a0b2-46e2-9d13-980bc6b9c738/master.m3u8",
       "genre": "رعب"
     },
     {
       "title": "Witchy Ways 2024",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/aE6UNLmcpjaHGrLVsBjeF2OPoiS.jpg",
       "url": "https://g262.turbosplayer.com/file/8621ea15-b1ae-407a-a0e9-ab26ed38350e/master.m3u8",
       "genre": "جريمة"
     },
     {
       "title": "Transformers The Last Knight",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg",
       "url": "https://g242.turbosplayer.com/file/9b5f8f34-0a36-4c90-a6a0-370d79b26095/master.m3u8",
       "genre": "خيال علمي"
     },
     {
       "title": "John Wick Chapter 4",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
       "url": "https://g238.turbosplayer.com/file/1cab4718-60ec-46d1-abdf-399497d918d8/master.m3u8",
       "genre": "اكشن"
     },
     {
       "title": "John Wick 3 Parabellum",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
       "url": "https://g249.turbosplayer.com/file/76f2620a-9d42-4b63-a26f-8b337cdb056d/master.m3u8",
       "genre": "اكشن"
     },
     {
       "title": "John Wick 2",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
       "url": "https://g246.turbosplayer.com/file/a71f3b2f-9602-4222-bcbb-32ef296d4dac/master.m3u8",
       "genre": "اكشن"
     },
     {
       "title": "John Wick 2014",
+      "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
       "url": "https://g240.turbosplayer.com/file/76c0455a-82fb-4be9-b1f6-3b87d4fabefa/master.m3u8",
       "genre": "اكشن"
     },
