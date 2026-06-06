@@ -1,6 +1,1243 @@
 {
   "movies": [
     {
+		
+    "title": "A Real Job",
+    "logo": "https://r.cimalight.co/uploads/thumbs/feeaf6905-1.jpg",
+    "url": "https://g260.turbosplayer.com/file/20db4cb2-ba45-448b-9873-32e2c367c615/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "The Hobbit The Battle of the Five Armies",
+    "logo": "https://r.cimalight.co/uploads/thumbs/fa3933def-1.jpg",
+    "url": "https://g267.turbosplayer.com/file/1e3594f1-2012-4563-970b-a5e178ff3d20/master.m3u8",
+    "genre": "فانتازيا"
+  },
+  {
+    "title": "Taandob",
+    "logo": "https://r.cimalight.co/uploads/thumbs/f54bd51e2-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/43d37000-6df8-4211-bded-71c4ab10aebc/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "The Thursday Murder Club",
+    "logo": "https://r.cimalight.co/uploads/thumbs/f570b7168-1.jpg",
+    "url": "https://g260.turbosplayer.com/file/4aa423ab-5de8-489e-819d-ecffe1102c7c/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "انت اخر",
+    "logo": "https://r.cimalight.co/uploads/thumbs/785672531-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/e06b1c74-1e22-422f-9e0f-379698730d74/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "الرجل المتروك",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e81b2f44b-1.jpg",
+    "url": "https://g250.turbosplayer.com/file/69b71ff1-7b7d-47ff-b0d7-c469cd852e3c/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Gold Rush Gang",
+    "logo": "https://r.cimalight.co/uploads/thumbs/fd72312e8-1.jpg",
+    "url": "https://g260.turbosplayer.com/file/c7fe4c76-9a23-4c93-9317-60546e178597/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "Bang",
+    "logo": "https://r.cimalight.co/uploads/thumbs/e3121d491-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/5a05acd1-afa3-4a18-b5ba-a51d38fd08f9/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "The Siege at Thorn High",
+    "logo": "https://r.cimalight.co/uploads/thumbs/edf67f5b5-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/d867b3f0-10e0-4aff-877d-10d5e57366ce/master.m3u8",
+    "genre": "حرب"
+  },
+  {
+    "title": "Ms Apocalypse",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ed7e60cbc-1.jpg",
+    "url": "https://g266.turbosplayer.com/file/10e97e23-babd-47ca-9520-956d4f623693/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "Night Always Comes",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ef5493967-1.jpg",
+    "url": "https://g263.turbosplayer.com/file/7807680c-bf77-4857-bf6d-c6c8176a9d5c/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "3391 km",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ea66a7033-1.jpg",
+    "url": "https://vroba-store2-qzt.cdnz.quest/hls2/02/00075/ixv89cozyxjf_n/index-v1-a1.m3u8?t=8BPQllqYDA-6T-M5pvGy4VRmQmuXPxaYbaPdQoz7MTQ&s=1780749256&e=43200&v=138875&i=0.3&sp=0",
+    "genre": "دراما"
+  },
+  {
+    "title": "Fountain of Youth",
+    "logo": "https://r.cimalight.co/uploads/thumbs/89c1b2ef1-1.jpg",
+    "url": "https://g190.turbosplayer.com/file/5971d14b-3ee3-46c6-8fd0-018dfe3a762a/master.m3u8",
+    "genre": "مغامرة"
+  },
+  {
+    "title": "The Phoenician Scheme",
+    "logo": "https://r.cimalight.co/uploads/thumbs/effa5ade3-1.jpg",
+    "url": "https://hls1.goodstream.one/hls2/01/00041/227pg48w50gw_h/index-v1-a1.m3u8?t=rWeq8aC2zqUEVsmcKGnjGHuMI1QARY6zd5-X8hunA1A&s=1780749341&e=43200&v=307541674&srv=s2&i=0.3&sp=0",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Rebels",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ef15e98f3-1.jpg",
+    "url": "https://g247.turbosplayer.com/file/cad7e54a-d6a2-475b-a330-59225898e897/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Planet Single Greek Adventure",
+    "logo": "https://r.cimalight.co/uploads/thumbs/4dc04b106-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/d25639cb-df2e-456e-8cbc-217a53db5b26/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Trainwreck P I Moms",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3ee970ac5-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/099348a4-94b0-49e8-b6f5-6584487b5b99/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Maareesan",
+    "logo": "https://r.cimalight.co/uploads/thumbs/4e842e8a8-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/a517ecef-c917-48de-8bc4-515ee6ccc27b/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Sketch",
+    "logo": "https://r.cimalight.co/uploads/thumbs/34c62296c-1.jpg",
+    "url": "https://g265.turbosplayer.com/file/2095f8a5-2729-4276-9386-54378f81bcf6/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Kingdom",
+    "logo": "https://r.cimalight.co/uploads/thumbs/2e7fe7968-1.jpg",
+    "url": "https://g263.turbosplayer.com/file/069c05c7-5800-4cf0-900d-7cb7ae909f41/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Gazer",
+    "logo": "https://r.cimalight.co/uploads/thumbs/2f863f76d-1.jpg",
+    "url": "https://g250.turbosplayer.com/file/da9017a9-2b18-41b3-8f23-8838ac36608e/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "The Bad Guys",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3dabf1e59-1.jpg",
+    "url": "https://g265.turbosplayer.com/file/82f93682-edd6-4467-8f72-2375c1845008/master.m3u8",
+    "genre": "انميشن"
+  },
+  {
+    "title": "Daniela Forever",
+    "logo": "https://r.cimalight.co/uploads/thumbs/2d47f0513-1.jpg",
+    "url": "https://strm7.uqload.is/hls2/04/03493/ry6le7veynm0_n/index-v1-a1.m3u8?t=omOrYXPmByewMGlDKU1SZoNOBofoQ4RnZkIABSwuF54&s=1780577541&e=43200&v=519372&i=0.0&sp=0",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "The Hobbit An Unexpected Journey",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3e6f6c59c-1.jpg",
+    "url": "https://g267.turbosplayer.com/file/22987fe2-fd89-4f9d-9df5-77c3c3bb5b54/master.m3u8",
+    "genre": "فانتازيا"
+  },
+  {
+    "title": "The Hobbit The Desolation of Smaug",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3a6855844-1.jpg",
+    "url": "https://g260.turbosplayer.com/file/da152204-fba4-4efa-b3fb-df2573ab0850/master.m3u8",
+    "genre": "فانتازيا"
+  },
+  {
+    "title": "Site",
+    "logo": "https://r.cimalight.co/uploads/thumbs/2fd2b8f8d-1.jpg",
+    "url": "https://g245.turbosplayer.com/file/3a8fc5a6-65c3-4193-a609-8f05318b0b74/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "On the Run",
+    "logo": "https://r.cimalight.co/uploads/thumbs/4bcd98d6e-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/b29e8bde-b99c-496e-a72e-4a01d7f73742/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "American Psychopath",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3f29ff8bd-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/abf04311-eab8-427d-b496-0bd4072109e5/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Until Dawn",
+    "logo": "https://r.cimalight.co/uploads/thumbs/0b1432dc8-1.jpg",
+    "url": "https://g243.turbosplayer.com/file/b88bc934-d75f-4991-a970-76ad99b115b4/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "الحجر الصحي",
+    "logo": "https://r.cimalight.co/uploads/thumbs/4f47e2002-1.jpg",
+    "url": "https://g261.turbosplayer.com/file/fc7891bb-ddd8-4f51-a027-3c620a6577f9/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "An Honest Life",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3c7007ffc-1.jpg",
+    "url": "https://g250.turbosplayer.com/file/f94eb067-2d05-46ee-88ff-3054cf2a578d/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Spider Man Homecoming",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1ece94630-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/693a0b6c-a8ab-4373-acf3-5eef07359ad9/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "The Deceased",
+    "logo": "https://r.cimalight.co/uploads/thumbs/2e5bddc64-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/0c5948e5-fe08-423d-89ef-7d94e5da8eb9/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "F Plus",
+    "logo": "https://r.cimalight.co/uploads/thumbs/4d361dfe6-1.jpg",
+    "url": "https://g245.turbosplayer.com/file/d5f24380-d761-4899-abaa-87cc72884b9c/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Sleeping Dogs",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3c202dbeb-1.jpg",
+    "url": "https://g246.turbosplayer.com/file/c49f8eb8-8e0d-4998-a302-ac9f7aca1197/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "Apocalypse in the Tropics",
+    "logo": "https://r.cimalight.co/uploads/thumbs/4dba18085-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/9d373afd-da81-4f73-ad9f-809d743122b5/master.m3u8",
+    "genre": "وثائقي"
+  },
+  {
+    "title": "A Normal Woman",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1da1deba6-1.jpg",
+    "url": "https://strm4.uqload.is/hls2/04/03486/iqk14bdifb8c_n/index-v1-a1.m3u8?t=GmbKCKx145YkxvvwwnVMf4DkB12Wh09TSbZaKXLdClA&s=1780578515&e=43200&v=541037&i=0.0&sp=0",
+    "genre": "دراما"
+  },
+  {
+    "title": "Bitter Souls",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1ca78ea17-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/ead8abdd-0c3b-434a-a8f9-a70778a00361/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Guns & Moses",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1d48049ee-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/000f956b-f8cd-44c8-bced-0a4bd2f5a796/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Last to Die",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1cff250b1-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/7d57d06c-a950-4281-8894-5cfc10235988/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Caramelo",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1d0d85238-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/268710c4-62df-472e-a710-174317efe8a9/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Art of Eight Limbs",
+    "logo": "https://r.cimalight.co/uploads/thumbs/0933b4410-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/f3925d2e-cccf-43a7-b6be-9cf5fd2913e9/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Blood Lines",
+    "logo": "https://r.cimalight.co/uploads/thumbs/0ca0e50f0-1.jpg",
+    "url": "https://afast-store3-umh.cdnz.quest/hls2/02/00050/v0mtpdzy5ycm_n/index-v1-a1.m3u8?t=f3JWpx5AFYAeu4m-OIEh47c121ktb10spg_D3uh3zKY&s=1780578977&e=18000&v=131688645&i=0.3&sp=0",
+    "genre": "جريمة"
+  },
+  {
+    "title": "Fantasy Football Ruined Our Lives",
+    "logo": "https://r.cimalight.co/uploads/thumbs/0626470bc-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/3b4aac87-55f9-4915-a818-6c4ee1d213f7/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "With or Without You",
+    "logo": "https://r.cimalight.co/uploads/thumbs/0a65c89f2-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/29cd597c-ec7d-4011-af3d-abebb2525b85/master.m3u8",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "Ratatouille",
+    "logo": "https://r.cimalight.co/uploads/thumbs/043ad4a9f-1.jpg",
+    "url": "https://g240.turbosplayer.com/file/8dbcf83a-dbff-4ec5-9c55-7a3bcac5b873/master.m3u8",
+    "genre": "انميشن"
+  },
+  {
+    "title": "Spirit in the Blood",
+    "logo": "https://r.cimalight.co/uploads/thumbs/0c7e7524f-1.jpg",
+    "url": "https://g266.turbosplayer.com/file/914678ab-50ca-4634-8e2d-585911077b7c/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Blood Brothers",
+    "logo": "https://r.cimalight.co/uploads/thumbs/04b8b1cbf-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/41f18338-6fee-49a1-9d6d-ea9b506429fa/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "Forgive Us All",
+    "logo": "https://r.cimalight.co/uploads/thumbs/07fc10a26-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/c794eb15-4138-4fdc-b95b-df3430d94543/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Instintos",
+    "logo": "https://r.cimalight.co/uploads/thumbs/06c3c56a5-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/fefc082f-18a4-4e92-8b09-878394b0c978/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Honey Don’t",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1bbfee4aa-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/bc89d7b8-61ca-4bf6-8351-da886db858f6/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "She Said Maybe",
+    "logo": "https://r.cimalight.co/uploads/thumbs/0927e11c9-1.jpg",
+    "url": "https://g267.turbosplayer.com/file/b119585a-c95b-4165-8b92-242e3ed09827/master.m3u8",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "Ikimizin Yerine",
+    "logo": "https://r.cimalight.co/uploads/thumbs/025f544c7-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/701926df-c4bd-4830-a0c0-81944a638278/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Fight or Flight",
+    "logo": "https://r.cimalight.co/uploads/thumbs/06b3e333e-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/36ac510a-6b70-44d9-832f-87468f01a96f/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "War of the Worlds",
+    "logo": "https://r.cimalight.co/uploads/thumbs/02abe7163-1.jpg",
+    "url": "https://g245.turbosplayer.com/file/431c09ef-5059-4fb2-8c2c-f5c1b047703b/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "Exit 8",
+    "logo": "https://r.cimalight.co/uploads/thumbs/0b3b0bbb9-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/90fbc5d4-976b-4d54-92e7-ea9ef1ea011a/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Organ Child",
+    "logo": "https://r.cimalight.co/uploads/thumbs/0c615187d-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/eb1abb16-847a-4456-918c-5459335a5fac/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Gatillero",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1ad193f4b-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/61f7184e-6272-4480-afbe-48df4ec6020e/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "They Call Him OG",
+    "logo": "https://r.cimalight.co/uploads/thumbs/83b021a22-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/8273e4f2-59b8-4aad-b5f3-d04580f7fc3f/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "Backlash",
+    "logo": "https://r.cimalight.co/uploads/thumbs/01a756a78-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/0eadb691-9cf5-4ba3-a2c3-7a3671789037/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Brute 1976",
+    "logo": "https://r.cimalight.co/uploads/thumbs/0859afd5b-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/073fa60b-e93c-49c8-a6ab-4d5c77e71fb5/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "The Salt Path",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1b3b5e9f9-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/d34af804-91a8-4fd8-850f-5bab71066ade/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "الابطال 2025",
+    "logo": "https://r.cimalight.co/uploads/thumbs/0fe510ffe-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/99eaf4d6-2211-41c3-a57f-098d8a1d9788/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "King Ivory",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1ab688205-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/54dfc63a-a43b-4081-a47a-b98ce71b5752/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "The Jurassic Games Extinction",
+    "logo": "https://r.cimalight.co/uploads/thumbs/443266333-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/cc80dcc4-5c50-4f05-a2be-6160c530867f/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "Schlitter",
+    "logo": "https://r.cimalight.co/uploads/thumbs/497902311-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/8909a5cf-cd9d-4e76-b5b8-2c92cf1415f2/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Night of the Reaper",
+    "logo": "https://r.cimalight.co/uploads/thumbs/f2bdcbcf1-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/d5d48cce-5cd4-46bd-aa79-e5c63400add0/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Witchboard",
+    "logo": "https://r.cimalight.co/uploads/thumbs/fc26fb296-1.jpg",
+    "url": "https://vsped-store9-vnz.cdnz.quest/hls2/01/00216/akowzkeod4mj_l/index-v1-a1.m3u8?t=Hdb71jCDhbAuVnZoa7frK5I12j7kF29VjirVuRN6MjM&s=1780583375&e=43200&v=931421&i=0.0&sp=0",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Fast and the Furious",
+    "logo": "https://r.cimalight.co/uploads/thumbs/fc1ef939c-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/34a91414-468e-4207-b0f9-9179f6a16160/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Venom Let There Be Carnage",
+    "logo": "https://r.cimalight.co/uploads/thumbs/f2f51bd8f-1.jpg",
+    "url": "https://g267.turbosplayer.com/file/93f7d73b-4608-4e2f-b539-2f00d888fce5/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "F9 The Fast Saga",
+    "logo": "https://r.cimalight.co/uploads/thumbs/6d6d23515-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/0d7d9aa1-2031-4378-9156-6587e7db6db5/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Straw",
+    "logo": "https://r.cimalight.co/uploads/thumbs/6fe7a24c6-1.jpg",
+    "url": "https://g261.turbosplayer.com/file/7f88b33c-c1f7-43b2-a5f0-cfb9fd788ab1/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Coyotes",
+    "logo": "https://r.cimalight.co/uploads/thumbs/907bcffad-1.jpg",
+    "url": "https://g240.turbosplayer.com/file/22505dfb-920b-405e-b45e-de35086cc143/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "Code 3",
+    "logo": "https://r.cimalight.co/uploads/thumbs/037c3204b-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/07b8037b-1cee-4ade-8e5a-30be81f58dde/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Captain America The First Avenger",
+    "logo": "https://r.cimalight.co/uploads/thumbs/6f1c5faac-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/8114c63d-83c9-4551-83b4-b1c7154802d8/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "0000 Kilometre",
+    "logo": "https://r.cimalight.co/uploads/thumbs/6f43fafc5-1.jpg",
+    "url": "https://g250.turbosplayer.com/file/1a144fd5-ac09-409d-bc06-930cdf379593/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "First Moon",
+    "logo": "https://r.cimalight.co/uploads/thumbs/6ee64632d-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/0ec02acb-57f8-4219-b0a1-60b807374326/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "The Amateur",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1274eeb61-1.jpg",
+    "url": "https://g243.turbosplayer.com/file/7da2138c-13bd-4bc9-99bf-8264c9f5b25e/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "My Mother’s Wedding",
+    "logo": "https://r.cimalight.co/uploads/thumbs/7dbf404c9-1.jpg",
+    "url": "https://g267.turbosplayer.com/file/701dac0f-45f2-454d-829d-52550ce117a3/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Sew Torn",
+    "logo": "https://r.cimalight.co/uploads/thumbs/39887c957-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/4629fa38-0062-4480-a95b-07cf4338c02e/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Elf in the Hood",
+    "logo": "https://r.cimalight.co/uploads/thumbs/6c1ef6f30-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/7425a168-35ca-43f8-a9d3-f3049d7c445e/master.m3u8",
+    "genre": "عائلي"
+  },
+  {
+    "title": "Enemigos",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5f294ca77-1.jpg",
+    "url": "https://g265.turbosplayer.com/file/6c461b5e-5536-412b-b856-8ad9cfb9993a/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "East of Wall",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5b2cb17b5-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/d1b438cd-2e4f-4958-9548-9fe0397cebef/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Field of Screams",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5b1877839-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/7dc9ddca-e7df-4119-9ea0-90abfb19d8ce/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "2 C Takimi 2 2025",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5d90c1270-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/75a588c6-dfb3-4f07-b2a0-44a2c56d3614/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Deadly Visitor",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5f67a712a-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/14f1054d-2cda-49cd-87ba-9f0e931d975d/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "chhaava",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5f2f43342-1.jpg",
+    "url": "https://g260.turbosplayer.com/file/5080300e-0e16-4629-843b-669744fc28de/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Kontrabida Academy",
+    "logo": "https://r.cimalight.co/uploads/thumbs/4ff8ebc5b-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/eb2d2b7d-0ca7-48fa-8b2e-795723992a51/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Your Host",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5cc711d69-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/dc9c2d2c-21f5-48df-96c8-5fac97cc1e69/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "She Walks in Darkness",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5ef2cda16-1.jpg",
+    "url": "https://afast-store3-umh.cdnz.quest/hls2/02/00050/memtjdkrseyd_l/index-v1-a1.m3u8?t=Na1pxIvudUkoznhU_nGcV4V8O_CTgpYLT4xlszzrk0g&s=1780567836&e=18000&v=131644147&i=0.3&sp=0",
+    "genre": "رعب"
+  },
+  {
+    "title": "Ant-Man",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5c0c32728-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/2093f0ed-2574-49b2-ba7a-aa219d7e2530/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "Madea’s Destination Wedding",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5c86dc491-1.jpg",
+    "url": "https://g244.turbosplayer.com/file/5b995896-7918-4184-8ad6-f60c8008f549/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Behave",
+    "logo": "https://r.cimalight.co/uploads/thumbs/6ad8e8c13-1.jpg",
+    "url": "https://g245.turbosplayer.com/file/a556bc53-3bbc-4d60-84d0-1b31496849e4/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "The Death of Snow White",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5a17482b4-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/1dc13bb1-f371-4481-bca5-ae27225b60c7/master.m3u8",
+    "genre": "فانتازيا"
+  },
+  {
+    "title": "The Penguin Lessons",
+    "logo": "https://r.cimalight.co/uploads/thumbs/afec81ab9-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/b6970daa-30e7-48f9-9f79-2d97b83d5ca0/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Souls of the Damned",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5d8631c49-1.jpg",
+    "url": "https://g250.turbosplayer.com/file/4b52d948-56bc-4e32-a3e7-a4b413e9232f/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Smurfs",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5dff9049b-1.jpg",
+    "url": "https://g243.turbosplayer.com/file/a09f2fcb-2d22-4f0e-bb32-690622202ea8/master.m3u8",
+    "genre": "انميشن"
+  },
+  {
+    "title": "Bring Them Down",
+    "logo": "https://r.cimalight.co/uploads/thumbs/361ef92a3-1.jpg",
+    "url": "https://strm4.uqload.is/hls2/03/03476/bqpwcn8859q8_n/index-v1-a1.m3u8?t=lLAQecA6fv9oQy5BjlVpqfbISGhP-aIWiXpt6C1qYrk&s=1780568372&e=43200&v=328832&i=0.0&sp=0",
+    "genre": "دراما"
+  },
+  {
+    "title": "Karate Kid Legends",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ddbbd3d0b-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/efb73fa2-94e7-46b8-871a-c037310fab8a/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Solo A Star Wars Story",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5cd4a7a48-1.jpg",
+    "url": "https://g267.turbosplayer.com/file/d8ef16c6-3cc6-455f-9451-46c053c449f6/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "The Last Gunfight",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5a1a44694-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/532a0160-68a1-465e-adf6-6e4f9358f47e/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Dhadak 2",
+    "logo": "https://r.cimalight.co/uploads/thumbs/2e4397d28-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/5c22da3f-a3e3-4c5a-a450-47817e2ce4cb/master.m3u8",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "Wind and Bone",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3f1705989-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/affddd4f-82c4-461a-b703-6696658063b7/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Mani nude",
+    "logo": "https://r.cimalight.co/uploads/thumbs/4e27b7c1b-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/0c5e2508-f024-4e0e-bcec-1257fac6b925/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Mantis",
+    "logo": "https://r.cimalight.co/uploads/thumbs/4f6105e50-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/b29d13c6-c334-4bfd-8770-0f8c753cf3bd/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Ruth & Boaz",
+    "logo": "https://r.cimalight.co/uploads/thumbs/4c9891749-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/a9e9f5ed-b185-4d9b-99f8-733ab5e5a483/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Don’t Log Off",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3b9ce6914-1.jpg",
+    "url": "https://vroba-store1-lgk.cdnz.quest/hls2/04/00089/4wryoce0pzws_l/index-v1-a1.m3u8?t=d6s7lQvopCJ67RClC0pnef9Iq3_GGY4shROItASq_x0&s=1780569626&e=43200&v=123503&i=0.3&sp=0",
+    "genre": "رعب"
+  },
+  {
+    "title": "Mom",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3bb6ecf34-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/867b0f23-9f5a-4536-85bb-d6d7d5c477c6/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Sing Sing",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3eb2d3818-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/32bcce63-ec2d-47c7-b44b-12e202e2cb09/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Spider Man Into The Spider Verse",
+    "logo": "https://r.cimalight.co/uploads/thumbs/4f6244fd5-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/939318fb-3502-42cb-829c-b60c64b93fff/master.m3u8",
+    "genre": "انميشن"
+  },
+  {
+    "title": "What Lurks Beneath",
+    "logo": "https://r.cimalight.co/uploads/thumbs/2d58c1bd2-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/6028d797-984e-43c0-9296-1ed79d81fcff/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Garden of Eden",
+    "logo": "https://r.cimalight.co/uploads/thumbs/4bcc9432f-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/6d795d03-e50a-41d3-8dce-90100a9bc106/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Fast Five",
+    "logo": "https://r.cimalight.co/uploads/thumbs/2f9b90ad4-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/d76bc74b-b35a-466e-b0f6-36fa8706aa92/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Param Sundari",
+    "logo": "https://r.cimalight.co/uploads/thumbs/2abd41995-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/98cf3228-d82f-441c-a34c-9a984f7e3150/master.m3u8",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "Ant-Man and the Wasp",
+    "logo": "https://r.cimalight.co/uploads/thumbs/4c1ec11a1-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/c089d5b8-cc11-42b6-8100-6dc43a227007/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "logo": "https://r.cimalight.co/uploads/thumbs/2d67422d3-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/9caebb62-c6b9-4691-9b87-190d5d6966ea/master.m3u8",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "All the Devils Are Here",
+    "logo": "https://r.cimalight.co/uploads/thumbs/2a4879594-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/ed29f11b-9841-48fa-8ef7-786430550440/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Woman in Cabin 10",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3aaf9b24f-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/ec86d1d4-be01-4dff-af88-9759cdb11f4b/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Revenge of the Boogeyman",
+    "logo": "https://r.cimalight.co/uploads/thumbs/4c68ac456-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/01ae176a-f640-4dfc-9046-3901c5273859/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Killer",
+    "logo": "https://r.cimalight.co/uploads/thumbs/7270b96c4-1.jpg",
+    "url": "https://vsped-store9-vnz.cdnz.quest/hls2/01/00216/k79bgbm1i9tv_n/index-v1-a1.m3u8?t=76wJ_u87CzrIM8idM0SQyMRPwx9ratLYAuvqUe9sya4&s=1780524738&e=43200&v=1627590&i=0.0&sp=0",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Baban Baban Ban Vampire",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3700e1d71-1.jpg",
+    "url": "https://g240.turbosplayer.com/file/5482a5be-de13-477a-9e31-876ae9b567aa/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Phoenix",
+    "logo": "https://r.cimalight.co/uploads/thumbs/92736eb2d-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/b9412f79-252e-4cdb-82a9-919659831287/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "Somnium",
+    "logo": "https://r.cimalight.co/uploads/thumbs/17568c8df-1.jpg",
+    "url": "https://g240.turbosplayer.com/file/059ca23c-4d39-4b2b-a661-bd91fc34f458/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "Sisu",
+    "logo": "https://r.cimalight.co/uploads/thumbs/8715db979-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/33ece461-c106-40fa-a1b5-32c788052153/master.m3u8",
+    "genre": "حرب"
+  },
+  {
+    "title": "A Bright Lawyer",
+    "logo": "https://r.cimalight.co/uploads/thumbs/8047ca15b-1.jpg",
+    "url": "https://afast-store3-umh.cdnz.quest/hls2/02/00049/knj1sw0bcjuy_n/index-v1-a1.m3u8?t=s_6qJgq7TkuxDW9rRHuAObUFpKQCtr6R4LeEeoAUfk8&s=1780524909&e=18000&v=131513960&i=0.3&sp=0",
+    "genre": "دراما"
+  },
+  {
+    "title": "Dead of Winter",
+    "logo": "https://r.cimalight.co/uploads/thumbs/242524a8c-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/5a6652e2-10c0-435a-a06e-81bb9443f5c5/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Good News",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5427f343e-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/6936bd3e-4fdb-4d95-8fec-00a9df34cb18/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "You Gotta Believe",
+    "logo": "https://r.cimalight.co/uploads/thumbs/9127dddaa-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/3aac9136-dd92-444f-a9cd-e3dfaf184ddb/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Rabbit Trap",
+    "logo": "https://r.cimalight.co/uploads/thumbs/6767ba50f-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/f87809c2-5c14-44eb-840a-5457e8c2e5bd/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1a7240085-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/83e42d4a-4f4e-486b-a001-c5bbcc5d4a2e/master.m3u8",
+    "genre": "انميشن"
+  },
+  {
+    "title": "Eflatun",
+    "logo": "https://r.cimalight.co/uploads/thumbs/4147ec73c-1.jpg",
+    "url": "https://vroba-store2-qzt.cdnz.quest/hls2/02/00084/lfwqalqnx5tr_l/index-v1-a1.m3u8?t=RGtNnhqxQhm8PCVQ2vIZtKoh6sRJyDPXpEMu82Ez91k&s=1780525152&e=43200&v=281487&i=0.3&sp=0",
+    "genre": "دراما"
+  },
+  {
+    "title": "Morgan Killer Doll",
+    "logo": "https://r.cimalight.co/uploads/thumbs/20200d79d-1.jpg",
+    "url": "https://g264.turbosplayer.com/file/69e74bd2-e33a-435f-b1fb-9a73c9f05a35/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Saint Ex",
+    "logo": "https://r.cimalight.co/uploads/thumbs/489343ed1-1.jpg",
+    "url": "https://g240.turbosplayer.com/file/d1b99060-d946-4e80-bad4-632a47821de5/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "My Oxford Year",
+    "logo": "https://r.cimalight.co/uploads/thumbs/39314c204-1.jpg",
+    "url": "https://g246.turbosplayer.com/file/a58917f2-a115-4d57-afb6-39cb5cabb636/master.m3u8",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "Ghost Killer",
+    "logo": "https://r.cimalight.co/uploads/thumbs/26941b189-1.jpg",
+    "url": "https://g243.turbosplayer.com/file/bd79c960-77dd-4cb9-ad3f-13718cd67596/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Bride Hard",
+    "logo": "https://r.cimalight.co/uploads/thumbs/822ebfe7e-1.jpg",
+    "url": "https://g240.turbosplayer.com/file/02136e99-1dfe-4e55-800d-b3b64f3cab13/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "The Last Rodeo",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ca6d07eb8-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/6b2a411f-4e97-43a9-8646-418717553806/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Killers of the Flower Moon",
+    "logo": "https://r.cimalight.co/uploads/thumbs/57846e9f8-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/9f2af8cf-7a45-4bcb-88d1-82fd0250b7ea/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "Mahavatar Narsimha",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1977ef3a5-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/fc37cea0-e763-4be7-a837-02757a41c375/master.m3u8",
+    "genre": "فانتازيا"
+  },
+  {
+    "title": "Mirai",
+    "logo": "https://r.cimalight.co/uploads/thumbs/2077f961b-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/3a770eb2-d8b0-4e99-a3c3-fd4e59e94e39/master.m3u8",
+    "genre": "انميشن"
+  },
+  {
+    "title": "The Kingdom",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1836c01b0-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/a1f7c4b0-53d9-4b10-97d4-9f329db96436/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "Motherland",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1614faa6e-1.jpg",
+    "url": "https://afast-store3-umh.cdnz.quest/hls2/02/00049/gto19dajauj7_l/index-v1-a1.m3u8?t=ah05imbT5mq5nQr-QJtPZhpskaSgj_jkk9IOlZpupLM&s=1780525560&e=18000&v=131518754&i=0.3&sp=0",
+    "genre": "دراما"
+  },
+  {
+    "title": "Public Enemies",
+    "logo": "https://r.cimalight.co/uploads/thumbs/13bb88efa-1.jpg",
+    "url": "https://vroba-store2-qzt.cdnz.quest/hls2/04/00089/417wijwrrmui_n/index-v1-a1.m3u8?t=4E3TKJCdShwKcOdAuAQZ40yZl7Nbt_tLsyJocdixF20&s=1780525613&e=43200&v=284336&i=0.3&sp=0",
+    "genre": "جريمة"
+  },
+  {
+    "title": "What We Hide",
+    "logo": "https://r.cimalight.co/uploads/thumbs/9e2c2b9a6-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/cf552eca-1d80-419e-a340-8257d1627214/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "The Old Guard 2",
+    "logo": "https://r.cimalight.co/uploads/thumbs/9b402a497-1.jpg",
+    "url": "https://dayt-fer-dw14.gamescdn.online/d/3gnigltcmi3hdr7efmkl3i2oxqatdyqx7pxky4o7we24u2yeaqzfxzgmbjv5h3pbernrrirb/video.mp4",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Almost Cops",
+    "logo": "https://r.cimalight.co/uploads/thumbs/15a51bb01-1.jpg",
+    "url": "https://g250.turbosplayer.com/file/5a391861-a046-42a5-a168-b907b09d7ecf/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Ant-Man and the Wasp Quantumania",
+    "logo": "https://r.cimalight.co/uploads/thumbs/c59d744b7-1.jpg",
+    "url": "https://g256.turbosplayer.com/file/7cb02222-133c-4c1f-884e-6a470dd65d8e/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "Sheriff",
+    "logo": "https://r.cimalight.co/uploads/thumbs/19d992e2d-1.jpg",
+    "url": "https://g265.turbosplayer.com/file/9f9362b0-2116-416c-83da-16a8b4827c4d/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Splitsville",
+    "logo": "https://r.cimalight.co/uploads/thumbs/9cc5c1806-1.jpg",
+    "url": "https://g240.turbosplayer.com/file/59614741-59d0-46a8-bff4-6126d8f6870c/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Venom The Last Dance",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3421a3f39-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/403d3bef-949d-4b35-8056-23437f1ed5a6/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "Four Letters of Love",
+    "logo": "https://r.cimalight.co/uploads/thumbs/12a8ed6c7-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/0046ee9e-a2a2-49ab-aaf7-f41089a253cf/master.m3u8",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "The Protector",
+    "logo": "https://r.cimalight.co/uploads/thumbs/8e18f8f16-1.jpg",
+    "url": "https://cdn155.foudsea.com/data/5/85/68d0c2bcd09f3/68d0c2bcd09f3720.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Fast & Furious 6",
+    "logo": "https://r.cimalight.co/uploads/thumbs/9d93032b3-1.jpg",
+    "url": "https://cdn167.hugoal.com/data/9/C0/68c63eca5078b/68c63eca5078b720.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "ال تويت 2025 مدبلج",
+    "logo": "https://r.cimalight.co/uploads/thumbs/9a8140599-1.jpg",
+    "url": "https://afast-store2-lmy.cdnz.quest/hls2/02/00050/kih66ygd1125_n/index-v1-a1.m3u8?t=d-5AUWOYuQcuntET-x-90XiZ0FDo-V7QjXG7S-tPeI8&s=1780526111&e=18000&v=131522673&i=0.3&sp=0",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Sitaare Zameen Par",
+    "logo": "https://r.cimalight.co/uploads/thumbs/7723d4b0e-1.jpg",
+    "url": "https://g245.turbosplayer.com/file/c5e2d0f5-3647-4f81-96d0-1c9667f9da70/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Brick",
+    "logo": "https://r.cimalight.co/uploads/thumbs/9b6b0bb58-1.jpg",
+    "url": "https://g249.turbosplayer.com/file/7f26fdcf-7bad-4be7-a332-d83b007a2aa2/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "River of Blood",
+    "logo": "https://r.cimalight.co/uploads/thumbs/15f863e4a-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/d4ac538d-b62b-430f-b4a6-34da60c7e4c6/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Acres",
+    "logo": "https://r.cimalight.co/uploads/thumbs/cc6d43f20-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/18667411-166d-44c5-9c69-301ecf41aba8/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Spiders on a Plane",
+    "logo": "https://r.cimalight.co/uploads/thumbs/6e4f801ca-1.jpg",
+    "url": "https://g247.turbosplayer.com/file/3b7559eb-748d-44a6-aeb4-efa1c7113ef7/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Best Regards to All",
+    "logo": "https://r.cimalight.co/uploads/thumbs/7ad3394d4-1.jpg",
+    "url": "https://cdn163.tinusoud.com/data/5/25/68955a43f2e00/68955a43f2e00720.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Harvest",
+    "logo": "https://r.cimalight.co/uploads/thumbs/8b3e88ae0-1.jpg",
+    "url": "https://enc12.goodstream.one/hls2/01/00043/q7m8iisoqnsl_h/index-v1-a1.m3u8?t=a7m8JSgOQ3I7GC0nNzdwrLwv3fGaRKFCoKeTiQ4RDhE&s=1780526491&e=43200&v=305834744&srv=s2&i=0.3&sp=0",
+    "genre": "رعب"
+  },
+  {
+    "title": "Trust",
+    "logo": "https://r.cimalight.co/uploads/thumbs/7cdd7254e-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/af65e878-9de5-4828-865c-8b22f272d159/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "Maa",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ac92b3c57-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/1fc7d3a9-e924-4301-80ce-a59822868508/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Cop & a Half",
+    "logo": "https://r.cimalight.co/uploads/thumbs/afad169b7-1.jpg",
+    "url": "https://g258.turbosplayer.com/file/275b5aef-43c8-4eb7-9723-cb6cdd508ee3/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "One Hit Wonder",
+    "logo": "https://r.cimalight.co/uploads/thumbs/aedcaf1ee-1.jpg",
+    "url": "https://g250.turbosplayer.com/file/27f6879f-e7a2-4de3-98f5-dca87f046826/master.m3u8",
+    "genre": "موسيقي"
+  },
+  {
+    "title": "Hysteria",
+    "logo": "https://r.cimalight.co/uploads/thumbs/af39c12ba-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/41d728dd-6aea-468e-a1b6-e465b31ae135/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "In the Fire of War",
+    "logo": "https://r.cimalight.co/uploads/thumbs/b09da51ae-1.jpg",
+    "url": "https://g246.turbosplayer.com/file/79a0f160-4d9d-4caa-ab17-55d9bbe00058/master.m3u8",
+    "genre": "حرب"
+  },
+  {
+    "title": "M3GAN 2 0",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ae207da29-1.jpg",
+    "url": "https://afast-store3-umh.cdnz.quest/hls2/02/00050/xdqdazjvpxu5_n/index-v1-a1.m3u8?t=TM-5_mKbc9_Cf-FQobmXdjfaUJvn_l4a0NVkfeO5n_w&s=1780517393&e=18000&v=131460353&i=0.3&sp=0",
+    "genre": "رعب"
+  },
+  {
+    "title": "Alma and the Wolf",
+    "logo": "https://r.cimalight.co/uploads/thumbs/798452c46-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/0014d3a5-6e3e-43ab-a99f-8af7f1329cff/master.m3u8",
+    "genre": "مغامرة"
+  },
+  {
+    "title": "The Wildman of Shaggy Creek",
+    "logo": "https://r.cimalight.co/uploads/thumbs/a8b40a938-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/035ef69f-aa7a-4412-8d0e-34ef1594a78e/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Culpa mía",
+    "logo": "https://r.cimalight.co/uploads/thumbs/a58370b04-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/756091ad-d836-4e00-abf8-84259f1206d9/master.m3u8",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "Ash",
+    "logo": "https://r.cimalight.co/uploads/thumbs/534ed2462-1.jpg",
+    "url": "https://g250.turbosplayer.com/file/1c3be400-7959-44d1-923d-f211ff57f07d/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "The OccupantThe Occupant",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ab0e5f841-1.jpg",
+    "url": "https://g245.turbosplayer.com/file/35bee69e-173a-43e8-bdeb-431d622816e4/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "A Line of Fire",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1634670a9-1.jpg",
+    "url": "https://g254.turbosplayer.com/file/6746feb5-da8c-45e6-8cce-00a810c8f59b/master.m3u8",
+    "genre": "حرب"
+  },
+  {
+    "title": "Primitive War",
+    "logo": "https://r.cimalight.co/uploads/thumbs/d59577b39-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/bed2f729-66c7-4367-a102-bd7e76dc5d74/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "Osiris",
+    "logo": "https://r.cimalight.co/uploads/thumbs/7995094ed-1.jpg",
+    "url": "https://g238.turbosplayer.com/file/b90503fa-9e30-4b3c-a656-06edce87eeec/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "The Heirloom",
+    "logo": "https://r.cimalight.co/uploads/thumbs/a91a1da9a-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/29511feb-d5c4-44a9-9de7-9f9e93db7d28/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Rule of Jenny Pen",
+    "logo": "https://r.cimalight.co/uploads/thumbs/1c7595bde-1.jpg",
+    "url": "https://strm6.uqload.is/hls2/02/03418/gx4kfphprsw1_n/index-v1-a1.m3u8?t=KPFb2H2e5uBzkl6CKAokpnKPhsABY8jiveftAx8qxIU&s=1780522174&e=43200&v=1561486&i=0.3&sp=0",
+    "genre": "رعب"
+  },
+  {
+    "title": "Shark Girl",
+    "logo": "https://r.cimalight.co/uploads/thumbs/a4aff6755-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/24b9a6a8-abcd-49e4-b7e2-3ceaa81e7a72/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Dogs",
+    "logo": "https://r.cimalight.co/uploads/thumbs/28493720c-1.jpg",
+    "url": "https://g248.turbosplayer.com/file/9e7f7156-fa21-4d51-8d60-b8c950f6d821/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Spider Man",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ab1997faf-1.jpg",
+    "url": "https://g253.turbosplayer.com/file/ac90b01c-f45e-451f-9020-354499a3ab09/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "American Sweatshop",
+    "logo": "https://r.cimalight.co/uploads/thumbs/6519887de-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/3f21bef6-81c4-412f-b3b9-91d76f524ca1/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Amongst the Wolves",
+    "logo": "https://r.cimalight.co/uploads/thumbs/85edb0b0a-1.jpg",
+    "url": "https://g250.turbosplayer.com/file/05f4acbf-d864-49b8-a1d8-f3c670093810/master.m3u8",
+    "genre": "مغامرة"
+  },
+  {
+    "title": "Peter Five Eight",
+    "logo": "https://r.cimalight.co/uploads/thumbs/85909740b-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/dda883fa-2b33-4493-9460-9ea074cdb74f/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Ship of the Damned",
+    "logo": "https://r.cimalight.co/uploads/thumbs/a183d69ed-1.jpg",
+    "url": "https://vsped-store9-vnz.cdnz.quest/hls2/01/00216/ku9n04kt1qrr_n/index-v1-a1.m3u8?t=vxlAhC1RcB6BoCvnHIUNMoFgvWV1FhBThjMhpH1gP88&s=1780522532&e=43200&v=1557769&i=0.0&sp=0",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Time That Remains",
+    "logo": "https://r.cimalight.co/uploads/thumbs/698203ef2-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/048dd2a9-0968-434d-82d5-bbd3600985f5/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Simarik",
+    "logo": "https://r.cimalight.co/uploads/thumbs/45358773d-1.jpg",
+    "url": "https://g243.turbosplayer.com/file/36b38d79-94aa-4baa-a3d1-cbc6582900c7/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Hierarchy",
+    "logo": "https://r.cimalight.co/uploads/thumbs/27644344a-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/cdf69e69-68e7-436d-b90e-387ab48b212f/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "The Toxic Avenger",
+    "logo": "https://r.cimalight.co/uploads/thumbs/a4e354c8e-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/7c8e4e13-a206-413f-bf74-42bbcb63a823/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Trouble Man",
+    "logo": "https://r.cimalight.co/uploads/thumbs/a1c5e8e3b-1.jpg",
+    "url": "https://g242.turbosplayer.com/file/41a5ab5f-5f30-430a-9258-917dec85e3e0/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "Nobody",
+    "logo": "https://r.cimalight.co/uploads/thumbs/ab8d7e9b2-1.jpg",
+    "url": "https://g265.turbosplayer.com/file/9a2f3ab1-5842-420e-baa6-eee483c0cb81/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Attack on Titan the Movie The Last Attack",
+    "logo": "https://r.cimalight.co/uploads/thumbs/a61e5363c-1.jpg",
+    "url": "https://vsped-store6-kmj.cdnz.quest/hls2/01/00211/n6m69u4ytxmg_n/index-v1-a1.m3u8?t=abvelgcGLLv1pM1Jwl4OGUrOYtrem-M2ujVDx2eqZMk&s=1780522907&e=43200&v=1569698&i=0.3&sp=0",
+    "genre": "انميشن"
+  },
+  {
+    "title": "Simon Says",
+    "logo": "https://r.cimalight.co/uploads/thumbs/85629a588-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/ede9b256-8bfc-4506-b1aa-242ccf68f454/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Son of Sardaar 2",
+    "logo": "https://r.cimalight.co/uploads/thumbs/3686e50fd-1.jpg",
+    "url": "https://g241.turbosplayer.com/file/302a04c6-be87-4dd4-8a47-78aedfba24b9/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Venom",
+    "logo": "https://r.cimalight.co/uploads/thumbs/31651f950-1.jpg",
+    "url": "https://g267.turbosplayer.com/file/fb4117ae-0ea3-44b4-b604-8b4b832b2719/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "Haunted Harmony Mysteries Buried at C",
+    "logo": "https://r.cimalight.co/uploads/thumbs/7107fdbd3-1.jpg",
+    "url": "https://g257.turbosplayer.com/file/2e1153fa-19cf-43c3-adc0-2a5270bcfeb9/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Just Breathe",
+    "logo": "https://r.cimalight.co/uploads/thumbs/324205a5e-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/871db01e-08a3-406c-80d7-16afdc8c4c92/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Steve",
+    "logo": "https://r.cimalight.co/uploads/thumbs/84523ac73-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/eeb97e38-b8aa-4f94-b92f-27f08be9db86/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "The Balloonist",
+    "logo": "https://r.cimalight.co/uploads/thumbs/5030eb9d5-1.jpg",
+    "url": "https://g270.turbosplayer.com/file/fbeef1ef-9a1e-4d77-a6fc-f9616617bc18/master.m3u8",
+    "genre": "مغامرة"
+  },
+  {
+    "title": "French Lover",
+    "logo": "https://r.cimalight.co/uploads/thumbs/51402fb59-1.jpg",
+    "url": "https://afast-store2-lmy.cdnz.quest/hls2/02/00049/hhm72r8l0xzu_n/index-v1-a1.m3u8?t=ZL7sNbn3_SwlO1K3Rnri1_UC5HRruPBOJif9PoeJQm4&s=1780523716&e=18000&v=131505148&i=0.3&sp=0",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "NAME",
+    "logo": "https://r.cimalight.co/uploads/thumbs/8468e65e2-1.jpg",
+    "url": "https://g252.turbosplayer.com/file/c4d68aca-f84a-4f24-b5c2-ef4b6ce2b0ee/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Everybody Loves Me When I’m Dead",
+    "logo": "https://r.cimalight.co/uploads/thumbs/484102ee2-1.jpg",
+    "url": "https://g251.turbosplayer.com/file/fc0b3f08-96b7-4b06-8d10-79011565224b/master.m3u8",
+    "genre": "وثائقي"
+  },
+  {
+    "title": "Rambo",
+    "logo": "https://r.cimalight.co/uploads/thumbs/4051a53f8-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/6ae2ade5-566b-4ca9-a4d9-cc20f12f8a98/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "NAME",
+    "logo": "https://r.cimalight.co/uploads/thumbs/93631a4a3-1.jpg",
+    "url": "https://g239.turbosplayer.com/file/a3fc803d-1874-464d-baf0-5e1f2717237d/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Hallow Road",
+    "logo": "https://r.cimalight.co/uploads/thumbs/20041d9ce-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/0ebee425-28c5-4e89-acbe-fdd87ae73e75/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Cleaner",
+    "logo": "https://r.cimalight.co/uploads/thumbs/6318b344f-1.jpg",
+    "url": "https://g255.turbosplayer.com/file/274aedb5-d6f8-467e-91ad-fc67ca2a5059/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
           "title": "Putin",
     "logo": "https://r.cimalight.co/uploads/thumbs/937d46aaf-1.jpg",
     "url": "https://g250.turbosplayer.com/file/309c1d69-2fea-4a4c-922c-4182a2315662/master.m3u8",
