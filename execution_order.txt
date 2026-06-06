@@ -1,0 +1,12 @@
+FaselHD Scraper Pipeline – Final Execution Order
+=================================================
+
+1. FaselMoviesScraper.py      → Scrape all movie categories (no ratings)
+2. FaselAnimeScraper.py       → Scrape anime series (no ratings)
+3. FaselSeriesScraper.py      → Scrape series, tvshows, asian-series (no ratings)
+4. update_ratings.py          → Fetch IMDb ratings & votes → ./output/ratings/
+5. TrendingScraper.py         → Build trending/featured content (enriched with fresh ratings)
+6. update_episodes.py         → Check for new episodes, update status (handles completed/ongoing)
+7. AllContentIndexer.py (optional) → Build global search index
+
+Note: Postprocessing.py is removed because it is no longer needed.
