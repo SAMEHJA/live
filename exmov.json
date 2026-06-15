@@ -1,7 +1,12 @@
 {
   "movies": [
     {
-		
+    "title": "The Thursday Murder Club",
+    "logo": "https://r.cimalight.co/uploads/thumbs/f570b7168-1.jpg",
+    "url": "https://g260.turbosplayer.com/file/4aa423ab-5de8-489e-819d-ecffe1102c7c/master.m3u8",
+    "genre": "دراما"
+  },
+  {	
     "title": "A Real Job",
     "logo": "https://r.cimalight.co/uploads/thumbs/feeaf6905-1.jpg",
     "url": "https://g260.turbosplayer.com/file/20db4cb2-ba45-448b-9873-32e2c367c615/master.m3u8",
