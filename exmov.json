@@ -1,6 +1,78 @@
 {
   "movies": [
     {
+    "title": "Busboys",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/z7aBU98usPaaFymldN6IcYRsHZr.jpg",
+    "url": "https://rox7gqdcaq754dwohtrox7gqdcaq754dwohtrox7gqdcaq754dwoht.vood78.xyz/hls/cxcunyebyhcsvb3x6v3csxpmuclqz3b4qi534mcii6q6jubypswk5bdzyqmq/index-v1-a1.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Safehouse",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/kZiBt1iw53LhQ2v2TCiGp0WHqQD.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcumle3ylcsvb3x6vqssc7m45wgq7gdmy5rcyrhrhsvv45blgp5pdxeqkvq/index-v1-a1.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Secrets at the Inn",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/vVmK2LITgyc79kyKon6Eax40PP6.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcumiu3ylcsvb3x6vrcshhyubor6qgvl3o5exen3di3q2jrcvonesmldepa/index-v1-a1.m3u8",
+    "genre": "غموض"
+  },
+  {
+    "title": "Sex Appeal",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/mpwXOeSSQdBjUpyQqf6YHYbSTFO.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcumi43ylcsvb3x6vrcsbxlx265pwijfj76mb2y2b3hqkhhequnq4garc6a/index-v1-a1.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Shattered",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/ounMihksHS9EI3Uc3KyK46WzD13.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcumie3ylcsvb3x6vrcsavpveyodemh4xhutewqofglfnydvd2jkekjpvzq/index-v1-a1.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Shepherd",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/bG9EYmj2GLd67mUDedpnBcSw69d.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcumju3ylcsvb3x6vrcsxnfufk7zigc43dzzslshqdxyxv7c5zbguedqfna/index-v1-a1.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Skeletons in the Closet",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/y3fsc0rH4zBHFxzjXAvfBU0flXh.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcumj43ylcsvb3x6vrcsbpvxk4cjk6sft3ugqcokwuqnkzrbfwhmoy5dqkq/index-v1-a1.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Slapface",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/xFR5TrTfhjaKN2z17rP09hoQXXs.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcumje3ylcsvb3x6vrcsgx6uo5x6pgzkhcqxeolf5735k5zcm4mt2l3hc5q/index-v1-a1.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Soul Mates",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/pkwPNjh2UeVDUKIcbbDbyw4k4TS.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcunwu4ylcsvb3x6vqssx5o4ona66a4nwl2rfo5rw7guludmfqvf5exyeja/index-v1-a1.m3u8",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "Space Sweepers",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/bmemsraCG1kIthY74NjDnnLRT2Q.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcunw44ylcsvb3x6vrcsd7sxfo2nh2m3ie7l2qky7tsobpwk3tcaj7flo5q/index-v1-a1.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "Spider-Man: Lotus",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/siVKaMrtKYEyJDrxQbiecKNHg7e.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcunwe4ylcsvb3x6vqssxpj5atj3vmakm7t5tehbcujqgykasy2rvkgy23q/index-v1-a1.m3u8",
+    "genre": "أكشن"
+  },
+  {
+    "title": "Starfish",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/u40Z9wxSeQR5e7QVHkLVJ2TOBPS.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcunx44ylcsvb3x6vqssapnxamumsh5m55yqyqfauujbr5rm3w5aemhvdkq/index-v1-a1.m3u8",
+    "genre": "دراما"
+  },
+  {
       "title": "Our Times",
       "logo": "https://r.cimalight.co/uploads/thumbs/767f93c9e-1.jpg",
       "url": "https://g264.turbosplayer.com/file/9ab52dcd-4a20-4a14-87c9-301e34f3ee03/master.m3u8",
