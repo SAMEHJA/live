@@ -1,0 +1,100 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlMasriyah.eg",AlMasriyah
+plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/21
+#EXTINF:-1 tvg-id="AlMashhad.ae",AlMashhad
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCWnBTuzUUDpKhJPGuDQMynA/live
+#EXTINF:-1 tvg-id="AlMasriyahUSA.us",AlMasriyah America
+plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/4
+#EXTINF:-1 tvg-id="AlNahar.eg",AlNahar TV
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzKamNFKCvzLOrqfBUAsD6Q/live
+#EXTINF:-1 tvg-id="AlmagharibiaTV.uk",Almagharibia TV
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwKS2U-DwjPZZvM6mSXPKgA/live
+#EXTINF:-1 tvg-id="",Alikhbariah TV
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UClm30t2F4FHzzkN9Irtr-8A/live
+#EXTINF:-1 tvg-id="AlQaheraNews.eg",AlQahera News
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCktyejXTxWaKfrgp1Oq7CMQ/live
+#EXTINF:-1 tvg-id="AlraiTV.kw",Alrai
+plugin://plugin.video.sendtokodi/?https://www.alraimedia.com/livestream
+#EXTINF:-1 tvg-id="AlRahma.eg",AlRahma
+plugin://plugin.video.sendtokodi/?https://alrahma.tv/livestream
+#EXTINF:-1 tvg-id="Alsumaria.iq",Alsumaria
+plugin://plugin.video.sendtokodi/?https://www.alsumaria.tv/live
+#EXTINF:-1 tvg-id="Ayat.sa",Ayaat
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC89SSMnCKzXdZsIs_GB6QBg/live
+#EXTINF:-1 tvg-id="BelqeesTV.ye",Belqees TV
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCxA_zZwALQMmVMSZyLKC-Nw/live
+#EXTINF:-1 tvg-id="CAFTV.eg",CAF TV
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCr5K057x3mHroPHsNk9OiwA/live
+#EXTINF:-1 tvg-id="",Elsharq TV
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCxx-W7y5qIoFKHp7W-Efhcw/live
+#EXTINF:-1 tvg-id="ERTU1.eg",ERTU 1
+plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/2
+#EXTINF:-1 tvg-id="ERTU2.eg",ERTU 2
+plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/3
+#EXTINF:-1 tvg-id="ExtraLive.eg",eXtra Live
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCXw5vClfMWccw-OocfhQHiA/live
+#EXTINF:-1 tvg-id="ExtraNews.eg",eXtra News
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC65F33K2cXk9hGDbOQYhTOw/live
+#EXTINF:-1 tvg-id="FadakTV.uk",Fadak TV
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC2ZoBzeCXrZcMz4f82eMe-g/live
+#EXTINF:-1 tvg-id="IFMTV.tn",IFM TV
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCvPW0VhnTcxYjWIxCvMlw2Q/live
+#EXTINF:-1 tvg-id="ImamAliTV.iq",Imam Ali TV
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCiE5ev_voWCwuIKfc0k2hOA/live
+#EXTINF:-1 tvg-id="IqraaArabic.sa",Iqraa Arabic
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCiC_h4iC9s7Ddr3CT82_EpA/live
+#EXTINF:-1 tvg-id="Karameesh.jo",Karameesh
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZ7V5FSAdPkRjPf64pPx9-Q/live
+#EXTINF:-1 tvg-id="KarbalaTV.iq",Karbala TV
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCI4gZRGRdfnfPajdxs8QtPQ/live
+#EXTINF:-1 tvg-id="M24TV.ma" tvg-logo="https://i.imgur.com/7uv5Feu.png",M24 TV (1080p)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCxzxd8IK9u5WieWqRS7ULjw/live
+#EXTINF:-1 tvg-id="MasperoZaman.eg",Maspero Zaman
+plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/6
+#EXTINF:-1 tvg-id="",Monte Carlo Doualiya
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzyAonkXMAIi8bp7_05PV-Q/live
+#EXTINF:-1 tvg-id="NileCinema.eg",Nile Cinema
+plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/20
+#EXTINF:-1 tvg-id="NileDrama.eg",Nile Drama
+plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/19
+#EXTINF:-1 tvg-id="NileNews.eg",Nile News
+plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/1
+#EXTINF:-1 tvg-id="NileTVInternational.eg",Nile TV International
+plugin://plugin.video.sendtokodi/?https://www.maspero.eg/stream/5
+#EXTINF:-1 tvg-id="OneFM.lb",OneFM
+plugin://plugin.video.sendtokodi/?https://www.mtv.com.lb/OneFM/Live
+#EXTINF:-1 tvg-id="OneTV.lb",OneTV
+plugin://plugin.video.sendtokodi/?https://www.mtv.com.lb/OneTV/Live
+#EXTINF:-1 tvg-id="RoyaComedy.jo",Roya Comedy
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/3
+#EXTINF:-1 tvg-id="RoyaDrama.jo",Roya Drama
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/2
+#EXTINF:-1 tvg-id="RoyaKids.jo",Roya Kids
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/14
+#EXTINF:-1 tvg-id="RoyaKidsOriginals.jo",Roya Kids Originals
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/42
+#EXTINF:-1 tvg-id="RoyaKidsSongs.jo",Roya Kids Songs
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/27
+#EXTINF:-1 tvg-id="RoyaKidsStories.jo",Roya Kids Stories
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/39
+#EXTINF:-1 tvg-id="RoyaKitchen.jo",Roya Kitchen
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/4
+#EXTINF:-1 tvg-id="RoyaMusic.jo",Roya Music
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/25
+#EXTINF:-1 tvg-id="RoyaNews.jo",Roya News
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/21
+#EXTINF:-1 tvg-id="",Roya Sport
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/48
+#EXTINF:-1 tvg-id="RoyaTV.jo",Roya TV
+plugin://plugin.video.sendtokodi/?https://roya.tv/live-stream/1
+#EXTINF:-1 tvg-id="Elmouritania.mr",Télévision de Mauritanie
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCK3909NQ9meg2KDYKF51Kmg/live
+#EXTINF:-1 tvg-id="ToyorAlJannah.jo",Toyor Al-Jannah
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZbpK_Lgctew3YNELlG2ecw/live
+#EXTINF:-1 tvg-id="ElWatania1.tn",Watania 1
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCdvWVsmQBROkgcGzVep73oA/live
+#EXTINF:-1 tvg-id="ElWatania2.tn",Watania 2
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCJW9gatYczI191TunQxMGbA/live
+#EXTINF:-1 tvg-id="ZadTV.sa",ZAD TV
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCOll3M-P7oKs5cSrQ9ytt6g/live
+
