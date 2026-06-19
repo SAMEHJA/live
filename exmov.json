@@ -1,6 +1,240 @@
 {
   "movies": [
     {
+    "title": "The Adults",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/i4vkr30zcBnVH2XCXUxyuFTX5JR.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcunse4ylcsvb3x6vqssxnovc65grsjknubbfb6woxjvsix7mergkaa2zbq/index-v1-a1.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "The Animal Kingdom",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/39AiQnXlXOjoqBSkiUpTG80rXLw.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcunsm4ylcsvb3x6vqsswhk4kh5hmowddwp273bdnceoesg75biolvwb4ka/index-v1-a1.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "The Blackwell Ghost 8",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/7PlS5c6OgmPBlA4xKxinLMXRLQ1.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcunt44ylcsvb3x6vrcscpfvjuo5wukowci2d6pwurxinumtj5aikrhzyca/index-v1-a1.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Boxer and the Butterfly",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/xU4OuN5K0nquoWqzoczHJ54gtfM.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcumqm4ylcsvb3x6vqssgpk45llzaw5xnxyphjke46g4bi2sfnfhue7vzdq/index-v1-a1.m3u8",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "The Colour Room",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/yo9XO3yUCqvu1XF7hm72s3JWzZR.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcum7m4ylcsvb3x6vrcsh7fxbuq5fjujk6cdrgxa76mnio7rphvuifmxa2a/index-v1-a1.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "The Dig",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/dFDNb9Gk1kyLRcconpj7Mc7C7IL.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcumru4ylcsvb3x6vrcscp24sl7t6mj4l3kycy4w3edoaebsgqsrenkf2rq/index-v1-a1.m3u8",
+    "genre": "مغامرة"
+  },
+  {
+    "title": "The Dirty South",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/4MIiVSXsHx5q9l3HgTc07gn895r.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcum4u4ylcsvb3x6vqssah3vbrhfhrlkfnbe3gakvu3mmb5sgrm546uwwbq/index-v1-a1.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "The Fall Guy",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcum5e4ylcsvb3x6vqssbx3vhtsgauq3gzpi4gti7jb2q3yuwhhjishct3q/index-v1-a1.m3u8",
+    "genre": "أكشن"
+  },
+  {
+    "title": "The Falls",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/lARMzlnHtusEnY8LrTmNID92CJo.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcumqe4ylcsvb3x6vrcsb73u7z2jvyqnqwrrmapqjyh2yxifpx6qxupi6jq/index-v1-a1.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "The Goldsmith",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/6eUxBpQSfFvQx1tJLRe74lyMw13.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcum6u4ylcsvb3x6vrcsb73vlczevvaibzzltwiwp27rx2sgevofnfmycwa/index-v1-a1.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "The Good Mother",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/whwxm3JUXNiGvqZWcRC6g6kAHm1.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcumq44ylcsvb3x6vqssexnwv5i3g62d4e3ynx4an7b7xkpnyp2ez247k4a/index-v1-a1.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "The Hating Game",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/prbZxJxGcy07y60eq8lCGMciTYz.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcum7u4ylcsvb3x6vrcsehnxf7uotos7kucydbyvu5bras5oxkvpmtloorq/index-v1-a1.m3u8",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "The Haunted Hotel",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/6zkSpXnyhAvmJyb5woao865wxOG.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcum444ylcsvb3x6vqssbviwryxvaq4o4j2bpbichqsuztt4l3jdxeustpq/index-v1-a1.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Jack in the Box: Awakening",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcunqu4ylcsvb3x6vrcsahv4wqkgy5tyekaakyat6njq7qafsi2dyizn73q/index-v1-a1.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Kitchen",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/tV0hK1BiqYrYlehChv4WJXIWgmZ.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcumre4ylcsvb3x6vqsse5fux6po7vukh76boy7shiotkwcazag6wmebcaq/index-v1-a1.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "The Last Boy on Earth",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/gXHYWMaxG0Gs5PJMKX6M8AZnZ5L.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcum644ylcsvb3x6vqssbhsuozujobou2cilnakjy36w5h2abrrj4dgu37a/index-v1-a1.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "The Last Repair Shop",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/9BWy7bgE4nTXf7hhooFNqVBJXgU.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcumqu4ylcsvb3x6vqsseh2vbxegqz6yags2yxoaa4c5lgru7ugm6ynae6a/index-v1-a1.m3u8",
+    "genre": "وثائقي"
+  },
+  {
+    "title": "The Magic Flute",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/AeIKugiQy1e3RZTrwXH1a84D8eo.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcum544ylcsvb3x6vrcsu77uulbb4jboixrwieodczsxhujfmf3x5to74za/index-v1-a1.m3u8",
+    "genre": "موسيقي"
+  },
+  {
+    "title": "The Northman",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
+    "url": "https://cxikp5jrfjvj8hfcxikp5jrfjvj8hfcxikp5jrfjvj8hfcxikp5jrfjv.vood78.xyz/hls/cxcuk5m4ylcsvb3x6vrcsu73xwubhmo7dwjkdqvuz335velxjuiwwog53nfq/index-v1-a1.m3u8",
+    "genre": "مغامرة"
+  },
+  {
+    "title": "The Other Me",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/cV7EY78064mfKzeOMzKPS7TQuMj.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcum4m4ylcsvb3x6vrcsb7pxpkjqfzyrlhz374moblwacxnuxu6xfkfcepa/index-v1-a1.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "The Palace",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/anfnDmeUuiYJgZ3h57Se0UShaSr.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcum7e4ylcsvb3x6vqssg7zvgjs6uoehwr4jnhb7yjrssa4ekwk67swfrdq/index-v1-a1.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "The Pale Door",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/jkAZb9jteax1XRnEFlCU9Oer1YJ.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcum2u4ylcsvb3x6vrcsuxp4shzfidycdxbia2j5m2y26udcaxizlwlhf6a/index-v1-a1.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Peasants",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/8ATsQJx6SnG1EQgmbm3NNeUzwmw.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcum244ylcsvb3x6vqssehp4uiva52rihoc5ub2w7c4sxfa6sutqlk4vsqq/index-v1-a1.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "The Perfect In-Laws",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/zC90Wcn8hGilv4TfdciZwpcLYw3.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcum2e4ylcsvb3x6vqssahqwuvpbniw7fdkcwtu7ow7pjb2co4lpi52pr7q/index-v1-a1.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "The Pig, the Snake and the Pigeon",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/9FhZ9VC999qeOWH2ytbangUMMt4.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcum2m4ylcsvb3x6vqssh7xxcj4nwpwkpbbzd62dyxotobuj2rov2d36pyq/index-v1-a1.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "The Piper",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/8lrevAFLg3Sdn6E76cMSeBg3NJh.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcum3u4ylcsvb3x6vqssdxxuoryoyvumazdyyrfridek2w6eohpyeg2w3ka/index-v1-a1.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Policeman’s Lineage",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/3YtKjWJweenEg2ic25PdDvRMdff.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcunqe4ylcsvb3x6vrcsu5n43osvg7kx3snwjojuo5qroo55cofba3bj3ya/index-v1-a1.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "The Prey: Legend of Karnoctus",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/b4WRdvY6a7bcAjsS4joNPjq2DPm.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcum344ylcsvb3x6vrcscpu4xlqn2e7k3n4qdpwxynibl3weerz7duetu6a/index-v1-a1.m3u8",
+    "genre": "أكشن"
+  },
+  {
+    "title": "The Royal Treatment",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/mYAv0YUoXJzLxIdEirOken8Quwf.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcum3e4ylcsvb3x6vrcsa5l45tnnximlwpuju5pajgscuyo4bi7epbj6xzq/index-v1-a1.m3u8",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "The Settlers",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/kxnA3EwH7t6ZSYceBIl3Pw8rzF4.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcum3m4ylcsvb3x6vqssxxsvhfuhazpyqargohvaz5rjk55stz36ciplp5a/index-v1-a1.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "The Sky Is Everywhere",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/qMVUlq6rdqFo1xZ5ozQcKFCDbgj.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcumym4ylcsvb3x6vrcsbnfvf6gxzpy7hwx4mxfefz3fefcme6mnzhkovaa/index-v1-a1.m3u8",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "The Surprise Visit",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/a3J0t376OE1Vk3jKN67viY31s5.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcumyu4ylcsvb3x6vrcsg7qxqrptamulmh2ovjhilfqqgyxy5zcfilyjwea/index-v1-a1.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Stolen Baby: The Murder of Heidi Broussard",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/6VZoNpXvS6iYGcOqxewrjW97e8R.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcunxm4ylcsvb3x6vqssu5evhvk7qgldrih6kajbnyyjmx3abl4cnagjpzq/index-v1-a1.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "STRIKE BACK",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/yLo2QLRmUQbnUSgXjMbJahcrtDD.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcunu44ylcsvb3x6vrcsapzwitukm5qglekbj4xlfczubnwfvnpjdvph74a/index-v1-a1.m3u8",
+    "genre": "حرب"
+  },
+  {
+    "title": "Summoners",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/dkGmsZFY3Ao4fx84yEykDkNbWCA.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcunum4ylcsvb3x6vrcsxvo4egl7ez2knv2ond3k3jwfawpqcrtlswxgbnq/index-v1-a1.m3u8",
+    "genre": "فانتازيا"
+  },
+  {
+    "title": "Superhost",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/3YBdvIrYlWGXAp2jJGNMbwXp7tZ.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcunvu4ylcsvb3x6vrcsbnfwv7qp6bbxgshq5jvqd5n2hgszu33vbdt6cwq/index-v1-a1.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Tarot",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcunv44ylcsvb3x6vrcsbfn4ycr7czddnqjmaeisj3berckf37ofhawzyia/index-v1-a1.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Abandoned",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/3TNmBgcta46j0z7KmKtOMO84pfE.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcunsu4ylcsvb3x6vrcswpp44srzxsmr23xptbsbvhnfddqv3rn46fpejha/index-v1-a1.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "The Abyss",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+    "url": "https://srtrigg6ockwt1oc1dsrtrigg6ockwt1oc1dsrtrigg6ockwt1oc1d.vood78.xyz/hls/cxcuns44ylcsvb3x6vqsshptvaeekp4khocfjamlpve6kbwr2vpqk4kozlua/index-v1-a1.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
     "title": "Busboys",
     "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/z7aBU98usPaaFymldN6IcYRsHZr.jpg",
     "url": "https://rox7gqdcaq754dwohtrox7gqdcaq754dwohtrox7gqdcaq754dwoht.vood78.xyz/hls/cxcunyebyhcsvb3x6v3csxpmuclqz3b4qi534mcii6q6jubypswk5bdzyqmq/index-v1-a1.m3u8",
