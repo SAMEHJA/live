@@ -1,0 +1,16 @@
+{
+  "service_provider": {
+    "name": "CR73_Stalker_Service",
+    "portal_url": "http://cr73ott.xyz/c/",
+    "authentication": {
+      "type": "MAC_ADDRESS",
+      "mac_address": "00:1A:79:00:00:0F"
+    },
+    "configuration": {
+      "status": "enabled",
+      "device_identifier": "MAG_BOX_SIMULATOR",
+      "connection_timeout_ms": 5000
+    }
+  }
+}
+
