@@ -1,0 +1,14 @@
+{
+  "service_info": {
+    "url": "http://amigo8k.vip:8080/get.php?username=1199dd6b0&password=888c6a71d&type=m3u_plus",
+    "protocol": "http",
+    "host": "amigo8k.vip",
+    "port": 8080,
+    "path": "/get.php",
+    "query_parameters": {
+      "username": "1199dd6b0",
+      "password": "888c6a71d",
+      "type": "m3u_plus"
+    }
+  }
+}
