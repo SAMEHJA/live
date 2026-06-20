@@ -1,16 +1,15 @@
 {
-  "service_provider": {
-    "name": "CR73_Stalker_Service",
-    "portal_url": "http://cr73ott.xyz/c/",
+  "stalker_portal": {
+    "provider_name": "Line_OTT",
+    "portal_url": "http://line.one-ott.xyz:80/c/",
     "authentication": {
-      "type": "MAC_ADDRESS",
-      "mac_address": "00:1A:79:00:00:0F"
+      "method": "MAC_ADDRESS",
+      "mac_address": "00:1A:79:55:C2:E0"
     },
-    "configuration": {
-      "status": "enabled",
-      "device_identifier": "MAG_BOX_SIMULATOR",
-      "connection_timeout_ms": 5000
+    "connection_settings": {
+      "port": 80,
+      "is_active": true,
+      "timeout_ms": 10000
     }
   }
 }
-
