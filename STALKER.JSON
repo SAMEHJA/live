@@ -1,15 +1,15 @@
 {
-  "stalker_portal": {
-    "provider_name": "Line_OTT",
-    "portal_url": "http://line.one-ott.xyz:80/c/",
+  "stalker_config": {
+    "provider": "TKIptv",
+    "portal_url": "http://tkiptv.net/c/",
     "authentication": {
       "method": "MAC_ADDRESS",
-      "mac_address": "00:1A:79:55:C2:E0"
+      "mac_address": "00:1A:79:A2:F8:AB"
     },
     "connection_settings": {
-      "port": 80,
       "is_active": true,
-      "timeout_ms": 10000
+      "device_type": "MAG_STB",
+      "timeout": 5000
     }
   }
 }
