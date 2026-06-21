@@ -1,14 +1,11 @@
 {
   "service_info": {
-    "url": "http://amigo8k.vip:8080/get.php?username=1199dd6b0&password=888c6a71d&type=m3u_plus",
-    "protocol": "http",
-    "host": "amigo8k.vip",
-    "port": 8080,
-    "path": "/get.php",
-    "query_parameters": {
-      "username": "1199dd6b0",
-      "password": "888c6a71d",
-      "type": "m3u_plus"
-    }
+    "url": "http://tvpro.top:80/get.php",
+    "type": "m3u_plus",
+    "authentication": {
+      "username": "637291275337228",
+      "password": "1593574628"
+    },
+    "full_link": "http://tvpro.top:80/get.php?username=637291275337228&password=1593574628&type=m3u_plus"
   }
 }
