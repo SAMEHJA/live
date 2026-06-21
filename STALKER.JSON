@@ -1,15 +1,12 @@
 {
-  "stalker_config": {
-    "provider": "TKIptv",
-    "portal_url": "http://tkiptv.net/c/",
+  "service_info": {
+    "provider": "MyOTT",
+    "portal_url": "http://myott.co:80/get.php",
+    "type": "m3u_plus",
     "authentication": {
-      "method": "MAC_ADDRESS",
-      "mac_address": "00:1A:79:A2:F8:AB"
+      "username": "1v11g14u",
+      "password": "l58054qc"
     },
-    "connection_settings": {
-      "is_active": true,
-      "device_type": "MAG_STB",
-      "timeout": 5000
-    }
+    "full_api_link": "http://myott.co:80/get.php?username=1v11g14u&password=l58054qc&type=m3u_plus"
   }
 }
