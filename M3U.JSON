@@ -1,0 +1,11 @@
+{
+  "service_info": {
+    "url": "http://tvpro.top:80/get.php",
+    "type": "m3u_plus",
+    "authentication": {
+      "username": "637291275337228",
+      "password": "1593574628"
+    },
+    "full_link": "http://tvpro.top:80/get.php?username=637291275337228&password=1593574628&type=m3u_plus"
+  }
+}
