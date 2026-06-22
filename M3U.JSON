@@ -1,12 +1,5 @@
 {
-  "service_info": {
-    "provider": "PandaIPTV",
-    "portal_url": "http://pandaiptv.club:8080/get.php",
-    "type": "m3u",
-    "authentication": {
-      "username": "mjZR50Ug",
-      "password": "ahn62FFX"
-    },
-    "full_api_link": "http://pandaiptv.club:8080/get.php?username=mjZR50Ug&password=ahn62FFX&type=m3u"
-  }
+"server": "http://u-iptv.com:80",
+"username": "wcxl0TgEAK",
+"password": "CDKcqGOw2Y"
 }
