@@ -1,11 +1,12 @@
 {
   "service_info": {
-    "url": "http://tvpro.top:80/get.php",
-    "type": "m3u_plus",
+    "provider": "PandaIPTV",
+    "portal_url": "http://pandaiptv.club:8080/get.php",
+    "type": "m3u",
     "authentication": {
-      "username": "637291275337228",
-      "password": "1593574628"
+      "username": "mjZR50Ug",
+      "password": "ahn62FFX"
     },
-    "full_link": "http://tvpro.top:80/get.php?username=637291275337228&password=1593574628&type=m3u_plus"
+    "full_api_link": "http://pandaiptv.club:8080/get.php?username=mjZR50Ug&password=ahn62FFX&type=m3u"
   }
 }
