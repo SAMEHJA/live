@@ -1,14 +1,5 @@
 {
-  "service_info": {
-    "url": "http://cloudott.org:80/get.php?username=Neval4000400043&password=Shefoo3331133390&type=m3u_plus",
-    "protocol": "http",
-    "host": "cloudott.org",
-    "port": 80,
-    "path": "/get.php",
-    "query_parameters": {
-      "username": "Neval4000400043",
-      "password": "Shefoo3331133390",
-      "type": "m3u_plus"
-    }
-  }
+"server": "http://tv.myliontv.top:2082",
+"username": "q735tzaT",
+"password": "tCjKDHG"
 }
