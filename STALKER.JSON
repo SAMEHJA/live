@@ -1,12 +1,6 @@
 {
-  "service_info": {
-    "provider": "MyOTT",
-    "portal_url": "http://myott.co:80/get.php",
-    "type": "m3u_plus",
-    "authentication": {
-      "username": "1v11g14u",
-      "password": "l58054qc"
-    },
-    "full_api_link": "http://myott.co:80/get.php?username=1v11g14u&password=l58054qc&type=m3u_plus"
-  }
+  "service": "Stalker IPTV",
+  "portal_url": "http://foxysoe.com/c/",
+  "mac_address": "00:1A:79:79:3D:43",
+  "status": "active"
 }
