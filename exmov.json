@@ -1,6 +1,48 @@
 {
   "movies": [
     {
+    "title": "Jacked",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/4gioIZQTH5yml1FX0uQFqGHjmD1.jpg",
+    "url": "https://g243.turbosplayer.com/file/956d5c0a-3828-4d2e-b4d5-4cea05ab9cc5/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Bad Man",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/opjyy6Qp5n3QnuMgFeAxx55e7B8.jpg",
+    "url": "https://g268.turbosplayer.com/file/8bb9fbb0-09f5-45f4-b355-9134bd29da64/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "The Punisher: One Last Kill",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
+    "url": "https://g280.turbosplayer.com/file/53e1104a-8da3-4260-9d40-c03f6f2f3c4f/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Calle Málaga",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/fWagBXNDk44UaupYtwQOAvDwGiT.jpg",
+    "url": "https://g284.turbosplayer.com/file/f5826c6e-9790-40f5-8c58-d222f0c81722/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Star Wars Episode V The Empire Strikes Back",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+    "url": "https://g263.turbosplayer.com/file/6283a01d-1902-4af0-8e56-b4e2e8399b25/master.m3u8",
+    "genre": "خيال علمي"
+  },
+  {
+    "title": "Mountainhead",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/jZKK5mFKWbquxhAGMkRJtNYwk0I.jpg",
+    "url": "https://g188.turbosplayer.com/file/796a47a7-e50b-4244-b06f-6cb1e0d947a5/master.m3u8",
+    "genre": "رعب"
+  },
+  {
+    "title": "Blades of the Guardians",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/R84km7PJ0frFSNPmvIjG6LV1kg.jpg",
+    "url": "https://g276.turbosplayer.com/file/c77029f5-a50f-4a6c-ada6-0f3992180925/master.m3u8",
+    "genre": "انميشن"
+  },
+  {
     "title": "Walking Tall",
     "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/2sdmKtRz2SlGSLxxZDePKm5zxus.jpg",
     "url": "https://archive.org/download/2_20260702_20260702_1847/1.ts",
