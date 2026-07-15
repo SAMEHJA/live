@@ -1,5 +1,968 @@
 [
   {
+    "episode_name": "Mayonaka Punch - الحلقة 1",
+    "series_name": "Mayonaka Punch",
+    "episode_number": 1,
+    "url": "https://archive.org/download/ep-3_20260710/Ep1.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1700/143395.jpg",
+    "group": "Mayonaka Punch",
+    "genre": "كوميديا"
+  },
+  {
+    "episode_name": "Mayonaka Punch - الحلقة 2",
+    "series_name": "Mayonaka Punch",
+    "episode_number": 2,
+    "url": "https://archive.org/download/ep-3_20260710/Ep2.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1700/143395.jpg",
+    "group": "Mayonaka Punch",
+    "genre": "كوميديا"
+  },
+  {
+    "episode_name": "Mayonaka Punch - الحلقة 3",
+    "series_name": "Mayonaka Punch",
+    "episode_number": 3,
+    "url": "https://archive.org/download/ep-3_20260710/Ep3.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1700/143395.jpg",
+    "group": "Mayonaka Punch",
+    "genre": "كوميديا"
+  },
+  {
+    "episode_name": "Mayonaka Punch - الحلقة 4",
+    "series_name": "Mayonaka Punch",
+    "episode_number": 4,
+    "url": "https://archive.org/download/ep-3_20260710/Ep4.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1700/143395.jpg",
+    "group": "Mayonaka Punch",
+    "genre": "كوميديا"
+  },
+  {
+    "episode_name": "Mayonaka Punch - الحلقة 5",
+    "series_name": "Mayonaka Punch",
+    "episode_number": 5,
+    "url": "https://archive.org/download/ep-3_20260710/Ep5.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1700/143395.jpg",
+    "group": "Mayonaka Punch",
+    "genre": "كوميديا"
+  },
+  {
+    "episode_name": "Mayonaka Punch - الحلقة 6",
+    "series_name": "Mayonaka Punch",
+    "episode_number": 6,
+    "url": "https://archive.org/download/ep-3_20260710/Ep6.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1700/143395.jpg",
+    "group": "Mayonaka Punch",
+    "genre": "كوميديا"
+  },
+  {
+    "episode_name": "Mayonaka Punch - الحلقة 7",
+    "series_name": "Mayonaka Punch",
+    "episode_number": 7,
+    "url": "https://archive.org/download/ep-3_20260710/Ep7.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1700/143395.jpg",
+    "group": "Mayonaka Punch",
+    "genre": "كوميديا"
+  },
+  {
+    "episode_name": "Mayonaka Punch - الحلقة 8",
+    "series_name": "Mayonaka Punch",
+    "episode_number": 8,
+    "url": "https://archive.org/download/ep-3_20260710/Ep9.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1700/143395.jpg",
+    "group": "Mayonaka Punch",
+    "genre": "كوميديا"
+  },
+  {
+    "episode_name": "Murai no Koi - الحلقة 1",
+    "series_name": "Murai no Koi",
+    "episode_number": 1,
+    "url": "https://archive.org/download/es-11/Es1.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1260/144801.jpg",
+    "group": "Murai no Koi",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Murai no Koi - الحلقة 2",
+    "series_name": "Murai no Koi",
+    "episode_number": 2,
+    "url": "https://archive.org/download/es-11/Es2.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1260/144801.jpg",
+    "group": "Murai no Koi",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Murai no Koi - الحلقة 3",
+    "series_name": "Murai no Koi",
+    "episode_number": 3,
+    "url": "https://archive.org/download/es-11/Es3.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1260/144801.jpg",
+    "group": "Murai no Koi",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Murai no Koi - الحلقة 4",
+    "series_name": "Murai no Koi",
+    "episode_number": 4,
+    "url": "https://archive.org/download/es-11/Es4.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1260/144801.jpg",
+    "group": "Murai no Koi",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Murai no Koi - الحلقة 5",
+    "series_name": "Murai no Koi",
+    "episode_number": 5,
+    "url": "https://archive.org/download/es-11/Es5.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1260/144801.jpg",
+    "group": "Murai no Koi",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Murai no Koi - الحلقة 6",
+    "series_name": "Murai no Koi",
+    "episode_number": 6,
+    "url": "https://archive.org/download/es-11/Es6.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1260/144801.jpg",
+    "group": "Murai no Koi",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Murai no Koi - الحلقة 7",
+    "series_name": "Murai no Koi",
+    "episode_number": 7,
+    "url": "https://archive.org/download/es-11/Es7.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1260/144801.jpg",
+    "group": "Murai no Koi",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Murai no Koi - الحلقة 8",
+    "series_name": "Murai no Koi",
+    "episode_number": 8,
+    "url": "https://archive.org/download/es-11/Es8.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1260/144801.jpg",
+    "group": "Murai no Koi",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Murai no Koi - الحلقة 9",
+    "series_name": "Murai no Koi",
+    "episode_number": 9,
+    "url": "https://archive.org/download/es-11/Es9.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1260/144801.jpg",
+    "group": "Murai no Koi",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Murai no Koi - الحلقة 10",
+    "series_name": "Murai no Koi",
+    "episode_number": 10,
+    "url": "https://archive.org/download/es-11/Es10.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1260/144801.jpg",
+    "group": "Murai no Koi",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Murai no Koi - الحلقة 11",
+    "series_name": "Murai no Koi",
+    "episode_number": 11,
+    "url": "https://archive.org/download/es-11/Es11.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1260/144801.jpg",
+    "group": "Murai no Koi",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Murai no Koi - الحلقة 12",
+    "series_name": "Murai no Koi",
+    "episode_number": 12,
+    "url": "https://archive.org/download/es-11/Es12.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1260/144801.jpg",
+    "group": "Murai no Koi",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Sentenced to Be a Hero - الحلقة 1",
+    "series_name": "Sentenced to Be a Hero",
+    "episode_number": 1,
+    "url": "https://archive.org/download/es_20260710/%D9%A0%D9%A1_ES.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1062/151911.jpg",
+    "group": "Sentenced to Be a Hero",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "Sentenced to Be a Hero - الحلقة 2",
+    "series_name": "Sentenced to Be a Hero",
+    "episode_number": 2,
+    "url": "https://archive.org/download/es_20260710/%D9%A0%D9%A2_ES.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1062/151911.jpg",
+    "group": "Sentenced to Be a Hero",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "Sentenced to Be a Hero - الحلقة 3",
+    "series_name": "Sentenced to Be a Hero",
+    "episode_number": 3,
+    "url": "https://archive.org/download/es_20260710/%D9%A0%D9%A3_ES.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1062/151911.jpg",
+    "group": "Sentenced to Be a Hero",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "Sentenced to Be a Hero - الحلقة 4",
+    "series_name": "Sentenced to Be a Hero",
+    "episode_number": 4,
+    "url": "https://archive.org/download/es_20260710/%D9%A0%D9%A4_ES.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1062/151911.jpg",
+    "group": "Sentenced to Be a Hero",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "Sentenced to Be a Hero - الحلقة 5",
+    "series_name": "Sentenced to Be a Hero",
+    "episode_number": 5,
+    "url": "https://archive.org/download/es_20260710/%D9%A0%D9%A5_ES.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1062/151911.jpg",
+    "group": "Sentenced to Be a Hero",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "Sentenced to Be a Hero - الحلقة 6",
+    "series_name": "Sentenced to Be a Hero",
+    "episode_number": 6,
+    "url": "https://archive.org/download/es_20260710/%D9%A0%D9%A6_ES.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1062/151911.jpg",
+    "group": "Sentenced to Be a Hero",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "Sentenced to Be a Hero - الحلقة 7",
+    "series_name": "Sentenced to Be a Hero",
+    "episode_number": 7,
+    "url": "https://archive.org/download/es_20260710/%D9%A0%D9%A7_ES.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1062/151911.jpg",
+    "group": "Sentenced to Be a Hero",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "Sentenced to Be a Hero - الحلقة 8",
+    "series_name": "Sentenced to Be a Hero",
+    "episode_number": 8,
+    "url": "https://archive.org/download/es_20260710/%D9%A0%D9%A8_ES.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1062/151911.jpg",
+    "group": "Sentenced to Be a Hero",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "Sentenced to Be a Hero - الحلقة 9",
+    "series_name": "Sentenced to Be a Hero",
+    "episode_number": 9,
+    "url": "https://archive.org/download/es_20260710/%D9%A0%D9%A9_ES.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1062/151911.jpg",
+    "group": "Sentenced to Be a Hero",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "Sentenced to Be a Hero - الحلقة 10",
+    "series_name": "Sentenced to Be a Hero",
+    "episode_number": 10,
+    "url": "https://archive.org/download/es_20260710/%D9%A1%D9%A0_ES.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1062/151911.jpg",
+    "group": "Sentenced to Be a Hero",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "Sentenced to Be a Hero - الحلقة 11",
+    "series_name": "Sentenced to Be a Hero",
+    "episode_number": 11,
+    "url": "https://archive.org/download/es_20260710/%D9%A1%D9%A1_ES.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1062/151911.jpg",
+    "group": "Sentenced to Be a Hero",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "Sentenced to Be a Hero - الحلقة 12",
+    "series_name": "Sentenced to Be a Hero",
+    "episode_number": 12,
+    "url": "https://archive.org/download/es_20260710/%D9%A1%D9%A2_ES.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1062/151911.jpg",
+    "group": "Sentenced to Be a Hero",
+    "genre": "فانتازيا"
+  },
+  {
+   "episode_name": "Gachiakuta Season 1 - الحلقة 1",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 1,
+    "url": "https://archive.org/download/eop_20260710/%D9%A0%D9%A1_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 2",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 2,
+    "url": "https://archive.org/download/eop_20260710/%D9%A0%D9%A2_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 3",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 3,
+    "url": "https://archive.org/download/eop_20260710/%D9%A0%D9%A3_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 4",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 4,
+    "url": "https://archive.org/download/eop_20260710/%D9%A0%D9%A4_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 5",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 5,
+    "url": "https://archive.org/download/eop_20260710/%D9%A0%D9%A5_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 6",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 6,
+    "url": "https://archive.org/download/eop_20260710/%D9%A0%D9%A6_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 7",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 7,
+    "url": "https://archive.org/download/eop_20260710/%D9%A0%D9%A7_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 8",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 8,
+    "url": "https://archive.org/download/eop_20260710/%D9%A0%D9%A8_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 9",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 9,
+    "url": "https://archive.org/download/eop_20260710/%D9%A0%D9%A9_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 10",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 10,
+    "url": "https://archive.org/download/eop_20260710/%D9%A1%D9%A0_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 11",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 11,
+    "url": "https://archive.org/download/eop_20260710/%D9%A1%D9%A1_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 12",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 12,
+    "url": "https://archive.org/download/eop_20260710/%D9%A1%D9%A2_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 13",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 13,
+    "url": "https://archive.org/download/eop_20260710/%D9%A1%D9%A3_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 14",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 14,
+    "url": "https://archive.org/download/eop_20260710/%D9%A1%D9%A4_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 15",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 15,
+    "url": "https://archive.org/download/eop_20260710/%D9%A1%D9%A5_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 16",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 16,
+    "url": "https://archive.org/download/eop_20260710/%D9%A1%D9%A6_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 17",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 17,
+    "url": "https://archive.org/download/eop_20260710/%D9%A1%D9%A7_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 18",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 18,
+    "url": "https://archive.org/download/eop_20260710/%D9%A1%D9%A8_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 19",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 19,
+    "url": "https://archive.org/download/eop_20260710/%D9%A1%D9%A9_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 20",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 20,
+    "url": "https://archive.org/download/eop_20260710/%D9%A2%D9%A0_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 21",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 21,
+    "url": "https://archive.org/download/eop_20260710/%D9%A2%D9%A1_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 22",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 22,
+    "url": "https://archive.org/download/eop_20260710/%D9%A2%D9%A2_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 23",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 23,
+    "url": "https://archive.org/download/eop_20260710/%D9%A2%D9%A3_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Gachiakuta Season 1 - الحلقة 24",
+    "series_name": "Gachiakuta Season 1",
+    "episode_number": 24,
+    "url": "https://archive.org/download/eop_20260710/%D9%A2%D9%A4_EOP.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+    "group": "Gachiakuta Season 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Kami no Tou - الحلقة 1",
+    "series_name": "Kami no Tou",
+    "episode_number": 1,
+    "url": "https://archive.org/download/vopa_20260710/%D9%A0%D9%A1_Vopa.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
+    "group": "Kami no Tou",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "Kami no Tou - الحلقة 2",
+    "series_name": "Kami no Tou",
+    "episode_number": 2,
+    "url": "https://archive.org/download/vopa_20260710/%D9%A0%D9%A2_Vopa.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
+    "group": "Kami no Tou",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "Kami no Tou - الحلقة 3",
+    "series_name": "Kami no Tou",
+    "episode_number": 3,
+    "url": "https://archive.org/download/vopa_20260710/%D9%A0%D9%A3_Vopa.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
+    "group": "Kami no Tou",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "Kami no Tou - الحلقة 4",
+    "series_name": "Kami no Tou",
+    "episode_number": 4,
+    "url": "https://archive.org/download/vopa_20260710/%D9%A0%D9%A4_Vopa.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
+    "group": "Kami no Tou",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "Kami no Tou - الحلقة 5",
+    "series_name": "Kami no Tou",
+    "episode_number": 5,
+    "url": "https://archive.org/download/vopa_20260710/%D9%A0%D9%A5_Vopa.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
+    "group": "Kami no Tou",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "Kami no Tou - الحلقة 6",
+    "series_name": "Kami no Tou",
+    "episode_number": 6,
+    "url": "https://archive.org/download/vopa_20260710/%D9%A0%D9%A6_Vopa.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
+    "group": "Kami no Tou",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "Kami no Tou - الحلقة 7",
+    "series_name": "Kami no Tou",
+    "episode_number": 7,
+    "url": "https://archive.org/download/vopa_20260710/%D9%A0%D9%A7_Vopa.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
+    "group": "Kami no Tou",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "Kami no Tou - الحلقة 8",
+    "series_name": "Kami no Tou",
+    "episode_number": 8,
+    "url": "https://archive.org/download/vopa_20260710/%D9%A0%D9%A8_Vopa.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
+    "group": "Kami no Tou",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "Kami no Tou - الحلقة 9",
+    "series_name": "Kami no Tou",
+    "episode_number": 9,
+    "url": "https://archive.org/download/vopa_20260710/%D9%A0%D9%A9_Vopa.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
+    "group": "Kami no Tou",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "Kami no Tou - الحلقة 10",
+    "series_name": "Kami no Tou",
+    "episode_number": 10,
+    "url": "https://archive.org/download/vopa_20260710/%D9%A1%D9%A0_Vopa.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
+    "group": "Kami no Tou",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "Kami no Tou - الحلقة 11",
+    "series_name": "Kami no Tou",
+    "episode_number": 11,
+    "url": "https://archive.org/download/vopa_20260710/%D9%A1%D9%A1_Vopa.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
+    "group": "Kami no Tou",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "Kami no Tou - الحلقة 12",
+    "series_name": "Kami no Tou",
+    "episode_number": 12,
+    "url": "https://archive.org/download/vopa_20260710/%D9%A1%D9%A2_Vopa.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
+    "group": "Kami no Tou",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "Kami no Tou - الحلقة 13",
+    "series_name": "Kami no Tou",
+    "episode_number": 13,
+    "url": "https://archive.org/download/vopa_20260710/%D9%A1%D9%A3_Vopa.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
+    "group": "Kami no Tou",
+    "genre": "مغامرة"
+  },
+  {
+ "episode_name": "Oshi no Ko Season 2 - الحلقة 1",
+    "series_name": "Oshi no Ko Season 2",
+    "episode_number": 1,
+    "url": "https://archive.org/download/opg_20260710/%D9%A0%D9%A1_Opg.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1006/143302.jpg",
+    "group": "Oshi no Ko Season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Oshi no Ko Season 2 - الحلقة 2",
+    "series_name": "Oshi no Ko Season 2",
+    "episode_number": 2,
+    "url": "https://archive.org/download/opg_20260710/%D9%A0%D9%A2_Opg.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1006/143302.jpg",
+    "group": "Oshi no Ko Season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Oshi no Ko Season 2 - الحلقة 3",
+    "series_name": "Oshi no Ko Season 2",
+    "episode_number": 3,
+    "url": "https://archive.org/download/opg_20260710/%D9%A0%D9%A3_Opg.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1006/143302.jpg",
+    "group": "Oshi no Ko Season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Oshi no Ko Season 2 - الحلقة 4",
+    "series_name": "Oshi no Ko Season 2",
+    "episode_number": 4,
+    "url": "https://archive.org/download/opg_20260710/%D9%A0%D9%A4_Opg.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1006/143302.jpg",
+    "group": "Oshi no Ko Season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Oshi no Ko Season 2 - الحلقة 5",
+    "series_name": "Oshi no Ko Season 2",
+    "episode_number": 5,
+    "url": "https://archive.org/download/opg_20260710/%D9%A0%D9%A5_Opg.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1006/143302.jpg",
+    "group": "Oshi no Ko Season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Oshi no Ko Season 2 - الحلقة 6",
+    "series_name": "Oshi no Ko Season 2",
+    "episode_number": 6,
+    "url": "https://archive.org/download/opg_20260710/%D9%A0%D9%A6_Opg.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1006/143302.jpg",
+    "group": "Oshi no Ko Season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Oshi no Ko Season 2 - الحلقة 7",
+    "series_name": "Oshi no Ko Season 2",
+    "episode_number": 7,
+    "url": "https://archive.org/download/opg_20260710/%D9%A0%D9%A7_Opg.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1006/143302.jpg",
+    "group": "Oshi no Ko Season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Oshi no Ko Season 2 - الحلقة 8",
+    "series_name": "Oshi no Ko Season 2",
+    "episode_number": 8,
+    "url": "https://archive.org/download/opg_20260710/%D9%A0%D9%A8_Opg.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1006/143302.jpg",
+    "group": "Oshi no Ko Season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Oshi no Ko Season 2 - الحلقة 9",
+    "series_name": "Oshi no Ko Season 2",
+    "episode_number": 9,
+    "url": "https://archive.org/download/opg_20260710/%D9%A0%D9%A9_Opg.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1006/143302.jpg",
+    "group": "Oshi no Ko Season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Oshi no Ko Season 2 - الحلقة 10",
+    "series_name": "Oshi no Ko Season 2",
+    "episode_number": 10,
+    "url": "https://archive.org/download/opg_20260710/%D9%A1%D9%A0_Opg.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1006/143302.jpg",
+    "group": "Oshi no Ko Season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Oshi no Ko Season 2 - الحلقة 11",
+    "series_name": "Oshi no Ko Season 2",
+    "episode_number": 11,
+    "url": "https://archive.org/download/opg_20260710/%D9%A1%D9%A1_Opg.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1006/143302.jpg",
+    "group": "Oshi no Ko Season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Oshi no Ko Season 2 - الحلقة 12",
+    "series_name": "Oshi no Ko Season 2",
+    "episode_number": 12,
+    "url": "https://archive.org/download/opg_20260710/%D9%A1%D9%A2_Opg.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1006/143302.jpg",
+    "group": "Oshi no Ko Season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Oshi no Ko Season 2 - الحلقة 13",
+    "series_name": "Oshi no Ko Season 2",
+    "episode_number": 13,
+    "url": "https://archive.org/download/opg_20260710/%D9%A1%D9%A3_Opg.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1006/143302.jpg",
+    "group": "Oshi no Ko Season 2",
+    "genre": "غموض"
+  },
+  {
+"episode_name": "Fruits Basket Season 2 - الحلقة 1",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 1,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A0%D9%A1_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 2",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 2,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A0%D9%A2_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 3",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 3,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A0%D9%A3_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 4",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 4,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A0%D9%A4_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 5",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 5,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A0%D9%A5_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 6",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 6,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A0%D9%A6_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 7",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 7,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A0%D9%A7_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 8",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 8,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A0%D9%A8_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 9",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 9,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A0%D9%A9_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 10",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 10,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A1%D9%A0_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 11",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 11,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A1%D9%A1_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 12",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 12,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A1%D9%A2_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 13",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 13,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A1%D9%A3_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 14",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 14,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A1%D9%A4_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 15",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 15,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A1%D9%A5_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 16",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 16,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A1%D9%A6_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 17",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 17,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A1%D9%A7_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 18",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 18,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A1%D9%A8_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 19",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 19,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A1%D9%A9_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 20",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 20,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A2%D9%A0_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 21",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 21,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A2%D9%A1_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 22",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 22,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A2%D9%A2_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 23",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 23,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A2%D9%A3_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 24",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 24,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A2%D9%A4_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
+    "episode_name": "Fruits Basket Season 2 - الحلقة 25",
+    "series_name": "Fruits Basket Season 2",
+    "episode_number": 25,
+    "url": "https://archive.org/download/pvp_20260710/%D9%A2%D9%A5_Pvp.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+    "group": "Fruits Basket Season 2",
+    "genre": "رومانسي"
+  },
+  {
     "episode_name": "Beastars Season 1 - الحلقة 1",
     "series_name": "Beastars Season 1",
     "episode_number": 1,
