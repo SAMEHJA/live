@@ -1,5 +1,3598 @@
 [
   {
+    "episode_name": "HUNTER X HUNTER - الحلقة 1",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 1,
+    "url": "https://archive.org/download/hx_20260726/%D9%A0%D9%A1_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 2",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 2,
+    "url": "https://archive.org/download/hx_20260726/%D9%A0%D9%A2_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 3",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 3,
+    "url": "https://archive.org/download/hx_20260726/%D9%A0%D9%A3_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 4",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 4,
+    "url": "https://archive.org/download/hx_20260726/%D9%A0%D9%A4_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 5",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 5,
+    "url": "https://archive.org/download/hx_20260726/%D9%A0%D9%A5_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 6",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 6,
+    "url": "https://archive.org/download/hx_20260726/%D9%A0%D9%A6_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 7",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 7,
+    "url": "https://archive.org/download/hx_20260726/%D9%A0%D9%A7_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 8",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 8,
+    "url": "https://archive.org/download/hx_20260726/%D9%A0%D9%A8_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 9",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 9,
+    "url": "https://archive.org/download/hx_20260726/%D9%A0%D9%A9_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 10",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 10,
+    "url": "https://archive.org/download/hx_20260726/%D9%A1%D9%A0_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 11",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 11,
+    "url": "https://archive.org/download/hx_20260726/%D9%A1%D9%A1_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 12",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 12,
+    "url": "https://archive.org/download/hx_20260726/%D9%A1%D9%A2_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 13",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 13,
+    "url": "https://archive.org/download/hx_20260726/%D9%A1%D9%A3_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 14",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 14,
+    "url": "https://archive.org/download/hx_20260726/%D9%A1%D9%A4_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 15",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 15,
+    "url": "https://archive.org/download/hx_20260726/%D9%A1%D9%A5_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 16",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 16,
+    "url": "https://archive.org/download/hx_20260726/%D9%A1%D9%A6_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 17",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 17,
+    "url": "https://archive.org/download/hx_20260726/%D9%A1%D9%A7_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 18",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 18,
+    "url": "https://archive.org/download/hx_20260726/%D9%A1%D9%A8_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 19",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 19,
+    "url": "https://archive.org/download/hx_20260726/%D9%A1%D9%A9_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 20",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 20,
+    "url": "https://archive.org/download/hx_20260726/%D9%A2%D9%A0_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 21",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 21,
+    "url": "https://archive.org/download/hx_20260726/%D9%A2%D9%A1_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 22",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 22,
+    "url": "https://archive.org/download/hx_20260726/%D9%A2%D9%A2_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 23",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 23,
+    "url": "https://archive.org/download/hx_20260726/%D9%A2%D9%A3_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 24",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 24,
+    "url": "https://archive.org/download/hx_20260726/%D9%A2%D9%A4_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 25",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 25,
+    "url": "https://archive.org/download/hx_20260726/%D9%A2%D9%A5_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 26",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 26,
+    "url": "https://archive.org/download/hx_20260726/%D9%A2%D9%A6_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 27",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 27,
+    "url": "https://archive.org/download/hx_20260726/%D9%A2%D9%A7_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 28",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 28,
+    "url": "https://archive.org/download/hx_20260726/%D9%A2%D9%A8_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 29",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 29,
+    "url": "https://archive.org/download/hx_20260726/%D9%A2%D9%A9_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 30",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 30,
+    "url": "https://archive.org/download/hx_20260726/%D9%A3%D9%A0_Hx.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 31",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 31,
+    "url": "https://archive.org/download/mora_20260726/%D9%A0%D9%A1_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 32",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 32,
+    "url": "https://archive.org/download/mora_20260726/%D9%A0%D9%A2_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 33",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 33,
+    "url": "https://archive.org/download/mora_20260726/%D9%A0%D9%A3_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 34",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 34,
+    "url": "https://archive.org/download/mora_20260726/%D9%A0%D9%A4_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 35",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 35,
+    "url": "https://archive.org/download/mora_20260726/%D9%A0%D9%A5_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 36",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 36,
+    "url": "https://archive.org/download/mora_20260726/%D9%A0%D9%A6_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 37",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 37,
+    "url": "https://archive.org/download/mora_20260726/%D9%A0%D9%A7_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 38",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 38,
+    "url": "https://archive.org/download/mora_20260726/%D9%A0%D9%A8_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 39",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 39,
+    "url": "https://archive.org/download/mora_20260726/%D9%A0%D9%A9_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 40",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 40,
+    "url": "https://archive.org/download/mora_20260726/%D9%A1%D9%A0_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 41",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 41,
+    "url": "https://archive.org/download/mora_20260726/%D9%A1%D9%A1_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 42",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 42,
+    "url": "https://archive.org/download/mora_20260726/%D9%A1%D9%A2_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 43",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 43,
+    "url": "https://archive.org/download/mora_20260726/%D9%A1%D9%A3_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 44",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 44,
+    "url": "https://archive.org/download/mora_20260726/%D9%A1%D9%A4_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 45",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 45,
+    "url": "https://archive.org/download/mora_20260726/%D9%A1%D9%A5_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 46",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 46,
+    "url": "https://archive.org/download/mora_20260726/%D9%A1%D9%A6_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 47",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 47,
+    "url": "https://archive.org/download/mora_20260726/%D9%A1%D9%A7_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 48",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 48,
+    "url": "https://archive.org/download/mora_20260726/%D9%A1%D9%A8_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 49",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 49,
+    "url": "https://archive.org/download/mora_20260726/%D9%A1%D9%A9_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 50",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 50,
+    "url": "https://archive.org/download/mora_20260726/%D9%A2%D9%A0_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 51",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 51,
+    "url": "https://archive.org/download/mora_20260726/%D9%A2%D9%A1_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 52",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 52,
+    "url": "https://archive.org/download/mora_20260726/%D9%A2%D9%A2_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 53",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 53,
+    "url": "https://archive.org/download/mora_20260726/%D9%A2%D9%A3_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 54",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 54,
+    "url": "https://archive.org/download/mora_20260726/%D9%A2%D9%A4_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 55",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 55,
+    "url": "https://archive.org/download/mora_20260726/%D9%A2%D9%A5_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 56",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 56,
+    "url": "https://archive.org/download/mora_20260726/%D9%A2%D9%A6_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 57",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 57,
+    "url": "https://archive.org/download/mora_20260726/%D9%A2%D9%A7_Mora.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 58",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 58,
+    "url": "https://archive.org/download/lor_20260726/%D9%A0%D9%A1_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 59",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 59,
+    "url": "https://archive.org/download/lor_20260726/%D9%A0%D9%A2_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 60",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 60,
+    "url": "https://archive.org/download/lor_20260726/%D9%A0%D9%A3_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 61",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 61,
+    "url": "https://archive.org/download/lor_20260726/%D9%A0%D9%A4_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 62",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 62,
+    "url": "https://archive.org/download/lor_20260726/%D9%A0%D9%A5_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 63",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 63,
+    "url": "https://archive.org/download/lor_20260726/%D9%A0%D9%A6_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 64",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 64,
+    "url": "https://archive.org/download/lor_20260726/%D9%A0%D9%A7_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 65",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 65,
+    "url": "https://archive.org/download/lor_20260726/%D9%A0%D9%A8_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 66",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 66,
+    "url": "https://archive.org/download/lor_20260726/%D9%A0%D9%A9_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 67",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 67,
+    "url": "https://archive.org/download/lor_20260726/%D9%A1%D9%A0_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 68",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 68,
+    "url": "https://archive.org/download/lor_20260726/%D9%A1%D9%A1_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 69",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 69,
+    "url": "https://archive.org/download/lor_20260726/%D9%A1%D9%A2_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 70",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 70,
+    "url": "https://archive.org/download/lor_20260726/%D9%A1%D9%A3_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 71",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 71,
+    "url": "https://archive.org/download/lor_20260726/%D9%A1%D9%A4_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 72",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 72,
+    "url": "https://archive.org/download/lor_20260726/%D9%A1%D9%A5_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 73",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 73,
+    "url": "https://archive.org/download/lor_20260726/%D9%A1%D9%A6_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 74",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 74,
+    "url": "https://archive.org/download/lor_20260726/%D9%A1%D9%A7_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 75",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 75,
+    "url": "https://archive.org/download/lor_20260726/%D9%A1%D9%A8_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 76",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 76,
+    "url": "https://archive.org/download/lor_20260726/%D9%A1%D9%A9_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 77",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 77,
+    "url": "https://archive.org/download/lor_20260726/%D9%A2%D9%A0_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 78",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 78,
+    "url": "https://archive.org/download/lor_20260726/%D9%A2%D9%A1_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 79",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 79,
+    "url": "https://archive.org/download/lor_20260726/%D9%A2%D9%A2_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 80",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 80,
+    "url": "https://archive.org/download/lor_20260726/%D9%A2%D9%A3_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 81",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 81,
+    "url": "https://archive.org/download/lor_20260726/%D9%A2%D9%A4_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 82",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 82,
+    "url": "https://archive.org/download/lor_20260726/%D9%A2%D9%A5_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 83",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 83,
+    "url": "https://archive.org/download/lor_20260726/%D9%A2%D9%A6_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 84",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 84,
+    "url": "https://archive.org/download/lor_20260726/%D9%A2%D9%A7_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 85",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 85,
+    "url": "https://archive.org/download/lor_20260726/%D9%A2%D9%A8_Lor.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 86",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 86,
+    "url": "https://archive.org/download/hiii-15/Hiii_01.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 87",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 87,
+    "url": "https://archive.org/download/hiii-15/Hiii_02.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 88",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 88,
+    "url": "https://archive.org/download/hiii-15/Hiii_03.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 89",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 89,
+    "url": "https://archive.org/download/hiii-15/Hiii_04.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 90",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 90,
+    "url": "https://archive.org/download/hiii-15/Hiii_05.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 91",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 91,
+    "url": "https://archive.org/download/hiii-15/Hiii_06.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 92",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 92,
+    "url": "https://archive.org/download/hiii-15/Hiii_07.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 93",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 93,
+    "url": "https://archive.org/download/hiii-15/Hiii_08.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 94",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 94,
+    "url": "https://archive.org/download/hiii-15/Hiii_09.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 95",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 95,
+    "url": "https://archive.org/download/hiii-15/Hiii_10.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 96",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 96,
+    "url": "https://archive.org/download/hiii-15/Hiii_11.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 97",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 97,
+    "url": "https://archive.org/download/hiii-15/Hiii_12.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 98",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 98,
+    "url": "https://archive.org/download/hiii-15/Hiii_13.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 99",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 99,
+    "url": "https://archive.org/download/hiii-15/Hiii_14.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 100",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 100,
+    "url": "https://archive.org/download/hiii-15/Hiii_15.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 101",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 101,
+    "url": "https://archive.org/download/hiii-15/Hiii_16.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 102",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 102,
+    "url": "https://archive.org/download/hiii-15/Hiii_17.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 103",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 103,
+    "url": "https://archive.org/download/hiii-15/Hiii_18.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 104",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 104,
+    "url": "https://archive.org/download/hiii-15/Hiii_19.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 105",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 105,
+    "url": "https://archive.org/download/hiii-15/Hiii_20.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 106",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 106,
+    "url": "https://archive.org/download/hiii-15/Hiii_21.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 107",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 107,
+    "url": "https://archive.org/download/hiii-15/Hiii_22.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 108",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 108,
+    "url": "https://archive.org/download/hiii-15/Hiii_23.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 109",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 109,
+    "url": "https://archive.org/download/hiii-15/Hiii_24.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 110",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 110,
+    "url": "https://archive.org/download/hiii-15/Hiii_25.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 111",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 111,
+    "url": "https://archive.org/download/hiii-15/Hiii_26.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 112",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 112,
+    "url": "https://archive.org/download/hiii-15/Hiii_27.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 113",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 113,
+    "url": "https://archive.org/download/22-es/01_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 114",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 114,
+    "url": "https://archive.org/download/22-es/02_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 115",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 115,
+    "url": "https://archive.org/download/22-es/03_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 116",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 116,
+    "url": "https://archive.org/download/22-es/04_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 117",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 117,
+    "url": "https://archive.org/download/22-es/05_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 118",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 118,
+    "url": "https://archive.org/download/22-es/06_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 119",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 119,
+    "url": "https://archive.org/download/22-es/07_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 120",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 120,
+    "url": "https://archive.org/download/22-es/08_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 121",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 121,
+    "url": "https://archive.org/download/22-es/09_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 122",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 122,
+    "url": "https://archive.org/download/22-es/10_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 123",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 123,
+    "url": "https://archive.org/download/22-es/11_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 124",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 124,
+    "url": "https://archive.org/download/22-es/12_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 125",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 125,
+    "url": "https://archive.org/download/22-es/13_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 126",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 126,
+    "url": "https://archive.org/download/22-es/14_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 127",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 127,
+    "url": "https://archive.org/download/22-es/15_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 128",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 128,
+    "url": "https://archive.org/download/22-es/16_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 129",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 129,
+    "url": "https://archive.org/download/22-es/17_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 130",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 130,
+    "url": "https://archive.org/download/22-es/18_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 131",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 131,
+    "url": "https://archive.org/download/22-es/19_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 132",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 132,
+    "url": "https://archive.org/download/22-es/20_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 133",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 133,
+    "url": "https://archive.org/download/22-es/21_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 134",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 134,
+    "url": "https://archive.org/download/22-es/22_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 135",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 135,
+    "url": "https://archive.org/download/22-es/23_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 136",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 136,
+    "url": "https://archive.org/download/22-es/24_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 137",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 137,
+    "url": "https://archive.org/download/22-es/25_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 138",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 138,
+    "url": "https://archive.org/download/22-es/26_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 139",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 139,
+    "url": "https://archive.org/download/22-es/27_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 140",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 140,
+    "url": "https://archive.org/download/22-es/28_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 141",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 141,
+    "url": "https://archive.org/download/22-es/29_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 142",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 142,
+    "url": "https://archive.org/download/22-es/30_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 143",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 143,
+    "url": "https://archive.org/download/22-es/31_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 144",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 144,
+    "url": "https://archive.org/download/22-es/32_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 145",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 145,
+    "url": "https://archive.org/download/22-es/33_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 146",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 146,
+    "url": "https://archive.org/download/22-es/34_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 147",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 147,
+    "url": "https://archive.org/download/22-es/35_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "HUNTER X HUNTER - الحلقة 148",
+    "series_name": "HUNTER X HUNTER",
+    "episode_number": 148,
+    "url": "https://archive.org/download/22-es/36_Es.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "HUNTER X HUNTER",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 1",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 1,
+    "url": "https://archive.org/download/psv-15/Psv_01.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 2",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 2,
+    "url": "https://archive.org/download/psv-15/Psv_02.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 3",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 3,
+    "url": "https://archive.org/download/psv-15/Psv_03.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 4",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 4,
+    "url": "https://archive.org/download/psv-15/Psv_04.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 5",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 5,
+    "url": "https://archive.org/download/psv-15/Psv_05.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 6",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 6,
+    "url": "https://archive.org/download/psv-15/Psv_06.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 7",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 7,
+    "url": "https://archive.org/download/psv-15/Psv_07.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 8",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 8,
+    "url": "https://archive.org/download/psv-15/Psv_08.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 9",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 9,
+    "url": "https://archive.org/download/psv-15/Psv_09.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 10",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 10,
+    "url": "https://archive.org/download/psv-15/Psv_10.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 11",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 11,
+    "url": "https://archive.org/download/psv-15/Psv_11.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 12",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 12,
+    "url": "https://archive.org/download/psv-15/Psv_12.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 13",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 13,
+    "url": "https://archive.org/download/psv-15/Psv_13.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 14",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 14,
+    "url": "https://archive.org/download/psv-15/Psv_14.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 15",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 15,
+    "url": "https://archive.org/download/psv-15/Psv_15.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 16",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 16,
+    "url": "https://archive.org/download/psv-15/Psv_16.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 17",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 17,
+    "url": "https://archive.org/download/psv-15/Psv_17.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 18",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 18,
+    "url": "https://archive.org/download/psv-15/Psv_18.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 19",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 19,
+    "url": "https://archive.org/download/psv-15/Psv_19.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 20",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 20,
+    "url": "https://archive.org/download/psv-15/Psv_20.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 21",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 21,
+    "url": "https://archive.org/download/psv-15/Psv_21.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 22",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 22,
+    "url": "https://archive.org/download/psv-15/Psv_22.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 23",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 23,
+    "url": "https://archive.org/download/psv-15/Psv_23.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 24",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 24,
+    "url": "https://archive.org/download/psv-15/Psv_24.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "EDENS ZERO SEASON 1 - الحلقة 25",
+    "series_name": "EDENS ZERO SEASON 1",
+    "episode_number": 25,
+    "url": "https://archive.org/download/psv-15/Psv25.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+    "group": "EDENS ZERO",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "MOONRISE - الحلقة 1",
+    "series_name": "MOONRISE",
+    "episode_number": 1,
+    "url": "https://archive.org/download/so-18_202607/So_01.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1181/148693.jpg",
+    "group": "MOONRISE",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "MOONRISE - الحلقة 2",
+    "series_name": "MOONRISE",
+    "episode_number": 2,
+    "url": "https://archive.org/download/so-18_202607/So_02.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1181/148693.jpg",
+    "group": "MOONRISE",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "MOONRISE - الحلقة 3",
+    "series_name": "MOONRISE",
+    "episode_number": 3,
+    "url": "https://archive.org/download/so-18_202607/So_03.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1181/148693.jpg",
+    "group": "MOONRISE",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "MOONRISE - الحلقة 4",
+    "series_name": "MOONRISE",
+    "episode_number": 4,
+    "url": "https://archive.org/download/so-18_202607/So_04.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1181/148693.jpg",
+    "group": "MOONRISE",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "MOONRISE - الحلقة 5",
+    "series_name": "MOONRISE",
+    "episode_number": 5,
+    "url": "https://archive.org/download/so-18_202607/So_05.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1181/148693.jpg",
+    "group": "MOONRISE",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "MOONRISE - الحلقة 6",
+    "series_name": "MOONRISE",
+    "episode_number": 6,
+    "url": "https://archive.org/download/so-18_202607/So_06.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1181/148693.jpg",
+    "group": "MOONRISE",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "MOONRISE - الحلقة 7",
+    "series_name": "MOONRISE",
+    "episode_number": 7,
+    "url": "https://archive.org/download/so-18_202607/So_07.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1181/148693.jpg",
+    "group": "MOONRISE",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "MOONRISE - الحلقة 8",
+    "series_name": "MOONRISE",
+    "episode_number": 8,
+    "url": "https://archive.org/download/so-18_202607/So_08.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1181/148693.jpg",
+    "group": "MOONRISE",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "MOONRISE - الحلقة 9",
+    "series_name": "MOONRISE",
+    "episode_number": 9,
+    "url": "https://archive.org/download/so-18_202607/So_09.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1181/148693.jpg",
+    "group": "MOONRISE",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "MOONRISE - الحلقة 10",
+    "series_name": "MOONRISE",
+    "episode_number": 10,
+    "url": "https://archive.org/download/so-18_202607/So_10.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1181/148693.jpg",
+    "group": "MOONRISE",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "MOONRISE - الحلقة 11",
+    "series_name": "MOONRISE",
+    "episode_number": 11,
+    "url": "https://archive.org/download/so-18_202607/So_11.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1181/148693.jpg",
+    "group": "MOONRISE",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "MOONRISE - الحلقة 12",
+    "series_name": "MOONRISE",
+    "episode_number": 12,
+    "url": "https://archive.org/download/so-18_202607/So_12.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1181/148693.jpg",
+    "group": "MOONRISE",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "MOONRISE - الحلقة 13",
+    "series_name": "MOONRISE",
+    "episode_number": 13,
+    "url": "https://archive.org/download/so-18_202607/So_13.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1181/148693.jpg",
+    "group": "MOONRISE",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "MOONRISE - الحلقة 14",
+    "series_name": "MOONRISE",
+    "episode_number": 14,
+    "url": "https://archive.org/download/so-18_202607/So_14.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1181/148693.jpg",
+    "group": "MOONRISE",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "MOONRISE - الحلقة 15",
+    "series_name": "MOONRISE",
+    "episode_number": 15,
+    "url": "https://archive.org/download/so-18_202607/So_15.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1181/148693.jpg",
+    "group": "MOONRISE",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "MOONRISE - الحلقة 16",
+    "series_name": "MOONRISE",
+    "episode_number": 16,
+    "url": "https://archive.org/download/so-18_202607/So_16.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1181/148693.jpg",
+    "group": "MOONRISE",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "MOONRISE - الحلقة 17",
+    "series_name": "MOONRISE",
+    "episode_number": 17,
+    "url": "https://archive.org/download/so-18_202607/So_17.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1181/148693.jpg",
+    "group": "MOONRISE",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "MOONRISE - الحلقة 18",
+    "series_name": "MOONRISE",
+    "episode_number": 18,
+    "url": "https://archive.org/download/so-18_202607/So_18.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1181/148693.jpg",
+    "group": "MOONRISE",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 1",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 1,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_01.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 2",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 2,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_02.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 3",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 3,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_03.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 4",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 4,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_04.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 5",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 5,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_05.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 6",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 6,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_06.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 7",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 7,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_07.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 8",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 8,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_08.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 9",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 9,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_09.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 10",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 10,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_10.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 11",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 11,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_11.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 12",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 12,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_12.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 13",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 13,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_13.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 14",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 14,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_14.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 15",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 15,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_15.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 16",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 16,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_16.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 17",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 17,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_17.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 18",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 18,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_18.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 19",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 19,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_19.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 1 - الحلقة 20",
+    "series_name": "FUMETSU NO ANATA E SEASON 1",
+    "episode_number": 20,
+    "url": "https://archive.org/download/ahaa-03/Ahaa_20.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 1",
+    "genre": "فانتازيا"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 1",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 1,
+    "url": "https://archive.org/download/eva-15/Eva_01.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 2",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 2,
+    "url": "https://archive.org/download/eva-15/Eva_02.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 3",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 3,
+    "url": "https://archive.org/download/eva-15/Eva_03.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 4",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 4,
+    "url": "https://archive.org/download/eva-15/Eva_04.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 5",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 5,
+    "url": "https://archive.org/download/eva-15/Eva_05.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 6",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 6,
+    "url": "https://archive.org/download/eva-15/Eva_06.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 7",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 7,
+    "url": "https://archive.org/download/eva-15/Eva_07.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 8",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 8,
+    "url": "https://archive.org/download/eva-15/Eva_08.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 9",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 9,
+    "url": "https://archive.org/download/eva-15/Eva_09.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 10",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 10,
+    "url": "https://archive.org/download/eva-15/Eva_10.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 11",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 11,
+    "url": "https://archive.org/download/eva-15/Eva_11.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 12",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 12,
+    "url": "https://archive.org/download/eva-15/Eva_12.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 13",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 13,
+    "url": "https://archive.org/download/eva-15/Eva_13.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 14",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 14,
+    "url": "https://archive.org/download/eva-15/Eva_14.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 15",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 15,
+    "url": "https://archive.org/download/eva-15/Eva_15.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 16",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 16,
+    "url": "https://archive.org/download/eva-15/Eva_16.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 17",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 17,
+    "url": "https://archive.org/download/eva-15/Eva_17.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 18",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 18,
+    "url": "https://archive.org/download/eva-15/Eva_18.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 19",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 19,
+    "url": "https://archive.org/download/eva-15/Eva_19.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+    "episode_name": "FUMETSU NO ANATA E SEASON 2 - الحلقة 20",
+    "series_name": "FUMETSU NO ANATA E SEASON 2",
+    "episode_number": 20,
+    "url": "https://archive.org/download/eva-15/Eva_20.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1271/127700.jpg",
+    "group": "FUMETSU NO ANATA E SEASON 2",
+    "genre": "مغامرة"
+  },
+  {
+[
+  {
+    "episode_name": "Boku no Hero Academia season 1 - الحلقة 1",
+    "series_name": "Boku no Hero Academia season 1",
+    "episode_number": 1,
+    "url": "https://archive.org/download/11-boko/01_Boko.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 1 - الحلقة 2",
+    "series_name": "Boku no Hero Academia season 1",
+    "episode_number": 2,
+    "url": "https://archive.org/download/11-boko/02_Boko.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 1 - الحلقة 3",
+    "series_name": "Boku no Hero Academia season 1",
+    "episode_number": 3,
+    "url": "https://archive.org/download/11-boko/03_Boko.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 1 - الحلقة 4",
+    "series_name": "Boku no Hero Academia season 1",
+    "episode_number": 4,
+    "url": "https://archive.org/download/11-boko/04_Boko.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 1 - الحلقة 5",
+    "series_name": "Boku no Hero Academia season 1",
+    "episode_number": 5,
+    "url": "https://archive.org/download/11-boko/05_Boko.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 1 - الحلقة 6",
+    "series_name": "Boku no Hero Academia season 1",
+    "episode_number": 6,
+    "url": "https://archive.org/download/11-boko/06_Boko.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 1 - الحلقة 7",
+    "series_name": "Boku no Hero Academia season 1",
+    "episode_number": 7,
+    "url": "https://archive.org/download/11-boko/07_Boko.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 1 - الحلقة 8",
+    "series_name": "Boku no Hero Academia season 1",
+    "episode_number": 8,
+    "url": "https://archive.org/download/11-boko/08_Boko.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 1 - الحلقة 9",
+    "series_name": "Boku no Hero Academia season 1",
+    "episode_number": 9,
+    "url": "https://archive.org/download/11-boko/09_Boko.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 1 - الحلقة 10",
+    "series_name": "Boku no Hero Academia season 1",
+    "episode_number": 10,
+    "url": "https://archive.org/download/11-boko/10_Boko.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 1 - الحلقة 11",
+    "series_name": "Boku no Hero Academia season 1",
+    "episode_number": 11,
+    "url": "https://archive.org/download/11-boko/11_Boko.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 1 - الحلقة 12",
+    "series_name": "Boku no Hero Academia season 1",
+    "episode_number": 12,
+    "url": "https://archive.org/download/11-boko/12_Boko.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 1 - الحلقة 13",
+    "series_name": "Boku no Hero Academia season 1",
+    "episode_number": 13,
+    "url": "https://archive.org/download/11-boko/13_Boko.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 1",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 1,
+    "url": "https://archive.org/download/pvo-05/Pvo_01.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 2",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 2,
+    "url": "https://archive.org/download/pvo-05/Pvo_02.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 3",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 3,
+    "url": "https://archive.org/download/pvo-05/Pvo_03.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 4",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 4,
+    "url": "https://archive.org/download/pvo-05/Pvo_04.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 5",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 5,
+    "url": "https://archive.org/download/pvo-05/Pvo_05.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 6",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 6,
+    "url": "https://archive.org/download/pvo-05/Pvo_06.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 7",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 7,
+    "url": "https://archive.org/download/pvo-05/Pvo_07.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 8",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 8,
+    "url": "https://archive.org/download/pvo-05/Pvo_08.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 9",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 9,
+    "url": "https://archive.org/download/pvo-05/Pvo_09.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 10",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 10,
+    "url": "https://archive.org/download/pvo-05/Pvo_10.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 11",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 11,
+    "url": "https://archive.org/download/pvo-05/Pvo_11.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 12",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 12,
+    "url": "https://archive.org/download/pvo-05/Pvo_12.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 13",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 13,
+    "url": "https://archive.org/download/pvo-05/Pvo_13.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 14",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 14,
+    "url": "https://archive.org/download/pvo-05/Pvo_14.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 15",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 15,
+    "url": "https://archive.org/download/pvo-05/Pvo_15.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 16",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 16,
+    "url": "https://archive.org/download/pvo-05/Pvo_16.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 17",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 17,
+    "url": "https://archive.org/download/pvo-05/Pvo_17.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 18",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 18,
+    "url": "https://archive.org/download/pvo-05/Pvo_18.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 19",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 19,
+    "url": "https://archive.org/download/pvo-05/Pvo_19.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 20",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 20,
+    "url": "https://archive.org/download/pvo-05/Pvo_20.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 21",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 21,
+    "url": "https://archive.org/download/pvo-05/Pvo_21.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 22",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 22,
+    "url": "https://archive.org/download/pvo-05/Pvo_22.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 23",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 23,
+    "url": "https://archive.org/download/pvo-05/Pvo_23.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 24",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 24,
+    "url": "https://archive.org/download/pvo-05/Pvo_24.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 2 - الحلقة 25",
+    "series_name": "Boku no Hero Academia season 2",
+    "episode_number": 25,
+    "url": "https://archive.org/download/pvo-05/Pvo_25.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "group": "Boku no Hero Academia season 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 1",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 1,
+    "url": "https://archive.org/download/mno-06/Mno_01.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 2",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 2,
+    "url": "https://archive.org/download/mno-06/Mno_02.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 3",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 3,
+    "url": "https://archive.org/download/mno-06/Mno_03.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 4",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 4,
+    "url": "https://archive.org/download/mno-06/Mno_04.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 5",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 5,
+    "url": "https://archive.org/download/mno-06/Mno_05.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 6",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 6,
+    "url": "https://archive.org/download/mno-06/Mno_06.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 7",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 7,
+    "url": "https://archive.org/download/mno-06/Mno_08.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 8",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 8,
+    "url": "https://archive.org/download/mno-06/Mno_09.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 9",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 9,
+    "url": "https://archive.org/download/mno-06/Mno_10.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 10",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 10,
+    "url": "https://archive.org/download/mno-06/Mno_11.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 11",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 11,
+    "url": "https://archive.org/download/mno-06/Mno_12.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 12",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 12,
+    "url": "https://archive.org/download/mno-06/Mno_13.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 13",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 13,
+    "url": "https://archive.org/download/mno-06/Mno_14.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 14",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 14,
+    "url": "https://archive.org/download/mno-06/Mno_15.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 15",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 15,
+    "url": "https://archive.org/download/mno-06/Mno_16.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 16",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 16,
+    "url": "https://archive.org/download/mno-06/Mno_17.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 17",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 17,
+    "url": "https://archive.org/download/mno-06/Mno_18.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 18",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 18,
+    "url": "https://archive.org/download/mno-06/Mno_19.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 19",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 19,
+    "url": "https://archive.org/download/mno-06/Mno_20.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 20",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 20,
+    "url": "https://archive.org/download/mno-06/Mno_21.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 21",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 21,
+    "url": "https://archive.org/download/mno-06/Mno_22.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 22",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 22,
+    "url": "https://archive.org/download/mno-06/Mno_23.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 23",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 23,
+    "url": "https://archive.org/download/mno-06/Mno_24.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 3 - الحلقة 24",
+    "series_name": "Boku no Hero Academia season 3",
+    "episode_number": 24,
+    "url": "https://archive.org/download/mno-06/Mno_25.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 1",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 1,
+    "url": "https://archive.org/download/vor-25/Vor_01.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 2",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 2,
+    "url": "https://archive.org/download/vor-25/Vor_02.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 3",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 3,
+    "url": "https://archive.org/download/vor-25/Vor_03.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 4",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 4,
+    "url": "https://archive.org/download/vor-25/Vor_04.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 5",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 5,
+    "url": "https://archive.org/download/vor-25/Vor_05.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 6",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 6,
+    "url": "https://archive.org/download/vor-25/Vor_06.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 7",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 7,
+    "url": "https://archive.org/download/vor-25/Vor_07.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 8",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 8,
+    "url": "https://archive.org/download/vor-25/Vor_08.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 9",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 9,
+    "url": "https://archive.org/download/vor-25/Vor_09.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 10",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 10,
+    "url": "https://archive.org/download/vor-25/Vor_10.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 11",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 11,
+    "url": "https://archive.org/download/vor-25/Vor_11.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 12",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 12,
+    "url": "https://archive.org/download/vor-25/Vor_12.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 13",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 13,
+    "url": "https://archive.org/download/vor-25/Vor_13.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 14",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 14,
+    "url": "https://archive.org/download/vor-25/Vor_14.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 15",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 15,
+    "url": "https://archive.org/download/vor-25/Vor_15.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 16",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 16,
+    "url": "https://archive.org/download/vor-25/Vor_16.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 17",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 17,
+    "url": "https://archive.org/download/vor-25/Vor_17.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 18",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 18,
+    "url": "https://archive.org/download/vor-25/Vor_18.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 19",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 19,
+    "url": "https://archive.org/download/vor-25/Vor_19.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 20",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 20,
+    "url": "https://archive.org/download/vor-25/Vor_20.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 21",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 21,
+    "url": "https://archive.org/download/vor-25/Vor_21.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 22",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 22,
+    "url": "https://archive.org/download/vor-25/Vor_22.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 23",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 23,
+    "url": "https://archive.org/download/vor-25/Vor_23.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 24",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 24,
+    "url": "https://archive.org/download/vor-25/Vor_24.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 4 - الحلقة 25",
+    "series_name": "Boku no Hero Academia season 4",
+    "episode_number": 25,
+    "url": "https://archive.org/download/vor-25/Vor_25.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 1",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 1,
+    "url": "https://archive.org/download/mada-10/Mada_01.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 2",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 2,
+    "url": "https://archive.org/download/mada-10/Mada_02.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 3",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 3,
+    "url": "https://archive.org/download/mada-10/Mada_03.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 4",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 4,
+    "url": "https://archive.org/download/mada-10/Mada_04.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 5",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 5,
+    "url": "https://archive.org/download/mada-10/Mada_05.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 6",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 6,
+    "url": "https://archive.org/download/mada-10/Mada_06.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 7",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 7,
+    "url": "https://archive.org/download/mada-10/Mada_07.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 8",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 8,
+    "url": "https://archive.org/download/mada-10/Mada_08.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 9",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 9,
+    "url": "https://archive.org/download/mada-10/Mada_09.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 10",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 10,
+    "url": "https://archive.org/download/mada-10/Mada_10.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 11",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 11,
+    "url": "https://archive.org/download/mada-10/Mada_11.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 12",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 12,
+    "url": "https://archive.org/download/mada-10/Mada_12.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 13",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 13,
+    "url": "https://archive.org/download/mada-10/Mada_13.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 14",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 14,
+    "url": "https://archive.org/download/mada-10/Mada_14.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 15",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 15,
+    "url": "https://archive.org/download/mada-10/Mada_15.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 16",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 16,
+    "url": "https://archive.org/download/mada-10/Mada_16.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 17",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 17,
+    "url": "https://archive.org/download/mada-10/Mada_17.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 18",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 18,
+    "url": "https://archive.org/download/mada-10/Mada_18.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 19",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 19,
+    "url": "https://archive.org/download/mada-10/Mada_19.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 20",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 20,
+    "url": "https://archive.org/download/mada-10/Mada_20.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 21",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 21,
+    "url": "https://archive.org/download/mada-10/Mada_21.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 22",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 22,
+    "url": "https://archive.org/download/mada-10/Mada_22.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 23",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 23,
+    "url": "https://archive.org/download/mada-10/Mada_23.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 24",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 24,
+    "url": "https://archive.org/download/mada-10/Mada_24.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia Season 5 - الحلقة 25",
+    "series_name": "Boku no Hero Academia Season 5",
+    "episode_number": 25,
+    "url": "https://archive.org/download/mada-10/Mada_25.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+    "group": "Boku no Hero Academia",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 1",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 1,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_01.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 2",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 2,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_02.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 3",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 3,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_03.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 4",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 4,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_04.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 5",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 5,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_05.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 6",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 6,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_06.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 7",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 7,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_07.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 8",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 8,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_08.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 9",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 9,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_09.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 10",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 10,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_10.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 11",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 11,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_11.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 12",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 12,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_12.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 13",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 13,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_13.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 14",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 14,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_14.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 15",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 15,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_15.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 16",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 16,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_16.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 17",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 17,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_17.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 18",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 18,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_18.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 19",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 19,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_19.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 20",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 20,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_20.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 21",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 21,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_21.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 22",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 22,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_22.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 23",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 23,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_23.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 24",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 24,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_24.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 6 - الحلقة 25",
+    "series_name": "Boku no Hero Academia season 6",
+    "episode_number": 25,
+    "url": "https://archive.org/download/alhoa-06/Alhoa_25.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+    "group": "Boku no Hero Academia season 6",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 1",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 1,
+    "url": "https://archive.org/download/oreo-20/Oreo_01.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 2",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 2,
+    "url": "https://archive.org/download/oreo-20/Oreo_02.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 3",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 3,
+    "url": "https://archive.org/download/oreo-20/Oreo_03.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 4",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 4,
+    "url": "https://archive.org/download/oreo-20/Oreo_04.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 5",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 5,
+    "url": "https://archive.org/download/oreo-20/Oreo_05.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 6",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 6,
+    "url": "https://archive.org/download/oreo-20/Oreo_06.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 7",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 7,
+    "url": "https://archive.org/download/oreo-20/Oreo_07.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 8",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 8,
+    "url": "https://archive.org/download/oreo-20/Oreo_08.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 9",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 9,
+    "url": "https://archive.org/download/oreo-20/Oreo_09.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 10",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 10,
+    "url": "https://archive.org/download/oreo-20/Oreo_10.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 11",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 11,
+    "url": "https://archive.org/download/oreo-20/Oreo_11.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 12",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 12,
+    "url": "https://archive.org/download/oreo-20/Oreo_12.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 13",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 13,
+    "url": "https://archive.org/download/oreo-20/Oreo_13.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 14",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 14,
+    "url": "https://archive.org/download/oreo-20/Oreo_14.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 15",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 15,
+    "url": "https://archive.org/download/oreo-20/Oreo_15.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 16",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 16,
+    "url": "https://archive.org/download/oreo-20/Oreo_16.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 17",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 17,
+    "url": "https://archive.org/download/oreo-20/Oreo_17.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 18",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 18,
+    "url": "https://archive.org/download/oreo-20/Oreo_18.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 19",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 19,
+    "url": "https://archive.org/download/oreo-20/Oreo_20.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 7 - الحلقة 20",
+    "series_name": "Boku no Hero Academia season 7",
+    "episode_number": 20,
+    "url": "https://archive.org/download/oreo-20/Oreo_21.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+    "group": "Boku no Hero Academia season 7",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 8 - الحلقة 1",
+    "series_name": "Boku no Hero Academia season 8",
+    "episode_number": 1,
+    "url": "https://archive.org/download/frt-08_202607/Frt_01.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "Boku no Hero Academia season 8",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 8 - الحلقة 2",
+    "series_name": "Boku no Hero Academia season 8",
+    "episode_number": 2,
+    "url": "https://archive.org/download/frt-08_202607/Frt_02.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "Boku no Hero Academia season 8",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 8 - الحلقة 3",
+    "series_name": "Boku no Hero Academia season 8",
+    "episode_number": 3,
+    "url": "https://archive.org/download/frt-08_202607/Frt_03.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "Boku no Hero Academia season 8",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 8 - الحلقة 4",
+    "series_name": "Boku no Hero Academia season 8",
+    "episode_number": 4,
+    "url": "https://archive.org/download/frt-08_202607/Frt_04.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "Boku no Hero Academia season 8",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 8 - الحلقة 5",
+    "series_name": "Boku no Hero Academia season 8",
+    "episode_number": 5,
+    "url": "https://archive.org/download/frt-08_202607/Frt_05.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "Boku no Hero Academia season 8",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 8 - الحلقة 6",
+    "series_name": "Boku no Hero Academia season 8",
+    "episode_number": 6,
+    "url": "https://archive.org/download/frt-08_202607/Frt_06.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "Boku no Hero Academia season 8",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 8 - الحلقة 7",
+    "series_name": "Boku no Hero Academia season 8",
+    "episode_number": 7,
+    "url": "https://archive.org/download/frt-08_202607/Frt_07.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "Boku no Hero Academia season 8",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 8 - الحلقة 8",
+    "series_name": "Boku no Hero Academia season 8",
+    "episode_number": 8,
+    "url": "https://archive.org/download/frt-08_202607/Frt_08.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "Boku no Hero Academia season 8",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 8 - الحلقة 9",
+    "series_name": "Boku no Hero Academia season 8",
+    "episode_number": 9,
+    "url": "https://archive.org/download/frt-08_202607/Frt_09.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "Boku no Hero Academia season 8",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 8 - الحلقة 10",
+    "series_name": "Boku no Hero Academia season 8",
+    "episode_number": 10,
+    "url": "https://archive.org/download/frt-08_202607/Frt_10.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "Boku no Hero Academia season 8",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Boku no Hero Academia season 8 - الحلقة 11",
+    "series_name": "Boku no Hero Academia season 8",
+    "episode_number": 11,
+    "url": "https://archive.org/download/frt-08_202607/Frt_11.mkv",
+    "logo": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+    "group": "Boku no Hero Academia season 8",
+    "genre": "اكشن"
+  },
+  {
     "episode_name": "MOB KARA HAJIMARU TANSAKU EIYUUTAN - الحلقة 1",
     "series_name": "MOB KARA HAJIMARU TANSAKU EIYUUTAN",
     "episode_number": 1,
