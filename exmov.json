@@ -1,6 +1,114 @@
 {
   "movies": [
     {
+    "title": "Leviticus",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
+    "url": "https://g285.turbosplayer.com/file/5ef48211-7a0d-4dd1-9064-c23e84f15941/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "Ip Man: Kung Fu Legend",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/m3Low6jJrKXHSYFpXNkmYsG1Q6I.jpg",
+    "url": "https://g260.turbosplayer.com/file/604a5e81-5613-44d7-82f6-68982470a01e/master.m3u8",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Lobby",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/hJ1XNmBbNQtlcK61xZfpCAA0qCY.jpg",
+    "url": "https://g243.turbosplayer.com/file/e8e92b32-8f66-45f4-9f62-c458161f514c/master.m3u8",
+    "genre": "إثارة"
+  },
+  {
+    "title": "Newborn",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/g3fTSiQ19uIpYDHVAHLHvgLwzPD.jpg",
+    "url": "https://g275.turbosplayer.com/file/b3dbcd5d-c278-41a5-ad83-92747ec85417/master.m3u8",
+    "genre": "دراما"
+  },
+  {
+    "title": "ابن مين فيهم",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/nawSfK8lpnFrYBMvj6xExRI7bCI.jpg",
+    "url": "https://g285.turbosplayer.com/file/f756f90c-3ce8-4a18-ac8b-9418267568c2/master.m3u8",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "Muzzle City of Wolves",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
+    "url": "https://g242.turbosplayer.com/file/b8fef057-e3cb-4f60-b4a6-a5f335846563/master.m3u8",
+    "genre": "جريمة"
+  },
+  {
+    "title": "The Pout-Pout Fish",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/fcDXgGL14qL46It1XOozEjX5Jws.jpg",
+    "url": "https://g277.turbosplayer.com/file/5c37694d-a833-42db-8153-4126c4fee6f9/master.m3u8",
+    "genre": "انميشن"
+  },
+  {
+    "title": "طلقني",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/uDPVi84WZrtj0MHjWjleEuyYSJu.jpg",
+    "url": "https://archive.org/download/fbrayr-alaswd-2013-720p/tlqny-2025-720p.mp4",
+    "genre": "دراما"
+  },
+  {
+    "title": "فرق خبرة",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/ebuZFIv0UyzwupDvT0eAT5M3Hpf.jpg",
+    "url": "https://archive.org/download/fbrayr-alaswd-2013-720p/frq-khbrt-2021-720p.mp4",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "الغسالة",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/8uDF7FYcZNI5pbb40C7pmcPAp0r.jpg",
+    "url": "https://archive.org/download/fbrayr-alaswd-2013-720p/alghsalt-2020-720p.mp4",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "دفع رباعي بقوة",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/eAuC0TTnepR6aTwKeC1fOV0oiLp.jpg",
+    "url": "https://archive.org/download/fbrayr-alaswd-2013-720p/df%CA%BF-rba%CA%BFy-bqwt-2020-720p.mp4",
+    "genre": "اكشن"
+  },
+  {
+    "title": "ريما",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/lYzNVmzWr5T1CenaiE6w42qOtvZ.jpg",
+    "url": "https://archive.org/download/fbrayr-alaswd-2013-720p/ryma-2020-720p.mp4",
+    "genre": "رومانسي"
+  },
+  {
+    "title": "القرموطي في أرض النار",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/zeDOBGKyb6J8WAdNVQaZbfXWy6A.jpg",
+    "url": "https://archive.org/download/fbrayr-alaswd-2013-720p/alqrmwty-fy-ard-alnar-2017-720p.mp4",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "عنتر ابن ابن ابن ابن شداد",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/u45CUv3u3QFTAuT8M5pxhncmYSl.jpg",
+    "url": "https://archive.org/download/fbrayr-alaswd-2013-720p/%CA%BFntr-abn-abn-abn-abn-shdad-2017-720p.mp4",
+    "genre": "مغامرة"
+  },
+  {
+    "title": "اوشن 14",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/hgnOf13LRybUzCFqpQRFOf4w57B.jpg",
+    "url": "https://archive.org/download/fbrayr-alaswd-2013-720p/awshn-14-2016-720p.mp4",
+    "genre": "جريمة"
+  },
+  {
+    "title": "فبراير الاسود",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/czEFNWosXdUXoFZupkuw1mwXUCM.jpg",
+    "url": "https://archive.org/download/fbrayr-alaswd-2013-720p/fbrayr-alaswd-2013-720p.mp4",
+    "genre": "دراما"
+  },
+  {
+    "title": "العالمي",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/lZoYN6OFLcg15Mp6jsF1z8SqCoT.jpg",
+    "url": "https://archive.org/download/fbrayr-alaswd-2013-720p/al%CA%BFalmy-2009-720p.mp4",
+    "genre": "دراما"
+  },
+  {
+    "title": "كلام في الحب",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/bJpE82flwVLGMV8mtQrBxqytJ1D.jpg",
+    "url": "https://archive.org/download/fbrayr-alaswd-2013-720p/klam-fy-alhb-2004-720p_03-35-44.mp4",
+    "genre": "رومانسي"
+  },
+  {
     "title": "فاميلي بيزنس",
     "logo": "https://media.themoviedb.org/t/p/w220_and_h330_face/cTkgBDGGDPlUzLJ1zEWmOopoLdV.jpg",
     "url": "https://archive.org/download/20260725_20260725_2313/Familly%20busnes.mp4",
