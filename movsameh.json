@@ -1,6 +1,36 @@
 {
   "movies": [
     {
+		    "title": "The Deputy",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/qL654LNOfBu49e12jnnQIv6mny.jpg",
+    "url": "https://archive.org/download/the-love-hypothesis_20260r/The%20Deputy.mp4",
+    "genre": "دراما"
+  },
+  {
+    "title": "Legend of the White Dragon",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/5JJRTM1mMuqnK4BJojMljm5Xpgj.jpg",
+    "url": "https://archive.org/download/the-love-hypothesis_20260r/Legend%20of%20the%20White%20Dragon.mp4",
+    "genre": "اكشن"
+  },
+  {
+    "title": "Unabomber",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+    "url": "https://archive.org/download/the-love-hypothesis_202609/Unabomber.mp4",
+    "genre": "جريمة"
+  },
+  {
+    "title": "Your Highness",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/zw1tEKhR1ncGGtuYkkf30GYlvYQ.jpg",
+    "url": "https://archive.org/download/the-love-hypothesis_202609/Your%20Highness.mp4",
+    "genre": "كوميدي"
+  },
+  {
+    "title": "The Love Hypothesis",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+    "url": "https://archive.org/download/the-love-hypothesis_202609/The%20Love%20Hypothesis.mp4",
+    "genre": "رومانسي"
+  },
+  {
    "title": "Psycho Killer",
     "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
     "url": "https://archive.org/download/2_20260911_20260911_2233/1.mp4",
