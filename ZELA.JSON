@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "name": "الجزيرة الإخبارية",
+    "url": "https://example.com/live/aljazeera.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "العربية الحدث",
+    "url": "https://example.com/live/hadath.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "بي إن سبورت 1",
+    "url": "https://example.com/live/bein1.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "بي إن سبورت 2",
+    "url": "https://example.com/live/bein2.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "إم بي سي 1",
+    "url": "https://example.com/live/mbc1.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "إم بي سي مصر",
+    "url": "https://example.com/live/mbcmasr.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "دبي الفضائية",
+    "url": "https://example.com/live/dubai.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "ART أفلام",
+    "url": "https://example.com/live/artmovies.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "روتانا سينما",
+    "url": "https://example.com/live/rotanacinema.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "سبيس تون",
+    "url": "https://example.com/live/spacetoon.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "الشارقة الفضائية",
+    "url": "https://example.com/live/sharjah.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "الكويت الفضائية",
+    "url": "https://example.com/live/kuwait.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "المملكة الأردنية",
+    "url": "https://example.com/live/almamlaka.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "مصر الأولى",
+    "url": "https://example.com/live/egypt1.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "بي بي سي عربي",
+    "url": "https://example.com/live/bbcarabic.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "فرانس 24 عربي",
+    "url": "https://example.com/live/france24.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "روسيا اليوم",
+    "url": "https://example.com/live/rtarabic.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "قناة الوثائقية",
+    "url": "https://example.com/live/documentary.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "الكأس الرياضية 1",
+    "url": "https://example.com/live/alkass1.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "أبوظبي الرياضية 1",
+    "url": "https://example.com/live/adsports1.m3u8"
+  }
+]
