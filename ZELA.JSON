@@ -1,28 +1,28 @@
 [
   {
     "id": "1",
-    "name": "الجزيرة الإخبارية",
-    "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_2HD/DASH/MBC_2HD-avc1_6499968=5-3716577885200000.mp4"
+    "name": "سوريا الأولى",
+    "url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8"
   },
   {
     "id": "2",
-    "name": "العربية الحدث",
-    "url": "https://example.com/live/hadath.m3u8"
+    "name": "سوريا الثانية",
+    "url": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8"
   },
   {
     "id": "3",
-    "name": "بي إن سبورت 1",
-    "url": "h38.mazikkka.shop/live/918454578001/index.m3u8?t=75AwAMs5Vb5lfQomT1pgEw&e=1791700393"
+    "name": "MBC 1",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/manifest/video/1080p2400kbps/video.m3u8"
   },
   {
     "id": "4",
-    "name": "بي إن سبورت 2",
-    "url": "https://example.com/live/bein2.m3u8"
+    "name": "4U TV",
+    "url": "https://hls.4utv.live/hls/stream.m3u8"
   },
   {
     "id": "5",
-    "name": "إم بي سي 1",
-    "url": "https://example.com/live/mbc1.m3u8"
+    "name": "247 Box TV",
+    "url": "https://hls.247box.live/hls/stream.m3u8"
   },
   {
     "id": "6",
