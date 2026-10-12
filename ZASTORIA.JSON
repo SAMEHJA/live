@@ -10,11 +10,40 @@
       {
         "title": "Animals - مغامرة",
         "url": "https://hanerix.com/stream/YpUczRlRawjLmqqtAoUA2w/kjhhiuahiuhgihdf/1791848369/75730133/index-v1-a1.m3u8"
-      },
-      {
-        "title": "الفيلم الثالث - كوميديا",
-        "url": "iKv58ew5JL_X3emPJJvjNcQHvnn_YzGinv8&s=1791806737&e=10800&f=61028439&srv=1060&asn=12975&sp=5500&p=0"
       }
     ]
+  },
+  {
+    "name": "ZENON ARABI - أفلام عربية 24/7",
+    "logo": "https://j.top4top.io/p_3935ijw6e0.png",
+    "playlist": [
+      {
+        "title": "الفيلم العربي الأول - أكشن",
+        "url": "https://audinifer.com/stream/arabic1/index-v1-a1.m3u8"
+      },
+      {
+        "title": "الفيلم العربي الثاني - كوميديا",
+        "url": "https://hanerix.com/stream/arabic2/index-v1-a1.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "ZENON ANIMATION - أنمي وكرتون 24/7",
+    "logo": "https://j.top4top.io/p_3935ijw6e0.png",
+    "playlist": [
+      {
+        "title": "فيلم الانميشن الأول",
+        "url": "https://audinifer.com/stream/anim1/index-v1-a1.m3u8"
+      },
+      {
+        "title": "فيلم الانميشن الثاني",
+        "url": "https://hanerix.com/stream/anim2/index-v1-a1.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "قناة بث مباشر حية",
+    "logo": "https://j.top4top.io/p_3935ijw6e0.png",
+    "url": "http://octopustv.xyz/live/12345678/87654321/834395.ts"
   }
 ]
