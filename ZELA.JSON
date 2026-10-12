@@ -1,17 +1,7 @@
 [
   {
-    "id": "1",
     "name": "TEST 1",
-    "url": "octopustv.xyz/live/12345678/87654321/834395.ts"
-  },
-  {
-    "id": "2",
-    "name": "TEST 2",
-    "url": "octopustv.xyz/player_api.php?username=12345678&password=87654321&action=get_live_streams"
-  },
-  {
-    "id": "3",
-    "name": "TEST 3",
-    "url": "94.130.219.160:81/live/12345678/87654321/834395.ts?token=czZnMFBMSFNlUTc0RHJx"
+    "url": "http://octopustv.xyz/live/12345678/87654321/834395.ts",
+    "logo": "https://example.com/logo.png"
   }
 ]
