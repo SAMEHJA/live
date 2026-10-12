@@ -2,21 +2,21 @@
   {
     "id": "1001",
     "name": "TES1 1",
-    "stream_url": "https://www.youtube.com/show/VLPLXX_W5qgZhalJ1UvlDjKbdu7Z1BS6oEBA?sbp=KgstSXVSN3lEY19SSUAB",
+    "stream_url": "94.130.219.160:81/live/12345678/87654321/834395.ts",
     "logo": "https://j.top4top.io/p_3935ijw6e0.png",
     "category": "ZENON TV"
   },
   {
     "id": "1002",
     "name": " TEST 2",
-    "stream_url": "https://youtube.com/playlist?list=PLXX_W5qgZhakzJWqm4-ZKcWbznWjORgBF",
+    "stream_url": "94.130.219.160:81/live/12345678/87654321/834395.ts?token=czZnMFBMSFNlUTc0RHJx",
     "logo": "https://j.top4top.io/p_3935ijw6e0.png",
     "category": "ZENON TV"
   },
   {
     "id": "1003",
     "name": "TEST 3",
-    "stream_url": "https://www.youtube.com/watch?v=pJ0auP7dbcY&t=196s",
+    "stream_url": "octopustv.xyz/player_api.php?username=12345678&password=87654321&action=get_live_streams",
     "logo": "https://j.top4top.io/p_3935ijw6e0.png",
     "category": "ZENON TV"
   }
