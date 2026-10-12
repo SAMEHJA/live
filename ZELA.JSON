@@ -1,30 +1,17 @@
 [
   {
-    "id": "1001",
-    "name": "TES1 1",
-    "stream_url": "94.130.219.160:81/live/12345678/87654321/834395.ts",
-    "logo": "https://j.top4top.io/p_3935ijw6e0.png",
-    "category": "ZENON TV"
+    "id": "1",
+    "name": "TEST 1",
+    "url": "octopustv.xyz/live/12345678/87654321/834395.ts"
   },
   {
-    "id": "1002",
-    "name": " TEST 2",
-    "stream_url": "94.130.219.160:81/live/12345678/87654321/834395.ts?token=czZnMFBMSFNlUTc0RHJx",
-    "logo": "https://j.top4top.io/p_3935ijw6e0.png",
-    "category": "ZENON TV"
+    "id": "2",
+    "name": "TEST 2",
+    "url": "octopustv.xyz/player_api.php?username=12345678&password=87654321&action=get_live_streams"
   },
   {
-    "id": "1003",
+    "id": "3",
     "name": "TEST 3",
-    "stream_url": "octopustv.xyz/player_api.php?username=12345678&password=87654321&action=get_live_streams",
-    "logo": "https://j.top4top.io/p_3935ijw6e0.png",
-    "category": "ZENON TV"
-},
-  {
-    "id": "1004",
-    "name": " TEST 4",
-    "stream_url": "octopustv.xyz/live/12345678/87654321/834395.ts",
-    "logo": "https://j.top4top.io/p_3935ijw6e0.png",
-    "category": "ZENON TV"
+    "url": "94.130.219.160:81/live/12345678/87654321/834395.ts?token=czZnMFBMSFNlUTc0RHJx"
   }
 ]
