@@ -7,8 +7,8 @@
       "stream_url": "http://lkiju950.site:2052/32400256889746/29789212069919/676985"
     },
     {
-      "channel_name": "Test 2",
-      "stream_url": "http://your-server-ip:port/live/username/password/2.ts"
+      "channel_name": "AST 2",
+      "stream_url": "live.publicdataroute.cc/api/live/livedrama/v13.0.0/getLiveAllStreamsById"
     },
     {
       "channel_name": "Test 3",
