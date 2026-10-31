@@ -1,0 +1,26 @@
+{
+  "bouquet_name": "Vortex Plus",
+  "category": "Live TV",
+  "channels": [
+    {
+      "channel_name": "Test 1",
+      "stream_url": "http://your-server-ip:port/live/username/password/1.ts"
+    },
+    {
+      "channel_name": "Test 2",
+      "stream_url": "http://your-server-ip:port/live/username/password/2.ts"
+    },
+    {
+      "channel_name": "Test 3",
+      "stream_url": "http://your-server-ip:port/live/username/password/3.ts"
+    },
+    {
+      "channel_name": "Test 4",
+      "stream_url": "http://your-server-ip:port/live/username/password/4.ts"
+    },
+    {
+      "channel_name": "Test 5",
+      "stream_url": "http://your-server-ip:port/live/username/password/5.ts"
+    }
+  ]
+}
