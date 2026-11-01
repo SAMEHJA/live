@@ -1,0 +1,8 @@
+{
+  "version_code": 4,
+  "version_name": "1.4.0",
+  "download_url": "https://your-server.com/downloads/VortexTV_v1.4.0.apk",
+  "release_notes": "• إضافة سيرفرات بث جديدة عالي السرعة\n• تحسين الأداء على أجهزة الشاشات\n• إصلاح مشكلة انقطاع الصوت في بعض القنوات",
+  "is_mandatory": false,
+  "file_size_bytes": 28450000
+}
