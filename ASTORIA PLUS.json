@@ -3,36 +3,96 @@
   "category": "Live TV",
   "channels": [
     {
-      "channel_name": "BEIN SPORT 2",
-      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242282.ts"
+      "channel_name": "مسرح مصر",
+      "stream_url": "http://worldcup4k.tv/live/8994432485/7135156053/662044.m3u8"
     },
     {
-      "channel_name": "BEIN SPORT 3",
-      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242281.ts"
+      "channel_name": "مرايا 1999",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/1667863.ts"
     },
     {
-          "channel_name": "BEIN SPORT 4",
-      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242280.ts"
+          "channel_name": "مرايا 2000",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/1667862.ts"
     },
     {
-              "channel_name": "BEIN SPORT 5",
-      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242279.ts"
+              "channel_name": "مرايا 2011",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/1667861.ts"
     },
     {
-              "channel_name": "BEIN SPORT 6",
-      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242278.ts"
+              "channel_name": "باب الحارة الجزء الأول",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370182.ts"
     },
     {
-      "channel_name": "BEIN SPORT 1",
-      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242242.ts"
+      "channel_name": "باب الحارة الجزء الثاني",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370181.ts"
     },
     {
-      "channel_name": "ضيعة ضايعة 2",
+      "channel_name": "باب الحارة الجزء الثالث",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370180.ts"
+    },
+    {
+          "channel_name": "باب الحارة الجزء الرابع",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370179.ts"
+    },
+    {
+          "channel_name": "باب الحارة الجزء الخامس",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370178.ts"
+    },
+    {
+          "channel_name": "باب الحارة الجزء السادس",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370177.ts"
+    },
+    {
+              "channel_name": "باب الحارة الجزء السابع",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370176.ts"
+    },
+    {
+              "channel_name": "زمن البرغوث الجزء الأول",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370192.ts"
+    },
+    {
+              "channel_name": "زمن الرغوث الجزء الثاني",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370191.ts"
+    },
+    {
+                  "channel_name": "ضيعة ضايعة الجزء الأول",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370247.ts"
+    },
+    {
+                  "channel_name": "ضيعة ضايعة الجزء الثاني",
       "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370246.ts"
     },
     {
-      "channel_name": "ضيعة ضايعة 1",
-      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370247.ts"
+                  "channel_name": "يوميات مدير عام الجزء الأول",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370245.ts"
+    },
+    {
+                  "channel_name": "يوميات مدير عام الجزء الثاني",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370244.ts"
+    },
+    {
+                      "channel_name": "عودة غوار",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370198.ts"
+    },
+    {
+                      "channel_name": "أيام شامية",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370193.ts"
+    },
+    {
+                      "channel_name": "الخوالي",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370194.ts"
+    },
+    {
+                      "channel_name": "ناس من ورق",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370207.ts"
+    },
+    {
+                      "channel_name": "كارتون مينا",
+      "stream_url": "http://stream.ghosttv.co/live/gaofxxvu42/wkadniywws/4757.ts"
+    },
+    {
+      "channel_name": "سبونج بوب",
+      "stream_url": "https://mag.tiger-ott.net/live/KEBD2U/7F8W2T/661052.ts"
     }
   ]
 }
