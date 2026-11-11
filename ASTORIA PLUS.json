@@ -3,36 +3,96 @@
   "category": "Live TV",
   "channels": [
     {
-      "channel_name": "X MOVIR",
-      "stream_url": "http://n7s.top/live/ghadax88/0569777788/756172.ts"
-    },
-    {
       "channel_name": "مسرح مصر",
-      "stream_url": "http://norzro.cfd/live/8667593288/2505245402/662044.m3u8"
+      "stream_url": "http://worldcup4k.tv/live/8994432485/7135156053/662044.m3u8"
     },
     {
-          "channel_name": "مرايا",
-      "stream_url": "http://my98858.site:2082/live/893963693051/bHksg68fWnri8/869010.ts"
+      "channel_name": "مرايا 1999",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/1667863.ts"
     },
     {
-              "channel_name": "باب الحارة",
-      "stream_url": "http://my98858.site:2082/live/893963693051/bHksg68fWnri8/364727.ts"
+          "channel_name": "مرايا 2000",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/1667862.ts"
     },
     {
-              "channel_name": "باب الحارة 1",
+              "channel_name": "مرايا 2011",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/1667861.ts"
+    },
+    {
+              "channel_name": "باب الحارة الجزء الأول",
       "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370182.ts"
     },
     {
-      "channel_name": "الكبير قوي",
-      "stream_url": "http://norzro.cfd/live/8667593288/2505245402/662051.m3u8"
+      "channel_name": "باب الحارة الجزء الثاني",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370181.ts"
     },
     {
-      "channel_name": "ضيعة ضايعة 2",
+      "channel_name": "باب الحارة الجزء الثالث",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370180.ts"
+    },
+    {
+          "channel_name": "باب الحارة الجزء الرابع",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370179.ts"
+    },
+    {
+          "channel_name": "باب الحارة الجزء الخامس",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370178.ts"
+    },
+    {
+          "channel_name": "باب الحارة الجزء السادس",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370177.ts"
+    },
+    {
+              "channel_name": "باب الحارة الجزء السابع",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370176.ts"
+    },
+    {
+              "channel_name": "زمن البرغوث الجزء الأول",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370192.ts"
+    },
+    {
+              "channel_name": "زمن الرغوث الجزء الثاني",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370191.ts"
+    },
+    {
+                  "channel_name": "ضيعة ضايعة الجزء الأول",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370247.ts"
+    },
+    {
+                  "channel_name": "ضيعة ضايعة الجزء الثاني",
       "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370246.ts"
     },
     {
-      "channel_name": "ضيعة ضايعة 1",
-      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370247.ts"
+                  "channel_name": "يوميات مدير عام الجزء الأول",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370245.ts"
+    },
+    {
+                  "channel_name": "يوميات مدير عام الجزء الثاني",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370244.ts"
+    },
+    {
+                      "channel_name": "عودة غوار",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370198.ts"
+    },
+    {
+                      "channel_name": "أيام شامية",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370193.ts"
+    },
+    {
+                      "channel_name": "الخوالي",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370194.ts"
+    },
+    {
+                      "channel_name": "ناس من ورق",
+      "stream_url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/370207.ts"
+    },
+    {
+                      "channel_name": "كارتون مينا",
+      "stream_url": "http://stream.ghosttv.co/live/gaofxxvu42/wkadniywws/4757.ts"
+    },
+    {
+      "channel_name": "سبونج بوب",
+      "stream_url": "https://mag.tiger-ott.net/live/KEBD2U/7F8W2T/661052.ts"
     }
   ]
 }
