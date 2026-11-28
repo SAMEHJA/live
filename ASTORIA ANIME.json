@@ -1,5 +1,680 @@
 [
-    {
+  {
+    "episode_name": "Record of Ragnarok SEASON 1 - الحلقة 1",
+    "series_name": "Record of Ragnarok SEASON 1",
+    "episode_number": 1,
+    "url": "https://archive.org/download/h_20261105/%D9%A0%D9%A1_H.mp4",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/4EHmWyKuOjoFTzQ3q5iTwXWlNMM.jpg",
+    "group": "Record of Ragnarok SEASON 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 1 - الحلقة 2",
+    "series_name": "Record of Ragnarok SEASON 1",
+    "episode_number": 2,
+    "url": "https://archive.org/download/h_20261105/%D9%A0%D9%A2_H.mp4",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/4EHmWyKuOjoFTzQ3q5iTwXWlNMM.jpg",
+    "group": "Record of Ragnarok SEASON 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 1 - الحلقة 3",
+    "series_name": "Record of Ragnarok SEASON 1",
+    "episode_number": 3,
+    "url": "https://archive.org/download/h_20261105/%D9%A0%D9%A3_H.mp4",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/4EHmWyKuOjoFTzQ3q5iTwXWlNMM.jpg",
+    "group": "Record of Ragnarok SEASON 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 1 - الحلقة 4",
+    "series_name": "Record of Ragnarok SEASON 1",
+    "episode_number": 4,
+    "url": "https://archive.org/download/h_20261105/%D9%A0%D9%A5_H.mp4",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/4EHmWyKuOjoFTzQ3q5iTwXWlNMM.jpg",
+    "group": "Record of Ragnarok SEASON 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 1 - الحلقة 5",
+    "series_name": "Record of Ragnarok SEASON 1",
+    "episode_number": 5,
+    "url": "https://archive.org/download/h_20261105/%D9%A0%D9%A6_H.mp4",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/4EHmWyKuOjoFTzQ3q5iTwXWlNMM.jpg",
+    "group": "Record of Ragnarok SEASON 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 1 - الحلقة 6",
+    "series_name": "Record of Ragnarok SEASON 1",
+    "episode_number": 6,
+    "url": "https://archive.org/download/h_20261105/%D9%A0%D9%A8_H.mp4",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/4EHmWyKuOjoFTzQ3q5iTwXWlNMM.jpg",
+    "group": "Record of Ragnarok SEASON 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 1 - الحلقة 7",
+    "series_name": "Record of Ragnarok SEASON 1",
+    "episode_number": 7,
+    "url": "https://archive.org/download/h_20261105/%D9%A0%D9%A9_H.mp4",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/4EHmWyKuOjoFTzQ3q5iTwXWlNMM.jpg",
+    "group": "Record of Ragnarok SEASON 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 1 - الحلقة 8",
+    "series_name": "Record of Ragnarok SEASON 1",
+    "episode_number": 8,
+    "url": "https://archive.org/download/h_20261105/%D9%A1%D9%A0_H.mp4",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/4EHmWyKuOjoFTzQ3q5iTwXWlNMM.jpg",
+    "group": "Record of Ragnarok SEASON 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 1 - الحلقة 9",
+    "series_name": "Record of Ragnarok SEASON 1",
+    "episode_number": 9,
+    "url": "https://archive.org/download/h_20261105/%D9%A1%D9%A1_H.mp4",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/4EHmWyKuOjoFTzQ3q5iTwXWlNMM.jpg",
+    "group": "Record of Ragnarok SEASON 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 1 - الحلقة 10",
+    "series_name": "Record of Ragnarok SEASON 1",
+    "episode_number": 10,
+    "url": "https://archive.org/download/h_20261105/%D9%A1%D9%A2_H.mp4",
+    "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/4EHmWyKuOjoFTzQ3q5iTwXWlNMM.jpg",
+    "group": "Record of Ragnarok SEASON 1",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 2 - الحلقة 1",
+    "series_name": "Record of Ragnarok SEASON 2",
+    "episode_number": 1,
+    "url": "https://archive.org/download/ff_20261105_202611/%D9%A0%D9%A1_Ff.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1213/124646.jpg",
+    "group": "Record of Ragnarok SEASON 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 2 - الحلقة 2",
+    "series_name": "Record of Ragnarok SEASON 2",
+    "episode_number": 2,
+    "url": "https://archive.org/download/ff_20261105/%D9%A0%D9%A2_Ff.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1213/124646.jpg",
+    "group": "Record of Ragnarok SEASON 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 2 - الحلقة 3",
+    "series_name": "Record of Ragnarok SEASON 2",
+    "episode_number": 3,
+    "url": "https://archive.org/download/ff_20261105_202611/%D9%A0%D9%A3_Ff.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1213/124646.jpg",
+    "group": "Record of Ragnarok SEASON 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 2 - الحلقة 4",
+    "series_name": "Record of Ragnarok SEASON 2",
+    "episode_number": 4,
+    "url": "https://archive.org/download/ff_20261105_202611/%D9%A0%D9%A4_Ff.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1213/124646.jpg",
+    "group": "Record of Ragnarok SEASON 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 2 - الحلقة 5",
+    "series_name": "Record of Ragnarok SEASON 2",
+    "episode_number": 5,
+    "url": "https://archive.org/download/ff_20261105_202611/%D9%A0%D9%A5_Ff.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1213/124646.jpg",
+    "group": "Record of Ragnarok SEASON 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 2 - الحلقة 6",
+    "series_name": "Record of Ragnarok SEASON 2",
+    "episode_number": 6,
+    "url": "https://archive.org/download/ff_20261105_202611/%D9%A0%D9%A6_Ff.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1213/124646.jpg",
+    "group": "Record of Ragnarok SEASON 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 2 - الحلقة 7",
+    "series_name": "Record of Ragnarok SEASON 2",
+    "episode_number": 7,
+    "url": "https://archive.org/download/ff_20261105/%D9%A0%D9%A7_Ff.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1213/124646.jpg",
+    "group": "Record of Ragnarok SEASON 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 2 - الحلقة 8",
+    "series_name": "Record of Ragnarok SEASON 2",
+    "episode_number": 8,
+    "url": "https://archive.org/download/ff_20261105_202611/%D9%A0%D9%A8_Ff.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1213/124646.jpg",
+    "group": "Record of Ragnarok SEASON 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 2 - الحلقة 9",
+    "series_name": "Record of Ragnarok SEASON 2",
+    "episode_number": 9,
+    "url": "https://archive.org/download/ff_20261105_202611/%D9%A0%D9%A9_Ff.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1213/124646.jpg",
+    "group": "Record of Ragnarok SEASON 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 2 - الحلقة 10",
+    "series_name": "Record of Ragnarok SEASON 2",
+    "episode_number": 10,
+    "url": "https://archive.org/download/ff_20261105/%D9%A1%D9%A0_Ff.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1213/124646.jpg",
+    "group": "Record of Ragnarok SEASON 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 2 - الحلقة 11",
+    "series_name": "Record of Ragnarok SEASON 2",
+    "episode_number": 11,
+    "url": "https://archive.org/download/ff_20261105_202611/%D9%A1%D9%A1_Ff.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1213/124646.jpg",
+    "group": "Record of Ragnarok SEASON 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 2 - الحلقة 12",
+    "series_name": "Record of Ragnarok SEASON 2",
+    "episode_number": 12,
+    "url": "https://archive.org/download/ff_20261105_202611/%D9%A1%D9%A2_Ff.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1213/124646.jpg",
+    "group": "Record of Ragnarok SEASON 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 2 - الحلقة 13",
+    "series_name": "Record of Ragnarok SEASON 2",
+    "episode_number": 13,
+    "url": "https://archive.org/download/ff_20261105_202611/%D9%A1%D9%A3_Ff.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1213/124646.jpg",
+    "group": "Record of Ragnarok SEASON 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 2 - الحلقة 14",
+    "series_name": "Record of Ragnarok SEASON 2",
+    "episode_number": 14,
+    "url": "https://archive.org/download/ff_20261105_202611/%D9%A1%D9%A4_Ff.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1213/124646.jpg",
+    "group": "Record of Ragnarok SEASON 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 2 - الحلقة 15",
+    "series_name": "Record of Ragnarok SEASON 2",
+    "episode_number": 15,
+    "url": "https://archive.org/download/ff_20261105_202611/%D9%A1%D9%A5_Ff.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1213/124646.jpg",
+    "group": "Record of Ragnarok SEASON 2",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 3 - الحلقة 1",
+    "series_name": "Record of Ragnarok SEASON 3",
+    "episode_number": 1,
+    "url": "https://archive.org/download/d_20261106_202611/%D9%A0%D9%A1_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1153/153510.jpg",
+    "group": "Record of Ragnarok SEASON 3",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 3 - الحلقة 2",
+    "series_name": "Record of Ragnarok SEASON 3",
+    "episode_number": 2,
+    "url": "https://archive.org/download/d_20261106_202611/%D9%A0%D9%A2_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1153/153510.jpg",
+    "group": "Record of Ragnarok SEASON 3",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 3 - الحلقة 3",
+    "series_name": "Record of Ragnarok SEASON 3",
+    "episode_number": 3,
+    "url": "https://archive.org/download/d_20261106_202611/%D9%A0%D9%A3_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1153/153510.jpg",
+    "group": "Record of Ragnarok SEASON 3",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 3 - الحلقة 4",
+    "series_name": "Record of Ragnarok SEASON 3",
+    "episode_number": 4,
+    "url": "https://archive.org/download/d_20261106_202611/%D9%A0%D9%A4_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1153/153510.jpg",
+    "group": "Record of Ragnarok SEASON 3",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 3 - الحلقة 5",
+    "series_name": "Record of Ragnarok SEASON 3",
+    "episode_number": 5,
+    "url": "https://archive.org/download/d_20261106_202611/%D9%A0%D9%A5_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1153/153510.jpg",
+    "group": "Record of Ragnarok SEASON 3",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 3 - الحلقة 6",
+    "series_name": "Record of Ragnarok SEASON 3",
+    "episode_number": 6,
+    "url": "https://archive.org/download/d_20261106_202611/%D9%A0%D9%A6_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1153/153510.jpg",
+    "group": "Record of Ragnarok SEASON 3",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 3 - الحلقة 7",
+    "series_name": "Record of Ragnarok SEASON 3",
+    "episode_number": 7,
+    "url": "https://archive.org/download/d_20261106_202611/%D9%A0%D9%A8_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1153/153510.jpg",
+    "group": "Record of Ragnarok SEASON 3",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 3 - الحلقة 8",
+    "series_name": "Record of Ragnarok SEASON 3",
+    "episode_number": 8,
+    "url": "https://archive.org/download/d_20261106_202611/%D9%A0%D9%A9_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1153/153510.jpg",
+    "group": "Record of Ragnarok SEASON 3",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 3 - الحلقة 9",
+    "series_name": "Record of Ragnarok SEASON 3",
+    "episode_number": 9,
+    "url": "https://archive.org/download/d_20261106_202611/%D9%A1%D9%A0_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1153/153510.jpg",
+    "group": "Record of Ragnarok SEASON 3",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 3 - الحلقة 10",
+    "series_name": "Record of Ragnarok SEASON 3",
+    "episode_number": 10,
+    "url": "https://archive.org/download/d_20261106_202611/%D9%A1%D9%A1_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1153/153510.jpg",
+    "group": "Record of Ragnarok SEASON 3",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 3 - الحلقة 11",
+    "series_name": "Record of Ragnarok SEASON 3",
+    "episode_number": 11,
+    "url": "https://archive.org/download/d_20261106_202611/%D9%A1%D9%A2_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1153/153510.jpg",
+    "group": "Record of Ragnarok SEASON 3",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 3 - الحلقة 12",
+    "series_name": "Record of Ragnarok SEASON 3",
+    "episode_number": 12,
+    "url": "https://archive.org/download/d_20261106_202611/%D9%A1%D9%A3_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1153/153510.jpg",
+    "group": "Record of Ragnarok SEASON 3",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 3 - الحلقة 13",
+    "series_name": "Record of Ragnarok SEASON 3",
+    "episode_number": 13,
+    "url": "https://archive.org/download/d_20261106_202611/%D9%A1%D9%A4_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1153/153510.jpg",
+    "group": "Record of Ragnarok SEASON 3",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Record of Ragnarok SEASON 3 - الحلقة 14",
+    "series_name": "Record of Ragnarok SEASON 3",
+    "episode_number": 14,
+    "url": "https://archive.org/download/d_20261106_202611/%D9%A1%D9%A5_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1153/153510.jpg",
+    "group": "Record of Ragnarok SEASON 3",
+    "genre": "اكشن"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 1 - الحلقة 1",
+    "series_name": "Shiguang Dailiren season 1",
+    "episode_number": 1,
+    "url": "https://archive.org/download/d_20261104/%D9%A0%D9%A1_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
+    "group": "Shiguang Dailiren season 1",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 1 - الحلقة 2",
+    "series_name": "Shiguang Dailiren season 1",
+    "episode_number": 2,
+    "url": "https://archive.org/download/d_20261104/%D9%A0%D9%A2_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
+    "group": "Shiguang Dailiren season 1",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 1 - الحلقة 3",
+    "series_name": "Shiguang Dailiren season 1",
+    "episode_number": 3,
+    "url": "https://archive.org/download/d_20261104/%D9%A0%D9%A3_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
+    "group": "Shiguang Dailiren season 1",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 1 - الحلقة 4",
+    "series_name": "Shiguang Dailiren season 1",
+    "episode_number": 4,
+    "url": "https://archive.org/download/d_20261104/%D9%A0%D9%A4_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
+    "group": "Shiguang Dailiren season 1",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 1 - الحلقة 5",
+    "series_name": "Shiguang Dailiren season 1",
+    "episode_number": 5,
+    "url": "https://archive.org/download/d_20261104/%D9%A0%D9%A5_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
+    "group": "Shiguang Dailiren season 1",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 1 - الحلقة 6",
+    "series_name": "Shiguang Dailiren season 1",
+    "episode_number": 6,
+    "url": "https://archive.org/download/d_20261104/%D9%A0%D9%A6_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
+    "group": "Shiguang Dailiren season 1",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 1 - الحلقة 7",
+    "series_name": "Shiguang Dailiren season 1",
+    "episode_number": 7,
+    "url": "https://archive.org/download/d_20261104/%D9%A0%D9%A7_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
+    "group": "Shiguang Dailiren season 1",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 1 - الحلقة 8",
+    "series_name": "Shiguang Dailiren season 1",
+    "episode_number": 8,
+    "url": "https://archive.org/download/d_20261104/%D9%A0%D9%A8_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
+    "group": "Shiguang Dailiren season 1",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 1 - الحلقة 9",
+    "series_name": "Shiguang Dailiren season 1",
+    "episode_number": 9,
+    "url": "https://archive.org/download/d_20261104/%D9%A0%D9%A9_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
+    "group": "Shiguang Dailiren season 1",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 1 - الحلقة 10",
+    "series_name": "Shiguang Dailiren season 1",
+    "episode_number": 10,
+    "url": "https://archive.org/download/d_20261105/%D9%A1%D9%A0_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
+    "group": "Shiguang Dailiren season 1",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 1 - الحلقة 11",
+    "series_name": "Shiguang Dailiren season 1",
+    "episode_number": 11,
+    "url": "https://archive.org/download/d_20261105/%D9%A1%D9%A1_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
+    "group": "Shiguang Dailiren season 1",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 1 - الحلقة 12",
+    "series_name": "Shiguang Dailiren season 1",
+    "episode_number": 12,
+    "url": "https://archive.org/download/d_20261105/%D9%A1%D9%A2_D.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
+    "group": "Shiguang Dailiren season 1",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 2 - الحلقة 1",
+    "series_name": "Shiguang Dailiren season 2",
+    "episode_number": 1,
+    "url": "https://archive.org/download/dk_20261105/%D9%A0%D9%A1_Dk.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1897/137108.jpg",
+    "group": "Shiguang Dailiren season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 2 - الحلقة 2",
+    "series_name": "Shiguang Dailiren season 2",
+    "episode_number": 2,
+    "url": "https://archive.org/download/dk_20261105/%D9%A0%D9%A2_Dk.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1897/137108.jpg",
+    "group": "Shiguang Dailiren season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 2 - الحلقة 3",
+    "series_name": "Shiguang Dailiren season 2",
+    "episode_number": 3,
+    "url": "https://archive.org/download/dk_20261105/%D9%A0%D9%A3_Dk.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1897/137108.jpg",
+    "group": "Shiguang Dailiren season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 2 - الحلقة 4",
+    "series_name": "Shiguang Dailiren season 2",
+    "episode_number": 4,
+    "url": "https://archive.org/download/dk_20261105/%D9%A0%D9%A4_Dk.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1897/137108.jpg",
+    "group": "Shiguang Dailiren season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 2 - الحلقة 5",
+    "series_name": "Shiguang Dailiren season 2",
+    "episode_number": 5,
+    "url": "https://archive.org/download/dk_20261105/%D9%A0%D9%A5_Dk.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1897/137108.jpg",
+    "group": "Shiguang Dailiren season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 2 - الحلقة 6",
+    "series_name": "Shiguang Dailiren season 2",
+    "episode_number": 6,
+    "url": "https://archive.org/download/dk_20261105/%D9%A0%D9%A6_Dk.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1897/137108.jpg",
+    "group": "Shiguang Dailiren season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 2 - الحلقة 7",
+    "series_name": "Shiguang Dailiren season 2",
+    "episode_number": 7,
+    "url": "https://archive.org/download/dk_20261105/%D9%A0%D9%A7_Dk.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1897/137108.jpg",
+    "group": "Shiguang Dailiren season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 2 - الحلقة 8",
+    "series_name": "Shiguang Dailiren season 2",
+    "episode_number": 8,
+    "url": "https://archive.org/download/dk_20261105/%D9%A0%D9%A8_Dk.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1897/137108.jpg",
+    "group": "Shiguang Dailiren season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 2 - الحلقة 9",
+    "series_name": "Shiguang Dailiren season 2",
+    "episode_number": 9,
+    "url": "https://archive.org/download/dk_20261105/%D9%A0%D9%A9_Dk.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1897/137108.jpg",
+    "group": "Shiguang Dailiren season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 2 - الحلقة 10",
+    "series_name": "Shiguang Dailiren season 2",
+    "episode_number": 10,
+    "url": "https://archive.org/download/dk_20261105/%D9%A1%D9%A0_Dk.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1897/137108.jpg",
+    "group": "Shiguang Dailiren season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 2 - الحلقة 11",
+    "series_name": "Shiguang Dailiren season 2",
+    "episode_number": 11,
+    "url": "https://archive.org/download/dk_20261105/%D9%A1%D9%A1_Dk.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1897/137108.jpg",
+    "group": "Shiguang Dailiren season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 2 - الحلقة 12",
+    "series_name": "Shiguang Dailiren season 2",
+    "episode_number": 12,
+    "url": "https://archive.org/download/dk_20261105/%D9%A1%D9%A2_Dk.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1897/137108.jpg",
+    "group": "Shiguang Dailiren season 2",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 3 - الحلقة 1",
+    "series_name": "Shiguang Dailiren season 3",
+    "episode_number": 1,
+    "url": "https://archive.org/download/sl_20261105/%D9%A0%D9%A1_%20Sl.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1559/159496.jpg",
+    "group": "Shiguang Dailiren season 3",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 3 - الحلقة 2",
+    "series_name": "Shiguang Dailiren season 3",
+    "episode_number": 2,
+    "url": "https://archive.org/download/sl_20261105/%D9%A0%D9%A2_%20Sl.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1559/159496.jpg",
+    "group": "Shiguang Dailiren season 3",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 3 - الحلقة 3",
+    "series_name": "Shiguang Dailiren season 3",
+    "episode_number": 3,
+    "url": "https://archive.org/download/sl_20261105/%D9%A0%D9%A3_%20Sl.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1559/159496.jpg",
+    "group": "Shiguang Dailiren season 3",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 3 - الحلقة 4",
+    "series_name": "Shiguang Dailiren season 3",
+    "episode_number": 4,
+    "url": "https://archive.org/download/sl_20261105/%D9%A0%D9%A4_%20Sl.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1559/159496.jpg",
+    "group": "Shiguang Dailiren season 3",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 3 - الحلقة 5",
+    "series_name": "Shiguang Dailiren season 3",
+    "episode_number": 5,
+    "url": "https://archive.org/download/sl_20261105/%D9%A0%D9%A5_%20Sl.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1559/159496.jpg",
+    "group": "Shiguang Dailiren season 3",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 3 - الحلقة 6",
+    "series_name": "Shiguang Dailiren season 3",
+    "episode_number": 6,
+    "url": "https://archive.org/download/sl_20261105/%D9%A0%D9%A6_%20Sl.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1559/159496.jpg",
+    "group": "Shiguang Dailiren season 3",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 3 - الحلقة 7",
+    "series_name": "Shiguang Dailiren season 3",
+    "episode_number": 7,
+    "url": "https://archive.org/download/sl_20261105/%D9%A0%D9%A7_%20Sl.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1559/159496.jpg",
+    "group": "Shiguang Dailiren season 3",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 3 - الحلقة 8",
+    "series_name": "Shiguang Dailiren season 3",
+    "episode_number": 8,
+    "url": "https://archive.org/download/sl_20261105/%D9%A0%D9%A8_%20Sl.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1559/159496.jpg",
+    "group": "Shiguang Dailiren season 3",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 3 - الحلقة 9",
+    "series_name": "Shiguang Dailiren season 3",
+    "episode_number": 9,
+    "url": "https://archive.org/download/sl_20261105/%D9%A0%D9%A9_%20Sl.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1559/159496.jpg",
+    "group": "Shiguang Dailiren season 3",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 3 - الحلقة 10",
+    "series_name": "Shiguang Dailiren season 3",
+    "episode_number": 10,
+    "url": "https://archive.org/download/sl_20261105/%D9%A1%D9%A0_%20Sl.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1559/159496.jpg",
+    "group": "Shiguang Dailiren season 3",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 3 - الحلقة 11",
+    "series_name": "Shiguang Dailiren season 3",
+    "episode_number": 11,
+    "url": "https://archive.org/download/sl_20261105/%D9%A1%D9%A1_%20Sl.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1559/159496.jpg",
+    "group": "Shiguang Dailiren season 3",
+    "genre": "غموض"
+  },
+  {
+    "episode_name": "Shiguang Dailiren season 3 - الحلقة 12",
+    "series_name": "Shiguang Dailiren season 3",
+    "episode_number": 12,
+    "url": "https://archive.org/download/sl_20261105/%D9%A1%D9%A2_%20Sl.mp4",
+    "logo": "https://cdn.myanimelist.net/images/anime/1559/159496.jpg",
+    "group": "Shiguang Dailiren season 3",
+    "genre": "غموض"
+  },
+  {
         "episode_name": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin - الحلقة 1",
         "series_name": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
         "episode_number": 1,
