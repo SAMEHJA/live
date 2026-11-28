@@ -1,56 +1,74 @@
 [
   {
-    "id": "elite_sport_1",
-    "name": "ELITE SPORT 1",
-    "url": "http://4kpro2.com:80/live/PSAE3366/PCGF2025/13608.m3u8",
+    "id": "alfajr_1",
+    "name": "الفجر 1",
+    "url": "http://thenogen.com/live/fadl4262/01149433416/1114.m3u8",
     "logo": "https://c.top4top.io/p_3965zapnk1.jpg"
   },
   {
-    "id": "elite_sport_2",
-    "name": "ELITE SPORT 2",
-    "url": "http://4kpro2.com:80/live/PSAE3366/PCGF2025/13607.m3u8",
+    "id": "alfajr_2",
+    "name": "الفجر 2",
+    "url": "http://thenogen.com/live/fadl4262/01149433416/1113.m3u8",
     "logo": "https://c.top4top.io/p_3965zapnk1.jpg"
   },
   {
-    "id": "vortex_sport_3",
-    "name": "VORTEX SPORT 3",
-    "url": "http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_3_hd/tracks-v1a1/mono.ts.m3u8",
+    "id": "arena_sport_1",
+    "name": "ARENA SPORT 1",
+    "url": "http://goldenpro.xyz:80/live/737918165295408/FU71M31M8C71/985146.m3u8",
     "logo": "https://c.top4top.io/p_3965zapnk1.jpg"
   },
   {
-    "id": "vortex_sport_4",
-    "name": "VORTEX SPORT 4",
-    "url": "http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_4_hd/tracks-v1a1/2026/11/24/20/47/44-10000.ts",
+    "id": "arena_sport_2",
+    "name": "ARENA SPORT 2",
+    "url": "http://goldenpro.xyz:80/live/737918165295408/FU71M31M8C71/272366.m3u8",
     "logo": "https://c.top4top.io/p_3965zapnk1.jpg"
   },
   {
-    "id": "vortex_sport_5",
-    "name": "VORTEX SPORT 5",
-    "url": "http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_5_hd/tracks-v1a1/mono.ts.m3u8",
+    "id": "arena_sport_3",
+    "name": "ARENA SPORT 3",
+    "url": "http://goldenpro.xyz:80/live/737918165295408/FU71M31M8C71/1059781.m3u8",
     "logo": "https://c.top4top.io/p_3965zapnk1.jpg"
   },
   {
-    "id": "vortex_sport_6",
-    "name": "VORTEX SPORT 6",
-    "url": "http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_6_hd/tracks-v1a1/2026/11/24/20/48/55-06680.ts",
+    "id": "arena_sport_4",
+    "name": "ARENA SPORT 4",
+    "url": "http://goldenpro.xyz:80/live/737918165295408/FU71M31M8C71/1059782.m3u8",
     "logo": "https://c.top4top.io/p_3965zapnk1.jpg"
   },
   {
-    "id": "vortex_sport_7",
-    "name": "VORTEX SPORT 7",
-    "url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242236.ts",
+    "id": "arena_sport_5",
+    "name": "ARENA SPORT 5",
+    "url": "http://goldenpro.xyz:80/live/737918165295408/FU71M31M8C71/1059876.m3u8",
     "logo": "https://c.top4top.io/p_3965zapnk1.jpg"
   },
   {
-    "id": "vortex_sport_8",
-    "name": "VORTEX SPORT 8",
-    "url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242235.ts",
+    "id": "arena_sport_6",
+    "name": "ARENA SPORT 6",
+    "url": "http://goldenpro.xyz:80/live/737918165295408/FU71M31M8C71/1059877.m3u8",
     "logo": "https://c.top4top.io/p_3965zapnk1.jpg"
   },
   {
-    "id": "vortex_sport_9",
-    "name": "VORTEX SPORT 9",
-    "url": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242234.ts",
+    "id": "arena_sport_7",
+    "name": "ARENA SPORT 7",
+    "url": "http://goldenpro.xyz:80/live/737918165295408/FU71M31M8C71/1059851.m3u8",
+    "logo": "https://c.top4top.io/p_3965zapnk1.jpg"
+  },
+  {
+    "id": "arena_sport_8",
+    "name": "ARENA SPORT 8",
+    "url": "http://goldenpro.xyz:80/live/737918165295408/FU71M31M8C71/1059852.m3u8",
+    "logo": "https://c.top4top.io/p_3965zapnk1.jpg"
+  },
+  {
+    "id": "arena_sport_9",
+    "name": "ARENA SPORT 9",
+    "url": "http://goldenpro.xyz:80/live/737918165295408/FU71M31M8C71/1059853.m3u8",
+    "logo": "https://c.top4top.io/p_3965zapnk1.jpg"
+  },
+  {
+    "id": "arena_sport_10",
+    "name": "ARENA SPORT 10",
+    "url": "http://goldenpro.xyz:80/live/737918165295408/FU71M31M8C71/1059854.m3u8",
     "logo": "https://c.top4top.io/p_3965zapnk1.jpg"
   }
 ]
